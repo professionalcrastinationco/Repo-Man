@@ -80,7 +80,9 @@ Topics: {', '.join(repo.get_topics()) if repo.get_topics() else 'None'}
 README snippet:
 {get_readme_snippet(repo)}
 
-Analyze this repository and provide a structured response in JSON format:
+You must respond with ONLY a valid JSON object, nothing else. No markdown, no code blocks, no explanations.
+
+Analyze this repository and respond with this exact JSON structure:
 
 {{
   "main_category": "Choose ONE: AI & Machine Learning, Automation & Scripting, Blockchain & Web3, Browser Extensions, Content Management, Data & Analytics, Design & UI/UX, DevOps & Infrastructure, Education & Learning, Gaming & Graphics, Mobile Development, Other, Security & Privacy, Self Hosted, Smart Home, Tools & Utilities, Web Development",
@@ -90,32 +92,49 @@ Analyze this repository and provide a structured response in JSON format:
   "tech_stack": ["language/framework 1", "language/framework 2"]
 }}
 
-Keep it practical and concise. Focus on what problem it solves."""
+CRITICAL: Your response must be ONLY the JSON object. Do not include ```json or ``` or any other text. Just the JSON."""
 
     try:
         response = gemini_model.generate_content(context)
-        # Clean up markdown code blocks if present
         text = response.text.strip()
-        if text.startswith('```json'):
-            text = text[7:]
-        if text.startswith('```'):
-            text = text[3:]
-        if text.endswith('```'):
-            text = text[:-3]
+        
+        # Aggressive markdown cleanup
+        text = text.replace('```json', '').replace('```', '')
         text = text.strip()
         
+        # Find JSON object if there's extra text
+        if '{' in text and '}' in text:
+            start = text.index('{')
+            end = text.rindex('}') + 1
+            text = text[start:end]
+        
+        print(f"  Raw response length: {len(text)} chars")
+        
         data = json.loads(text)
+        
+        # Validate required fields
+        required = ['main_category', 'subcategory', 'summary', 'use_cases', 'tech_stack']
+        if not all(key in data for key in required):
+            raise ValueError(f"Missing required fields. Got: {data.keys()}")
+        
+        print(f"  ✓ Categorized as: {data['main_category']} > {data['subcategory']}")
         return data
+        
+    except json.JSONDecodeError as e:
+        print(f"  ✗ JSON parsing failed: {e}")
+        print(f"  Response preview: {text[:200] if 'text' in locals() else 'No response'}")
     except Exception as e:
-        print(f"Error analyzing {repo.full_name}: {e}")
-        # Fallback structure
-        return {
-            "main_category": "Other",
-            "subcategory": "Uncategorized",
-            "summary": repo.description or "No description available.",
-            "use_cases": ["General purpose"],
-            "tech_stack": [repo.language] if repo.language else ["Various"]
-        }
+        print(f"  ✗ Error analyzing: {e}")
+    
+    # Fallback - but print warning
+    print(f"  ⚠ Using fallback categorization")
+    return {
+        "main_category": "Other",
+        "subcategory": "Uncategorized",
+        "summary": repo.description or "No description available.",
+        "use_cases": ["General purpose"],
+        "tech_stack": [repo.language] if repo.language else ["Various"]
+    }
 
 def generate_readme(repos_database):
     """Generate a complete organized README from the database"""
@@ -201,7 +220,7 @@ def main():
     print("Initializing GitHub and Gemini clients...")
     github_client = Github(GITHUB_TOKEN)
     genai.configure(api_key=GEMINI_API_KEY)
-    gemini_model = genai.GenerativeModel('gemini-1.5-flash-latest')
+    gemini_model = genai.GenerativeModel('models/gemini-flash-latest')
     
     # Load existing database
     repos_db = load_repos_database()
