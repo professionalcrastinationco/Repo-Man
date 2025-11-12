@@ -1,0 +1,44 @@
+name: Update Stars Library
+
+on:
+  schedule:
+    # Runs daily at 9 AM UTC (adjust as needed)
+    - cron: '0 9 * * *'
+  workflow_dispatch:  # Allows manual trigger from Actions tab
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Needed to commit changes
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for proper commits
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Process starred repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
+        run: python process_stars.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md last_run.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stars library [skip ci]" && git push)
