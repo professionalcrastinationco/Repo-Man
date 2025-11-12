@@ -3,7 +3,7 @@ name: Update Stars Library
 on:
   schedule:
     # Runs daily at 9 AM UTC (adjust as needed)
-    - cron: '0 9 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:  # Allows manual trigger from Actions tab
 
 jobs:
