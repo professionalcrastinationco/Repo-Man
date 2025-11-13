@@ -45,17 +45,16 @@ def save_repos_database(database):
     with open(REPOS_DB_FILE, 'w') as f:
         json.dump(database, f, indent=2)
 
-def get_new_stars(github_client, username, since=None):
-    """Fetch starred repos that are new since last run"""
+def get_new_stars(github_client, username, existing_repos):
+    """Fetch starred repos that aren't already in the database"""
     user = github_client.get_user(username)
     starred = user.get_starred()
     
     new_stars = []
     for repo in starred:
-        if since and repo.starred_at:
-            if repo.starred_at.replace(tzinfo=timezone.utc) <= since:
-                continue
-        new_stars.append(repo)
+        # Skip if already in database
+        if repo.full_name not in existing_repos:
+            new_stars.append(repo)
     
     return new_stars
 
@@ -150,26 +149,46 @@ def generate_readme(repos_database):
     # Sort categories and repos
     sorted_categories = sorted(organized.keys())
     
+    # Build detailed TOC
+    toc = "## 📑 Table of Contents\n\n"
+    for main_cat in sorted_categories:
+        # Category header
+        toc += f"* **{main_cat}**\n"
+        
+        # Get all repos in this category (across all subcategories)
+        cat_repos = []
+        for sub_cat in organized[main_cat].values():
+            cat_repos.extend(sub_cat)
+        
+        # Sort by stars and show top repos
+        cat_repos.sort(key=lambda x: x['stars'], reverse=True)
+        for repo in cat_repos[:10]:  # Show top 10 per category in TOC
+            # Generate short summary (first 1-3 words from summary or use first use case)
+            short = repo['use_cases'][0] if repo['use_cases'] else repo['summary']
+            # Take first few words
+            words = short.split()[:3]
+            short_desc = ' '.join(words)
+            repo_name = repo['name'].split('/')[-1]  # Just the repo name, not owner
+            toc += f"   * [{repo_name}](#{repo['name'].lower().replace('/', '').replace('_', '-').replace('.', '')}) ({short_desc})\n"
+        
+        if len(cat_repos) > 10:
+            toc += f"   * *...and {len(cat_repos) - 10} more*\n"
+        toc += "\n"
+    
     # Build README content
-    content = """# 🌟 GitHub Stars Library
+    content = f"""# 🌟 GitHub Stars Library
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** {total} | **Last Updated:** {date}
+**Total Repos:** {len(repos_database)} | **Last Updated:** {datetime.now().strftime('%Y-%m-%d')}
 
 ---
-
-## 📑 Table of Contents
 
 {toc}
 
 ---
 
-""".format(
-        total=len(repos_database),
-        date=datetime.now().strftime('%Y-%m-%d'),
-        toc='\n'.join([f"- [{cat}](#{cat.lower().replace(' ', '-').replace('&', '')})" for cat in sorted_categories])
-    )
+"""
     
     # Add each category
     for main_cat in sorted_categories:
@@ -232,7 +251,7 @@ def main():
     
     # Get new starred repos
     print(f"Fetching starred repos for {GITHUB_USERNAME}...")
-    new_stars = get_new_stars(github_client, GITHUB_USERNAME, since=last_run)
+    new_stars = get_new_stars(github_client, GITHUB_USERNAME, repos_db)
     
     if not new_stars:
         print("No new starred repos found.")
