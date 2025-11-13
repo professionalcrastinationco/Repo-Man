@@ -2,21 +2,65 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 28 | **Last Updated:** 2025-11-12
+**Total Repos:** 33 | **Last Updated:** 2025-11-13
 
 ---
 
 ## 📑 Table of Contents
 
-- [AI & Machine Learning](#ai--machine-learning)
-- [Automation & Scripting](#automation--scripting)
-- [Data & Analytics](#data--analytics)
-- [Design & UI/UX](#design--ui/ux)
-- [Gaming & Graphics](#gaming--graphics)
-- [Security & Privacy](#security--privacy)
-- [Self Hosted](#self-hosted)
-- [Tools & Utilities](#tools--utilities)
-- [Web Development](#web-development)
+* **AI & Machine Learning**
+   * [mem0](#mem0aimem0) (Building personalized chatbots)
+   * [context7](#upstashcontext7) (Providing accurate, up-to-date)
+   * [serena](#oraiosserena) (Integrating advanced semantic)
+   * [zen-mcp-server](#beehiveinnovationszen-mcp-server) (Running a single)
+   * [bytebot](#bytebot-aibytebot) (Automating complex, multi-step)
+   * [git-mcp](#idosalgit-mcp) (Provide a remote)
+   * [browser-tools-mcp](#agentdeskaibrowser-tools-mcp) (Enabling AI agents)
+   * [sumy](#miso-belicasumy) (Generating short summaries)
+   * [agent-os](#buildermethodsagent-os) (Structuring software development)
+   * [cc-sessions](#gwudcapcc-sessions) (Standardizing workflows for)
+   * *...and 2 more*
+
+* **Automation & Scripting**
+   * [activepieces](#activepiecesactivepieces) (Automating complex business)
+   * [requests-html](#psfrequests-html) (Scraping websites that)
+
+* **Data & Analytics**
+   * [textract](#deanmalmgrentextract) (Indexing the contents)
+   * [plotlydash-flask-tutorial](#toddbirchardplotlydash-flask-tutorial) (Learning the patterns)
+
+* **Design & UI/UX**
+   * [adabraka-ui](#auganiadabraka-ui) (Building GPU-accelerated desktop)
+
+* **Gaming & Graphics**
+   * [awesome-mcp-servers](#punkpeyeawesome-mcp-servers) (Discovering highly-rated or)
+
+* **Security & Privacy**
+   * [the-book-of-secret-knowledge](#trimstraythe-book-of-secret-knowledge) (Quickly locate comprehensive)
+
+* **Self Hosted**
+   * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Finding open-source alternatives)
+   * [Heimdall](#linuxserverheimdall) (Serve as the)
+   * [baserow](#baserowbaserow) (Building custom CRM)
+
+* **Smart Home**
+   * [wallpanel-android](#thecowanwallpanel-android) (Displaying web-based home)
+
+* **Tools & Utilities**
+   * [awesome-python](#vintaawesome-python) (Discovering vetted and)
+   * [BMAD-METHOD](#bmad-code-orgbmad-method) (Adopting a structured,)
+   * [jsoneditor](#josdejongjsoneditor) (Debugging and inspecting)
+   * [toapi](#elliotgao2toapi) (Generating quick API)
+   * [feedparser](#kurtmckeefeedparser) (Building custom news)
+   * [DevDocs](#cyberagiincdevdocs) (Scraping complex web)
+   * [vibe-log-cli](#vibe-logvibe-log-cli) (Analyze personal productivity)
+
+* **Web Development**
+   * [json-editor](#json-editorjson-editor) (Creating dynamic configuration)
+   * [Claudable](#opactoraiclaudable) (Rapidly prototype and)
+   * [tailwind-ui-components](#tailgridstailwind-ui-components) (Rapid prototyping and)
+
+
 
 ---
 
@@ -24,68 +68,50 @@
 # AI & Machine Learning
 
 
-## AI Agents & Desktop Automation
-
-### [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
-
-⭐ 9,527 | 🔤 TypeScript, Docker, Large Language Models (LLMs) | 📅 2025-11-12
-
-Bytebot is a self-hosted, open-source AI desktop agent designed to automate complex computer tasks using natural language commands. It operates within a containerized Linux environment where it executes actions like a user, leveraging LLMs (e.g., OpenAI, Gemini) to handle multi-step processes. Use it when you need an autonomous agent to perform repetitive or intricate tasks that traditionally require manual desktop interaction.
-
-**Use Cases:**
-- Automating multi-step workflows across web browsers and desktop applications within the containerized environment.
-- Performing complex data scraping, form filling, and data entry across various websites without manual intervention.
-- Testing and validating UI flows and user interactions through natural language instructions.
-
----
-
-
-## AI Assistants
-
-### [idosal/git-mcp](https://github.com/idosal/git-mcp)
-
-⭐ 6,918 | 🔤 TypeScript, Git | 📅 2025-11-12
-
-GitMCP is a free, open-source, remote Multi-Context Proxy (MCP) server designed to eliminate 'code hallucinations' for AI coding assistants. It acts as middleware, providing LLMs like Copilot and Claude with highly accurate and context-rich information extracted from GitHub projects. Developers use it to significantly improve the reliability and relevance of AI-generated code suggestions.
-
-**Use Cases:**
-- Providing accurate project context to proprietary AI coding assistants (e.g., Copilot, Cursor) via a remote server.
-- Setting up a self-hosted or dedicated MCP server for managing LLM interactions within private repositories.
-- Integrating advanced context retrieval and management features into existing GitHub development workflows.
-- Reducing the frequency of AI code hallucinations when working on complex, large codebases.
-
----
-
-
-## AI Coding Tools
+## AI Agent Toolkits / Code Generation
 
 ### [oraios/serena](https://github.com/oraios/serena)
 
-⭐ 15,702 | 🔤 Python, LLMs (Claude) | 📅 2025-11-12
+⭐ 15,741 | 🔤 Python, LLMs (Large Language Models), Language Server Protocol (LSP) | 📅 2025-11-13
 
-Serena is a powerful Python-based toolkit designed to transform any LLM into a fully-featured coding agent capable of working directly on a codebase. It provides advanced semantic code retrieval and editing tools, extracting symbol-level entities to significantly enhance the token efficiency and effectiveness of coding agents. Use it to enable LLMs (like Claude) to perform complex, context-aware modifications across large codebases.
+Serena is a powerful, Python-based toolkit designed to transform large language models (LLMs) into fully-featured coding agents capable of operating directly on a codebase. It provides advanced semantic code retrieval and editing tools, extracting code entities at the symbol level to enhance the agent's understanding and efficiency. Use Serena to dramatically improve the precision and token efficiency of AI-driven code modification and refactoring tasks.
 
 **Use Cases:**
-- Deploying advanced LLM agents to execute complex, multi-file code modifications and refactoring tasks on large projects.
-- Improving the efficiency and context awareness of existing coding agents by providing fine-grained, semantic code retrieval tools.
-- Building custom AI-powered language server functionalities for deep code analysis and automated editing.
-- Integrating LLM-driven editing capabilities directly into development environments (e.g., via MCP server integrations).
+- Integrating advanced semantic code understanding capabilities into existing LLM coding agents (e.g., Claude)
+- Performing fine-grained, symbol-level code modifications and complex refactoring tasks driven by AI
+- Developing custom AI workflows that require deep, relational knowledge of a software project's source code structure
 
 ---
 
 
-## AI Developer Tools
+## AI Agents / Desktop Automation
 
-### [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp)
+### [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
 
-⭐ 309 | 🔤 TypeScript, Node.js | 📅 2025-11-12
+⭐ 9,556 | 🔤 TypeScript, Docker, LLM Providers (OpenAI/Anthropic/Gemini) | 📅 2025-11-13
 
-Docfork MCP is a server implementation of the Model Context Protocol (MCP) that provides structured, up-to-date documentation tailored for consumption by AI agents and LLMs. It is used by developers and AI platforms to ensure relevant and accurate context is provided during AI-assisted development sessions.
+Bytebot is a self-hosted, open-source AI desktop agent that automates complex computer tasks using natural language commands. It runs within a containerized Linux desktop environment, allowing the AI to interact with applications and the OS like a human. This tool is ideal for delegating multi-step, interface-driven workflows that require autonomous desktop interaction.
 
 **Use Cases:**
-- Implement the Model Context Protocol (MCP) for documentation distribution.
-- Supply high-quality, versioned context to AI code assistants and development models.
-- Host and distribute documentation specifically formatted for machine consumption.
+- Automating complex, multi-step desktop workflows (e.g., data entry, software configuration, or generating reports).
+- Delegating open-ended computer tasks to an AI agent via natural language instructions.
+- Operating graphical user interfaces (GUIs) and interacting with web browsers in a controlled, containerized environment.
+
+---
+
+
+## AI Configuration Management
+
+### [holstein13/mcp-config-manager](https://github.com/holstein13/mcp-config-manager)
+
+⭐ 17 | 🔤 Python, PyQt6, Tkinter | 📅 2025-11-13
+
+The MCP Config Manager is a cross-platform utility providing both CLI and GUI interfaces for managing Model Context Protocol (MCP) server configurations. It is designed for users working with multi-AI systems like Claude and Gemini to easily enable, disable, and synchronize server settings and presets across different operating systems.
+
+**Use Cases:**
+- Enabling or disabling specific MCP server configurations for AI models (e.g., toggling access to Claude or Gemini contexts).
+- Applying predefined configuration presets to quickly switch server settings for testing or deployment.
+- Synchronizing MCP server configurations across different operating systems (Windows, macOS, Linux) to maintain consistency.
 
 ---
 
@@ -94,90 +120,123 @@ Docfork MCP is a server implementation of the Model Context Protocol (MCP) that 
 
 ### [upstash/context7](https://github.com/upstash/context7)
 
-⭐ 36,908 | 🔤 JavaScript, Node.js | 📅 2025-11-12
+⭐ 36,995 | 🔤 JavaScript, Node.js | 📅 2025-11-13
 
-Context7 MCP is a specialized server that delivers up-to-date code documentation and contextual information directly to LLMs and AI code editors. It is used to drastically improve the relevance and accuracy of AI-generated code by ensuring the models have the most current information about a codebase.
+Context7 MCP Server provides up-to-date code documentation optimized for consumption by Large Language Models (LLMs) and AI code editors. It acts as a specialized server that integrates deep codebase context directly into AI-powered development workflows. Use it to significantly improve the accuracy and relevance of AI-generated code within environments like Cursor or VS Code.
 
 **Use Cases:**
-- Providing real-time documentation context to AI code editors (like Cursor or specialized VS Code extensions)
-- Setting up a private context server for proprietary codebases to be used by internal LLM agents
-- Ensuring large language models used for code completion and generation have access to the most accurate metadata
+- Providing accurate, up-to-date codebase context to AI pair programmers and code completion tools.
+- Setting up a private server for managing documentation and code context for proprietary LLM applications.
+- Improving the quality of AI-driven code generation, refactoring, and debugging by supplying structured data via the MCP protocol.
 
 ---
 
-### [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
+### [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp)
 
-⭐ 9,576 | 🔤 Python, LLM APIs (OpenAI/Gemini/Anthropic), Command Line Interface (CLI) | 📅 2025-11-12
+⭐ 308 | 🔤 TypeScript, Model Context Protocol (MCP) | 📅 2025-11-13
 
-Zen MCP is an orchestration tool that unites multiple specialized AI model CLIs (like Claude Code and Gemini CLI) and various LLM providers (OpenAI, Grok, Ollama) into a single, cohesive workflow context.
-It allows developers to utilize the strengths of an entire 'AI Dev Team' by sending a single prompt to be processed by multiple models simultaneously or sequentially via its CLI-to-CLI bridge, 'clink'.
+Docfork MCP implements the Model Context Protocol (MCP) to provide structured, up-to-date documentation specifically optimized for consumption by AI agents and developers. This ensures that LLMs and developer tools have reliable, machine-readable context when interacting with codebases or systems.
 
 **Use Cases:**
-- Orchestrating complex software development tasks by routing different components of a project to specialized LLMs.
-- Running multi-model prompts to compare output quality, improve redundancy, or leverage cost-efficient models for specific tasks.
-- Bridging proprietary AI CLI tools (e.g., Claude Code, Gemini CLI) together to create unified, automated AI workflows.
-- Integrating local (Ollama) and cloud (OpenAI, Azure) models within the same development environment.
+- Providing structured, context-rich documentation for LLM-based coding assistants and AI agents.
+- Implementing and serving the Model Context Protocol (MCP) standard for AI context exchange.
+- Improving developer workflow by integrating high-quality, auto-updating project documentation.
 
 ---
+
+
+## AI Development Tools & Context Provisioning
+
+### [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
+
+⭐ 6,830 | 🔤 JavaScript, Chrome Extensions, Model Context Protocol (MCP) | 📅 2025-11-13
+
+This application provides AI models, particularly those compatible with the Model Context Protocol (MCP), deep, real-time context from the user's browser session. It functions via a Chrome extension, capturing data like logs and screenshots, making AI tools significantly more aware of the web environment. Use it to build highly context-aware AI agents integrated directly into IDEs like Cursor.
+
+**Use Cases:**
+- Enabling AI agents to debug web applications based on live browser logs and console output.
+- Providing context for AI-driven automation workflows that require real-time browser interaction and state awareness.
+- Automatically pasting screenshots and relevant browser context into an MCP-compatible IDE (like Cursor) for immediate analysis.
+
+---
+
+
+## AI Development Workflow
 
 ### [buildermethods/agent-os](https://github.com/buildermethods/agent-os)
 
-⭐ 2,462 | 🔤 Shell | 📅 2025-11-12
+⭐ 2,467 | 🔤 Shell | 📅 2025-11-13
 
-Agent OS is a structured, spec-driven system designed to enhance the productivity and reliability of AI coding agents (such as Claude Code or Cursor). It uses structured workflows to provide agents with necessary context, standards, and specifications from the codebase. Use it to ensure AI agents ship high-quality code quickly across new products or established projects.
+Agent OS is a system for spec-driven development that provides structured workflows to maximize the productivity and quality of AI coding agents (like Claude Code or Cursor). It helps agents adhere to specific standards and codebase details, reducing iterations needed to ship quality code.
 
 **Use Cases:**
-- Structuring and managing AI agent workflows for spec-driven development.
-- Implementing large features or developing new products using AI coding tools.
-- Applying small bug fixes or targeted changes to established codebases.
+- Structuring software development tasks executed by AI coding agents.
+- Enforcing internal standards and specific technology stacks when generating code via AI.
+- Applying AI agents for implementing new features or fixing bugs within established codebases.
 
 ---
 
 
-## AI Infrastructure
+## AI/LLM Developer Tools
 
-### [mem0ai/mem0](https://github.com/mem0ai/mem0)
+### [idosal/git-mcp](https://github.com/idosal/git-mcp)
 
-⭐ 43,023 | 🔤 Python, LLM Ecosystem / Agents Framework | 📅 2025-11-12
+⭐ 6,926 | 🔤 TypeScript, Git, LLM/Agent Infrastructure | 📅 2025-11-13
 
-Mem0 is a universal, open-source memory layer designed to provide robust long-term and short-term memory capabilities for AI agents and LLM applications. It manages state, context, and retrieval-augmented generation (RAG) to ensure personalized and continuous interactions. Use Mem0 when building sophisticated applications that need to recall past information across sessions or maintain complex conversational history.
-
-**Use Cases:**
-- Building conversational AI applications and chatbots with persistent, personalized memory.
-- Developing multi-step AI agents that require state management and context recall across complex tasks.
-- Implementing effective Retrieval-Augmented Generation (RAG) for LLMs by storing and retrieving context efficiently.
-
----
-
-
-## AI Tools & Configuration Management
-
-### [holstein13/mcp-config-manager](https://github.com/holstein13/mcp-config-manager)
-
-⭐ 17 | 🔤 Python, PyQt6, Tkinter | 📅 2025-11-12
-
-This is a cross-platform Python utility designed to manage Model Context Protocol (MCP) server configurations for AI systems like Claude, Gemini, and Codex. It provides a robust interactive CLI and a fully functional GUI (PyQt6/Tkinter) for configuration management. Use it to streamline the process of enabling, disabling, and syncing different AI server settings quickly and reliably.
+GitMCP is a free, open-source remote server implementing the Minimal Completion Protocol (MCP) for any GitHub repository. It acts as a necessary backend for modern AI coding assistants like Cursor or Copilot to gain deep context about a project, reducing code hallucinations. Use it to seamlessly integrate powerful agentic AI features into your development workflow.
 
 **Use Cases:**
-- Quickly enable or disable specific AI server configurations (e.g., switching from a Claude context to a Gemini context).
-- Manage and apply predefined configuration presets for MCP servers across different environments.
-- Sync configuration files across various platforms (Windows, macOS, Linux) to maintain consistency for AI development.
+- Provide a remote MCP endpoint for AI coding assistants (Cursor, Copilot, etc.)
+- Enable agentic AI features and project-wide context awareness for any GitHub repository
+- Improve the accuracy and relevance of AI-driven code suggestions and completion
 
 ---
 
 
 ## Developer Tools
 
-### [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
+### [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions)
 
-⭐ 6,827 | 🔤 JavaScript, Model Context Protocol (MCP) | 📅 2025-11-12
+⭐ 1,321 | 🔤 JavaScript, Node.js | 📅 2025-11-13
 
-This application is a powerful browser monitoring and interaction tool that uses a Chrome extension and the Model Context Protocol (MCP) to feed real-time browser context to AI models. It is used to significantly enhance the awareness and capability of AI tools, especially when interacting with or debugging web pages.
+cc-sessions is an opinionated framework designed to enhance productivity when developing with Claude Code. It provides structured methods for managing development sessions and interactions with the AI assistant. Use it to standardize prompts and maintain context efficiently during complex coding tasks.
 
 **Use Cases:**
-- Providing AI agents (via MCP) with real-time browser state, logs, and visual context for improved awareness.
-- Enabling enhanced AI debugging and analysis of web applications directly within compatible IDEs (e.g., Cursor).
-- Automatically capturing browser screenshots and context data for pasting into development environments or documentation.
+- Standardizing workflows for interacting with generative AI coding assistants (Claude Code)
+- Managing development session context and history for complex coding tasks
+- Improving overall productivity and consistency when using AI for documentation, debugging, or code generation
+
+---
+
+
+## LLM Infrastructure
+
+### [mem0ai/mem0](https://github.com/mem0ai/mem0)
+
+⭐ 43,076 | 🔤 Python, LLM/AI Agent Frameworks | 📅 2025-11-13
+
+Mem0 is a universal memory layer designed specifically for AI Agents and LLMs, offering long-term memory, state management, and contextual retrieval. It enables personalized and consistent AI interactions by managing conversation history and external knowledge across multiple sessions. Use Mem0 to quickly add robust, scalable memory and RAG capabilities to any generative AI application.
+
+**Use Cases:**
+- Building personalized chatbots or virtual assistants that remember user preferences and past interactions over time
+- Developing complex AI agents that require persistent state and context management across multi-step tasks
+- Implementing Retrieval-Augmented Generation (RAG) pipelines using conversational history as part of the knowledge base
+
+---
+
+
+## LLM Orchestration
+
+### [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
+
+⭐ 9,592 | 🔤 Python, LLM APIs | 📅 2025-11-13
+
+Zen MCP is a powerful orchestration server that unifies multiple AI command-line interfaces (like Claude Code, Gemini CLI, Codex CLI) and diverse backend LLMs (OpenAI, Anthropic, Grok, Ollama) under a single context. It allows developers to leverage a 'team' of models concurrently within their preferred CLI workflow, simplifying complex multi-model prompting. This is ideal for tasks requiring parallel processing and comparative outputs from various commercial and open-source AI services.
+
+**Use Cases:**
+- Running a single development prompt across multiple LLMs concurrently for comparison, validation, or generating diversified responses.
+- Bridging legacy or specialized AI CLIs to access a wide, heterogeneous pool of modern LLM services (including OpenRouter and custom hosted models).
+- Orchestrating complex software development workflows by delegating specific tasks to the best-suited model, all managed from one central context.
 
 ---
 
@@ -186,15 +245,15 @@ This application is a powerful browser monitoring and interaction tool that uses
 
 ### [miso-belica/sumy](https://github.com/miso-belica/sumy)
 
-⭐ 3,636 | 🔤 Python, NLP Algorithms (LSA, LexRank, TextTeaser) | 📅 2025-11-12
+⭐ 3,636 | 🔤 Python, LSA (Latent Semantic Analysis), LexRank (PageRank Algorithm) | 📅 2025-11-13
 
-Sumy is a Python library and command-line utility designed for automatic extractive text summarization, capable of processing both plain text documents and HTML pages. It implements multiple summarization algorithms, including LSA, LexRank (PageRank-based), and TextTeaser, supporting various natural languages. This tool is ideal for quickly condensing long-form content into core summaries for better readability or analysis.
+Sumy is a comprehensive Python library and command-line utility for automatic extractive text summarization of both plain text and HTML pages. It provides various implemented algorithms, including LSA, TextTeaser, and LexRank (PageRank algorithm). It is useful for developers who need to programmatically reduce long documents or web content into concise summaries.
 
 **Use Cases:**
-- Integrating automatic summarization into Python applications, such as news aggregators or content analysis tools.
-- Extracting concise summaries from web pages or HTML content via a command-line utility.
-- Evaluating the performance of different summarization techniques using its built-in evaluation framework.
-- Reducing the length of academic papers or articles while retaining key information.
+- Generating short summaries for long news articles or blog posts automatically
+- Building automated content aggregation and digest services
+- Implementing a text summarization feature into a larger application or API
+- Extracting key information from HTML web pages using text extraction and summarization techniques
 
 ---
 
@@ -202,20 +261,36 @@ Sumy is a Python library and command-line utility designed for automatic extract
 # Automation & Scripting
 
 
-## Workflow Automation Tools
+## AI Workflow Automation
 
 ### [activepieces/activepieces](https://github.com/activepieces/activepieces)
 
-⭐ 19,139 | 🔤 TypeScript, Node.js | 📅 2025-11-12
+⭐ 19,147 | 🔤 TypeScript, Node.js | 📅 2025-11-13
 
-Activepieces is an open-source platform designed as a replacement for Zapier, enabling users to build and run sophisticated workflow automation by connecting various apps and services.
-It uniquely focuses on orchestrating AI Agents and utilizing MCP servers, allowing for complex, modular, and scalable AI-driven tasks within standard business workflows.
-Use it when you need a powerful, self-hosted automation engine with deep integration capabilities for modern AI architectures.
+Activepieces is an open-source, no-code platform for workflow automation, aiming to replace tools like Zapier and n8n. It specializes in leveraging AI agents (MCPs) to build complex, intelligent automation pipelines. Users can connect hundreds of apps and services to automate tasks and internal processes based on triggers and steps.
 
 **Use Cases:**
-- Building and deploying complex AI automation workflows utilizing multiple specialized AI agents (MCPs)
-- Synchronizing data and automating tasks between SaaS applications like CRMs, Slack, and email systems
-- Creating custom business logic and integrations for internal tools without writing extensive infrastructure code
+- Automating complex business processes, such as syncing customer data across CRMs, marketing tools, and internal databases.
+- Deploying AI agents within workflows for tasks like data extraction, content summarization, or classifying incoming support requests.
+- Creating event-driven automation flows (e.g., triggered by new emails, form submissions, or database entries) that execute multi-step actions.
+
+---
+
+
+## Web Scraping / HTML Parsing
+
+### [psf/requests-html](https://github.com/psf/requests-html)
+
+⭐ 13,866 | 🔤 Python, Requests (HTTP Library), PyQuery / LXML | 📅 2025-11-13
+
+Requests-HTML is a Python library designed for robust, simple web scraping, combining the power of Requests with advanced parsing capabilities.
+It provides CSS and XPath selectors and crucially, full JavaScript rendering support via an embedded Chromium browser (Pyppeteer).
+Use it for reliable data extraction from complex, dynamic websites that require browser-like functionality.
+
+**Use Cases:**
+- Scraping websites that require client-side JavaScript rendering to display content.
+- Developing Python scripts for automated data extraction and web crawling.
+- Parsing HTML documents using familiar CSS selectors (jQuery-style) and XPath.
 
 ---
 
@@ -223,18 +298,34 @@ Use it when you need a powerful, self-hosted automation engine with deep integra
 # Data & Analytics
 
 
-## Text Mining/NLP Libraries
+## Data Visualization
+
+### [toddbirchard/plotlydash-flask-tutorial](https://github.com/toddbirchard/plotlydash-flask-tutorial)
+
+⭐ 494 | 🔤 Python, Flask, Plotly Dash | 📅 2025-11-13
+
+This is a comprehensive tutorial demonstrating how to successfully embed interactive Plotly Dash dashboards directly into a larger Flask web application structure. It is ideal for Python developers seeking to integrate powerful data analysis and visualization components into their production web services. The tutorial covers asset management, routing, and deployment setup.
+
+**Use Cases:**
+- Learning the patterns for integrating Dash components into existing Flask applications.
+- Building data visualization dashboards that are served under standard Flask routes.
+- Developing production-ready Python web applications that require complex interactive data displays (e.g., business intelligence tools)
+
+---
+
+
+## Text Processing
 
 ### [deanmalmgren/textract](https://github.com/deanmalmgren/textract)
 
-⭐ 4,359 | 🔤 Python, Natural Language Processing (NLP) | 📅 2025-11-12
+⭐ 4,359 | 🔤 Python, Natural Language Processing (NLP) | 📅 2025-11-13
 
-Textract is a Python library designed to simplify the extraction of raw text from nearly any document format, including PDF, DOCX, images, and proprietary files. It handles the underlying complexity and external dependencies required for parsing diverse document types. Use it to build robust ingestion pipelines where text data must be reliably sourced from various file formats for storage or downstream processing.
+Textract is a Python utility designed to extract text from a wide variety of document formats effortlessly, including PDFs, Microsoft Office files, and scanned images. Use it to standardize the process of converting unstructured documents into usable text data for indexing, searching, or natural language processing pipelines.
 
 **Use Cases:**
-- Building full-text search engines or indexing services across heterogeneous document storage.
-- Pre-processing and cleaning unstructured data before feeding it into NLP models (e.g., topic modeling or sentiment analysis).
-- Automating the extraction of content from batches of legacy documents for archival or database migration.
+- Indexing the contents of diverse document formats (like PDFs and DOCX) for building search engines.
+- Preparing unstructured document data for Natural Language Processing (NLP) or machine learning pipelines.
+- Automating the extraction of text content from large archives of proprietary or non-standard file formats.
 
 ---
 
@@ -242,18 +333,18 @@ Textract is a Python library designed to simplify the extraction of raw text fro
 # Design & UI/UX
 
 
-## UI Component Library
+## UI Component Libraries
 
 ### [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)
 
-⭐ 250 | 🔤 Rust, GPUI framework | 📅 2025-11-12
+⭐ 251 | 🔤 Rust, GPUI | 📅 2025-11-13
 
-adabraka-ui is a comprehensive, professional UI component library built on top of GPUI, the GPU-accelerated UI framework powering the Zed editor. It provides standardized components and tools necessary for developers creating desktop applications using Rust. Use it to achieve high-performance rendering and a polished user interface.
+adabraka-ui is a comprehensive component library designed specifically for the Rust GPUI framework, which powers the Zed editor. It allows Rust developers to quickly build professional, GPU-accelerated desktop applications using a collection of standardized UI elements.
 
 **Use Cases:**
-- Building high-performance, GPU-accelerated desktop applications in Rust.
-- Rapidly developing professional-grade user interfaces for Rust applications.
-- Creating UI components that integrate seamlessly within the GPUI framework ecosystem.
+- Building GPU-accelerated desktop applications in Rust using the GPUI framework.
+- Developing custom high-performance editors or productivity tools.
+- Integrating standardized, professional UI components (like buttons, lists, layouts) into a Rust application.
 
 ---
 
@@ -261,18 +352,19 @@ adabraka-ui is a comprehensive, professional UI component library built on top o
 # Gaming & Graphics
 
 
-## Gaming Resources & Server Lists
+## Gaming Server Lists & Resources
 
 ### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
-⭐ 74,772 | 🔤 Markdown, HTML | 📅 2025-11-12
+⭐ 74,839 | 🔤 Markdown, HTML/Badges (for visual navigation) | 📅 2025-11-13
 
-This repository is an extensive, highly-starred 'Awesome List' curating a collection of MCP servers, which likely pertain to AI-enhanced or community-driven gaming environments. It serves as a comprehensive, multi-lingual resource for users seeking to discover and connect to specialized servers. Use this repository to find reputable and highly-rated servers categorized by type, language, and features.
+This repository is an extensive 'Awesome List' that collects and curates various MCP (likely Minecraft) servers and associated community resources. It serves as a central directory for players seeking diverse server types and offers strong multi-language support.
+Use it to quickly discover popular, specialized, or community-driven servers across different regions and topics.
 
 **Use Cases:**
-- Discovering and exploring new community-run MCP or AI-enabled gaming servers.
-- Finding specialized servers based on specific features, languages, or regional communities.
-- Serving as a central hub for the AI/Gaming community to share, categorize, and reference infrastructure options.
+- Discovering highly-rated or specialized community servers for Minecraft (MCP)
+- Finding server resources or related communities (Discord, Subreddits) for a specific game/protocol
+- Referencing curated server lists based on language or region
 
 ---
 
@@ -280,18 +372,18 @@ This repository is an extensive, highly-starred 'Awesome List' curating a collec
 # Security & Privacy
 
 
-## Technical Reference & Awesome Lists
+## Security & Hacking Resources
 
 ### [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-⭐ 193,451 | 🔤 Markdown, Awesome List Collection | 📅 2025-11-12
+⭐ 193,553 | 🔤 Markdown, Awesome List Methodology | 📅 2025-11-13
 
-This repository is a massive, curated collection of resources, manuals, cheatsheets, hacks, and one-liners aimed at technical professionals, including security researchers, pentesters, and SysOps/DevOps engineers. It serves as a comprehensive knowledge base for quick reference, learning new techniques, and discovering specialized documentation across domains like Linux, security, and hacking. Use it as a highly centralized index for operational and defense knowledge.
+This is an extensive collection of inspiring lists, manuals, cheatsheets, hacks, and command-line tools tailored for technical professionals. It serves as a vast, curated knowledge base focusing on security, penetration testing, DevOps, and advanced system administration. Use it as a centralized reference guide to quickly look up complex technical information or discover new tooling.
 
 **Use Cases:**
-- Quickly find specialized cheatsheets and operational manuals for Linux/BSD systems
-- Discover new hacking tools, security guides, or penetration testing methodologies
-- Reference common command-line one-liners and system administration tips
+- Quickly locate comprehensive cheatsheets and one-liners for Linux, networking, and system operations (SysOps/DevOps).
+- Discover curated lists of essential CLI/web tools and resources for security research and penetration testing.
+- Reference technical manuals and guides covering advanced topics related to hacking, BASH, and web infrastructure.
 
 ---
 
@@ -299,18 +391,70 @@ This repository is a massive, curated collection of resources, manuals, cheatshe
 # Self Hosted
 
 
-## Awesome Lists & Resource Discovery
+## Application Management/Dashboard
+
+### [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)
+
+⭐ 8,772 | 🔤 PHP, Docker | 📅 2025-11-13
+
+Heimdall is an elegant application dashboard designed to act as a centralized startpage for all your self-hosted web applications and services, such as Plex, Sonarr, and Radarr. It allows users to create customizable links and monitor application availability. It is best used as a primary homepage for server operators who need quick access to numerous internal services.
+
+**Use Cases:**
+- Serve as the primary startpage/homepage for a home server (HTPC) or lab environment
+- Centralize links and access points for dozens of internal applications (Sonarr, Plex, NZBGet, etc.)
+- Customize the display of application launchers with built-in integrations and status indicators
+
+---
+
+
+## No-code/Low-code Platforms
+
+### [baserow/baserow](https://github.com/baserow/baserow)
+
+⭐ 3,227 | 🔤 Python, PostgreSQL | 📅 2025-11-13
+
+Baserow is an open-source, self-hostable no-code platform serving as a powerful alternative to proprietary spreadsheet-database hybrids like Airtable. It empowers users to build custom databases, automations, dashboards, and applications in a secure environment without writing code. This tool is best used by teams looking for data sovereignty combined with flexible, low-effort application development.
+
+**Use Cases:**
+- Building custom CRM systems, project trackers, or inventory management tools without coding
+- Creating self-hosted and secure alternatives for corporate data currently residing in Airtable or comparable tools
+- Automating data workflows and reporting by building custom dashboards over structured data
+
+---
+
+
+## Software Directory
 
 ### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
-⭐ 257,742 | 🔤 Markdown, Documentation (Awesome List Structure) | 📅 2025-11-12
+⭐ 257,913 | 🔤 Markdown, GitHub Actions | 📅 2025-11-13
 
-This repository is the definitive 'Awesome List' of Free Software network services and web applications that users can host on their own servers instead of relying on proprietary SaaS. It indexes thousands of open-source tools across nearly every category, from productivity and communication to media and finance. Use it as a starting point to build a custom, privacy-respecting, self-managed digital infrastructure.
+Awesome-Selfhosted is an extensive, curated list of free and open-source network services and web applications designed for private hosting. This resource is essential for users and organizations seeking to replace proprietary SaaS solutions with self-managed software on their own servers. Use it to discover viable self-hosted alternatives for services ranging from productivity suites and collaboration tools to file storage and media streaming.
 
 **Use Cases:**
-- Discovering self-hostable, open-source alternatives to commercial SaaS products (like Google Drive or Slack)
-- Finding specific free software projects categorized by function (e.g., CI/CD, CRM, DNS, or file sharing)
-- Researching privacy-focused applications to regain control over personal or organizational data
+- Finding open-source alternatives to commercial SaaS products (e.g., replacing Google Workspace or Dropbox)
+- Setting up a private server infrastructure (homelab) using reliable, maintained applications
+- Maximizing data privacy and control by keeping applications and data off third-party clouds
+
+---
+
+
+# Smart Home
+
+
+## Home Automation Dashboard Client
+
+### [thecowan/wallpanel-android](https://github.com/thecowan/wallpanel-android)
+
+⭐ 756 | 🔤 Kotlin, Android | 📅 2025-11-13
+
+WallPanel is an Android application that transforms a standard Android device into a dedicated, fixed wall-mounted control panel or kiosk. It is primarily used to display web-based dashboards for home automation platforms like Home Assistant or OpenHAB. Use it when you need an always-on interface with features like camera detection and MQTT communication.
+
+**Use Cases:**
+- Displaying web-based home automation dashboards on a dedicated wall tablet (kiosk mode)
+- Using the device camera for motion or light detection to wake the screen
+- Acting as an MQTT client for sending device status and receiving remote commands
+- Creating a centralized control hub for IoT devices
 
 ---
 
@@ -318,66 +462,50 @@ This repository is the definitive 'Awesome List' of Free Software network servic
 # Tools & Utilities
 
 
-## AI-Driven Development Tools
-
-### [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
-
-⭐ 21,813 | 🔤 JavaScript, Node.js | 📅 2025-11-12
-
-BMad Method is a JavaScript-based methodological framework (Breakthrough Method for Agile AI Driven Development) designed to structure high-velocity, AI-integrated software development workflows. It provides the core system for teams looking to optimize their agile processes by deeply embedding AI assistance. Use it when establishing a standardized, rapid-iteration development lifecycle that is heavily reliant on modern AI tools.
-
-**Use Cases:**
-- Structuring and governing agile development projects that rely heavily on AI/LLM integration.
-- Implementing standardized high-velocity development workflows (The BMad Method) across large teams.
-- Transitioning an existing development pipeline to adopt AI-first methodologies for improved efficiency and speed.
-
----
-
-
-## Data Parsing
+## Data Parsing Libraries
 
 ### [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser)
 
-⭐ 2,230 | 🔤 Python | 📅 2025-11-12
+⭐ 2,230 | 🔤 Python, RSS/Atom | 📅 2025-11-13
 
-feedparser is a mature, robust Python library designed for reliably parsing complex syndication feed formats including Atom, RSS, JSON, and RDF. It abstracts away the intricacies of differing feed standards, providing a unified Python object for accessing feed content. Use it whenever a Python application needs to consume and process syndicated content from online sources.
+feedparser is a comprehensive and reliable Python library designed for parsing standardized web feeds, including Atom, RSS, RDF, and JSON formats. It handles the nuances and inconsistencies often found in real-world feed implementations, normalizing the data for easy access. Developers should use feedparser when their application needs to reliably consume and process syndicated content from various sources.
 
 **Use Cases:**
-- Building custom RSS/Atom feed readers and content aggregators in Python
-- Integrating external news headlines or blog posts into dashboards or applications
-- Automating the collection and standardization of content updates from multiple online sources
+- Building custom news aggregators, feed readers, or personalized dashboards.
+- Integrating external blog posts or news updates into a larger web application.
+- Creating scripts to monitor activity or updates on multiple websites via their standardized feeds.
 
 ---
 
 
-## Developer Productivity Tools
+## Developer Analytics & Productivity
 
 ### [vibe-log/vibe-log-cli](https://github.com/vibe-log/vibe-log-cli)
 
-⭐ 198 | 🔤 TypeScript, Node.js | 📅 2025-11-12
+⭐ 202 | 🔤 TypeScript, Node.js | 📅 2025-11-13
 
-Vibe-log-cli is an open-source TypeScript CLI tool designed for logging and analyzing developer sessions that utilize AI coding assistants like Claude Code and Cursor. It generates local productivity reports, allowing developers to measure the effectiveness of AI assistance and understand usage patterns. Use it to optimize prompt engineering strategies and gain objective insights into AI-driven workflow efficiency.
+Vibe-log-cli is an open-source TypeScript command-line tool dedicated to logging and analyzing coding sessions performed using AI assistants like Claude Code and Cursor. It processes session data locally to generate detailed productivity reports and developer analytics. This is crucial for optimizing AI workflow, understanding prompt effectiveness, and improving overall developer efficiency.
 
 **Use Cases:**
-- Generating detailed productivity reports based on AI-assisted coding sessions (Claude Code, Cursor).
-- Tracking and optimizing the efficiency of prompt engineering strategies within an AI development workflow.
-- Analyzing historical session data to identify bottlenecks and improve overall developer productivity when using AI assistants.
+- Analyze personal productivity metrics and time spent during AI-assisted coding sessions.
+- Track the effectiveness of different prompts and measure the impact of specific AI tools (Claude Code, Cursor) on the development workflow.
+- Generate local, detailed reports (dev-analytics) on session duration, output quality, and efficiency for prompt optimization.
 
 ---
 
 
-## Developer Tooling
+## Developer Resources
 
-### [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions)
+### [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
-⭐ 1,314 | 🔤 JavaScript, Python, Anthropic/Claude API | 📅 2025-11-12
+⭐ 269,093 | 🔤 Python, Awesome List (Resource Collection) | 📅 2025-11-13
 
-cc-sessions is an opinionated framework designed to streamline and enhance productive development sessions when using the Claude Code AI assistant. It provides mechanisms for managing conversational state and context, ensuring consistency across complex, multi-turn AI interactions. Developers use this tool to standardize their workflow when pairing with large language models for coding tasks.
+Awesome Python is an extensive and highly curated list of the best Python frameworks, libraries, software, and educational resources available today. It serves as the definitive starting point for developers seeking high-quality tools across virtually every domain within the Python ecosystem, from web development to machine learning and data analysis.
 
 **Use Cases:**
-- Managing long-running conversational sessions with the Claude AI during development.
-- Standardizing input context and instructions for reproducible AI-assisted code generation.
-- Improving the overall efficiency and consistency of LLM interaction for coding and debugging.
+- Discovering vetted and high-quality Python libraries for specific project needs.
+- Quickly finding recommended frameworks when starting a new project.
+- Exploring specific domains within Python (e.g., asynchronous programming, testing, ORMs).
 
 ---
 
@@ -386,95 +514,46 @@ cc-sessions is an opinionated framework designed to streamline and enhance produ
 
 ### [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)
 
-⭐ 12,111 | 🔤 JavaScript, HTML, CSS | 📅 2025-11-12
+⭐ 12,112 | 🔤 JavaScript, HTML/CSS | 📅 2025-11-13
 
-JSON Editor is a web-based utility for viewing, editing, formatting, and validating JSON data. It supports various modes, including a graphical tree editor and a traditional code editor.
-Use it when developers or users need a clean, interactive interface to manipulate or debug complex JSON objects within a browser environment.
+JSON Editor is a robust, web-based utility designed for viewing, editing, formatting, and validating JSON data. It supports various interaction modes, including an intuitive hierarchical tree view and a standard code editor view. It is highly useful for developers needing to inspect, debug, or rapidly prototype complex JSON structures.
 
 **Use Cases:**
-- Debugging and inspecting API responses or complex configuration files
-- Integrating a user-friendly JSON editor component into a larger web application
-- Quickly formatting and validating raw JSON strings against syntax rules
+- Debugging and inspecting complex JSON payloads from API responses.
+- Creating, editing, and prototyping JSON configuration files for applications.
+- Validating JSON syntax and reformatting code structures for improved readability.
 
 ---
+
+
+## Developer Tools / Documentation & Knowledge Management
 
 ### [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs)
 
-⭐ 1,957 | 🔤 TypeScript, Python 3 | 📅 2025-11-12
+⭐ 1,957 | 🔤 TypeScript, Python 3, Playwright | 📅 2025-11-13
 
-DevDocs is a free, private, UI-based documentation server designed specifically for coders. It acts as an MCP (Multi-Context Platform) that uses scraping tools (like Playwright and crawl4ai) and LLMs to rapidly ingest and structure vast amounts of technical documentation. Developers use it to turn complex research weeks into hours of integrated, productive development time.
+DevDocs is a free, private, UI-based MCP server designed for developers to scrape and process technical documentation efficiently. It uses LLMs and tools like Playwright to create indexed, AI-ready knowledge bases, significantly reducing research time. Use it to integrate high-quality documentation context directly into AI coding assistants such as Cursor or Claude.
 
 **Use Cases:**
-- Scraping external technical documentation and indexing it for internal, private use.
-- Providing context-specific knowledge to AI coding assistants and LLM agents (e.g., Cursor, Claude Desktop App).
-- Setting up a self-hosted centralized knowledge base for software development teams.
+- Scraping complex web documentation (e.g., APIs, libraries) to build a private, searchable knowledge base for RAG context.
+- Integrating curated, up-to-date documentation into AI coding assistants (Cursor, Cline) to enhance code generation accuracy.
+- Centralizing and organizing external or internal technical documentation into a single server for team access.
 
 ---
 
 
-## Resource Collections
+## Development Methodology / Project Management
 
-### [vinta/awesome-python](https://github.com/vinta/awesome-python)
+### [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 
-⭐ 268,951 | 🔤 Python (Subject), Markdown, GitHub | 📅 2025-11-12
+⭐ 21,912 | 🔤 JavaScript, Node.js, npm | 📅 2025-11-13
 
-Awesome Python is a massive, curated list detailing high-quality Python frameworks, libraries, software, and resources across numerous domains (web development, machine learning, data processing, etc.). It is essential for developers seeking to discover and evaluate the best tools available in the Python ecosystem. Use it as a comprehensive starting guide when beginning a new project or researching specialized solutions.
-
-**Use Cases:**
-- Discovering vetted and popular Python libraries for any project type
-- Finding the top recommended framework for a specific task (e.g., web scraping or testing)
-- Exploring the overall scope and resources available within the Python community
-
----
-
-
-## Web Scraping & HTTP Clients
-
-### [psf/requests-html](https://github.com/psf/requests-html)
-
-⭐ 13,866 | 🔤 Python, Requests (library), PyQuery / lxml | 📅 2025-11-12
-
-Requests-HTML is a Python library that extends the popular Requests framework, offering powerful HTML parsing and web scraping capabilities for humans. It provides full JavaScript support via Chromium/pyppeteer, enabling users to scrape dynamic websites that rely on client-side rendering. Use this library when you need a Pythonic, session-aware client capable of handling complex parsing with CSS or XPath selectors.
+BMad Method is a JavaScript-based methodology package (npm) designed to implement the 'Breakthrough Method' for Agile and AI-driven software development. It provides structure and tooling for teams managing complex projects that integrate AI components. Use it to standardize workflows and accelerate delivery in a modern Node.js environment.
 
 **Use Cases:**
-- Scraping data from dynamic websites that require JavaScript execution to load content (e.g., modern SPAs)
-- Automating data extraction from complex HTML structures using intuitive jQuery-style CSS selectors or XPath expressions
-- Building robust HTTP clients for tasks requiring automatic redirect following, cookie persistence, and connection pooling
-
----
-
-
-# Web Development
-
-
-## AI Code Generation / Web Builders
-
-### [opactorai/Claudable](https://github.com/opactorai/Claudable)
-
-⭐ 3,090 | 🔤 TypeScript, LLM Agent Integration (Claude Code, Gemini, Codex) | 📅 2025-11-12
-
-Claudable is an open-source web builder that leverages powerful local coding CLI agents (such as Claude Code, Gemini, and Codex) to automate the development process. It provides a unified interface for connecting agents, building software products via instruction, and instantly deploying the results. Use it for rapid prototyping and effortless product creation backed by multiple LLMs.
-
-**Use Cases:**
-- Rapid prototyping and building full web applications using conversational AI agents.
-- Connecting and unifying multiple local LLM coding CLI tools (Claude Code, Gemini CLI, Qwen Code) under one visual interface.
-- Instant deployment of AI-generated web products without manual setup or hosting configuration.
-
----
-
-
-## Form Generation
-
-### [json-editor/json-editor](https://github.com/json-editor/json-editor)
-
-⭐ 4,839 | 🔤 JavaScript, JSON Schema | 📅 2025-11-12
-
-JSON Editor is a JavaScript library that converts a JSON Schema (v3 or v4) into a dynamically generated and validated HTML form. It is used to rapidly create robust data input UIs that strictly adhere to a defined schema, supporting integration with popular CSS frameworks like Bootstrap.
-
-**Use Cases:**
-- Generating complex, schema-validated forms for data entry or configuration editing in web applications.
-- Building administrative interfaces where input data must strictly conform to a defined JSON structure.
-- Providing a visual editor for technical users to manipulate data defined by an existing JSON schema.
+- Adopting a structured, agile development methodology tailored specifically for AI-driven projects.
+- Standardizing project management and workflow processes for teams using modern JavaScript/Node.js stacks.
+- Implementing rapid development cycles (breakthroughs) in complex software environments.
 
 ---
 
@@ -483,14 +562,66 @@ JSON Editor is a JavaScript library that converts a JSON Schema (v3 or v4) into 
 
 ### [elliotgao2/toapi](https://github.com/elliotgao2/toapi)
 
-⭐ 3,540 | 🔤 Python, Flask | 📅 2025-11-12
+⭐ 3,540 | 🔤 Python, Flask, HTML | 📅 2025-11-13
 
-Toapi is a Python library that allows developers to quickly turn any publicly accessible website into a structured JSON API. It functions by defining parsing rules (e.g., using CSS selectors) over a webpage's HTML content. Use this tool to provide programmatic access to data from sites that lack native API endpoints.
+Toapi is a Python library designed to effortlessly turn any existing public website into a structured JSON API. It utilizes crawling and scraping mechanisms to extract data from HTML, standardizing the output for programmatic use. This is useful for gaining quick, structured access to data from websites that lack official APIs.
 
 **Use Cases:**
-- Creating lightweight APIs for legacy websites or public data sources that only serve HTML
-- Rapidly prototyping applications requiring data access from third-party sites
-- Building microservices that depend on consistently scraped data from the web
+- Generating quick API endpoints for legacy websites or public data sources without official access points.
+- Standardizing disparate web content (HTML) into consistent JSON structures for application consumption.
+- Creating custom data proxies or simple microservices based on scraped content.
+
+---
+
+
+# Web Development
+
+
+## AI-Powered Development / Code Generation
+
+### [opactorai/Claudable](https://github.com/opactorai/Claudable)
+
+⭐ 3,098 | 🔤 TypeScript, Node.js, React / Next.js (Inferred) | 📅 2025-11-13
+
+Claudable is an open-source web builder that integrates with local CLI AI coding agents (like Claude Code, Gemini CLI, and Codex) for effortless product creation and deployment. It provides a unified platform to connect an agent, generate code based on prompts, and instantly deploy the resulting web service. Use Claudable to significantly accelerate prototyping and reduce manual coding time through AI automation.
+
+**Use Cases:**
+- Rapidly prototype and build full web applications using natural language prompts directed at AI coding agents.
+- Manage and utilize multiple local CLI coding agents (Claude, Gemini, Qwen) through a centralized web UI.
+- Instantly deploy generated web products upon completion of the build process.
+- Establish a streamlined, AI-driven workflow for concept-to-launch product development.
+
+---
+
+
+## Form Generation & Schema Utilities
+
+### [json-editor/json-editor](https://github.com/json-editor/json-editor)
+
+⭐ 4,839 | 🔤 JavaScript, JSON Schema, HTML/CSS | 📅 2025-11-13
+
+JSON Editor is a JavaScript library that takes a JSON Schema (v3 or v4) and dynamically generates a corresponding HTML form for editing data. This tool allows developers to quickly create complex, schema-validated forms without extensive manual HTML and JavaScript coding. It integrates easily with popular CSS frameworks like Bootstrap and Tailwind to ensure a modern look and feel.
+
+**Use Cases:**
+- Creating dynamic configuration interfaces based on standardized data models (JSON Schema)
+- Building administrative UIs for editing or submitting complex API payloads
+- Rapid prototyping of data forms for internal tools or developer consoles
+
+---
+
+
+## UI Component Libraries
+
+### [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components)
+
+⭐ 1,437 | 🔤 Tailwind CSS, HTML | 📅 2025-11-13
+
+TailGrids is a comprehensive UI component library featuring over 600 high-quality blocks and components built using Tailwind CSS. It is perfect for rapidly building modern websites, dashboards, and e-commerce platforms without having to design components from scratch. The library supports easy copy-paste usage across HTML, React, and Vue projects.
+
+**Use Cases:**
+- Rapid prototyping and building of landing pages or marketing websites
+- Developing professional admin panels, dashboards, and web applications
+- Implementing a consistent design system across multi-framework frontend projects
 
 ---
 
