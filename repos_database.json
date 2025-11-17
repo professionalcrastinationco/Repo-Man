@@ -1,0 +1,1325 @@
+{
+  "streamlit/streamlit": {
+    "name": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "stars": 42245,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Data & Analytics",
+    "subcategory": "Data App Framework",
+    "summary": "Streamlit is a Python-based framework that allows users to transform Python scripts into interactive, shareable web apps and dashboards in minutes. It is designed for data scientists and ML engineers seeking fast prototyping and deployment without extensive frontend knowledge.",
+    "use_cases": [
+      "Building interactive data dashboards and analytical reports",
+      "Creating web interfaces to demonstrate and interact with machine learning models",
+      "Rapidly prototyping and sharing data science proofs-of-concept"
+    ],
+    "tech_stack": [
+      "Python",
+      "Streamlit"
+    ]
+  },
+  "TheAlgorithms/Python": {
+    "name": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "stars": 213250,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Education & Learning",
+    "subcategory": "Algorithms and Data Structures",
+    "summary": "This repository is a comprehensive, community-driven collection of algorithms implemented in Python, covering a wide range of topics from sorting and searching to competitive programming concepts. It serves as an excellent educational resource for learning, practicing, and understanding fundamental computer science algorithms, making it ideal for students and professionals preparing for technical interviews.",
+    "use_cases": [
+      "Learning and studying fundamental computer science algorithms like Merge Sort, Dijkstra's algorithm, etc.",
+      "Practicing algorithm implementation and understanding how different algorithms work in Python.",
+      "Preparing for coding interviews by reviewing a wide array of commonly requested data structures and algorithms."
+    ],
+    "tech_stack": [
+      "Python"
+    ]
+  },
+  "Skyvern-AI/skyvern": {
+    "name": "Skyvern-AI/skyvern",
+    "url": "https://github.com/Skyvern-AI/skyvern",
+    "stars": 18229,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Robotic Process Automation (RPA)",
+    "summary": "Skyvern is an advanced AI-powered framework designed to automate complex browser-based workflows using LLMs and computer vision. It functions as an intelligent Robotic Process Automation (RPA) tool that can understand and interact with dynamic web interfaces without traditional XPath reliance. Use it when reliability and human-like decision making are required for automating processes across websites.",
+    "use_cases": [
+      "Automating multi-step business processes like application submissions or complex data entry across different portals.",
+      "Performing dynamic web scraping tasks where traditional selectors are unreliable due to constantly changing UI elements.",
+      "Creating reliable workflows that require conditional logic and human-like interaction with difficult or proprietary internal web applications."
+    ],
+    "tech_stack": [
+      "Python",
+      "Playwright/Puppeteer/Selenium"
+    ]
+  },
+  "Shubhamsaboo/awesome-llm-apps": {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "stars": 78701,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Applications",
+    "summary": "This repository is an extensive, highly-starred collection of practical LLM applications and implementation examples, focusing on AI Agents and RAG systems. It serves as a comprehensive resource for developers looking to explore, build, and deploy sophisticated applications leveraging models from major commercial and open-source providers. Use it to quickly find patterns and functional code for building advanced generative AI tools.",
+    "use_cases": [
+      "Discovering and learning about advanced LLM application architectures like RAG and AI Agents.",
+      "Finding practical Python code examples for building multi-model generative AI tools.",
+      "Getting inspiration and blueprints for developing new LLM-powered applications."
+    ],
+    "tech_stack": [
+      "Python",
+      "Large Language Models (LLMs)",
+      "Retrieval-Augmented Generation (RAG)"
+    ]
+  },
+  "MODSetter/SurfSense": {
+    "name": "MODSetter/SurfSense",
+    "url": "https://github.com/MODSetter/SurfSense",
+    "stars": 10649,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents & Knowledge Management",
+    "summary": "SurfSense is an open-source, highly customizable AI research agent designed as an alternative to tools like NotebookLM and Perplexity. It utilizes RAG technology to integrate and synthesize information from numerous external sources, including search engines, Notion, Slack, Jira, GitHub, and a personal knowledge base. Use it to conduct comprehensive research and unify data retrieval across all your professional and organizational silos.",
+    "use_cases": [
+      "Conducting complex research by synthesizing external web data with internal documents (Notion, GitHub, Slack)",
+      "Building a unified, private, and searchable knowledge base across disparate SaaS tools (Jira, Linear, ClickUp, Confluence)",
+      "Developing highly customized AI workflows and agents for specific enterprise or personal research tasks"
+    ],
+    "tech_stack": [
+      "Python",
+      "Next.js",
+      "FastAPI",
+      "LangChain"
+    ]
+  },
+  "public-apis/public-apis": {
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "stars": 379105,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "API Catalog / Directory",
+    "summary": "This repository is the largest community-curated catalog of free public APIs available across numerous domains, serving as a comprehensive resource list for developers. Use this resource when starting a new project and searching for external services or third-party integrations to add functionality without building it from scratch.",
+    "use_cases": [
+      "Discovering external services and third-party APIs for integration into a new application.",
+      "Researching the landscape of available APIs across various domains like finance, weather, or entertainment.",
+      "Finding specific, free data sources for rapid prototyping and proof-of-concept development."
+    ],
+    "tech_stack": [
+      "Python",
+      "Markdown"
+    ]
+  },
+  "google/adk-python": {
+    "name": "google/adk-python",
+    "url": "https://github.com/google/adk-python",
+    "stars": 15201,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agent Frameworks",
+    "summary": "The Agent Development Kit (ADK) is a code-first Python toolkit designed for building, evaluating, and deploying sophisticated AI agents with high control and flexibility. It is essential for developers focused on engineering complex single or multi-agent systems and bringing them to production maturity.",
+    "use_cases": [
+      "Building and managing complex multi-agent systems and collaboration workflows.",
+      "Developing custom, production-ready AI assistants and applications powered by LLMs.",
+      "Evaluating and optimizing the reliability, performance, and behavior of developed agents."
+    ],
+    "tech_stack": [
+      "Python",
+      "Large Language Models (LLMs)"
+    ]
+  },
+  "Zie619/n8n-workflows": {
+    "name": "Zie619/n8n-workflows",
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "stars": 41310,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Workflow Automation",
+    "summary": "This is the ultimate, comprehensive collection of over 4,300 pre-built n8n automation workflows covering hundreds of integrations and services. Users should leverage this massive resource library to rapidly deploy complex integration and data processing tasks without needing to build them from scratch. It serves as a centralized hub for the n8n community.",
+    "use_cases": [
+      "Quickly deploying pre-tested solutions for common automation scenarios in the n8n platform.",
+      "Implementing rapid integration between various SaaS applications (e.g., connecting CRMs, databases, and communication tools).",
+      "Automating repetitive data processing, transformation, scheduling, and notification tasks."
+    ],
+    "tech_stack": [
+      "n8n (Workflow Automation Platform)",
+      "JSON"
+    ]
+  },
+  "Chainlit/chainlit": {
+    "name": "Chainlit/chainlit",
+    "url": "https://github.com/Chainlit/chainlit",
+    "stars": 11006,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Application Frameworks",
+    "summary": "Chainlit is a powerful framework for building and deploying conversational AI applications rapidly, primarily leveraging Python and modern LLMs. It provides an immediate, production-ready web UI for interacting with, visualizing, and debugging complex AI flows and LangChain applications. Use Chainlit to transform prototypes into shareable, polished chat interfaces quickly.",
+    "use_cases": [
+      "Rapid prototyping and visualization of LLM chains and AI flows",
+      "Building and deploying internal tools or knowledge base chatbots",
+      "Creating polished, user-facing conversational interfaces and assistants"
+    ],
+    "tech_stack": [
+      "Python",
+      "TypeScript"
+    ]
+  },
+  "Arindam200/awesome-ai-apps": {
+    "name": "Arindam200/awesome-ai-apps",
+    "url": "https://github.com/Arindam200/awesome-ai-apps",
+    "stars": 7313,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Applications & Agents",
+    "summary": "This repository is a comprehensive collection of practical examples, tutorials, and recipes for building powerful LLM-powered applications, focusing on modern AI paradigms like RAG and advanced AI agents. It serves as an excellent resource for developers looking for concrete code examples to implement custom chatbots and complex AI workflows.",
+    "use_cases": [
+      "Learning implementation strategies for Retrieval-Augmented Generation (RAG) pipelines.",
+      "Finding code recipes and examples for building custom AI agents and multi-step workflows.",
+      "Developing production-ready LLM applications, including sophisticated chatbots and assistants."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM Frameworks (LangChain, LlamaIndex, etc.)"
+    ]
+  },
+  "mesop-dev/mesop": {
+    "name": "mesop-dev/mesop",
+    "url": "https://github.com/mesop-dev/mesop",
+    "stars": 6479,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Internal Tooling",
+    "summary": "Mesop is a Python-based UI framework used for rapidly developing web applications, emphasizing internal tools, demos, and AI app interfaces. It allows Python developers to create robust and modern UIs quickly without relying heavily on traditional frontend technologies. It is ideal for prototyping and deploying internal applications or operational dashboards, and is used at Google for rapid internal development.",
+    "use_cases": [
+      "Rapidly build internal web applications and dashboards",
+      "Develop user interfaces for AI/ML models and applications",
+      "Create quick web demos and prototypes for Python projects"
+    ],
+    "tech_stack": [
+      "Python",
+      "UI Framework"
+    ]
+  },
+  "writer/writer-framework": {
+    "name": "writer/writer-framework",
+    "url": "https://github.com/writer/writer-framework",
+    "stars": 1433,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Application Frameworks",
+    "summary": "Writer Framework is an open-source framework for creating data and AI applications, featuring a no-code visual editor for building UIs and a standard Python backend. It enforces strong separation between UI and business logic, making it ideal for rapidly developing complex and easily testable data apps.",
+    "use_cases": [
+      "Building interactive user interfaces and dashboards for deployed AI/ML models.",
+      "Creating complex, data-driven applications with strong separation of UI and logic.",
+      "Rapid prototyping of data apps using a low-code visual editor combined with custom Python backend."
+    ],
+    "tech_stack": [
+      "Python",
+      "WebSockets"
+    ]
+  },
+  "reflex-dev/reflex": {
+    "name": "reflex-dev/reflex",
+    "url": "https://github.com/reflex-dev/reflex",
+    "stars": 27574,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Full-stack Frameworks (Python)",
+    "summary": "Reflex is a powerful framework that enables developers to build and deploy performant, customizable web applications entirely in Python, bypassing the need for JavaScript. It serves as a full-stack solution for quickly creating sophisticated GUIs and dashboards. Use it when seeking high developer productivity within the Python ecosystem for internal tools or general web applications.",
+    "use_cases": [
+      "Building interactive data dashboards and analytics portals",
+      "Creating internal tools, administrative panels, and workflow applications",
+      "Rapid prototyping and deployment of full-stack web applications"
+    ],
+    "tech_stack": [
+      "Python",
+      "Web Framework"
+    ]
+  },
+  "widgetti/solara": {
+    "name": "widgetti/solara",
+    "url": "https://github.com/widgetti/solara",
+    "stars": 2117,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Python Web Frameworks",
+    "summary": "Solara is a Pure Python, React-style framework designed for building scalable web and data applications, focusing on robust state management and code reusability. It allows developers to create complex dashboards and applications without offloading the frontend to JavaScript, integrating seamlessly with Jupyter and popular Python web servers like FastAPI and Flask.",
+    "use_cases": [
+      "Building scalable, component-based data dashboards and analytics applications",
+      "Developing full-stack web applications purely in Python using familiar React paradigms",
+      "Creating highly interactive user interfaces and widgets within Jupyter and IPython environments"
+    ],
+    "tech_stack": [
+      "Python",
+      "React-style Framework"
+    ]
+  },
+  "zauberzeug/nicegui": {
+    "name": "zauberzeug/nicegui",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "stars": 14633,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "GUI Frameworks",
+    "summary": "NiceGUI is an easy-to-use Python-based UI framework that allows developers to build interactive web applications and interfaces purely using Python code, rendering components like buttons, plots, and 3D scenes in a web browser. It is excellent for rapid prototyping, creating dashboards, micro web apps, and interactive control panels for robotics or ML configuration.",
+    "use_cases": [
+      "Building interactive dashboards for data visualization and operational metrics",
+      "Creating configuration and control interfaces for robotics and smart home solutions",
+      "Developing small utility web apps or micro services requiring a simple, Python-driven GUI frontend"
+    ],
+    "tech_stack": [
+      "Python",
+      "Web Application Framework"
+    ]
+  },
+  "marimo-team/marimo": {
+    "name": "marimo-team/marimo",
+    "url": "https://github.com/marimo-team/marimo",
+    "stars": 17265,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Data & Analytics",
+    "subcategory": "Data Science Tools",
+    "summary": "Marimo is a reactive Python notebook designed for data science and machine learning, emphasizing reproducible experiments and easy version control. It automatically manages data dependencies (DAG), allowing notebooks to be executed as scripts or deployed instantly as interactive web applications. Use it when needing a modern, reproducible alternative to traditional notebooks.",
+    "use_cases": [
+      "Running reproducible data science and machine learning experiments",
+      "Developing and deploying interactive data visualizations and web applications",
+      "Replacing traditional notebooks for better version control and reactive dataflow management"
+    ],
+    "tech_stack": [
+      "Python",
+      "Reactive Programming / Dataflow"
+    ]
+  },
+  "AnswerDotAI/fasthtml": {
+    "name": "AnswerDotAI/fasthtml",
+    "url": "https://github.com/AnswerDotAI/fasthtml",
+    "stars": 6700,
+    "language": "Jupyter Notebook",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Full-stack Frameworks",
+    "summary": "FastHTML is a next-generation web framework designed for building fast, scalable, and interactive HTML applications using minimal Python code. It maps Python functionality directly to HTML and HTTP, allowing developers to leverage the full Python ecosystem for web app development. Use it when rapid prototyping and developing complex, lightweight web interfaces primarily in Python is required.",
+    "use_cases": [
+      "Building interactive, data-driven web applications and user interfaces.",
+      "Developing scalable web backends and APIs entirely within the Python ecosystem.",
+      "Rapid prototyping of complex web applications with minimal boilerplate code."
+    ],
+    "tech_stack": [
+      "Python",
+      "FastHTML"
+    ]
+  },
+  "flet-dev/flet": {
+    "name": "flet-dev/flet",
+    "url": "https://github.com/flet-dev/flet",
+    "stars": 14756,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Cross-Platform UI Frameworks",
+    "summary": "Flet is a Python framework powered by Flutter, designed for building realtime, multi-platform applications targeting web, desktop, and mobile devices. It utilizes a server-driven UI approach, enabling Python developers to easily deploy a single codebase everywhere. Use Flet when you need a streamlined way to create modern, functional user interfaces strictly using Python.",
+    "use_cases": [
+      "Developing internal business tools, dashboards, and management interfaces",
+      "Creating native desktop and mobile applications from a single Python codebase",
+      "Rapid prototyping and deployment of functional user interfaces using server-driven UI"
+    ],
+    "tech_stack": [
+      "Python",
+      "Flutter"
+    ]
+  },
+  "snehilvj/dash-mantine-components": {
+    "name": "snehilvj/dash-mantine-components",
+    "url": "https://github.com/snehilvj/dash-mantine-components",
+    "stars": 695,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "summary": "Dash Mantine Components is an extensive library featuring over 90 UI components based on Mantine, specifically designed for use within Plotly Dash applications. Developers should use this library to build professional, modern, and aesthetically pleasing interactive dashboards entirely in Python. It provides high-quality UI/UX elements that significantly enhance standard Dash component offerings.",
+    "use_cases": [
+      "Developing complex, feature-rich data dashboards using Python and Plotly Dash.",
+      "Integrating modern UI/UX elements (Mantine) into existing Dash analytical applications.",
+      "Creating highly interactive web interfaces for data exploration and reporting."
+    ],
+    "tech_stack": [
+      "Plotly Dash",
+      "TypeScript",
+      "Mantine",
+      "Python"
+    ]
+  },
+  "volcengine/verl": {
+    "name": "volcengine/verl",
+    "url": "https://github.com/volcengine/verl",
+    "stars": 15931,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Reinforcement Learning",
+    "summary": "verl is an open-source, high-performance Python library for applying Reinforcement Learning (RL) techniques, specifically tailored for training and aligning Large Language Models (LLMs). Initiated by the ByteDance Seed team, it provides tools for complex RL algorithms like RLHF. Use verl when implementing advanced, distributed RL-based fine-tuning methods for foundation models.",
+    "use_cases": [
+      "Performing Reinforcement Learning from Human Feedback (RLHF) to align LLMs with human preferences.",
+      "Developing and benchmarking novel Reinforcement Learning algorithms for sequence generation tasks.",
+      "Scaling RL training for large foundation models using distributed computing setups."
+    ],
+    "tech_stack": [
+      "Python",
+      "Deep Learning Frameworks (e.g., PyTorch/JAX)"
+    ]
+  },
+  "Jiayi-Pan/TinyZero": {
+    "name": "Jiayi-Pan/TinyZero",
+    "url": "https://github.com/Jiayi-Pan/TinyZero",
+    "stars": 12397,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM/NLP Models",
+    "summary": "TinyZero is a minimal, cost-effective reproduction of the DeepSeek R1-Zero methodology, which utilizes Reinforcement Learning (RL) to develop self-verification and search abilities in a 3B base language model. This repository is used by researchers and enthusiasts to study how RL can enhance reasoning capabilities on structured tasks like countdown and multiplication. It demonstrates that advanced reasoning training can be achieved for a low budget (under $30).",
+    "use_cases": [
+      "Reproducing and studying the DeepSeek R1-Zero reasoning architecture using RL",
+      "Training small language models to develop self-verification and search skills",
+      "Benchmarking the effectiveness of RL-based reasoning against traditional fine-tuning methods"
+    ],
+    "tech_stack": [
+      "Python",
+      "PyTorch",
+      "VLLM"
+    ]
+  },
+  "Hannibal046/Awesome-LLM": {
+    "name": "Hannibal046/Awesome-LLM",
+    "url": "https://github.com/Hannibal046/Awesome-LLM",
+    "stars": 25563,
+    "language": "Various",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLMs & Generative AI",
+    "summary": "Awesome-LLM is a comprehensive curated resource list focusing on Large Language Models (LLMs), including frameworks, deployment tools, and research papers. It is ideal for developers and researchers who need a central hub to find trending LLM projects, open checkpoints, APIs, and educational materials.",
+    "use_cases": [
+      "Discovering trending research papers and projects related to Large Language Models (LLMs)",
+      "Finding open-source frameworks for LLM training, fine-tuning, and deployment",
+      "Locating publicly available LLM checkpoints, APIs, courses, and tutorials"
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Curated List (Resources)"
+    ]
+  },
+  "ollama/ollama": {
+    "name": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "stars": 156107,
+    "language": "Go",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Serving & Inference",
+    "summary": "Ollama is a command-line tool and API server designed to simplify running large language models (LLMs) like Llama 3 and Mistral locally across macOS, Windows, and Linux environments. It handles model downloads, setup, and serving, making it accessible for developers and researchers. Use it to quickly experiment with open-source models or integrate local LLM capabilities into applications.",
+    "use_cases": [
+      "Running various LLMs (e.g., Llama, Gemma, Mistral) locally on personal hardware for private use",
+      "Developing and testing AI applications by leveraging the local Ollama API via Python or JavaScript libraries",
+      "Easily switching between and managing different open-source models for benchmarking or experimentation",
+      "Deploying LLM inference services easily using Docker"
+    ],
+    "tech_stack": [
+      "Go",
+      "LLM Architecture (e.g., Llama, Mistral)"
+    ]
+  },
+  "creold/illustrator-scripts": {
+    "name": "creold/illustrator-scripts",
+    "url": "https://github.com/creold/illustrator-scripts",
+    "stars": 930,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Creative Software Extensions",
+    "summary": "This is a collection of powerful ExtendScript (JSX) scripts designed to extend the functionality and automate repetitive tasks within Adobe Illustrator. Users should utilize these scripts to significantly speed up their design workflow, handle complex operations, and add features not natively available in the standard application. The repository focuses entirely on enhancing the productivity of graphic designers using the Adobe suite.",
+    "use_cases": [
+      "Automating complex or highly repetitive design tasks within Adobe Illustrator.",
+      "Extending Illustrator's native functionality with custom tools and niche productivity features.",
+      "Batch processing assets, managing large object counts, or quickly manipulating layers/objects efficiently."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "ExtendScript (JSX)"
+    ]
+  },
+  "HarimxChoi/anti_bot_scraper": {
+    "name": "HarimxChoi/anti_bot_scraper",
+    "url": "https://github.com/HarimxChoi/anti_bot_scraper",
+    "stars": 29,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Web Scraping",
+    "summary": "An advanced Python scraper utilizing Playwright to bypass complex anti-bot detection systems, specifically targeting Korean real estate data from sites like Naver-Land. It is designed for investors and researchers needing reliable, structured data for property market analysis and identifying investment opportunities. Its primary function is reliable data extraction where standard scraping methods fail due to anti-bot measures.",
+    "use_cases": [
+      "Extracting comprehensive real estate listing data (prices, transaction types) from protected Korean property sites.",
+      "Automating data collection for market trend analysis and identifying specific investment strategies, such as gap investment.",
+      "Bypassing modern anti-bot and anti-crawling defenses using advanced browser automation techniques."
+    ],
+    "tech_stack": [
+      "Python",
+      "Playwright"
+    ]
+  },
+  "msitarzewski/agency-agents": {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "stars": 666,
+    "language": "Various",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Agents & Prompt Engineering",
+    "summary": "This repository is a collection of 51 meticulously defined AI agent personas, designed to simulate a complete professional agency team, including roles like developers and marketers. Each agent has a specialized personality and process, allowing users to structure complex multi-step tasks by assigning specialized LLM roles.",
+    "use_cases": [
+      "Simulating a full agency workflow or team structure for project management using multiple LLM interactions",
+      "Executing advanced, multi-stage task automation requiring specialized, opinionated roles (e.g., development, testing, marketing)",
+      "Developing detailed marketing strategies and content creation pipelines using roles like 'whimsy injectors' and 'community ninjas'"
+    ],
+    "tech_stack": [
+      "Large Language Models (LLMs)",
+      "Prompt Engineering"
+    ]
+  },
+  "context-machine-lab/sleepless-agent": {
+    "name": "context-machine-lab/sleepless-agent",
+    "url": "https://github.com/context-machine-lab/sleepless-agent",
+    "stars": 354,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Automation & Scripting",
+    "subcategory": "AI/Autonomous Agent Workflow Automation",
+    "summary": "Sleepless Agent is a 24/7 autonomous agent built in Python designed to maximize usage of expensive AI models like Claude Code Pro, especially during off-peak hours. It operates as an AgentOS, managing tasks submitted via Slack, handling isolated workspaces, and executing development tasks including Git commits and PR creation. Use it to ensure continuous development progress and fully leverage high-limit AI subscriptions.",
+    "use_cases": [
+      "Fully automating tedious or low-priority coding tasks (e.g., refactoring, writing tests) during off-hours.",
+      "Maximizing the utilization and cost-efficiency of high-rate generative AI subscriptions.",
+      "Managing isolated coding environments and autonomously creating Git commits and Pull Requests based on task completion."
+    ],
+    "tech_stack": [
+      "Python",
+      "Anthropic Claude API",
+      "Slack API",
+      "SQLite"
+    ]
+  },
+  "Dicklesworthstone/mcp_agent_mail": {
+    "name": "Dicklesworthstone/mcp_agent_mail",
+    "url": "https://github.com/Dicklesworthstone/mcp_agent_mail",
+    "stars": 740,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Agent Communication / Multi-Agent Systems",
+    "summary": "MCP Agent Mail is an asynchronous, mail-like coordination layer designed specifically for multiple concurrent coding agents. It provides agents with unique identities, an inbox/outbox system, searchable message history, and file reservation 'leases' to prevent conflicts. This tool enables complex coordination and change-intent signaling among autonomous agents, using Git and SQLite for robust logging and indexing.",
+    "use_cases": [
+      "Coordinating tasks between specialized agents (e.g., a backend agent notifying a frontend agent of API changes)",
+      "Maintaining an auditable history and index of all decisions and communications made by autonomous agents",
+      "Implementing voluntary file reservation 'leases' to ensure agents do not simultaneously edit the same artifacts",
+      "Providing a stable identity and directory service for new agents joining a complex development project"
+    ],
+    "tech_stack": [
+      "Python",
+      "SQLite",
+      "Git",
+      "FastMCP"
+    ]
+  },
+  "gagarinyury/claude-config-editor": {
+    "name": "gagarinyury/claude-config-editor",
+    "url": "https://github.com/gagarinyury/claude-config-editor",
+    "stars": 129,
+    "language": "HTML",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "System Optimization Tools",
+    "summary": "Claude Config Editor is a lightweight web tool designed to clean and optimize the frequently bloated configuration files (.claude.json) for Claude Code/Desktop applications. It provides a missing graphical interface for bulk deleting chat histories, analyzing file sizes, and managing server settings visually. Users should use this tool locally to drastically reduce config size (e.g., from 17 MB to under 1 MB) and speed up their Claude experience.",
+    "use_cases": [
+      "Bulk deleting historical chat logs to significantly reduce the size of the configuration file and improve Claude's load times.",
+      "Visually analyzing configuration file size and identifying sources of bloat.",
+      "Exporting configuration data for secure backup or transfer.",
+      "Visually managing associated MCP server configurations within the Claude environment."
+    ],
+    "tech_stack": [
+      "HTML",
+      "Python"
+    ]
+  },
+  "ruc-datalab/DeepAnalyze": {
+    "name": "ruc-datalab/DeepAnalyze",
+    "url": "https://github.com/ruc-datalab/DeepAnalyze",
+    "stars": 2108,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Autonomous Data Analysis",
+    "summary": "DeepAnalyze is an agentic Large Language Model (LLM) designed for autonomous data science, functioning as a fully automated AI data analyst. It excels at processing large datasets, performing sophisticated analysis, and generating professional reports with minimal human input. Use it when you need rapid, comprehensive data insights and analysis reports generated automatically from raw data.",
+    "use_cases": [
+      "Automated generation of comprehensive data analysis reports and professional summaries.",
+      "Conducting complex exploratory data analysis (EDA) and statistical modeling autonomously.",
+      "Serving as an AI scientist agent to answer complex data questions using natural language prompts."
+    ],
+    "tech_stack": [
+      "Python",
+      "Large Language Models (LLMs) / Agentic AI Frameworks"
+    ]
+  },
+  "obra/superpowers": {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 7032,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Development Tools",
+    "summary": "Superpowers is a comprehensive skills library for AI coding assistants, offering proven techniques, patterns, and workflows for complex software engineering tasks. It enhances AI productivity by standardizing processes like TDD, systematic debugging, and code review. Engineers use this to ensure AI outputs are consistently high-quality and follow structured, reliable methodologies.",
+    "use_cases": [
+      "Implementing Test-Driven Development (TDD) and async testing using standardized AI workflows.",
+      "Systematically tracing and verifying the root cause of bugs during AI-assisted debugging sessions.",
+      "Structuring complex engineering tasks, such as planning or code review, using integrated slash commands.",
+      "Developing, testing, and sharing new standardized skills or workflows for internal agent use."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "AI Workflow/Prompt Engineering"
+    ]
+  },
+  "CaviraOSS/OpenMemory": {
+    "name": "CaviraOSS/OpenMemory",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 1897,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Infrastructure & Agents",
+    "summary": "OpenMemory is a self-hosted, framework-free memory engine that provides persistent long-term memory for AI systems and agents. It manages embeddings and enables explainable retrieval (RAG), allowing LLMs to recall past interactions and learned context. It is essential for building complex, stateful AI agents that need cognitive continuity.",
+    "use_cases": [
+      "Providing stateful, long-term memory for complex AI agents and LLM applications.",
+      "Implementing explainable Retrieval-Augmented Generation (RAG) pipelines for grounded responses.",
+      "Self-hosting a dedicated memory layer (vector database/engine) independent of LLM providers."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "LLM APIs (OpenAI/Ollama/Gemini)"
+    ]
+  },
+  "diet103/claude-code-infrastructure-showcase": {
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+    "stars": 6749,
+    "language": "Shell",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Development Infrastructure",
+    "summary": "This is a comprehensive reference library of production-tested infrastructure for managing Claude Code development. It provides patterns and systems designed to solve common LLM scaling issues, such as ensuring skills auto-activate, managing context resets, and structuring modular specialized agents. Use this repository to build robust, enterprise-grade AI development workflows.",
+    "use_cases": [
+      "Implementing scalable, modular LLM agents following patterns like the 500-line rule.",
+      "Automating skill and tool activation within a Claude Code development workflow using hooks.",
+      "Creating a persistent documentation and context system that survives LLM context resets."
+    ],
+    "tech_stack": [
+      "Shell",
+      "Claude AI Infrastructure"
+    ]
+  },
+  "aguiarsc/wireframe-ui": {
+    "name": "aguiarsc/wireframe-ui",
+    "url": "https://github.com/aguiarsc/wireframe-ui",
+    "stars": 159,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Design & UI/UX",
+    "subcategory": "Prototyping Tools",
+    "summary": "wireframe-ui is a component library allowing developers to quickly build low-fidelity mockups and prototypes directly within their IDE using React components. It aims to eliminate the need for dedicated design tools like Figma during the initial development and concept sketching phase. Utilizing the shadcn/ui pattern, components are easily installed and customized using standard development workflows.",
+    "use_cases": [
+      "Rapidly prototype application screens and user flows during the development process",
+      "Build low-fidelity mockups without requiring external design software",
+      "Create quick development sketches or proof-of-concepts for internal review"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React",
+      "Tailwind CSS"
+    ]
+  },
+  "yusufkaraaslan/lazy-bird": {
+    "name": "yusufkaraaslan/lazy-bird",
+    "url": "https://github.com/yusufkaraaslan/lazy-bird",
+    "stars": 160,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "DevOps & Infrastructure",
+    "subcategory": "AI-Powered Development Tools",
+    "summary": "Lazy Bird is an AI-powered development assistant utilizing Claude Code to autonomously implement features, run tests, and create PRs across diverse projects. It provides universal automation, supporting frameworks like Python, Rust, Node.js, Django, React, and game engines like Godot and Unity. Developers use it to delegate development workflow tasks and save significant time on routine or issue-driven implementation.",
+    "use_cases": [
+      "Automating feature implementation directly from issues using LLMs (Claude Code)",
+      "Running autonomous testing and test automation for multi-framework projects",
+      "Streamlining CI/CD pipelines by automatically generating and submitting Pull Requests (GitOps)",
+      "Providing 24/7 AI assistance for development tasks across complex polyglot repositories"
+    ],
+    "tech_stack": [
+      "Python",
+      "Anthropic/Claude"
+    ]
+  },
+  "linuxserver/Heimdall": {
+    "name": "linuxserver/Heimdall",
+    "url": "https://github.com/linuxserver/Heimdall",
+    "stars": 8775,
+    "language": "PHP",
+    "starred_date": "2025-11-17",
+    "main_category": "Self Hosted",
+    "subcategory": "Application Dashboards & Startpages",
+    "summary": "Heimdall is an elegant application dashboard designed to serve as a central start page and launcher for all self-hosted web services and bookmarks. It provides a clean, cohesive interface to organize and quickly access tools like Plex, Sonarr, Radarr, and NZBGet. It is primarily used as the landing page for a home server or HTPC setup.",
+    "use_cases": [
+      "Creating a unified homepage for a home server or HTPC environment",
+      "Quickly launching self-hosted services like Plex, Sonarr, Radarr, and NZBGet",
+      "Consolidating frequently used bookmarks and external web links into a single organized dashboard"
+    ],
+    "tech_stack": [
+      "PHP",
+      "Nginx"
+    ]
+  },
+  "thecowan/wallpanel-android": {
+    "name": "thecowan/wallpanel-android",
+    "url": "https://github.com/thecowan/wallpanel-android",
+    "stars": 756,
+    "language": "Kotlin",
+    "starred_date": "2025-11-17",
+    "main_category": "Smart Home",
+    "subcategory": "Home Automation Dashboard / Kiosk Mode Application",
+    "summary": "WallPanel is an Android application designed to turn any Android device into a dedicated, wall-mounted display for web-based dashboards and Home Automation Platforms. It provides a persistent, always-on interface for smart home systems like Home Assistant, leveraging the device's screen and internal sensors. It is ideal for creating a permanent control panel.",
+    "use_cases": [
+      "Mounting an Android tablet on a wall to serve as a persistent, dedicated display for Home Assistant or other web dashboards.",
+      "Running a smart home dashboard in Kiosk Mode, preventing users from exiting the application.",
+      "Displaying security camera feeds or sensor data on a fixed device.",
+      "Repurposing older Android devices as specialized home automation control panels."
+    ],
+    "tech_stack": [
+      "Kotlin",
+      "Android SDK"
+    ]
+  },
+  "toddbirchard/plotlydash-flask-tutorial": {
+    "name": "toddbirchard/plotlydash-flask-tutorial",
+    "url": "https://github.com/toddbirchard/plotlydash-flask-tutorial",
+    "stars": 494,
+    "language": "Less",
+    "starred_date": "2025-11-17",
+    "main_category": "Data & Analytics",
+    "subcategory": "Data Visualization",
+    "summary": "This repository provides a tutorial for embedding interactive Plotly Dash dashboards directly into a structured Flask application. It allows developers to leverage Flask for routing and traditional web features while utilizing Dash and Pandas for powerful data analysis and visualization capabilities. Use this when integrating complex, dynamic dashboards into existing Python web projects.",
+    "use_cases": [
+      "Integrating interactive data dashboards (Dash) into existing Flask applications.",
+      "Building multi-page web applications that combine traditional views with embedded analytical tools.",
+      "Learning best practices for organizing Flask and Dash components using Blueprints."
+    ],
+    "tech_stack": [
+      "Python",
+      "Flask",
+      "Plotly Dash"
+    ]
+  },
+  "TailGrids/tailwind-ui-components": {
+    "name": "TailGrids/tailwind-ui-components",
+    "url": "https://github.com/TailGrids/tailwind-ui-components",
+    "stars": 1439,
+    "language": "HTML",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Frontend UI Libraries",
+    "summary": "TailGrids is a comprehensive UI library offering over 600 high-quality, copy-paste components and blocks built on Tailwind CSS. It significantly accelerates development by providing pre-built assets ready for modern websites, applications, and dashboards. Use this library when you need a multi-framework compatible (HTML, React, Vue) design system for rapid, large-scale frontend development.",
+    "use_cases": [
+      "Rapidly prototyping and building modern websites and landing pages.",
+      "Developing high-quality administrative panels, dashboards, and web applications.",
+      "Implementing a complete and consistent design system using Tailwind CSS without starting from scratch."
+    ],
+    "tech_stack": [
+      "Tailwind CSS",
+      "HTML"
+    ]
+  },
+  "baserow/baserow": {
+    "name": "baserow/baserow",
+    "url": "https://github.com/baserow/baserow",
+    "stars": 3262,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "No-Code/Low-Code Platforms",
+    "summary": "Baserow is an open-source, no-code platform designed as the best self-hostable alternative to Airtable, allowing users to build and manage relational databases, custom applications, and automations. It combines the ease of a spreadsheet interface with the power of a fully structured database.\nUse it to empower teams to create powerful internal tools that meet security compliance requirements without writing a single line of code.",
+    "use_cases": [
+      "Building custom relational databases and internal tools without writing code",
+      "Creating self-hosted, secure alternatives to proprietary tools like Airtable or Google Sheets",
+      "Designing and automating complex workflows and data management processes"
+    ],
+    "tech_stack": [
+      "Python",
+      "PostgreSQL",
+      "RESTful API"
+    ]
+  },
+  "Augani/adabraka-ui": {
+    "name": "Augani/adabraka-ui",
+    "url": "https://github.com/Augani/adabraka-ui",
+    "stars": 254,
+    "language": "Rust",
+    "starred_date": "2025-11-17",
+    "main_category": "Design & UI/UX",
+    "subcategory": "UI Component Library",
+    "summary": "adabraka-ui is a professional UI component library built specifically for the GPUI framework, which powers the Zed text editor. It provides a comprehensive set of ready-to-use widgets and design components for building high-performance desktop applications in Rust. Use this library when developing GPU-accelerated desktop tools that require a modern, consistent, and integrated UI system.",
+    "use_cases": [
+      "Building new high-performance desktop applications in Rust using the GPUI framework.",
+      "Integrating a comprehensive set of pre-designed UI components (e.g., buttons, panels) into a desktop application.",
+      "Creating custom graphical user interfaces optimized for GPU acceleration."
+    ],
+    "tech_stack": [
+      "Rust",
+      "GPUI (GPU-accelerated UI framework)"
+    ]
+  },
+  "bytebot-ai/bytebot": {
+    "name": "bytebot-ai/bytebot",
+    "url": "https://github.com/bytebot-ai/bytebot",
+    "stars": 9644,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents / Desktop Automation",
+    "summary": "Bytebot is a self-hosted, open-source AI desktop agent designed to automate complex computer tasks using natural language commands. It runs within a containerized Linux environment, giving the AI its own virtual computer to browse the web and interact with applications. This tool is ideal for users looking to delegate multi-step, routine digital workflows without requiring manual supervision.",
+    "use_cases": [
+      "Automating complex, multi-step digital workflows (e.g., data entry, form submission, report generation).",
+      "Testing application interfaces and performing automated end-to-end tasks in a controlled containerized desktop environment.",
+      "Delegating routine administrative computer tasks such as managing files, emailing, or interacting with web tools based on natural language instruction."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Docker",
+      "OpenAI/Anthropic/Gemini APIs",
+      "Agentic AI Frameworks"
+    ]
+  },
+  "json-editor/json-editor": {
+    "name": "json-editor/json-editor",
+    "url": "https://github.com/json-editor/json-editor",
+    "stars": 4842,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "Form Generation",
+    "summary": "This JavaScript library automatically generates an HTML form from a JSON Schema (v3 or v4). It provides a structured, validated interface for users to edit JSON data without requiring manual form coding. Use it to rapidly create configuration editors or administrative panels that conform precisely to defined data models.",
+    "use_cases": [
+      "Building dynamic configuration editors for web applications or microservices.",
+      "Creating administrative dashboards for managing structured data defined by JSON Schemas.",
+      "Generating complex data input forms where strict validation against a schema is required."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "JSON Schema",
+      "Bootstrap"
+    ]
+  },
+  "josdejong/jsoneditor": {
+    "name": "josdejong/jsoneditor",
+    "url": "https://github.com/josdejong/jsoneditor",
+    "stars": 12117,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "JSON Tools",
+    "summary": "JSON Editor is a comprehensive web-based tool built in JavaScript designed to view, edit, format, and validate JSON data structures. It offers multiple modes, including an interactive tree editor and a code editor, simplifying data manipulation for users. It is ideal for embedding interactive JSON handling capabilities into web applications or dashboards.",
+    "use_cases": [
+      "Integrating an interactive configuration editor into web-based administration panels or developer tools.",
+      "Debugging and inspecting large JSON payloads returned from APIs or services within a browser environment.",
+      "Providing end-users with a structured interface to safely edit complex JSON settings while ensuring data validation."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Web Browsers (Client-side)"
+    ]
+  },
+  "psf/requests-html": {
+    "name": "psf/requests-html",
+    "url": "https://github.com/psf/requests-html",
+    "stars": 13867,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Web Scraping & Parsing",
+    "summary": "Requests-HTML is a Python library that merges the simplicity of the standard Requests library with powerful HTML parsing, including full JavaScript rendering via Chromium. It provides robust support for both CSS and XPath selectors, making web scraping simple and intuitive. Use it for high-level data extraction and handling complex, dynamic web pages where simple HTTP requests fail.",
+    "use_cases": [
+      "Scraping content from dynamic, JavaScript-rendered websites without complex setup.",
+      "Rapidly prototyping web scrapers using familiar CSS selectors (jQuery-style) for data extraction.",
+      "Automating the collection and parsing of structured data from numerous web pages."
+    ],
+    "tech_stack": [
+      "Python",
+      "Requests",
+      "PyQuery / LXML"
+    ]
+  },
+  "miso-belica/sumy": {
+    "name": "miso-belica/sumy",
+    "url": "https://github.com/miso-belica/sumy",
+    "stars": 3638,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Natural Language Processing (NLP) / Text Summarization",
+    "summary": "Sumy is a Python library and command-line utility designed for automatic text summarization, supporting various extractive methods including LSA, LexRank, and TextTeaser. It can process both plain text documents and content extracted from HTML pages. Use it when you need to programmatically generate concise summaries from long articles, documents, or scraped web content.",
+    "use_cases": [
+      "Generating short, accurate previews or snippets for news feeds and content aggregation platforms.",
+      "Integrating automatic summarization into document processing pipelines to analyze large reports rapidly.",
+      "Providing command-line utility for quickly summarizing text files or web content without writing complex scripts."
+    ],
+    "tech_stack": [
+      "Python",
+      "NLP / Text Summarization Algorithms (LSA, LexRank)"
+    ]
+  },
+  "elliotgao2/toapi": {
+    "name": "elliotgao2/toapi",
+    "url": "https://github.com/elliotgao2/toapi",
+    "stars": 3539,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "API Generators & Web Scraping",
+    "summary": "Toapi is a Python library that allows users to turn any existing website into a structured API, effectively exposing scraped data as JSON endpoints. It leverages crawling techniques to extract data from HTML and provides mapping tools to define the output schema. This tool is used to quickly integrate data from third-party sites that lack official APIs into new applications or services.",
+    "use_cases": [
+      "Generating instant JSON APIs for websites that only expose raw HTML content.",
+      "Building microservices that require real-time data feeds scraped from external websites.",
+      "Rapidly prototyping applications that need immediate access to third-party web data.",
+      "Creating a standardized data layer over legacy web properties."
+    ],
+    "tech_stack": [
+      "Python",
+      "Flask (Web Framework)"
+    ]
+  },
+  "deanmalmgren/textract": {
+    "name": "deanmalmgren/textract",
+    "url": "https://github.com/deanmalmgren/textract",
+    "stars": 4358,
+    "language": "HTML",
+    "starred_date": "2025-11-17",
+    "main_category": "Data & Analytics",
+    "subcategory": "Text Mining & NLP Utilities",
+    "summary": "textract is a robust Python library designed to simplify the process of extracting raw text content from almost any document format, including PDFs, DOCX, and images. It automatically handles various underlying dependencies, making document standardization easy for data pipelines. This tool is essential for preparing unstructured data for downstream natural language processing or indexing tasks.",
+    "use_cases": [
+      "Building search engines or internal indexes that must process content from mixed file formats (e.g., PDFs, Word, HTML).",
+      "Converting proprietary or binary documents into standardized plain text for archival or analysis.",
+      "Creating data preprocessing pipelines that feed unstructured document text directly into NLP models for tasks like sentiment analysis or topic modeling."
+    ],
+    "tech_stack": [
+      "Python",
+      "Natural Language Processing",
+      "Data Mining"
+    ]
+  },
+  "kurtmckee/feedparser": {
+    "name": "kurtmckee/feedparser",
+    "url": "https://github.com/kurtmckee/feedparser",
+    "stars": 2233,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Data Parsing / Web Integration Libraries",
+    "summary": "Feedparser is a robust Python library designed to parse and standardize data from various feed formats, including Atom, RSS, JSON, and RDF. It is essential for developers building applications that need to reliably consume content streams or integrate data from disparate web sources.",
+    "use_cases": [
+      "Building content aggregators or news readers that consume multiple RSS/Atom feeds.",
+      "Integrating external blog posts or news updates into a content management system.",
+      "Converting disparate feed formats (like Atom, RSS 1.0/2.0, JSON Feed) into a standardized Python dictionary structure."
+    ],
+    "tech_stack": [
+      "Python"
+    ]
+  },
+  "holstein13/mcp-config-manager": {
+    "name": "holstein13/mcp-config-manager",
+    "url": "https://github.com/holstein13/mcp-config-manager",
+    "stars": 17,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Development Tools",
+    "summary": "The MCP Config Manager is a Python utility designed to manage server configurations adhering to the Model Context Protocol (MCP) for systems like Claude and Gemini. It provides both a command-line interface and a fully functional GUI for easy server enabling, disabling, and preset management. Use it to quickly sync and apply specialized configuration profiles across different AI development environments.",
+    "use_cases": [
+      "Rapidly switch between enabled MCP servers for different AI models (e.g., Claude vs. Gemini).",
+      "Apply predefined configuration presets to optimize AI server performance or context handling.",
+      "Synchronize Model Context Protocol settings across multiple development machines or environments using the CLI or GUI."
+    ],
+    "tech_stack": [
+      "Python",
+      "PyQt6 | Tkinter"
+    ]
+  },
+  "idosal/git-mcp": {
+    "name": "idosal/git-mcp",
+    "url": "https://github.com/idosal/git-mcp",
+    "stars": 6964,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Developer Tools / AI Agents",
+    "summary": "GitMCP is a free, open-source remote server that acts as a Multi-Codebase Project (MCP) layer for any GitHub repository, designed to stop code hallucinations caused by existing LLMs. It enables sophisticated AI agents (like those powering Cursor and Copilot) to interact accurately with the entire codebase by providing a centralized, reliable environment. Developers use GitMCP to enhance code quality and run complex, agentic tasks remotely.",
+    "use_cases": [
+      "Integrating advanced AI agents (Claude, Copilot) directly into GitHub projects for improved accuracy.",
+      "Eliminating LLM-induced code hallucinations during generation and modification tasks.",
+      "Providing a remote, unified MCP environment for proprietary IDEs like Cursor to understand entire codebases.",
+      "Automating complex software development and refactoring tasks using agentic workflows."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "LLM/Agentic AI (Claude, Copilot integration)",
+      "Git/GitHub API"
+    ]
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "name": "punkpeye/awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "stars": 75085,
+    "language": "Various",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Resource Collections / Awesome Lists",
+    "summary": "This repository is an extensive, multilingual 'Awesome List' that collects and curates a vast array of MCP (likely Minecraft/Modded Client Protocol) servers, tagged specifically with 'ai'. It provides a community-vetted directory, helping users discover high-quality, featured servers.\nUsers should consult this list when looking to join or explore popular, diverse, and well-maintained servers.",
+    "use_cases": [
+      "Discovering a wide variety of community-vetted MCP servers for gaming or technical exploration",
+      "Finding servers that leverage AI technology within the MCP ecosystem",
+      "Accessing server resources presented in multiple international languages (e.g., Japanese, Korean, Thai)"
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Git/GitHub"
+    ]
+  },
+  "cyberagiinc/DevDocs": {
+    "name": "cyberagiinc/DevDocs",
+    "url": "https://github.com/cyberagiinc/DevDocs",
+    "stars": 1961,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Developer Tools / Documentation & AI Search",
+    "summary": "DevDocs is a free, private, UI-based server designed to manage and serve technical documentation for coders, utilizing LLMs and scraping technologies like Playwright. It transforms documentation research from weeks into hours by providing an optimized knowledge base. This tool is built to integrate seamlessly with various development environments and AI coding assistants.",
+    "use_cases": [
+      "Processing and indexing vast quantities of public or proprietary technical documentation for quick search access",
+      "Creating a private, self-hosted documentation server (MCP) that powers LLM queries and coding assistants",
+      "Integrating documentation search capabilities directly into IDEs and applications like Cursor, Windsurf, or Claude Desktop App"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Python3",
+      "Playwright"
+    ]
+  },
+  "AgentDeskAI/browser-tools-mcp": {
+    "name": "AgentDeskAI/browser-tools-mcp",
+    "url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+    "stars": 6852,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "AI Development Tools",
+    "summary": "BrowserTools MCP is a powerful Chrome extension that acts as a bridge, enabling AI models to capture and analyze real-time browser data, logs, and screenshots via Anthropic's Model Context Protocol (MCP). This tool significantly enhances the contextual awareness of AI agents in compatible IDEs like Cursor, making AI-powered debugging and interaction 10x more capable. Use it when developing or interacting with web applications where the AI needs deep visibility into the user agent's environment.",
+    "use_cases": [
+      "Enabling AI models (via MCP) to analyze real-time browser logs and console output for debugging",
+      "Automatically capturing and pasting browser screenshots directly into compatible IDEs (like Cursor)",
+      "Creating more capable AI agents that can interact contextually with web pages and DevTools data"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Chrome Extension / DevTools API",
+      "Model Context Protocol (MCP)"
+    ]
+  },
+  "upstash/context7": {
+    "name": "upstash/context7",
+    "url": "https://github.com/upstash/context7",
+    "stars": 37334,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Developer Tools",
+    "summary": "Context7 is an MCP (Model Context Provider) server designed to deliver up-to-date code documentation and context directly to Large Language Models (LLMs) and AI code editors. It ensures that AI assistants used for coding have current, relevant knowledge for generating accurate responses and code snippets.",
+    "use_cases": [
+      "Improving the factual accuracy and relevance of code generated by LLM assistants.",
+      "Integrating a live, current knowledge base with AI code editors like Cursor or VS Code.",
+      "Providing specialized documentation context to custom developer prompts."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "BeehiveInnovations/zen-mcp-server": {
+    "name": "BeehiveInnovations/zen-mcp-server",
+    "url": "https://github.com/BeehiveInnovations/zen-mcp-server",
+    "stars": 9638,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Orchestration / AI Tooling",
+    "summary": "Zen MCP is a Python-based server/framework for Multi-Context Prompting, designed to unify multiple AI developer CLIs (like Claude Code and Gemini CLI) and numerous LLM providers into a single operational context. It acts as an orchestration layer, enabling users to leverage the strengths of different models concurrently for complex automation and development tasks.",
+    "use_cases": [
+      "Orchestrating complex software development tasks by chaining outputs from different specialized LLMs (e.g., using one model for design review and another for code generation).",
+      "Running prompts concurrently across multiple model providers (Gemini, OpenAI, Anthropic) to compare results or ensure maximum context utilization.",
+      "Bridging disparate command-line tools and LLM interfaces using the internal CLI-to-CLI bridge (clink) for unified automation."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM APIs/Providers (OpenAI, Anthropic, Grok, Ollama)"
+    ]
+  },
+  "docfork/docfork-mcp": {
+    "name": "docfork/docfork-mcp",
+    "url": "https://github.com/docfork/docfork-mcp",
+    "stars": 309,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Development Tools",
+    "summary": "Docfork MCP is an implementation of the Model Context Protocol (MCP) server, designed to provide structured, up-to-date documentation and codebase context specifically for AI agents and developer tools like Cursor. It enables better context retrieval and application for large language models, significantly enhancing AI-assisted coding and documentation analysis. Use it when building tools that require robust, machine-readable context from a repository.",
+    "use_cases": [
+      "Serving structured documentation and context to specialized AI coding assistants (e.g., those integrating the MCP protocol)",
+      "Implementing the Model Context Protocol for custom developer tools or internal AI agent backends",
+      "Providing easily consumable, machine-readable documentation for open-source projects and developer communities"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js (Runtime)"
+    ]
+  },
+  "oraios/serena": {
+    "name": "oraios/serena",
+    "url": "https://github.com/oraios/serena",
+    "stars": 16084,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Agents & Tooling",
+    "summary": "Serena is a powerful Python toolkit designed to transform LLMs into effective coding agents that operate directly on a codebase. It provides advanced semantic code retrieval and editing capabilities, allowing agents to understand and manipulate code entities at the symbol level. This tool greatly enhances the efficiency and accuracy of AI-driven programming tasks by providing deep context.",
+    "use_cases": [
+      "Developing autonomous agents capable of performing complex code refactoring and multi-file project changes.",
+      "Enhancing existing coding LLMs by providing precise, context-aware symbol retrieval for targeted bug fixes.",
+      "Building custom language server or MCP server integrations to allow LLMs to interact with code in an IDE-like manner."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM Toolkits"
+    ]
+  },
+  "mem0ai/mem0": {
+    "name": "mem0ai/mem0",
+    "url": "https://github.com/mem0ai/mem0",
+    "stars": 43240,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Tooling & Memory Management",
+    "summary": "Mem0 is a universal memory layer designed for managing long-term, persistent, and contextual memory for AI agents and LLM applications. It enables personalized AI experiences by storing, retrieving, and managing conversation history necessary for Retrieval Augmented Generation (RAG). Use it when building sophisticated chatbots or AI agents that need to recall past interactions across sessions.",
+    "use_cases": [
+      "Implementing long-term, persistent memory for AI agents.",
+      "Enabling personalization and context retention in GenAI applications and chatbots.",
+      "Managing conversation history and performing efficient Retrieval Augmented Generation (RAG)."
+    ],
+    "tech_stack": [
+      "Python",
+      "Generative AI / LLM Frameworks"
+    ]
+  },
+  "activepieces/activepieces": {
+    "name": "activepieces/activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "stars": 19200,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Automation & Scripting",
+    "subcategory": "AI Workflow Automation Platform",
+    "summary": "Activepieces is an open-source, no-code/low-code workflow automation platform designed as a self-hosted alternative to tools like Zapier or Make. It enables users to connect various applications and services to automate complex business processes. The platform is specifically optimized for deploying and managing AI agents and sophisticated AI workflows using dedicated MCP server infrastructure.",
+    "use_cases": [
+      "Automating business processes by connecting SaaS applications (CRM, Email, Databases)",
+      "Building and orchestrating complex AI Agents and workflows using dedicated MCP server infrastructure",
+      "Self-hosting an open-source alternative to proprietary integration platforms like Zapier or n8n"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "buildermethods/agent-os": {
+    "name": "buildermethods/agent-os",
+    "url": "https://github.com/buildermethods/agent-os",
+    "stars": 2509,
+    "language": "Shell",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "AI Development Tools",
+    "summary": "Agent OS is a spec-driven system designed to structure workflows for AI coding agents, transforming them into productive developers. It provides agents with the necessary standards, stack details, and specifications from the codebase. Use it to ensure AI agents ship high-quality, spec-compliant code reliably across any language or project size.",
+    "use_cases": [
+      "Structuring and managing development workflows for AI coding agents (e.g., Claude, Cursor)",
+      "Integrating AI coding tools productively into established or complex codebases",
+      "Automating the planning and execution of features or fixes based on detailed specifications"
+    ],
+    "tech_stack": [
+      "Shell",
+      "AI Agents (e.g., Claude Code, Cursor)"
+    ]
+  },
+  "bmad-code-org/BMAD-METHOD": {
+    "name": "bmad-code-org/BMAD-METHOD",
+    "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "stars": 22494,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Development Methodology & Workflow Management",
+    "summary": "BMad Method is a comprehensive methodology and associated core tooling (implemented in JavaScript) designed for Breakthrough Method Agile AI Driven Development. It provides a structured framework for teams to manage complex projects, integrating modern AI components into standard agile workflows. Use BMad to standardize and accelerate the iteration, planning, and deployment cycles for AI-infused applications.",
+    "use_cases": [
+      "Implementing a structured agile development framework for AI-focused teams.",
+      "Streamlining and accelerating the continuous integration and delivery (CI/CD) of AI-driven features.",
+      "Standardizing project structure and workflow management across large-scale software development incorporating machine learning."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js",
+      "NPM"
+    ]
+  },
+  "GWUDCAP/cc-sessions": {
+    "name": "GWUDCAP/cc-sessions",
+    "url": "https://github.com/GWUDCAP/cc-sessions",
+    "stars": 1346,
+    "language": "JavaScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Developer Tools",
+    "summary": "cc-sessions provides an opinionated framework for structuring and managing productive development sessions specifically utilizing the Claude Code AI assistant. It helps developers standardize inputs, track conversation history, and manage context across complex coding tasks. This utility ensures a more consistent and reproducible workflow when collaborating with LLMs for development.",
+    "use_cases": [
+      "Standardizing input and output formats for interactions with the Claude Code AI model",
+      "Tracking session history and maintaining context across multi-step development problems",
+      "Implementing reproducible and efficient workflows for AI-assisted code generation",
+      "Managing environment state for structured development sessions"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js",
+      "Python"
+    ]
+  },
+  "vibe-log/vibe-log-cli": {
+    "name": "vibe-log/vibe-log-cli",
+    "url": "https://github.com/vibe-log/vibe-log-cli",
+    "stars": 235,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Developer Analytics & CLI Tools",
+    "summary": "Vibe-log-cli is an open-source TypeScript CLI designed for logging and analyzing coding sessions performed using AI assistants like Claude Code and Cursor. It processes session data locally to generate detailed productivity reports, providing developers insights into their AI-assisted workflows. Use this tool to track time, optimize prompt engineering, and measure developer productivity.",
+    "use_cases": [
+      "Log and analyze coding sessions conducted using AI assistants (Claude Code, Cursor).",
+      "Generate detailed local productivity reports to measure efficiency and time spent on AI-assisted tasks.",
+      "Optimize prompt engineering techniques by analyzing session input and output patterns."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "opactorai/Claudable": {
+    "name": "opactorai/Claudable",
+    "url": "https://github.com/opactorai/Claudable",
+    "stars": 3148,
+    "language": "TypeScript",
+    "starred_date": "2025-11-17",
+    "main_category": "Web Development",
+    "subcategory": "AI-Powered Web Builder",
+    "summary": "Claudable is an open-source web builder that integrates various local CLI coding agents (such as Claude Code, Codex, and Gemini) to facilitate the rapid development and deployment of web products. It provides a unified web interface for connecting these agents to generate code, manage project files, and instantly deploy the resulting application. Use it to streamline the workflow between coding agents and production deployment.",
+    "use_cases": [
+      "Rapidly prototype and build full-stack web applications using generative AI agents.",
+      "Unify control and deployment management for various local coding CLIs (Claude, Gemini, Qwen).",
+      "Effortlessly deploy AI-generated projects directly from the build environment."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "CLI Agent Integration"
+    ]
+  },
+  "trimstray/the-book-of-secret-knowledge": {
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "stars": 194335,
+    "language": "Various",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Reference Lists & Cheatsheets",
+    "summary": "This repository is a massive curated collection of inspiring lists, comprehensive manuals, cheatsheets, and practical hacks spanning DevOps, Linux administration, and cybersecurity.\r\nIt functions as a central 'book' of secret technical knowledge for system administrators, security researchers, and developers seeking efficient guidelines and tools.",
+    "use_cases": [
+      "Quickly referencing complex commands or technical one-liners during SysOps or development tasks",
+      "Discovering new tools and resources relevant to penetration testing or general security research",
+      "Consulting aggregated manuals and guidelines for Linux, BSD, networking, and DevOps practices"
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Awesome List (Resource Collection)"
+    ]
+  },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "name": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "stars": 258633,
+    "language": "Various",
+    "starred_date": "2025-11-17",
+    "main_category": "Self Hosted",
+    "subcategory": "Awesome List / Resource Directory",
+    "summary": "Awesome-Selfhosted is a comprehensive, curated list of Free Software network services and web applications designed for hosting on personal servers. It functions as the premier directory for users seeking alternatives to proprietary Software as a Service (SaaS). Use this resource when planning self-managed infrastructure to maximize privacy, control, and customization over your digital services.",
+    "use_cases": [
+      "Discovering self-hostable Free Software alternatives to commercial cloud services (e.g., document management, chat, file sharing)",
+      "Building private and secure digital infrastructure free from vendor lock-in",
+      "Researching diverse categories of self-hosted applications for personal or organizational use"
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Static Content/Documentation"
+    ]
+  },
+  "vinta/awesome-python": {
+    "name": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "stars": 269775,
+    "language": "Python",
+    "starred_date": "2025-11-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Awesome List / Resource Collection",
+    "summary": "Awesome Python is an opinionated, highly-starred curated list of Python frameworks, libraries, software, and educational resources covering the entire ecosystem. It serves as a starting point for developers looking to discover high-quality, recommended tools for almost any Python development task, from web development to data science. Use this list when researching the best available options for a new project or learning about the breadth of the Python community's offerings.",
+    "use_cases": [
+      "Discovering highly-rated Python frameworks and libraries across diverse categories",
+      "Finding resources and guides for learning advanced Python concepts",
+      "Identifying established tools for system administration and DevOps scripting using Python"
+    ],
+    "tech_stack": [
+      "Python (Subject Matter)",
+      "Markdown"
+    ]
+  }
+}
