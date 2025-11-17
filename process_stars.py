@@ -254,10 +254,7 @@ def main():
     new_stars = get_new_stars(github_client, GITHUB_USERNAME, repos_db)
     
     if not new_stars:
-        print("No new starred repos found.")
-        if repos_db:
-            print("Regenerating README from existing database...")
-            generate_readme(repos_db)
+        print("No new starred repos found. Nothing to do.")
         return
     
     print(f"Found {len(new_stars)} new starred repos")
