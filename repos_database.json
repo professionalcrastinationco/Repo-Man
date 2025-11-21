@@ -1321,5 +1321,21 @@
       "Python (Subject Matter)",
       "Markdown"
     ]
+  },
+  "ocampor/image-quality": {
+    "name": "ocampor/image-quality",
+    "url": "https://github.com/ocampor/image-quality",
+    "stars": 429,
+    "language": "Python",
+    "starred_date": "2025-11-21",
+    "main_category": "Other",
+    "subcategory": "Uncategorized",
+    "summary": "Image quality is an open source software library for Image Quality Assessment (IQA).",
+    "use_cases": [
+      "General purpose"
+    ],
+    "tech_stack": [
+      "Python"
+    ]
   }
 }

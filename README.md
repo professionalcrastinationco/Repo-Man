@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 68 | **Last Updated:** 2025-11-17
+**Total Repos:** 69 | **Last Updated:** 2025-11-21
 
 ---
 
@@ -45,6 +45,9 @@
 
 * **Education & Learning**
    * [Python](#thealgorithmspython) (Learning and studying)
+
+* **Other**
+   * [image-quality](#ocamporimage-quality) (General purpose)
 
 * **Self Hosted**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
@@ -733,6 +736,23 @@ This repository is a comprehensive, community-driven collection of algorithms im
 - Learning and studying fundamental computer science algorithms like Merge Sort, Dijkstra's algorithm, etc.
 - Practicing algorithm implementation and understanding how different algorithms work in Python.
 - Preparing for coding interviews by reviewing a wide array of commonly requested data structures and algorithms.
+
+---
+
+
+# Other
+
+
+## Uncategorized
+
+### [ocampor/image-quality](https://github.com/ocampor/image-quality)
+
+⭐ 429 | 🔤 Python | 📅 2025-11-21
+
+Image quality is an open source software library for Image Quality Assessment (IQA).
+
+**Use Cases:**
+- General purpose
 
 ---
 
