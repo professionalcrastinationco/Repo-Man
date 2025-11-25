@@ -1337,5 +1337,202 @@
     "tech_stack": [
       "Python"
     ]
+  },
+  "hassio-addons/addon-glances": {
+    "name": "hassio-addons/addon-glances",
+    "url": "https://github.com/hassio-addons/addon-glances",
+    "stars": 173,
+    "language": "Shell",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "System Monitoring",
+    "summary": "This repository provides the Glances system monitoring tool packaged as an official Home Assistant Add-on. It allows users to visualize detailed, real-time metrics concerning the host system's resources, including CPU utilization, memory, network traffic, and running processes. Use it to diagnose performance degradation or ensure the overall health of the HA operating system.",
+    "use_cases": [
+      "Real-time monitoring of Home Assistant host resources (CPU, RAM, disk I/O, temperature).",
+      "Diagnosing and troubleshooting resource bottlenecks or excessive memory consumption on the host machine.",
+      "Tracking network utilization and active processes running alongside the Home Assistant environment."
+    ],
+    "tech_stack": [
+      "Shell",
+      "Glances (Python)"
+    ]
+  },
+  "hassio-addons/addon-appdaemon": {
+    "name": "hassio-addons/addon-appdaemon",
+    "url": "https://github.com/hassio-addons/addon-appdaemon",
+    "stars": 195,
+    "language": "Jinja",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Home Automation Frameworks",
+    "summary": "This repository provides the official Home Assistant Community Add-on for AppDaemon, a Python-based automation framework. It allows users to write custom Python applications for advanced, state-based home automation logic within the Home Assistant environment. Use this framework when complex logic or highly customized dashboards (HADashboard) are required beyond standard Home Assistant features.",
+    "use_cases": [
+      "Writing complex automation logic for Home Assistant using Python scripts",
+      "Creating highly customized, flexible dashboards (HADashboard) tailored to specific user needs",
+      "Extending Home Assistant functionality via loosely coupled, state-based applications"
+    ],
+    "tech_stack": [
+      "Python",
+      "Jinja"
+    ]
+  },
+  "frenck/awesome-home-assistant": {
+    "name": "frenck/awesome-home-assistant",
+    "url": "https://github.com/frenck/awesome-home-assistant",
+    "stars": 7136,
+    "language": "Shell",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Awesome List",
+    "summary": "This is a comprehensive, curated 'awesome list' dedicated entirely to Home Assistant resources, configurations, and integrations. It serves as a central hub for discovering community-developed add-ons, hardware components, and useful tools for home automation enthusiasts. Use it to find inspiration, advanced configurations, and reliable resources for setting up or optimizing a Home Assistant installation.",
+    "use_cases": [
+      "Discovering community-developed add-ons, custom integrations, and repositories for Home Assistant.",
+      "Finding inspiration and example YAML configurations for specific automation scenarios.",
+      "Identifying compatible hardware, DIY projects, and best practices related to IoT and smart home devices."
+    ],
+    "tech_stack": [
+      "Home Assistant",
+      "Markdown",
+      "Shell",
+      "MQTT"
+    ]
+  },
+  "justinforlenza/home-assistant-tray": {
+    "name": "justinforlenza/home-assistant-tray",
+    "url": "https://github.com/justinforlenza/home-assistant-tray",
+    "stars": 1,
+    "language": "Rust",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Desktop Applications",
+    "summary": "Home Assistant Tray is a lightweight desktop application that embeds your Home Assistant dashboard into a system tray icon popup window. It provides instant, convenient access to control smart devices and view status updates without needing to open a full web browser. This tool is useful for users who require quick, borderless access to their HA interface while working on their desktop.",
+    "use_cases": [
+      "Quickly checking the status of smart home sensors and devices while working on a computer.",
+      "Executing critical Home Assistant automations or scenes instantly via the system tray icon.",
+      "Providing a dedicated, always-available interface for Home Assistant that hides automatically when focus is lost."
+    ],
+    "tech_stack": [
+      "Rust",
+      "Tauri"
+    ]
+  },
+  "AlmostInteractive/HAcomms": {
+    "name": "AlmostInteractive/HAcomms",
+    "url": "https://github.com/AlmostInteractive/HAcomms",
+    "stars": 1,
+    "language": "C#",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Home Automation Integration",
+    "summary": "This is a C# Windows application designed to send real-time status updates and events from a PC to Home Assistant using MQTT. It reports crucial states such as webcam/microphone usage, system mute status, and actively running windows, enabling advanced contextual automations within the smart home environment. It is used to bridge Windows PC activity directly into HA automations.",
+    "use_cases": [
+      "Automatically set a 'Do Not Disturb' status in Home Assistant when the PC's webcam or microphone is actively in use for a meeting.",
+      "Trigger custom smart home automations (e.g., muting background music) using specific keyboard shortcuts defined within the app.",
+      "Monitor if the PC is connected to the network and use that state to control room presence or lighting settings."
+    ],
+    "tech_stack": [
+      "C#",
+      "MQTT"
+    ]
+  },
+  "Timman70/home-assistant-pc-power": {
+    "name": "Timman70/home-assistant-pc-power",
+    "url": "https://github.com/Timman70/home-assistant-pc-power",
+    "stars": 2,
+    "language": "Python",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Home Assistant Integration",
+    "summary": "This custom Home Assistant integration allows users to control the power state of a Windows PC remotely and safely. It uses Wake-on-LAN (WoL) to turn the PC on and SSH to execute a proper shutdown command, with status detected via ping. Use this for automating PC power management or integrating it into smart home dashboards.",
+    "use_cases": [
+      "Automate the startup of a gaming PC or media server when returning home.",
+      "Safely shut down an office computer remotely via a Home Assistant dashboard or routine.",
+      "Use PC status detection (ping) as a condition in broader home automation scripts."
+    ],
+    "tech_stack": [
+      "Python",
+      "Home Assistant",
+      "Wake-on-LAN",
+      "SSH"
+    ]
+  },
+  "Rmkrs/HomeAssistantLink": {
+    "name": "Rmkrs/HomeAssistantLink",
+    "url": "https://github.com/Rmkrs/HomeAssistantLink",
+    "stars": 1,
+    "language": "C#",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Home Assistant Integration",
+    "summary": "HomeAssistantLink is a C# Windows Service designed to monitor system-level states (like webcam activity or VPN connection) on a workstation. It updates dedicated entities in Home Assistant via the REST API in real-time. This tool enables users to trigger timely and location-aware automations based on precise PC status.",
+    "use_cases": [
+      "Triggering a 'Busy' light or disabling door chimes whenever the PC's webcam becomes active for a meeting.",
+      "Automatically switching a Home Assistant automation scene (e.g., 'Work Mode') when a user connects to their corporate VPN.",
+      "Creating automations to turn off office lights or HVAC when the PC reports both idle status and VPN disconnect."
+    ],
+    "tech_stack": [
+      "C#",
+      ".NET 8.0",
+      "Windows Services",
+      "Home Assistant REST API"
+    ]
+  },
+  "adamcornforth/ha-open-window-blueprint": {
+    "name": "adamcornforth/ha-open-window-blueprint",
+    "url": "https://github.com/adamcornforth/ha-open-window-blueprint",
+    "stars": 4,
+    "language": "Various",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Home Automation",
+    "summary": "This Home Assistant blueprint dynamically monitors indoor and outdoor absolute humidity (AH) to provide accurate window ventilation recommendations. It prevents excess indoor moisture build-up by notifying the user only when opening a window will effectively lower the indoor AH. It uses an edge-triggered system to send only one notification when conditions change.",
+    "use_cases": [
+      "Receiving intelligent, non-spammy notifications for optimal window ventilation.",
+      "Preventing high indoor absolute humidity and related issues like condensation and mold growth.",
+      "Managing indoor moisture levels effectively in climates where traditional relative humidity metrics are misleading."
+    ],
+    "tech_stack": [
+      "Home Assistant",
+      "YAML"
+    ]
+  },
+  "jmcollin78/versatile_thermostat": {
+    "name": "jmcollin78/versatile_thermostat",
+    "url": "https://github.com/jmcollin78/versatile_thermostat",
+    "stars": 704,
+    "language": "Python",
+    "starred_date": "2025-11-25",
+    "main_category": "Smart Home",
+    "subcategory": "Home Assistant Integrations",
+    "summary": "Versatile Thermostat is a feature-rich, HACS-compatible Home Assistant integration written in Python designed to manage heating systems. It centralizes common heating automations, natively handling events like window openings, presence detection, and power load shedding. Users should use this integration to greatly simplify complex climate control logic within their Smart Home setup.",
+    "use_cases": [
+      "Simplifying complex Home Assistant heating automations (e.g., managing presets, schedule overrides).",
+      "Automatically adjusting heating levels based on room presence, motion, and window state.",
+      "Implementing comprehensive climate control that includes power load shedding management."
+    ],
+    "tech_stack": [
+      "Python",
+      "Home Assistant / HACS"
+    ]
+  },
+  "prasadabhishek/photo-quality-analyzer": {
+    "name": "prasadabhishek/photo-quality-analyzer",
+    "url": "https://github.com/prasadabhishek/photo-quality-analyzer",
+    "stars": 6,
+    "language": "Python",
+    "starred_date": "2025-11-25",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Computer Vision",
+    "summary": "This is a Python command-line tool designed to analyze the technical quality of digital photographs using OpenCV and a YOLO model for subject detection. It provides objective metrics and an overall judgment on image quality, helping users filter and curate large photo collections efficiently. Use it as an AI-powered first pass to identify technically sound images.",
+    "use_cases": [
+      "Photographers automating the culling process to quickly filter out blurry or poorly composed shots before editing.",
+      "Integrating into image ingestion pipelines to automatically reject photographs that fail minimum technical quality standards.",
+      "Analyzing large photo datasets to ensure high technical quality before using them for deep learning model training."
+    ],
+    "tech_stack": [
+      "Python",
+      "OpenCV",
+      "YOLO / Ultralytics"
+    ]
   }
 }
