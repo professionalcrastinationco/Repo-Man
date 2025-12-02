@@ -1534,5 +1534,24 @@
       "OpenCV",
       "YOLO / Ultralytics"
     ]
+  },
+  "Gururagavendra/gmail-cleaner": {
+    "name": "Gururagavendra/gmail-cleaner",
+    "url": "https://github.com/Gururagavendra/gmail-cleaner",
+    "stars": 692,
+    "language": "Python",
+    "starred_date": "2025-12-02",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Email Management",
+    "summary": "This is a free, privacy-focused, web-based tool designed for rapid Gmail inbox cleanup using the Gmail API. It enables users to perform bulk actions like unsubscribing from mailing lists, deleting emails by sender, and marking large volumes of messages as read. It runs locally on the user's machine via Docker for enhanced privacy.",
+    "use_cases": [
+      "Bulk unsubscribing from unwanted or accumulated marketing and newsletter emails.",
+      "Quickly deleting all emails originating from a specific sender to clear up storage space.",
+      "Marking thousands of older, low-priority emails as read to reach inbox zero status."
+    ],
+    "tech_stack": [
+      "Python",
+      "Gmail API"
+    ]
   }
 }

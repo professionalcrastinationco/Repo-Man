@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 79 | **Last Updated:** 2025-11-25
+**Total Repos:** 80 | **Last Updated:** 2025-12-02
 
 ---
 
@@ -76,7 +76,7 @@
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
    * [browser-tools-mcp](#agentdeskaibrowser-tools-mcp) (Enabling AI models)
    * [agent-os](#buildermethodsagent-os) (Structuring and managing)
-   * *...and 5 more*
+   * *...and 6 more*
 
 * **Web Development**
    * [reflex](#reflex-devreflex) (Building interactive data)
@@ -1119,6 +1119,22 @@ BMad Method is a comprehensive methodology and associated core tooling (implemen
 - Implementing a structured agile development framework for AI-focused teams.
 - Streamlining and accelerating the continuous integration and delivery (CI/CD) of AI-driven features.
 - Standardizing project structure and workflow management across large-scale software development incorporating machine learning.
+
+---
+
+
+## Email Management
+
+### [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)
+
+⭐ 692 | 🔤 Python, Gmail API | 📅 2025-12-02
+
+This is a free, privacy-focused, web-based tool designed for rapid Gmail inbox cleanup using the Gmail API. It enables users to perform bulk actions like unsubscribing from mailing lists, deleting emails by sender, and marking large volumes of messages as read. It runs locally on the user's machine via Docker for enhanced privacy.
+
+**Use Cases:**
+- Bulk unsubscribing from unwanted or accumulated marketing and newsletter emails.
+- Quickly deleting all emails originating from a specific sender to clear up storage space.
+- Marking thousands of older, low-priority emails as read to reach inbox zero status.
 
 ---
 
