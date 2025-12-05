@@ -1553,5 +1553,24 @@
       "Python",
       "Gmail API"
     ]
+  },
+  "BeehiveInnovations/pal-mcp-server": {
+    "name": "BeehiveInnovations/pal-mcp-server",
+    "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+    "stars": 9911,
+    "language": "Python",
+    "starred_date": "2025-12-05",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Orchestration / Provider Abstraction",
+    "summary": "PAL MCP (Provider Abstraction Layer) enables popular AI command-line interfaces (such as Claude Code or Gemini CLI) to utilize and coordinate multiple underlying LLMs (OpenAI, Gemini, Grok, etc.) within a single workflow. It consolidates context and responses from these diverse models, simplifying complex multi-model AI development. Use it when needing to leverage the specialized strengths of different AI models without modifying existing CLI workflows.",
+    "use_cases": [
+      "Orchestrating complex software development or coding tasks by coordinating outputs from multiple specialized LLMs (e.g., using one model for planning and another for code generation).",
+      "Standardizing AI workflow execution across different providers (OpenAI, Gemini, Anthropic) using a single, familiar developer CLI.",
+      "Benchmarking or abstracting model switching for continuous performance comparison of various LLMs on the same context."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM API Integration"
+    ]
   }
 }

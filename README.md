@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 80 | **Last Updated:** 2025-12-02
+**Total Repos:** 81 | **Last Updated:** 2025-12-05
 
 ---
 
@@ -19,7 +19,7 @@
    * [adk-python](#googleadk-python) (Building and managing)
    * [TinyZero](#jiayi-pantinyzero) (Reproducing and studying)
    * [chainlit](#chainlitchainlit) (Rapid prototyping and)
-   * *...and 16 more*
+   * *...and 17 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -411,6 +411,22 @@ Zen MCP is a Python-based server/framework for Multi-Context Prompting, designed
 - Orchestrating complex software development tasks by chaining outputs from different specialized LLMs (e.g., using one model for design review and another for code generation).
 - Running prompts concurrently across multiple model providers (Gemini, OpenAI, Anthropic) to compare results or ensure maximum context utilization.
 - Bridging disparate command-line tools and LLM interfaces using the internal CLI-to-CLI bridge (clink) for unified automation.
+
+---
+
+
+## LLM Orchestration / Provider Abstraction
+
+### [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
+
+⭐ 9,911 | 🔤 Python, LLM API Integration | 📅 2025-12-05
+
+PAL MCP (Provider Abstraction Layer) enables popular AI command-line interfaces (such as Claude Code or Gemini CLI) to utilize and coordinate multiple underlying LLMs (OpenAI, Gemini, Grok, etc.) within a single workflow. It consolidates context and responses from these diverse models, simplifying complex multi-model AI development. Use it when needing to leverage the specialized strengths of different AI models without modifying existing CLI workflows.
+
+**Use Cases:**
+- Orchestrating complex software development or coding tasks by coordinating outputs from multiple specialized LLMs (e.g., using one model for planning and another for code generation).
+- Standardizing AI workflow execution across different providers (OpenAI, Gemini, Anthropic) using a single, familiar developer CLI.
+- Benchmarking or abstracting model switching for continuous performance comparison of various LLMs on the same context.
 
 ---
 
