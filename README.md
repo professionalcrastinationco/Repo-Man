@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 81 | **Last Updated:** 2025-12-05
+**Total Repos:** 96 | **Last Updated:** 2025-12-11
 
 ---
 
@@ -10,16 +10,16 @@
 
 * **AI & Machine Learning**
    * [ollama](#ollamaollama) (Running various LLMs)
+   * [ComfyUI](#comfyanonymouscomfyui) (Designing and running)
    * [awesome-llm-apps](#shubhamsabooawesome-llm-apps) (Discovering and learning)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
+   * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
-   * [serena](#oraiosserena) (Developing autonomous agents)
-   * [verl](#volcengineverl) (Performing Reinforcement Learning)
-   * [adk-python](#googleadk-python) (Building and managing)
-   * [TinyZero](#jiayi-pantinyzero) (Reproducing and studying)
-   * [chainlit](#chainlitchainlit) (Rapid prototyping and)
-   * *...and 17 more*
+   * [agents](#wshobsonagents) (Orchestrating multi-step automation)
+   * [skills](#anthropicsskills) (Customizing Claude to)
+   * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
+   * *...and 30 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -73,10 +73,10 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [nicegui](#zauberzeugnicegui) (Building interactive dashboards)
    * [requests-html](#psfrequests-html) (Scraping content from)
+   * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
    * [browser-tools-mcp](#agentdeskaibrowser-tools-mcp) (Enabling AI models)
-   * [agent-os](#buildermethodsagent-os) (Structuring and managing)
-   * *...and 6 more*
+   * *...and 7 more*
 
 * **Web Development**
    * [reflex](#reflex-devreflex) (Building interactive data)
@@ -89,6 +89,7 @@
    * [Claudable](#opactoraiclaudable) (Rapidly prototype and)
    * [solara](#widgettisolara) (Building scalable, component-based)
    * [tailwind-ui-components](#tailgridstailwind-ui-components) (Rapidly prototyping and)
+   * *...and 1 more*
 
 
 
@@ -99,6 +100,19 @@
 
 
 ## AI Agent Frameworks
+
+### [anthropics/skills](https://github.com/anthropics/skills)
+
+⭐ 20,335 | 🔤 Python | 📅 2025-12-11
+
+This repository provides the structure and resources for defining 'Skills,' which are modular instruction sets and scripts used by the Claude AI model. Skills dynamically enhance Claude's performance on specialized, repeatable tasks by providing context, internal workflows, and resources. Use this framework to customize Claude for organizational needs like document creation, data analysis, or task automation.
+
+**Use Cases:**
+- Customizing Claude to create branded documents following specific company style guides and workflows.
+- Enabling Claude to perform complex data analysis using proprietary organizational procedures.
+- Automating multi-step personal and professional tasks by defining detailed, repeatable instructions for the agent.
+
+---
 
 ### [google/adk-python](https://github.com/google/adk-python)
 
@@ -130,6 +144,23 @@ SurfSense is an open-source, highly customizable AI research agent designed as a
 ---
 
 
+## AI Agents & Prompt Engineering
+
+### [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+
+⭐ 35,097 | 🔤 JavaScript, Node.js | 📅 2025-12-11
+
+Fabric is an open-source framework designed to augment human capabilities by providing a modular system of specialized AI prompts and agents. It leverages a crowdsourced library of high-quality instructions to solve specific, complex problems across various aspects of work and life. Use it to standardize AI workflows and deploy specialized, reusable augmentation tools instantly.
+
+**Use Cases:**
+- Augmenting developer workflows and coding tasks using specialized AI agents
+- Solving complex, niche problems by deploying crowdsourced and validated prompt routines
+- Managing and standardizing collections of high-quality AI prompts (prompt engineering management)
+- Creating personalized AI assistants for specific productivity or life management needs
+
+---
+
+
 ## AI Agents / Desktop Automation
 
 ### [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
@@ -146,6 +177,22 @@ Bytebot is a self-hosted, open-source AI desktop agent designed to automate comp
 ---
 
 
+## AI Agents / Web Automation
+
+### [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+
+⭐ 8,999 | 🔤 Python, Large Language Models (LLMs) | 📅 2025-12-11
+
+Magentic-UI is a research prototype of a human-centered AI agent designed to automate complex web and coding tasks that require monitoring and human oversight. Unlike typical black-box agents, it provides transparency by revealing its plan and allowing users to guide its actions during execution. It is ideal for developers and researchers exploring controllable and interactive web automation solutions.
+
+**Use Cases:**
+- Automating multi-step, complex web tasks that involve navigating dynamic UIs and forms.
+- Solving coding tasks that require real-time monitoring and modification by the user.
+- Developing and researching human-centered AI (HCAI) systems focusing on transparency and control.
+
+---
+
+
 ## AI Application Frameworks
 
 ### [writer/writer-framework](https://github.com/writer/writer-framework)
@@ -158,6 +205,22 @@ Writer Framework is an open-source framework for creating data and AI applicatio
 - Building interactive user interfaces and dashboards for deployed AI/ML models.
 - Creating complex, data-driven applications with strong separation of UI and logic.
 - Rapid prototyping of data apps using a low-code visual editor combined with custom Python backend.
+
+---
+
+
+## AI Applications & Use Cases
+
+### [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
+⭐ 20,308 | 🔤 AI Agents, Generative AI, Large Language Models (LLMs) | 📅 2025-12-11
+
+This is a massive, curated catalogue detailing over 500 practical AI agent use cases across numerous industries, including healthcare, finance, and education. Use this resource for inspiration, research, or to identify existing open-source projects for implementing AI agents in business solutions.
+
+**Use Cases:**
+- Find inspiration for new AI agent projects
+- Research successful industry-specific applications of generative AI agents
+- Locate open-source projects and frameworks related to AI agent development
 
 ---
 
@@ -210,6 +273,20 @@ Superpowers is a comprehensive skills library for AI coding assistants, offering
 
 ---
 
+### [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
+
+⭐ 4,904 | 🔤 Python, Web Scraping / AST Parsing | 📅 2025-12-11
+
+Skill Seeker automates the transformation of external knowledge sources—including documentation websites, GitHub repositories, and PDFs—into structured skills compatible with the Claude AI platform. It uses web scraping, OCR, and AST parsing to preprocess multi-source data while utilizing automatic conflict detection. Use this tool to rapidly onboard complex, external, or proprietary knowledge into an LLM's context or knowledge base.
+
+**Use Cases:**
+- Automatically convert vast documentation websites into structured Claude AI skills.
+- Parse GitHub repositories using AST analysis to provide LLMs with context on code structure and functionality.
+- Generate training context for LLMs from unstructured PDF documents using integrated OCR capabilities.
+- Build and maintain a context knowledge base for a specialized AI assistant with built-in conflict detection.
+
+---
+
 ### [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp)
 
 ⭐ 309 | 🔤 TypeScript, Node.js (Runtime) | 📅 2025-11-17
@@ -253,6 +330,22 @@ OpenMemory is a self-hosted, framework-free memory engine that provides persiste
 ---
 
 
+## AI Tools & Extensions
+
+### [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)
+
+⭐ 311 | 🔤 Documentation, AI/LLM Configuration | 📅 2025-12-11
+
+This repository is a curated index of official and community-built Claude Skills, which are modular tools designed to extend the capabilities of Anthropic's Claude AI. It enables users of Claude Pro or Enterprise to browse and integrate specific tools for coding, data analysis, document creation, and complex productivity workflows.
+
+**Use Cases:**
+- Discovering and exploring available modular tools (Skills) for the Claude AI platform.
+- Extending Claude's functionality for specialized tasks like data analysis or web scraping.
+- Finding community contributions to the Claude ecosystem to maximize AI productivity.
+
+---
+
+
 ## Agent Communication / Multi-Agent Systems
 
 ### [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail)
@@ -266,6 +359,24 @@ MCP Agent Mail is an asynchronous, mail-like coordination layer designed specifi
 - Maintaining an auditable history and index of all decisions and communications made by autonomous agents
 - Implementing voluntary file reservation 'leases' to ensure agents do not simultaneously edit the same artifacts
 - Providing a stable identity and directory service for new agents joining a complex development project
+
+---
+
+
+## Agent Orchestration & Workflow
+
+### [wshobson/agents](https://github.com/wshobson/agents)
+
+⭐ 22,487 | 🔤 Python, Anthropic Claude API | 📅 2025-12-11
+
+This repository provides a production-ready system for intelligent automation, featuring 91 specialized AI agents and 15 multi-agent workflow orchestrators built specifically for Claude Code.
+It enables users to orchestrate complex development tasks and extend Claude's capabilities using 65 single-purpose plugins and a comprehensive set of 47 agent skills.
+Use it to leverage a tiered model strategy (Opus, Sonnet, Haiku) to achieve reliable, high-performance automation across various coding and workflow requirements.
+
+**Use Cases:**
+- Orchestrating multi-step automation workflows by coordinating specialized AI agents (subagents).
+- Extending the capabilities of Claude Code through a library of pre-built, focused plugins and specialized skills.
+- Developing and managing complex AI agent systems with progressive skill disclosure and robust structure.
 
 ---
 
@@ -315,6 +426,22 @@ GitMCP is a free, open-source remote server that acts as a Multi-Codebase Projec
 - Eliminating LLM-induced code hallucinations during generation and modification tasks.
 - Providing a remote, unified MCP environment for proprietary IDEs like Cursor to understand entire codebases.
 - Automating complex software development and refactoring tasks using agentic workflows.
+
+---
+
+
+## Generative AI Tools
+
+### [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
+⭐ 96,503 | 🔤 Python, PyTorch | 📅 2025-12-11
+
+ComfyUI is a highly modular and powerful visual AI engine and GUI for diffusion models, primarily Stable Diffusion. It utilizes a graph/nodes interface, allowing users to connect individual steps of the generation process to create complex, customized workflows. Use it when high control, reproducibility, and advanced workflow customization for generative image tasks are required.
+
+**Use Cases:**
+- Designing and running complex, multi-step Stable Diffusion image generation pipelines using a visual node editor.
+- Developing custom AI workflows and model combinations by visually mapping components (e.g., samplers, VAEs, checkpoints).
+- Integrating diffusion model capabilities into external applications or services via its API and backend.
 
 ---
 
@@ -399,6 +526,22 @@ This repository is a comprehensive collection of practical examples, tutorials, 
 ---
 
 
+## LLM Integrations
+
+### [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
+
+⭐ 609 | 🔤 Python, Claude Code Skill API, Browser Automation | 📅 2025-12-11
+
+This is a Claude Code Skill built in Python that allows users to query their Google NotebookLM notebooks directly. It integrates browser automation and persistent authentication to retrieve source-grounded, citation-backed answers exclusively from the user's private documents. Use it to enhance Claude Code's knowledge base with specific, private information stored in NotebookLM.
+
+**Use Cases:**
+- Querying private research documents stored in Google NotebookLM using the Claude Code interface.
+- Enabling Claude Code to provide source-grounded, citation-backed answers from a specific, secure knowledge base.
+- Integrating proprietary or specialized document collections into an LLM workflow via skill automation.
+
+---
+
+
 ## LLM Orchestration / AI Tooling
 
 ### [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
@@ -427,6 +570,22 @@ PAL MCP (Provider Abstraction Layer) enables popular AI command-line interfaces 
 - Orchestrating complex software development or coding tasks by coordinating outputs from multiple specialized LLMs (e.g., using one model for planning and another for code generation).
 - Standardizing AI workflow execution across different providers (OpenAI, Gemini, Anthropic) using a single, familiar developer CLI.
 - Benchmarking or abstracting model switching for continuous performance comparison of various LLMs on the same context.
+
+---
+
+
+## LLM Resources & Agentic AI
+
+### [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
+
+⭐ 2,684 | 🔤 Awesome Lists, Markdown, AI Prompts/Instructions | 📅 2025-12-11
+
+A comprehensive awesome list compiling Claude Skills, resources, and tools aimed at customizing and optimizing Claude AI workflows, particularly emphasizing agentic coding via Claude Code. It serves as a centralized hub for developers looking to teach Claude repeatable, complex tasks using specialized instruction sets and scripts.
+
+**Use Cases:**
+- Discovering and implementing custom agentic workflows ('Skills') for Claude AI.
+- Improving efficiency for development tasks by leveraging specialized Claude Code instructions.
+- Finding resources and documentation related to extending Anthropic's Claude functionality.
 
 ---
 
@@ -464,6 +623,22 @@ Mem0 is a universal memory layer designed for managing long-term, persistent, an
 ---
 
 
+## LLM Tools/Plugins Registry
+
+### [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
+
+⭐ 3,103 | 🔤 Markdown, Claude AI | 📅 2025-12-11
+
+This is an 'Awesome List' cataloging various functional skills, tools, and plugins available for the Claude large language model. It helps users discover capabilities ranging from document processing and coding assistance to scientific analysis and security testing. Use this repository when looking for specific, pre-built integrations or prompt templates to enhance Claude's utility across numerous domains.
+
+**Use Cases:**
+- Discovering specific development, utility, or data analysis tools usable with the Claude AI model.
+- Finding skills related to document creation, editing, and analysis (PDF, DOCX) through AI.
+- Identifying AI capabilities for security testing, research, and scientific workflows.
+
+---
+
+
 ## LLM/NLP Models
 
 ### [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
@@ -476,6 +651,23 @@ TinyZero is a minimal, cost-effective reproduction of the DeepSeek R1-Zero metho
 - Reproducing and studying the DeepSeek R1-Zero reasoning architecture using RL
 - Training small language models to develop self-verification and search skills
 - Benchmarking the effectiveness of RL-based reasoning against traditional fine-tuning methods
+
+---
+
+
+## LLMs
+
+### [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+
+⭐ 11,882 | 🔤 Python, Claude API (Anthropic) | 📅 2025-12-11
+
+Claude Quickstarts is a collection of foundational, deployable projects designed to help developers quickly integrate the Anthropic Claude API into applications. It provides immediate boilerplate for systems like AI agents and chatbots, significantly accelerating the development process. Use this repository to prototype and build production-ready applications powered by Large Language Models.
+
+**Use Cases:**
+- Building AI-powered customer service or support agents with knowledge base access
+- Prototyping and developing custom LLM-driven applications using the Claude API
+- Creating advanced conversational AI and chatbot systems
+- Learning best practices for integrating the Claude API into Python environments
 
 ---
 
@@ -524,6 +716,23 @@ verl is an open-source, high-performance Python library for applying Reinforceme
 - Performing Reinforcement Learning from Human Feedback (RLHF) to align LLMs with human preferences.
 - Developing and benchmarking novel Reinforcement Learning algorithms for sequence generation tasks.
 - Scaling RL training for large foundation models using distributed computing setups.
+
+---
+
+
+## Speech Processing
+
+### [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+
+⭐ 9,164 | 🔤 Python, OpenAI Whisper | 📅 2025-12-11
+
+WhisperLiveKit is an ultra-low-latency, self-hosted solution for real-time speech-to-text transcription based on OpenAI's Whisper model. It specializes in simultaneous transcription and includes integrated speaker identification. This kit is ideal for applications requiring immediate, accurate conversion of live audio streams into text.
+
+**Use Cases:**
+- Real-time live captioning for streaming or broadcasting events
+- Transcribing and archiving business meetings with automatic speaker tracking
+- Developing accessible interfaces for users with hearing impairments
+- Processing live telephony or contact center interactions for analytics
 
 ---
 
@@ -1155,6 +1364,23 @@ This is a free, privacy-focused, web-based tool designed for rapid Gmail inbox c
 ---
 
 
+## Extension Management
+
+### [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)
+
+⭐ 12,692 | 🔤 Python, uv (Package Management) | 📅 2025-12-11
+
+ComfyUI-Manager is a crucial extension designed to streamline the usage of ComfyUI by providing robust management features for custom nodes. It allows users to easily install, remove, disable, and enable various extensions directly within the ComfyUI interface. This tool is essential for anyone needing simplified maintenance and configuration of their complex AI generation workflow environment.
+
+**Use Cases:**
+- Installing and updating new custom nodes required for advanced ComfyUI workflows.
+- Disabling or removing malfunctioning or unused custom nodes to maintain a clean and stable environment.
+- Accessing a centralized hub for information and convenience functions related to ComfyUI components.
+- Utilizing modern package installation tools like 'uv' for faster dependency resolution and management.
+
+---
+
+
 ## GUI Frameworks
 
 ### [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
@@ -1318,6 +1544,22 @@ This JavaScript library automatically generates an HTML form from a JSON Schema 
 - Building dynamic configuration editors for web applications or microservices.
 - Creating administrative dashboards for managing structured data defined by JSON Schemas.
 - Generating complex data input forms where strict validation against a schema is required.
+
+---
+
+
+## Frontend Templates / Starter Kits
+
+### [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)
+
+⭐ 1,308 | 🔤 Next.js (React), TypeScript | 📅 2025-12-11
+
+This is a modern, feature-rich admin dashboard template built with Next.js 16 and Shadcn UI, designed as a clean alternative to cluttered starters. It includes authentication layouts, multiple dashboards, and theme customization. Use it to rapidly bootstrap the administrative interface or control panel for any full-stack web application.
+
+**Use Cases:**
+- Rapidly prototyping the backend administrative interface for a new SaaS application or internal tool.
+- Serving as a high-quality boilerplate for new Next.js projects requiring complex, data-driven UI layouts.
+- Creating a robust administrative panel for a Content Management System (CMS) or e-commerce platform.
 
 ---
 

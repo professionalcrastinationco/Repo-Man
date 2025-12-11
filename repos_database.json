@@ -1572,5 +1572,297 @@
       "Python",
       "LLM API Integration"
     ]
+  },
+  "PleasePrompto/notebooklm-skill": {
+    "name": "PleasePrompto/notebooklm-skill",
+    "url": "https://github.com/PleasePrompto/notebooklm-skill",
+    "stars": 609,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Integrations",
+    "summary": "This is a Claude Code Skill built in Python that allows users to query their Google NotebookLM notebooks directly. It integrates browser automation and persistent authentication to retrieve source-grounded, citation-backed answers exclusively from the user's private documents. Use it to enhance Claude Code's knowledge base with specific, private information stored in NotebookLM.",
+    "use_cases": [
+      "Querying private research documents stored in Google NotebookLM using the Claude Code interface.",
+      "Enabling Claude Code to provide source-grounded, citation-backed answers from a specific, secure knowledge base.",
+      "Integrating proprietary or specialized document collections into an LLM workflow via skill automation."
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude Code Skill API",
+      "Browser Automation"
+    ]
+  },
+  "abubakarsiddik31/claude-skills-collection": {
+    "name": "abubakarsiddik31/claude-skills-collection",
+    "url": "https://github.com/abubakarsiddik31/claude-skills-collection",
+    "stars": 311,
+    "language": "Various",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Tools & Extensions",
+    "summary": "This repository is a curated index of official and community-built Claude Skills, which are modular tools designed to extend the capabilities of Anthropic's Claude AI. It enables users of Claude Pro or Enterprise to browse and integrate specific tools for coding, data analysis, document creation, and complex productivity workflows.",
+    "use_cases": [
+      "Discovering and exploring available modular tools (Skills) for the Claude AI platform.",
+      "Extending Claude's functionality for specialized tasks like data analysis or web scraping.",
+      "Finding community contributions to the Claude ecosystem to maximize AI productivity."
+    ],
+    "tech_stack": [
+      "Documentation",
+      "AI/LLM Configuration"
+    ]
+  },
+  "travisvn/awesome-claude-skills": {
+    "name": "travisvn/awesome-claude-skills",
+    "url": "https://github.com/travisvn/awesome-claude-skills",
+    "stars": 2684,
+    "language": "Various",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Resources & Agentic AI",
+    "summary": "A comprehensive awesome list compiling Claude Skills, resources, and tools aimed at customizing and optimizing Claude AI workflows, particularly emphasizing agentic coding via Claude Code. It serves as a centralized hub for developers looking to teach Claude repeatable, complex tasks using specialized instruction sets and scripts.",
+    "use_cases": [
+      "Discovering and implementing custom agentic workflows ('Skills') for Claude AI.",
+      "Improving efficiency for development tasks by leveraging specialized Claude Code instructions.",
+      "Finding resources and documentation related to extending Anthropic's Claude functionality."
+    ],
+    "tech_stack": [
+      "Awesome Lists",
+      "Markdown",
+      "AI Prompts/Instructions"
+    ]
+  },
+  "BehiSecc/awesome-claude-skills": {
+    "name": "BehiSecc/awesome-claude-skills",
+    "url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "stars": 3103,
+    "language": "Various",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Tools/Plugins Registry",
+    "summary": "This is an 'Awesome List' cataloging various functional skills, tools, and plugins available for the Claude large language model. It helps users discover capabilities ranging from document processing and coding assistance to scientific analysis and security testing. Use this repository when looking for specific, pre-built integrations or prompt templates to enhance Claude's utility across numerous domains.",
+    "use_cases": [
+      "Discovering specific development, utility, or data analysis tools usable with the Claude AI model.",
+      "Finding skills related to document creation, editing, and analysis (PDF, DOCX) through AI.",
+      "Identifying AI capabilities for security testing, research, and scientific workflows."
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Claude AI"
+    ]
+  },
+  "yusufkaraaslan/Skill_Seekers": {
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "stars": 4904,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Development Tools",
+    "summary": "Skill Seeker automates the transformation of external knowledge sources\u2014including documentation websites, GitHub repositories, and PDFs\u2014into structured skills compatible with the Claude AI platform. It uses web scraping, OCR, and AST parsing to preprocess multi-source data while utilizing automatic conflict detection. Use this tool to rapidly onboard complex, external, or proprietary knowledge into an LLM's context or knowledge base.",
+    "use_cases": [
+      "Automatically convert vast documentation websites into structured Claude AI skills.",
+      "Parse GitHub repositories using AST analysis to provide LLMs with context on code structure and functionality.",
+      "Generate training context for LLMs from unstructured PDF documents using integrated OCR capabilities.",
+      "Build and maintain a context knowledge base for a specialized AI assistant with built-in conflict detection."
+    ],
+    "tech_stack": [
+      "Python",
+      "Web Scraping / AST Parsing"
+    ]
+  },
+  "anthropics/skills": {
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "stars": 20335,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agent Frameworks",
+    "summary": "This repository provides the structure and resources for defining 'Skills,' which are modular instruction sets and scripts used by the Claude AI model. Skills dynamically enhance Claude's performance on specialized, repeatable tasks by providing context, internal workflows, and resources. Use this framework to customize Claude for organizational needs like document creation, data analysis, or task automation.",
+    "use_cases": [
+      "Customizing Claude to create branded documents following specific company style guides and workflows.",
+      "Enabling Claude to perform complex data analysis using proprietary organizational procedures.",
+      "Automating multi-step personal and professional tasks by defining detailed, repeatable instructions for the agent."
+    ],
+    "tech_stack": [
+      "Python"
+    ]
+  },
+  "ashishpatel26/500-AI-Agents-Projects": {
+    "name": "ashishpatel26/500-AI-Agents-Projects",
+    "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "stars": 20308,
+    "language": "Various",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Applications & Use Cases",
+    "summary": "This is a massive, curated catalogue detailing over 500 practical AI agent use cases across numerous industries, including healthcare, finance, and education. Use this resource for inspiration, research, or to identify existing open-source projects for implementing AI agents in business solutions.",
+    "use_cases": [
+      "Find inspiration for new AI agent projects",
+      "Research successful industry-specific applications of generative AI agents",
+      "Locate open-source projects and frameworks related to AI agent development"
+    ],
+    "tech_stack": [
+      "AI Agents",
+      "Generative AI",
+      "Large Language Models (LLMs)"
+    ]
+  },
+  "wshobson/agents": {
+    "name": "wshobson/agents",
+    "url": "https://github.com/wshobson/agents",
+    "stars": 22487,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Agent Orchestration & Workflow",
+    "summary": "This repository provides a production-ready system for intelligent automation, featuring 91 specialized AI agents and 15 multi-agent workflow orchestrators built specifically for Claude Code.\nIt enables users to orchestrate complex development tasks and extend Claude's capabilities using 65 single-purpose plugins and a comprehensive set of 47 agent skills.\nUse it to leverage a tiered model strategy (Opus, Sonnet, Haiku) to achieve reliable, high-performance automation across various coding and workflow requirements.",
+    "use_cases": [
+      "Orchestrating multi-step automation workflows by coordinating specialized AI agents (subagents).",
+      "Extending the capabilities of Claude Code through a library of pre-built, focused plugins and specialized skills.",
+      "Developing and managing complex AI agent systems with progressive skill disclosure and robust structure."
+    ],
+    "tech_stack": [
+      "Python",
+      "Anthropic Claude API"
+    ]
+  },
+  "microsoft/magentic-ui": {
+    "name": "microsoft/magentic-ui",
+    "url": "https://github.com/microsoft/magentic-ui",
+    "stars": 8999,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents / Web Automation",
+    "summary": "Magentic-UI is a research prototype of a human-centered AI agent designed to automate complex web and coding tasks that require monitoring and human oversight. Unlike typical black-box agents, it provides transparency by revealing its plan and allowing users to guide its actions during execution. It is ideal for developers and researchers exploring controllable and interactive web automation solutions.",
+    "use_cases": [
+      "Automating multi-step, complex web tasks that involve navigating dynamic UIs and forms.",
+      "Solving coding tasks that require real-time monitoring and modification by the user.",
+      "Developing and researching human-centered AI (HCAI) systems focusing on transparency and control."
+    ],
+    "tech_stack": [
+      "Python",
+      "Large Language Models (LLMs)"
+    ]
+  },
+  "anthropics/claude-quickstarts": {
+    "name": "anthropics/claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "stars": 11882,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLMs",
+    "summary": "Claude Quickstarts is a collection of foundational, deployable projects designed to help developers quickly integrate the Anthropic Claude API into applications. It provides immediate boilerplate for systems like AI agents and chatbots, significantly accelerating the development process. Use this repository to prototype and build production-ready applications powered by Large Language Models.",
+    "use_cases": [
+      "Building AI-powered customer service or support agents with knowledge base access",
+      "Prototyping and developing custom LLM-driven applications using the Claude API",
+      "Creating advanced conversational AI and chatbot systems",
+      "Learning best practices for integrating the Claude API into Python environments"
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude API (Anthropic)"
+    ]
+  },
+  "arhamkhnz/next-shadcn-admin-dashboard": {
+    "name": "arhamkhnz/next-shadcn-admin-dashboard",
+    "url": "https://github.com/arhamkhnz/next-shadcn-admin-dashboard",
+    "stars": 1308,
+    "language": "TypeScript",
+    "starred_date": "2025-12-11",
+    "main_category": "Web Development",
+    "subcategory": "Frontend Templates / Starter Kits",
+    "summary": "This is a modern, feature-rich admin dashboard template built with Next.js 16 and Shadcn UI, designed as a clean alternative to cluttered starters. It includes authentication layouts, multiple dashboards, and theme customization. Use it to rapidly bootstrap the administrative interface or control panel for any full-stack web application.",
+    "use_cases": [
+      "Rapidly prototyping the backend administrative interface for a new SaaS application or internal tool.",
+      "Serving as a high-quality boilerplate for new Next.js projects requiring complex, data-driven UI layouts.",
+      "Creating a robust administrative panel for a Content Management System (CMS) or e-commerce platform."
+    ],
+    "tech_stack": [
+      "Next.js (React)",
+      "TypeScript"
+    ]
+  },
+  "comfyanonymous/ComfyUI": {
+    "name": "comfyanonymous/ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "stars": 96503,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Generative AI Tools",
+    "summary": "ComfyUI is a highly modular and powerful visual AI engine and GUI for diffusion models, primarily Stable Diffusion. It utilizes a graph/nodes interface, allowing users to connect individual steps of the generation process to create complex, customized workflows. Use it when high control, reproducibility, and advanced workflow customization for generative image tasks are required.",
+    "use_cases": [
+      "Designing and running complex, multi-step Stable Diffusion image generation pipelines using a visual node editor.",
+      "Developing custom AI workflows and model combinations by visually mapping components (e.g., samplers, VAEs, checkpoints).",
+      "Integrating diffusion model capabilities into external applications or services via its API and backend."
+    ],
+    "tech_stack": [
+      "Python",
+      "PyTorch"
+    ]
+  },
+  "danielmiessler/Fabric": {
+    "name": "danielmiessler/Fabric",
+    "url": "https://github.com/danielmiessler/Fabric",
+    "stars": 35097,
+    "language": "JavaScript",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents & Prompt Engineering",
+    "summary": "Fabric is an open-source framework designed to augment human capabilities by providing a modular system of specialized AI prompts and agents. It leverages a crowdsourced library of high-quality instructions to solve specific, complex problems across various aspects of work and life. Use it to standardize AI workflows and deploy specialized, reusable augmentation tools instantly.",
+    "use_cases": [
+      "Augmenting developer workflows and coding tasks using specialized AI agents",
+      "Solving complex, niche problems by deploying crowdsourced and validated prompt routines",
+      "Managing and standardizing collections of high-quality AI prompts (prompt engineering management)",
+      "Creating personalized AI assistants for specific productivity or life management needs"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "QuentinFuxa/WhisperLiveKit": {
+    "name": "QuentinFuxa/WhisperLiveKit",
+    "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+    "stars": 9164,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Speech Processing",
+    "summary": "WhisperLiveKit is an ultra-low-latency, self-hosted solution for real-time speech-to-text transcription based on OpenAI's Whisper model. It specializes in simultaneous transcription and includes integrated speaker identification. This kit is ideal for applications requiring immediate, accurate conversion of live audio streams into text.",
+    "use_cases": [
+      "Real-time live captioning for streaming or broadcasting events",
+      "Transcribing and archiving business meetings with automatic speaker tracking",
+      "Developing accessible interfaces for users with hearing impairments",
+      "Processing live telephony or contact center interactions for analytics"
+    ],
+    "tech_stack": [
+      "Python",
+      "OpenAI Whisper"
+    ]
+  },
+  "Comfy-Org/ComfyUI-Manager": {
+    "name": "Comfy-Org/ComfyUI-Manager",
+    "url": "https://github.com/Comfy-Org/ComfyUI-Manager",
+    "stars": 12692,
+    "language": "Python",
+    "starred_date": "2025-12-11",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Extension Management",
+    "summary": "ComfyUI-Manager is a crucial extension designed to streamline the usage of ComfyUI by providing robust management features for custom nodes. It allows users to easily install, remove, disable, and enable various extensions directly within the ComfyUI interface. This tool is essential for anyone needing simplified maintenance and configuration of their complex AI generation workflow environment.",
+    "use_cases": [
+      "Installing and updating new custom nodes required for advanced ComfyUI workflows.",
+      "Disabling or removing malfunctioning or unused custom nodes to maintain a clean and stable environment.",
+      "Accessing a centralized hub for information and convenience functions related to ComfyUI components.",
+      "Utilizing modern package installation tools like 'uv' for faster dependency resolution and management."
+    ],
+    "tech_stack": [
+      "Python",
+      "uv (Package Management)"
+    ]
   }
 }
