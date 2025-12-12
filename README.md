@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 96 | **Last Updated:** 2025-12-11
+**Total Repos:** 97 | **Last Updated:** 2025-12-12
 
 ---
 
@@ -12,14 +12,14 @@
    * [ollama](#ollamaollama) (Running various LLMs)
    * [ComfyUI](#comfyanonymouscomfyui) (Designing and running)
    * [awesome-llm-apps](#shubhamsabooawesome-llm-apps) (Discovering and learning)
+   * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
-   * *...and 30 more*
+   * *...and 31 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -173,6 +173,22 @@ Bytebot is a self-hosted, open-source AI desktop agent designed to automate comp
 - Automating complex, multi-step digital workflows (e.g., data entry, form submission, report generation).
 - Testing application interfaces and performing automated end-to-end tasks in a controlled containerized desktop environment.
 - Delegating routine administrative computer tasks such as managing files, emailing, or interacting with web tools based on natural language instruction.
+
+---
+
+
+## AI Agents / Foundational Models
+
+### [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
+
+⭐ 51,250 | 🔤 Python, PyTorch | 📅 2025-12-12
+
+OpenManus is a highly popular, Python-based open-source project designed as an accessible implementation or alternative to the complex 'Manus' AI system. It provides foundational capabilities for advanced language models and intelligent agents, backed by a research focus (indicated by the DOI) and a public demo. Use it for cutting-edge AI research, developing custom agent workflows, or deploying powerful open-source models.
+
+**Use Cases:**
+- Developing and iterating on custom large language models (LLMs) and intelligent agents
+- Conducting academic research and reproducibility studies on foundational AI architectures
+- Deploying scalable, open-source AI applications using high-performance models
 
 ---
 

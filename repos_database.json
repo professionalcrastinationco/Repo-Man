@@ -1864,5 +1864,24 @@
       "Python",
       "uv (Package Management)"
     ]
+  },
+  "FoundationAgents/OpenManus": {
+    "name": "FoundationAgents/OpenManus",
+    "url": "https://github.com/FoundationAgents/OpenManus",
+    "stars": 51250,
+    "language": "Python",
+    "starred_date": "2025-12-12",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents / Foundational Models",
+    "summary": "OpenManus is a highly popular, Python-based open-source project designed as an accessible implementation or alternative to the complex 'Manus' AI system. It provides foundational capabilities for advanced language models and intelligent agents, backed by a research focus (indicated by the DOI) and a public demo. Use it for cutting-edge AI research, developing custom agent workflows, or deploying powerful open-source models.",
+    "use_cases": [
+      "Developing and iterating on custom large language models (LLMs) and intelligent agents",
+      "Conducting academic research and reproducibility studies on foundational AI architectures",
+      "Deploying scalable, open-source AI applications using high-performance models"
+    ],
+    "tech_stack": [
+      "Python",
+      "PyTorch"
+    ]
   }
 }
