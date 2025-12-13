@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 97 | **Last Updated:** 2025-12-12
+**Total Repos:** 100 | **Last Updated:** 2025-12-13
 
 ---
 
@@ -47,6 +47,7 @@
    * [Python](#thealgorithmspython) (Learning and studying)
 
 * **Other**
+   * [cheapino](#tompicheapino) (Building a personal,)
    * [image-quality](#ocamporimage-quality) (General purpose)
 
 * **Self Hosted**
@@ -76,7 +77,7 @@
    * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
    * [browser-tools-mcp](#agentdeskaibrowser-tools-mcp) (Enabling AI models)
-   * *...and 7 more*
+   * *...and 9 more*
 
 * **Web Development**
    * [reflex](#reflex-devreflex) (Building interactive data)
@@ -1009,6 +1010,22 @@ This repository is a comprehensive, community-driven collection of algorithms im
 # Other
 
 
+## Hardware Design & CAD
+
+### [tompi/cheapino](https://github.com/tompi/cheapino)
+
+⭐ 988 | 🔤 OpenSCAD, PCB Design / Electronics | 📅 2025-12-13
+
+Cheapino provides the design files and comprehensive guides for building a highly affordable, 36-key split ergonomic mechanical keyboard. It utilizes a reversible PCB and a duplex matrix connected via RJ45 to minimize component count and cost, making custom keyboards accessible to builders on a budget. Use this repository to source the necessary OpenSCAD and PCB files if you wish to self-manufacture a low-cost, wired, split keyboard.
+
+**Use Cases:**
+- Building a personal, highly affordable, 36-key split ergonomic keyboard using readily available components.
+- Prototyping or customizing keyboard plates and cases using the provided OpenSCAD design files.
+- Learning about cost-saving techniques in keyboard hardware design, such as reversible PCBs and duplex matrices.
+
+---
+
+
 ## Uncategorized
 
 ### [ocampor/image-quality](https://github.com/ocampor/image-quality)
@@ -1283,6 +1300,22 @@ Awesome Python is an opinionated, highly-starred curated list of Python framewor
 ---
 
 
+## Custom Mechanical Keyboards
+
+### [jrussellsmyth/quadsmack_keebs](https://github.com/jrussellsmyth/quadsmack_keebs)
+
+⭐ 35 | 🔤 Embedded C/C++ (QMK/ZMK Firmware), RP2040 Microcontrollers | 📅 2025-12-13
+
+QuadSmack Keebs is a collection of open-source designs, hardware specifications, and firmware intended for building highly functional and ergonomic custom mechanical keyboards. The focus is on unique layouts, split designs, and minimizing build cost using components like the RP2040-Zero. This repository is ideal for DIY enthusiasts looking to source, handwire, or 3D print specialized keyboard peripherals.
+
+**Use Cases:**
+- Designing and building a personalized, ergonomic, and split mechanical keyboard layout (e.g., Talon38)
+- Experimenting with minimal-cost, non-standard keyboard layouts using the TestDrive series
+- Learning techniques for handwiring keyboard matrices and utilizing inexpensive microcontrollers like the RP2040
+
+---
+
+
 ## Data Parsing / Web Integration Libraries
 
 ### [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser)
@@ -1409,6 +1442,22 @@ NiceGUI is an easy-to-use Python-based UI framework that allows developers to bu
 - Building interactive dashboards for data visualization and operational metrics
 - Creating configuration and control interfaces for robotics and smart home solutions
 - Developing small utility web apps or micro services requiring a simple, Python-driven GUI frontend
+
+---
+
+
+## Input Devices
+
+### [vostoklabs/Baikal-Handwired-Split-Corne-Keyboard](https://github.com/vostoklabs/Baikal-Handwired-Split-Corne-Keyboard)
+
+⭐ 55 | 🔤 ZMK Firmware, NRF52840 Microcontroller, BLE | 📅 2025-12-13
+
+This repository provides a comprehensive, beginner-friendly guide for building the Baikal, an affordable (~€20) handwired split Corne keyboard. It details the process of wiring the matrix and utilizes the Pro Micro NRF52840 for wireless connectivity via ZMK firmware (BLE). Use this project if you seek a detailed, low-cost entry point into custom mechanical keyboard building.
+
+**Use Cases:**
+- Building an ergonomic, customized split mechanical keyboard from scratch
+- Learning the principles and techniques of handwiring keyboard matrices
+- Creating a budget-friendly wireless (BLE) keyboard using ZMK firmware
 
 ---
 
