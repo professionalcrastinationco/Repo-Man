@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 100 | **Last Updated:** 2025-12-13
+**Total Repos:** 101 | **Last Updated:** 2025-12-16
 
 ---
 
@@ -45,6 +45,7 @@
 
 * **Education & Learning**
    * [Python](#thealgorithmspython) (Learning and studying)
+   * [keybr.com](#aradziekeybrcom) (Learning touch typing)
 
 * **Other**
    * [cheapino](#tompicheapino) (Building a personal,)
@@ -1003,6 +1004,22 @@ This repository is a comprehensive, community-driven collection of algorithms im
 - Learning and studying fundamental computer science algorithms like Merge Sort, Dijkstra's algorithm, etc.
 - Practicing algorithm implementation and understanding how different algorithms work in Python.
 - Preparing for coding interviews by reviewing a wide array of commonly requested data structures and algorithms.
+
+---
+
+
+## Interactive Learning
+
+### [aradzie/keybr.com](https://github.com/aradzie/keybr.com)
+
+⭐ 3,852 | 🔤 TypeScript, Web Development | 📅 2025-12-16
+
+keybr.com is an intelligent, web-based typing tutor designed to help users learn touch typing and significantly improve their typing speed. It tracks individual key statistics and automatically generates lessons focusing on the user's weakest keys. Use it to develop reliable touch typing skills or optimize existing speed through personalized, focused practice.
+
+**Use Cases:**
+- Learning touch typing from scratch efficiently.
+- Improving existing words per minute (WPM) speed and accuracy.
+- Identifying and practicing specific difficult keys or key combinations based on statistical analysis.
 
 ---
 

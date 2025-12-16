@@ -1941,5 +1941,24 @@
       "NRF52840 Microcontroller",
       "BLE"
     ]
+  },
+  "aradzie/keybr.com": {
+    "name": "aradzie/keybr.com",
+    "url": "https://github.com/aradzie/keybr.com",
+    "stars": 3852,
+    "language": "TypeScript",
+    "starred_date": "2025-12-16",
+    "main_category": "Education & Learning",
+    "subcategory": "Interactive Learning",
+    "summary": "keybr.com is an intelligent, web-based typing tutor designed to help users learn touch typing and significantly improve their typing speed. It tracks individual key statistics and automatically generates lessons focusing on the user's weakest keys. Use it to develop reliable touch typing skills or optimize existing speed through personalized, focused practice.",
+    "use_cases": [
+      "Learning touch typing from scratch efficiently.",
+      "Improving existing words per minute (WPM) speed and accuracy.",
+      "Identifying and practicing specific difficult keys or key combinations based on statistical analysis."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Web Development"
+    ]
   }
 }
