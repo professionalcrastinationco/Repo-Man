@@ -1960,5 +1960,44 @@
       "TypeScript",
       "Web Development"
     ]
+  },
+  "ksanjeev284/reddit-universal-scraper": {
+    "name": "ksanjeev284/reddit-universal-scraper",
+    "url": "https://github.com/ksanjeev284/reddit-universal-scraper",
+    "stars": 59,
+    "language": "Python",
+    "starred_date": "2025-12-17",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Web Scraping & Data Extraction",
+    "summary": "This is a comprehensive, open-source Reddit scraping suite designed to extract posts, comments, and multimedia content without requiring API keys. It offers advanced features like a Streamlit web dashboard for visualization, a REST API for easy integration with external analytic platforms, and scheduling capabilities.",
+    "use_cases": [
+      "Collecting extensive datasets of Reddit content (posts, comments, images) for market research, academic studies, or trend analysis.",
+      "Archiving data from specific subreddits or monitoring user activity on a scheduled basis.",
+      "Integrating the extracted Reddit data into business intelligence tools (like Grafana or Metabase) using the provided REST API."
+    ],
+    "tech_stack": [
+      "Python",
+      "Streamlit"
+    ]
+  },
+  "MemMachine/MemMachine": {
+    "name": "MemMachine/MemMachine",
+    "url": "https://github.com/MemMachine/MemMachine",
+    "stars": 2542,
+    "language": "Python",
+    "starred_date": "2025-12-17",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agent Frameworks & Tools",
+    "summary": "MemMachine is an open-source, universal memory layer designed specifically for advanced AI agents and LLMs. It enables agents to learn, store, and recall preferences and data across past sessions to enrich future interactions. Use it to provide persistent, stateful, and scalable memory management for complex autonomous systems.",
+    "use_cases": [
+      "Providing long-term, persistent memory and context for conversational AI chatbots.",
+      "Managing state and user preferences for personalized, autonomous AI agents.",
+      "Building scalable infrastructure for agentic AI applications requiring session recall.",
+      "Implementing dynamic knowledge storage and retrieval for AI systems."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM/Agent Systems"
+    ]
   }
 }

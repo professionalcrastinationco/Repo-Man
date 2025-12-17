@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 101 | **Last Updated:** 2025-12-16
+**Total Repos:** 103 | **Last Updated:** 2025-12-17
 
 ---
 
@@ -19,7 +19,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 31 more*
+   * *...and 32 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -78,7 +78,7 @@
    * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
    * [browser-tools-mcp](#agentdeskaibrowser-tools-mcp) (Enabling AI models)
-   * *...and 9 more*
+   * *...and 10 more*
 
 * **Web Development**
    * [reflex](#reflex-devreflex) (Building interactive data)
@@ -126,6 +126,23 @@ The Agent Development Kit (ADK) is a code-first Python toolkit designed for buil
 - Building and managing complex multi-agent systems and collaboration workflows.
 - Developing custom, production-ready AI assistants and applications powered by LLMs.
 - Evaluating and optimizing the reliability, performance, and behavior of developed agents.
+
+---
+
+
+## AI Agent Frameworks & Tools
+
+### [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine)
+
+⭐ 2,542 | 🔤 Python, LLM/Agent Systems | 📅 2025-12-17
+
+MemMachine is an open-source, universal memory layer designed specifically for advanced AI agents and LLMs. It enables agents to learn, store, and recall preferences and data across past sessions to enrich future interactions. Use it to provide persistent, stateful, and scalable memory management for complex autonomous systems.
+
+**Use Cases:**
+- Providing long-term, persistent memory and context for conversational AI chatbots.
+- Managing state and user preferences for personalized, autonomous AI agents.
+- Building scalable infrastructure for agentic AI applications requiring session recall.
+- Implementing dynamic knowledge storage and retrieval for AI systems.
 
 ---
 
@@ -1542,6 +1559,22 @@ Claude Config Editor is a lightweight web tool designed to clean and optimize th
 - Visually analyzing configuration file size and identifying sources of bloat.
 - Exporting configuration data for secure backup or transfer.
 - Visually managing associated MCP server configurations within the Claude environment.
+
+---
+
+
+## Web Scraping & Data Extraction
+
+### [ksanjeev284/reddit-universal-scraper](https://github.com/ksanjeev284/reddit-universal-scraper)
+
+⭐ 59 | 🔤 Python, Streamlit | 📅 2025-12-17
+
+This is a comprehensive, open-source Reddit scraping suite designed to extract posts, comments, and multimedia content without requiring API keys. It offers advanced features like a Streamlit web dashboard for visualization, a REST API for easy integration with external analytic platforms, and scheduling capabilities.
+
+**Use Cases:**
+- Collecting extensive datasets of Reddit content (posts, comments, images) for market research, academic studies, or trend analysis.
+- Archiving data from specific subreddits or monitoring user activity on a scheduled basis.
+- Integrating the extracted Reddit data into business intelligence tools (like Grafana or Metabase) using the provided REST API.
 
 ---
 
