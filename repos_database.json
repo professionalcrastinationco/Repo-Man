@@ -1999,5 +1999,158 @@
       "Python",
       "LLM/Agent Systems"
     ]
+  },
+  "agentsmd/agents.md": {
+    "name": "agentsmd/agents.md",
+    "url": "https://github.com/agentsmd/agents.md",
+    "stars": 12395,
+    "language": "TypeScript",
+    "starred_date": "2025-12-18",
+    "main_category": "Tools & Utilities",
+    "subcategory": "AI Agent Tooling/Specifications",
+    "summary": "AGENTS.md is a simple, open specification format designed to act as a dedicated README for AI coding agents. Its purpose is to provide predictable context, environment tips, and specific instructions to help AI agents reliably work on a project.",
+    "use_cases": [
+      "Standardizing project context and constraints for external AI coding tools.",
+      "Guiding AI agents on project-specific setup commands (e.g., dependency manager use).",
+      "Improving the reliability and success rate of complex AI-driven code modifications."
+    ],
+    "tech_stack": [
+      "Markdown",
+      "TypeScript"
+    ]
+  },
+  "microsoft/agent-lightning": {
+    "name": "microsoft/agent-lightning",
+    "url": "https://github.com/microsoft/agent-lightning",
+    "stars": 9715,
+    "language": "Python",
+    "starred_date": "2025-12-18",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents Framework",
+    "summary": "Agent Lightning is a robust Python framework designed as a trainer for building and scaling autonomous AI agents. It integrates concepts from LLMs, reinforcement learning, and MLOps to provide a comprehensive development environment. Developers should use this library to create, train, and manage complex agentic workflows and systems efficiently.",
+    "use_cases": [
+      "Developing, training, and testing multi-step autonomous AI agents leveraging LLMs.",
+      "Implementing and benchmarking reinforcement learning strategies for agent behavior.",
+      "Establishing MLOps pipelines for managing the lifecycle (training, deployment, monitoring) of agent systems."
+    ],
+    "tech_stack": [
+      "Python",
+      "Reinforcement Learning"
+    ]
+  },
+  "MemoriLabs/Memori": {
+    "name": "MemoriLabs/Memori",
+    "url": "https://github.com/MemoriLabs/Memori",
+    "stars": 11105,
+    "language": "Python",
+    "starred_date": "2025-12-18",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agent Frameworks",
+    "summary": "Memori is a SQL-native memory layer designed to provide robust long-short-term memory and state management for LLMs, single AI agents, and complex multi-agent systems. It acts as a memory fabric that is LLM, framework, and datastore agnostic, plugging into existing enterprise infrastructure. Use it when building large-scale, stateful AI applications requiring scalable and persistent memory handling.",
+    "use_cases": [
+      "Building sophisticated AI agents that require persistent, long-term memory for recalling past interactions or knowledge.",
+      "Implementing scalable Retrieval Augmented Generation (RAG) pipelines by providing a structured, native memory layer.",
+      "Managing state and context across complex multi-agent system interactions and conversations."
+    ],
+    "tech_stack": [
+      "Python",
+      "SQL/Database Connectivity"
+    ]
+  },
+  "resemble-ai/chatterbox": {
+    "name": "resemble-ai/chatterbox",
+    "url": "https://github.com/resemble-ai/chatterbox",
+    "stars": 15975,
+    "language": "Python",
+    "starred_date": "2025-12-18",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Text-to-Speech (TTS) / Audio Generation",
+    "summary": "Chatterbox TTS is a state-of-the-art open-source Text-to-Speech system developed by Resemble AI for high-quality voice synthesis. It allows developers and researchers to generate realistic, expressive AI-driven audio content programmatically. Use it when implementing dynamic voice outputs for user interfaces, media production, or conversational applications.",
+    "use_cases": [
+      "Generating professional narration for audiobooks, podcasts, or long-form content.",
+      "Creating custom voice responses for virtual assistants and conversational AI applications.",
+      "Synthesizing character dialogue and voice lines for video games and interactive media."
+    ],
+    "tech_stack": [
+      "Python",
+      "Deep Learning Models (TTS)"
+    ]
+  },
+  "szymdzum/browser-debugger-cli": {
+    "name": "szymdzum/browser-debugger-cli",
+    "url": "https://github.com/szymdzum/browser-debugger-cli",
+    "stars": 71,
+    "language": "TypeScript",
+    "starred_date": "2025-12-18",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Browser Automation",
+    "summary": "This CLI tool provides direct terminal access to the Chrome DevTools Protocol (CDP), maintaining a persistent connection to Chrome for executing commands sequentially via Unix pipes. It is designed to allow AI agents and scripts to quickly access browser telemetry like DOM structure, network data, and console output without complex framework overhead.",
+    "use_cases": [
+      "Feeding live browser telemetry (DOM, network logs) directly into AI agent workflows.",
+      "Creating powerful, sequential browser automation scripts using standard Unix pipes and shell commands.",
+      "Performing low-level web scraping and debugging by interacting directly with the Chrome DevTools Protocol."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Chrome DevTools Protocol (CDP)"
+    ]
+  },
+  "000miix/DailyGrapher": {
+    "name": "000miix/DailyGrapher",
+    "url": "https://github.com/000miix/DailyGrapher",
+    "stars": 41,
+    "language": "JavaScript",
+    "starred_date": "2025-12-18",
+    "main_category": "Smart Home",
+    "subcategory": "Smart Home UI/Visualization",
+    "summary": "DailyGrapher is a HACS custom card designed for Home Assistant's Lovelace interface. It transforms traditional calendar events into an engaging, circular clock visualization, making daily scheduling immediately apparent. This card is ideal for users looking for a unique and compact way to display multiple calendar entities on their smart home dashboard.",
+    "use_cases": [
+      "Displaying personal or family schedules in a compact, clock-based format on a Home Assistant dashboard",
+      "Combining and visualizing events from multiple calendar entities (e.g., Google Calendar) into one UI component",
+      "Providing a quick, graphical overview of upcoming events and availability throughout the current day"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Lovelace Custom Card API"
+    ]
+  },
+  "DigitalPlatDev/FreeDomain": {
+    "name": "DigitalPlatDev/FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "stars": 130932,
+    "language": "HTML",
+    "starred_date": "2025-12-18",
+    "main_category": "Web Development",
+    "subcategory": "Web Hosting & DNS Tools",
+    "summary": "DigitalPlat FreeDomain is a service that provides completely free domain names to individuals and organizations, drastically lowering the barrier to entry for establishing an online identity. Users can register a unique domain at no cost and connect it to third-party DNS providers like Cloudflare or Afraid.org for hosting. This platform is ideal for anyone seeking to launch a website or online project without incurring annual domain registration fees.",
+    "use_cases": [
+      "Launching a personal portfolio, blog, or hobby website without paying domain fees",
+      "Establishing a digital identity for non-profit organizations or small community projects on a tight budget",
+      "Registering temporary or permanent domains for testing and development environments",
+      "Creating an accessible, free URL for new startups before investing heavily in premium domains"
+    ],
+    "tech_stack": [
+      "HTML",
+      "Domain Name Registration Platform"
+    ]
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "stars": 7667,
+    "language": "Python",
+    "starred_date": "2025-12-18",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Tools & Resources",
+    "summary": "This repository is a curated 'Awesome List' featuring skills, tools, resources, and code examples for customizing and extending Claude AI workflows via the Anthropic API. It serves as a central hub for developers and users looking to build specialized AI agents or integrate Claude capabilities into applications. It provides links to SDKs, tutorials, and third-party integrations.",
+    "use_cases": [
+      "Discovering and exploring tools and integrations for the Anthropic Claude API.",
+      "Finding code examples and best practices for building custom Claude skills and agents.",
+      "Identifying resources for learning advanced prompt engineering techniques and workflow customization."
+    ],
+    "tech_stack": [
+      "Python",
+      "Anthropic Claude API"
+    ]
   }
 }

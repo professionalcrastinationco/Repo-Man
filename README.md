@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 103 | **Last Updated:** 2025-12-17
+**Total Repos:** 111 | **Last Updated:** 2025-12-18
 
 ---
 
@@ -19,7 +19,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 32 more*
+   * *...and 36 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -27,6 +27,7 @@
    * [skyvern](#skyvern-aiskyvern) (Automating multi-step business)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [sleepless-agent](#context-machine-labsleepless-agent) (Fully automating tedious)
+   * [browser-debugger-cli](#szymdzumbrowser-debugger-cli) (Feeding live browser)
    * [anti_bot_scraper](#harimxchoianti-bot-scraper) (Extracting comprehensive real)
 
 * **Data & Analytics**
@@ -61,11 +62,12 @@
    * [versatile_thermostat](#jmcollin78versatile-thermostat) (Simplifying complex Home)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
+   * [DailyGrapher](#000miixdailygrapher) (Displaying personal or)
    * [ha-open-window-blueprint](#adamcornforthha-open-window-blueprint) (Receiving intelligent, non-spammy)
    * [home-assistant-pc-power](#timman70home-assistant-pc-power) (Automate the startup)
    * [home-assistant-tray](#justinforlenzahome-assistant-tray) (Quickly checking the)
    * [HAcomms](#almostinteractivehacomms) (Automatically set a)
-   * [HomeAssistantLink](#rmkrshomeassistantlink) (Triggering a 'Busy')
+   * *...and 1 more*
 
 * **Tools & Utilities**
    * [public-apis](#public-apispublic-apis) (Discovering external services)
@@ -76,11 +78,12 @@
    * [nicegui](#zauberzeugnicegui) (Building interactive dashboards)
    * [requests-html](#psfrequests-html) (Scraping content from)
    * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
+   * [agents.md](#agentsmdagentsmd) (Standardizing project context)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
-   * [browser-tools-mcp](#agentdeskaibrowser-tools-mcp) (Enabling AI models)
-   * *...and 10 more*
+   * *...and 11 more*
 
 * **Web Development**
+   * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
    * [reflex](#reflex-devreflex) (Building interactive data)
    * [flet](#flet-devflet) (Developing internal business)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
@@ -90,8 +93,7 @@
    * [baserow](#baserowbaserow) (Building custom relational)
    * [Claudable](#opactoraiclaudable) (Rapidly prototype and)
    * [solara](#widgettisolara) (Building scalable, component-based)
-   * [tailwind-ui-components](#tailgridstailwind-ui-components) (Rapidly prototyping and)
-   * *...and 1 more*
+   * *...and 2 more*
 
 
 
@@ -126,6 +128,19 @@ The Agent Development Kit (ADK) is a code-first Python toolkit designed for buil
 - Building and managing complex multi-agent systems and collaboration workflows.
 - Developing custom, production-ready AI assistants and applications powered by LLMs.
 - Evaluating and optimizing the reliability, performance, and behavior of developed agents.
+
+---
+
+### [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
+
+⭐ 11,105 | 🔤 Python, SQL/Database Connectivity | 📅 2025-12-18
+
+Memori is a SQL-native memory layer designed to provide robust long-short-term memory and state management for LLMs, single AI agents, and complex multi-agent systems. It acts as a memory fabric that is LLM, framework, and datastore agnostic, plugging into existing enterprise infrastructure. Use it when building large-scale, stateful AI applications requiring scalable and persistent memory handling.
+
+**Use Cases:**
+- Building sophisticated AI agents that require persistent, long-term memory for recalling past interactions or knowledge.
+- Implementing scalable Retrieval Augmented Generation (RAG) pipelines by providing a structured, native memory layer.
+- Managing state and context across complex multi-agent system interactions and conversations.
 
 ---
 
@@ -224,6 +239,22 @@ Magentic-UI is a research prototype of a human-centered AI agent designed to aut
 - Automating multi-step, complex web tasks that involve navigating dynamic UIs and forms.
 - Solving coding tasks that require real-time monitoring and modification by the user.
 - Developing and researching human-centered AI (HCAI) systems focusing on transparency and control.
+
+---
+
+
+## AI Agents Framework
+
+### [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+
+⭐ 9,715 | 🔤 Python, Reinforcement Learning | 📅 2025-12-18
+
+Agent Lightning is a robust Python framework designed as a trainer for building and scaling autonomous AI agents. It integrates concepts from LLMs, reinforcement learning, and MLOps to provide a comprehensive development environment. Developers should use this library to create, train, and manage complex agentic workflows and systems efficiently.
+
+**Use Cases:**
+- Developing, training, and testing multi-step autonomous AI agents leveraging LLMs.
+- Implementing and benchmarking reinforcement learning strategies for agent behavior.
+- Establishing MLOps pipelines for managing the lifecycle (training, deployment, monitoring) of agent systems.
 
 ---
 
@@ -377,6 +408,22 @@ This repository is a curated index of official and community-built Claude Skills
 - Discovering and exploring available modular tools (Skills) for the Claude AI platform.
 - Extending Claude's functionality for specialized tasks like data analysis or web scraping.
 - Finding community contributions to the Claude ecosystem to maximize AI productivity.
+
+---
+
+
+## AI Tools & Resources
+
+### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
+⭐ 7,667 | 🔤 Python, Anthropic Claude API | 📅 2025-12-18
+
+This repository is a curated 'Awesome List' featuring skills, tools, resources, and code examples for customizing and extending Claude AI workflows via the Anthropic API. It serves as a central hub for developers and users looking to build specialized AI agents or integrate Claude capabilities into applications. It provides links to SDKs, tutorials, and third-party integrations.
+
+**Use Cases:**
+- Discovering and exploring tools and integrations for the Anthropic Claude API.
+- Finding code examples and best practices for building custom Claude skills and agents.
+- Identifying resources for learning advanced prompt engineering techniques and workflow customization.
 
 ---
 
@@ -772,6 +819,22 @@ WhisperLiveKit is an ultra-low-latency, self-hosted solution for real-time speec
 ---
 
 
+## Text-to-Speech (TTS) / Audio Generation
+
+### [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
+⭐ 15,975 | 🔤 Python, Deep Learning Models (TTS) | 📅 2025-12-18
+
+Chatterbox TTS is a state-of-the-art open-source Text-to-Speech system developed by Resemble AI for high-quality voice synthesis. It allows developers and researchers to generate realistic, expressive AI-driven audio content programmatically. Use it when implementing dynamic voice outputs for user interfaces, media production, or conversational applications.
+
+**Use Cases:**
+- Generating professional narration for audiobooks, podcasts, or long-form content.
+- Creating custom voice responses for virtual assistants and conversational AI applications.
+- Synthesizing character dialogue and voice lines for video games and interactive media.
+
+---
+
+
 # Automation & Scripting
 
 
@@ -803,6 +866,22 @@ Sleepless Agent is a 24/7 autonomous agent built in Python designed to maximize 
 - Fully automating tedious or low-priority coding tasks (e.g., refactoring, writing tests) during off-hours.
 - Maximizing the utilization and cost-efficiency of high-rate generative AI subscriptions.
 - Managing isolated coding environments and autonomously creating Git commits and Pull Requests based on task completion.
+
+---
+
+
+## Browser Automation
+
+### [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli)
+
+⭐ 71 | 🔤 TypeScript, Chrome DevTools Protocol (CDP) | 📅 2025-12-18
+
+This CLI tool provides direct terminal access to the Chrome DevTools Protocol (CDP), maintaining a persistent connection to Chrome for executing commands sequentially via Unix pipes. It is designed to allow AI agents and scripts to quickly access browser telemetry like DOM structure, network data, and console output without complex framework overhead.
+
+**Use Cases:**
+- Feeding live browser telemetry (DOM, network logs) directly into AI agent workflows.
+- Creating powerful, sequential browser automation scripts using standard Unix pipes and shell commands.
+- Performing low-level web scraping and debugging by interacting directly with the Chrome DevTools Protocol.
 
 ---
 
@@ -1254,6 +1333,22 @@ This is a C# Windows application designed to send real-time status updates and e
 ---
 
 
+## Smart Home UI/Visualization
+
+### [000miix/DailyGrapher](https://github.com/000miix/DailyGrapher)
+
+⭐ 41 | 🔤 JavaScript, Lovelace Custom Card API | 📅 2025-12-18
+
+DailyGrapher is a HACS custom card designed for Home Assistant's Lovelace interface. It transforms traditional calendar events into an engaging, circular clock visualization, making daily scheduling immediately apparent. This card is ideal for users looking for a unique and compact way to display multiple calendar entities on their smart home dashboard.
+
+**Use Cases:**
+- Displaying personal or family schedules in a compact, clock-based format on a Home Assistant dashboard
+- Combining and visualizing events from multiple calendar entities (e.g., Google Calendar) into one UI component
+- Providing a quick, graphical overview of upcoming events and availability throughout the current day
+
+---
+
+
 ## System Monitoring
 
 ### [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances)
@@ -1271,6 +1366,22 @@ This repository provides the Glances system monitoring tool packaged as an offic
 
 
 # Tools & Utilities
+
+
+## AI Agent Tooling/Specifications
+
+### [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
+
+⭐ 12,395 | 🔤 Markdown, TypeScript | 📅 2025-12-18
+
+AGENTS.md is a simple, open specification format designed to act as a dedicated README for AI coding agents. Its purpose is to provide predictable context, environment tips, and specific instructions to help AI agents reliably work on a project.
+
+**Use Cases:**
+- Standardizing project context and constraints for external AI coding tools.
+- Guiding AI agents on project-specific setup commands (e.g., dependency manager use).
+- Improving the reliability and success rate of complex AI-driven code modifications.
+
+---
 
 
 ## AI Development Tools
@@ -1772,6 +1883,23 @@ Solara is a Pure Python, React-style framework designed for building scalable we
 - Building scalable, component-based data dashboards and analytics applications
 - Developing full-stack web applications purely in Python using familiar React paradigms
 - Creating highly interactive user interfaces and widgets within Jupyter and IPython environments
+
+---
+
+
+## Web Hosting & DNS Tools
+
+### [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+
+⭐ 130,932 | 🔤 HTML, Domain Name Registration Platform | 📅 2025-12-18
+
+DigitalPlat FreeDomain is a service that provides completely free domain names to individuals and organizations, drastically lowering the barrier to entry for establishing an online identity. Users can register a unique domain at no cost and connect it to third-party DNS providers like Cloudflare or Afraid.org for hosting. This platform is ideal for anyone seeking to launch a website or online project without incurring annual domain registration fees.
+
+**Use Cases:**
+- Launching a personal portfolio, blog, or hobby website without paying domain fees
+- Establishing a digital identity for non-profit organizations or small community projects on a tight budget
+- Registering temporary or permanent domains for testing and development environments
+- Creating an accessible, free URL for new startups before investing heavily in premium domains
 
 ---
 
