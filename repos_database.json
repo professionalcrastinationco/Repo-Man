@@ -2152,5 +2152,24 @@
       "Python",
       "Anthropic Claude API"
     ]
+  },
+  "reacherhq/check-if-email-exists": {
+    "name": "reacherhq/check-if-email-exists",
+    "url": "https://github.com/reacherhq/check-if-email-exists",
+    "stars": 6874,
+    "language": "Rust",
+    "starred_date": "2025-12-19",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Data Validation & Verification",
+    "summary": "This is a high-performance Rust library and accompanying HTTP backend service designed to check if an email address exists and is deliverable without sending any actual email. It validates email syntax, verifies domain MX records, and conducts necessary SMTP checks. Use this tool to ensure data integrity, minimize bounce rates, and improve the quality of user sign-ups.",
+    "use_cases": [
+      "Integrating real-time email verification during user registration and form submissions.",
+      "Cleaning and validating large mailing lists and existing customer databases.",
+      "Building APIs or microservices that require robust, silent email deliverability checks."
+    ],
+    "tech_stack": [
+      "Rust",
+      "HTTP API"
+    ]
   }
 }

@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 111 | **Last Updated:** 2025-12-18
+**Total Repos:** 112 | **Last Updated:** 2025-12-19
 
 ---
 
@@ -80,7 +80,7 @@
    * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
-   * *...and 11 more*
+   * *...and 12 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -1473,6 +1473,22 @@ Feedparser is a robust Python library designed to parse and standardize data fro
 - Building content aggregators or news readers that consume multiple RSS/Atom feeds.
 - Integrating external blog posts or news updates into a content management system.
 - Converting disparate feed formats (like Atom, RSS 1.0/2.0, JSON Feed) into a standardized Python dictionary structure.
+
+---
+
+
+## Data Validation & Verification
+
+### [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
+
+⭐ 6,874 | 🔤 Rust, HTTP API | 📅 2025-12-19
+
+This is a high-performance Rust library and accompanying HTTP backend service designed to check if an email address exists and is deliverable without sending any actual email. It validates email syntax, verifies domain MX records, and conducts necessary SMTP checks. Use this tool to ensure data integrity, minimize bounce rates, and improve the quality of user sign-ups.
+
+**Use Cases:**
+- Integrating real-time email verification during user registration and form submissions.
+- Cleaning and validating large mailing lists and existing customer databases.
+- Building APIs or microservices that require robust, silent email deliverability checks.
 
 ---
 
