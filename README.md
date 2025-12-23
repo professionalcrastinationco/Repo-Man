@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 112 | **Last Updated:** 2025-12-19
+**Total Repos:** 117 | **Last Updated:** 2025-12-23
 
 ---
 
@@ -19,16 +19,19 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 36 more*
+   * *...and 38 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
    * [activepieces](#activepiecesactivepieces) (Automating business processes)
    * [skyvern](#skyvern-aiskyvern) (Automating multi-step business)
+   * [awesome-playwright](#mxschmittawesome-playwright) (Discovering community integrations)
+   * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [sleepless-agent](#context-machine-labsleepless-agent) (Fully automating tedious)
    * [browser-debugger-cli](#szymdzumbrowser-debugger-cli) (Feeding live browser)
    * [anti_bot_scraper](#harimxchoianti-bot-scraper) (Extracting comprehensive real)
+   * [better-playwright-mcp](#livorasbetter-playwright-mcp) (Developing scalable infrastructure)
 
 * **Data & Analytics**
    * [streamlit](#streamlitstreamlit) (Building interactive data)
@@ -191,6 +194,22 @@ Fabric is an open-source framework designed to augment human capabilities by pro
 - Solving complex, niche problems by deploying crowdsourced and validated prompt routines
 - Managing and standardizing collections of high-quality AI prompts (prompt engineering management)
 - Creating personalized AI assistants for specific productivity or life management needs
+
+---
+
+
+## AI Agents & Workflow Automation
+
+### [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
+
+⭐ 1,219 | 🔤 Rust, LLM / AI Models, Python | 📅 2025-12-23
+
+Terminator is a Rust-based framework for building intelligent AI agents capable of automating complex workflows on Windows machines, serving as a native desktop equivalent to browser automation tools like Playwright. It facilitates the recording and execution of tasks by leveraging LLMs for decision-making and interaction. Use it to create robust, low-level scripts that interact directly with the native Windows environment.
+
+**Use Cases:**
+- Automating repetitive desktop tasks such as data entry or software configuration on Windows.
+- Developing AI agents that can interpret tasks and interact with native Windows applications.
+- Recording and replaying complex user workflows for quality assurance or scripted testing of desktop software.
 
 ---
 
@@ -689,6 +708,22 @@ Ollama is a command-line tool and API server designed to simplify running large 
 ---
 
 
+## LLM Tooling
+
+### [AshKash/playwright-mcp](https://github.com/AshKash/playwright-mcp)
+
+⭐ 12 | 🔤 TypeScript, Playwright, Node.js | 📅 2025-12-23
+
+Playwright MCP is a Model Context Protocol server that enables Large Language Models (LLMs) to perform robust web automation and interaction. It provides structured accessibility snapshots of web pages, allowing LLMs to navigate and act deterministically without relying on vision models or ambiguous pixel data.
+
+**Use Cases:**
+- Enabling LLM agents to perform complex, multi-step web navigation and interaction (e.g., filling forms, checking statuses).
+- Integrating deterministic browser capabilities into MCP clients (like Cursor or Claude Desktop) for real-time web context.
+- Developing AI-driven testing or data extraction tools that utilize the structured accessibility tree instead of screenshots.
+
+---
+
+
 ## LLM Tooling & Memory Management
 
 ### [mem0ai/mem0](https://github.com/mem0ai/mem0)
@@ -872,6 +907,19 @@ Sleepless Agent is a 24/7 autonomous agent built in Python designed to maximize 
 
 ## Browser Automation
 
+### [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)
+
+⭐ 974 | 🔤 JavaScript, Playwright | 📅 2025-12-23
+
+This is a Claude Code Skill that enables the Claude AI model to autonomously write and execute customized Playwright scripts for general browser automation. It is designed for developers who need AI to perform real-time testing, validation, or complex multi-step web interaction flows without pre-written scripts.
+
+**Use Cases:**
+- Autonomous writing and execution of end-to-end (E2E) tests
+- Real-time web validation and dynamic data scraping tasks
+- Performing complex multi-step browser automation flows using AI-generated code
+
+---
+
 ### [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli)
 
 ⭐ 71 | 🔤 TypeScript, Chrome DevTools Protocol (CDP) | 📅 2025-12-18
@@ -882,6 +930,19 @@ This CLI tool provides direct terminal access to the Chrome DevTools Protocol (C
 - Feeding live browser telemetry (DOM, network logs) directly into AI agent workflows.
 - Creating powerful, sequential browser automation scripts using standard Unix pipes and shell commands.
 - Performing low-level web scraping and debugging by interacting directly with the Chrome DevTools Protocol.
+
+---
+
+### [livoras/better-playwright-mcp](https://github.com/livoras/better-playwright-mcp)
+
+⭐ 11 | 🔤 JavaScript, Playwright, ripgrep | 📅 2025-12-23
+
+This project is a high-performance Playwright-based server providing an HTTP API for browser automation using a Model Context Protocol (MCP). It features intelligent DOM compression (achieving 91%+ reduction) and uses ripgrep for ultra-fast, regex-based content search across semantic HTML snapshots. Use it when high-speed, scalable, and bandwidth-efficient interaction with web pages is required.
+
+**Use Cases:**
+- Developing scalable infrastructure for large-scale web scraping and data extraction.
+- Powering AI agents or models that require compressed, structured input (Model Context Protocol) from live web pages.
+- Executing high-speed, performance-critical browser automation tasks via a dedicated API server.
 
 ---
 
@@ -930,6 +991,22 @@ An advanced Python scraper utilizing Playwright to bypass complex anti-bot detec
 - Extracting comprehensive real estate listing data (prices, transaction types) from protected Korean property sites.
 - Automating data collection for market trend analysis and identifying specific investment strategies, such as gap investment.
 - Bypassing modern anti-bot and anti-crawling defenses using advanced browser automation techniques.
+
+---
+
+
+## Web Testing and Automation Resources
+
+### [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
+
+⭐ 1,322 | 🔤 Playwright, Node.js, Python | 📅 2025-12-23
+
+A curated awesome list dedicated to the Playwright framework, cataloging useful tools, libraries, integrations, and guides. This list helps developers discover community projects for end-to-end testing and browser automation using Playwright across multiple languages (Node.js, Python, .NET, Java).
+
+**Use Cases:**
+- Discovering community integrations and utilities for Playwright testing suites.
+- Finding specialized reporters and language support implementations for Playwright projects.
+- Locating guides and examples for advanced Playwright automation scenarios (e.g., serverless environments).
 
 ---
 

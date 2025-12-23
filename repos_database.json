@@ -2171,5 +2171,106 @@
       "Rust",
       "HTTP API"
     ]
+  },
+  "AshKash/playwright-mcp": {
+    "name": "AshKash/playwright-mcp",
+    "url": "https://github.com/AshKash/playwright-mcp",
+    "stars": 12,
+    "language": "TypeScript",
+    "starred_date": "2025-12-23",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Tooling",
+    "summary": "Playwright MCP is a Model Context Protocol server that enables Large Language Models (LLMs) to perform robust web automation and interaction. It provides structured accessibility snapshots of web pages, allowing LLMs to navigate and act deterministically without relying on vision models or ambiguous pixel data.",
+    "use_cases": [
+      "Enabling LLM agents to perform complex, multi-step web navigation and interaction (e.g., filling forms, checking statuses).",
+      "Integrating deterministic browser capabilities into MCP clients (like Cursor or Claude Desktop) for real-time web context.",
+      "Developing AI-driven testing or data extraction tools that utilize the structured accessibility tree instead of screenshots."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Playwright",
+      "Node.js"
+    ]
+  },
+  "lackeyjb/playwright-skill": {
+    "name": "lackeyjb/playwright-skill",
+    "url": "https://github.com/lackeyjb/playwright-skill",
+    "stars": 974,
+    "language": "JavaScript",
+    "starred_date": "2025-12-23",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Browser Automation",
+    "summary": "This is a Claude Code Skill that enables the Claude AI model to autonomously write and execute customized Playwright scripts for general browser automation. It is designed for developers who need AI to perform real-time testing, validation, or complex multi-step web interaction flows without pre-written scripts.",
+    "use_cases": [
+      "Autonomous writing and execution of end-to-end (E2E) tests",
+      "Real-time web validation and dynamic data scraping tasks",
+      "Performing complex multi-step browser automation flows using AI-generated code"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Playwright"
+    ]
+  },
+  "mxschmitt/awesome-playwright": {
+    "name": "mxschmitt/awesome-playwright",
+    "url": "https://github.com/mxschmitt/awesome-playwright",
+    "stars": 1322,
+    "language": "Various",
+    "starred_date": "2025-12-23",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Web Testing and Automation Resources",
+    "summary": "A curated awesome list dedicated to the Playwright framework, cataloging useful tools, libraries, integrations, and guides. This list helps developers discover community projects for end-to-end testing and browser automation using Playwright across multiple languages (Node.js, Python, .NET, Java).",
+    "use_cases": [
+      "Discovering community integrations and utilities for Playwright testing suites.",
+      "Finding specialized reporters and language support implementations for Playwright projects.",
+      "Locating guides and examples for advanced Playwright automation scenarios (e.g., serverless environments)."
+    ],
+    "tech_stack": [
+      "Playwright",
+      "Node.js",
+      "Python",
+      "JavaScript"
+    ]
+  },
+  "livoras/better-playwright-mcp": {
+    "name": "livoras/better-playwright-mcp",
+    "url": "https://github.com/livoras/better-playwright-mcp",
+    "stars": 11,
+    "language": "JavaScript",
+    "starred_date": "2025-12-23",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Browser Automation",
+    "summary": "This project is a high-performance Playwright-based server providing an HTTP API for browser automation using a Model Context Protocol (MCP). It features intelligent DOM compression (achieving 91%+ reduction) and uses ripgrep for ultra-fast, regex-based content search across semantic HTML snapshots. Use it when high-speed, scalable, and bandwidth-efficient interaction with web pages is required.",
+    "use_cases": [
+      "Developing scalable infrastructure for large-scale web scraping and data extraction.",
+      "Powering AI agents or models that require compressed, structured input (Model Context Protocol) from live web pages.",
+      "Executing high-speed, performance-critical browser automation tasks via a dedicated API server."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Playwright",
+      "ripgrep"
+    ]
+  },
+  "mediar-ai/terminator": {
+    "name": "mediar-ai/terminator",
+    "url": "https://github.com/mediar-ai/terminator",
+    "stars": 1219,
+    "language": "Rust",
+    "starred_date": "2025-12-23",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents & Workflow Automation",
+    "summary": "Terminator is a Rust-based framework for building intelligent AI agents capable of automating complex workflows on Windows machines, serving as a native desktop equivalent to browser automation tools like Playwright. It facilitates the recording and execution of tasks by leveraging LLMs for decision-making and interaction. Use it to create robust, low-level scripts that interact directly with the native Windows environment.",
+    "use_cases": [
+      "Automating repetitive desktop tasks such as data entry or software configuration on Windows.",
+      "Developing AI agents that can interpret tasks and interact with native Windows applications.",
+      "Recording and replaying complex user workflows for quality assurance or scripted testing of desktop software."
+    ],
+    "tech_stack": [
+      "Rust",
+      "LLM / AI Models",
+      "Python",
+      "TypeScript"
+    ]
   }
 }
