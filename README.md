@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 117 | **Last Updated:** 2025-12-23
+**Total Repos:** 130 | **Last Updated:** 2025-12-30
 
 ---
 
@@ -10,6 +10,7 @@
 
 * **AI & Machine Learning**
    * [ollama](#ollamaollama) (Running various LLMs)
+   * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
    * [ComfyUI](#comfyanonymouscomfyui) (Designing and running)
    * [awesome-llm-apps](#shubhamsabooawesome-llm-apps) (Discovering and learning)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
@@ -18,8 +19,7 @@
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
-   * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 38 more*
+   * *...and 41 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -41,6 +41,11 @@
    * [plotlydash-flask-tutorial](#toddbirchardplotlydash-flask-tutorial) (Integrating interactive data)
 
 * **Design & UI/UX**
+   * [Hover](#ianlunnhover) (Adding visual feedback)
+   * [heroicons](#tailwindlabsheroicons) (Integrating visual assets)
+   * [tabler-icons](#tablertabler-icons) (Integrating consistent visual)
+   * [icons](#twbsicons) (Integrating scalable, accessibility-focused)
+   * [SubtlePatterns](#atlemosubtlepatterns) (Applying subtle, repeating)
    * [adabraka-ui](#auganiadabraka-ui) (Building new high-performance)
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
 
@@ -50,6 +55,9 @@
 * **Education & Learning**
    * [Python](#thealgorithmspython) (Learning and studying)
    * [keybr.com](#aradziekeybrcom) (Learning touch typing)
+
+* **Mobile Development**
+   * [ratchet](#twbsratchet) (Rapid prototyping of)
 
 * **Other**
    * [cheapino](#tompicheapino) (Building a personal,)
@@ -63,14 +71,14 @@
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
    * [wallpanel-android](#thecowanwallpanel-android) (Mounting an Android)
    * [versatile_thermostat](#jmcollin78versatile-thermostat) (Simplifying complex Home)
+   * [ha-measureit](#danieldotnlha-measureit) (Measure the daily)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
+   * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
    * [DailyGrapher](#000miixdailygrapher) (Displaying personal or)
    * [ha-open-window-blueprint](#adamcornforthha-open-window-blueprint) (Receiving intelligent, non-spammy)
    * [home-assistant-pc-power](#timman70home-assistant-pc-power) (Automate the startup)
-   * [home-assistant-tray](#justinforlenzahome-assistant-tray) (Quickly checking the)
-   * [HAcomms](#almostinteractivehacomms) (Automatically set a)
-   * *...and 1 more*
+   * *...and 3 more*
 
 * **Tools & Utilities**
    * [public-apis](#public-apispublic-apis) (Discovering external services)
@@ -87,6 +95,8 @@
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
+   * [animate.css](#animate-cssanimatecss) (Adding entrance and)
+   * [foundation-sites](#foundationfoundation-sites) (Building responsive, mobile-first)
    * [reflex](#reflex-devreflex) (Building interactive data)
    * [flet](#flet-devflet) (Developing internal business)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
@@ -94,9 +104,7 @@
    * [json-editor](#json-editorjson-editor) (Building dynamic configuration)
    * [toapi](#elliotgao2toapi) (Generating instant JSON)
    * [baserow](#baserowbaserow) (Building custom relational)
-   * [Claudable](#opactoraiclaudable) (Rapidly prototype and)
-   * [solara](#widgettisolara) (Building scalable, component-based)
-   * *...and 2 more*
+   * *...and 4 more*
 
 
 
@@ -399,6 +407,22 @@ The MCP Config Manager is a Python utility designed to manage server configurati
 ---
 
 
+## AI Engineering & Prompting
+
+### [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+⭐ 103,720 | 🔤 Prompt Engineering, Large Language Models (LLMs), Documentation/Text Files | 📅 2025-12-30
+
+This repository is an extensive, open-sourced collection of system prompts, internal tools, and AI models utilized by popular developer assistants such as Cursor, Devin AI, Replit, and GitHub Copilot. It offers profound insights into the operational directives, behavioral constraints, and underlying models of leading production AI tools. Use this resource to study advanced prompt engineering techniques, reverse-engineer commercial AI assistant behavior, and learn how internal tools utilize LLMs.
+
+**Use Cases:**
+- Studying the proprietary system prompts and internal configurations of major AI developer tools (e.g., Cursor, Devin, Copilot).
+- Learning advanced prompt engineering techniques and defensive prompting strategies used in production LLM applications.
+- Understanding the differences and similarities between the models and prompts employed by competing AI coding assistants.
+
+---
+
+
 ## AI Infrastructure & Agents
 
 ### [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
@@ -531,6 +555,22 @@ GitMCP is a free, open-source remote server that acts as a Multi-Codebase Projec
 ---
 
 
+## Developer Tools / Prompt Engineering
+
+### [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done)
+
+⭐ 210 | 🔤 JavaScript, Claude Code / Meta-Prompting | 📅 2025-12-30
+
+Get Shit Done (GSD) is a meta-prompting and context engineering system designed to make AI code generation (specifically with Claude Code) reliable and consistent. It acts as a layer that extracts detailed specifications from an idea description, ensuring the resulting code is scalable and high-quality, eliminating the inconsistency of typical 'vibecoding'.
+
+**Use Cases:**
+- Establishing standardized context engineering practices for AI-driven development.
+- Generating complex, spec-driven code using Claude Code with high reliability.
+- Improving the consistency and scalability of applications built using generative AI.
+
+---
+
+
 ## Generative AI Tools
 
 ### [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
@@ -623,6 +663,22 @@ This repository is a comprehensive collection of practical examples, tutorials, 
 - Learning implementation strategies for Retrieval-Augmented Generation (RAG) pipelines.
 - Finding code recipes and examples for building custom AI agents and multi-step workflows.
 - Developing production-ready LLM applications, including sophisticated chatbots and assistants.
+
+---
+
+
+## LLM Development Tools
+
+### [tripleyak/skillcreator](https://github.com/tripleyak/skillcreator)
+
+⭐ 54 | 🔤 Python, Claude-AI | 📅 2025-12-30
+
+SkillCreator is the ultimate meta-skill for generating best-in-class Claude Code skills autonomously. It employs a rigorous 4-phase, multi-agent architecture to ensure comprehensive analysis, clean generation, and unanimous quality approval for every skill produced. Use this tool when you need to rapidly create and deploy professional, verified skills specifically tailored for the Anthropic Claude platform.
+
+**Use Cases:**
+- Generating new, fully verified Claude Code skills based on a simple prompt (e.g., automated code review).
+- Establishing a rigorous, quality-gated workflow for developing AI skills using the 4-phase synthesis process.
+- Rapidly prototyping and deploying complex, multi-agent AI capabilities for the Anthropic Claude platform.
 
 ---
 
@@ -1110,6 +1166,87 @@ textract is a robust Python library designed to simplify the process of extracti
 # Design & UI/UX
 
 
+## CSS Styling Libraries
+
+### [IanLunn/Hover](https://github.com/IanLunn/Hover)
+
+⭐ 29,399 | 🔤 CSS3, SCSS (Sass), LESS | 📅 2025-12-30
+
+Hover.css is an extensive collection of pure CSS3-powered hover effects (like pushes, fades, and glows) designed to enhance interaction on web elements such as buttons, links, and images. It allows developers and designers to quickly add polished visual feedback to their interfaces without writing complex custom CSS transitions. It is available in CSS, Sass, and LESS formats for easy integration.
+
+**Use Cases:**
+- Adding visual feedback and dynamic effects to buttons and navigation links
+- Enhancing the interaction state of images, logos, or featured content thumbnails
+- Creating compelling Call-to-Action (CTA) elements with subtle or prominent animations
+- Applying complex CSS transitions and animations quickly using pre-defined classes
+
+---
+
+
+## Design Assets & Libraries
+
+### [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns)
+
+⭐ 4,712 | 🔤 HTML, CSS (Implied), Photoshop (.pat format) | 📅 2025-12-30
+
+This repository is a comprehensive collection of subtle background patterns, derived from the popular Subtle Patterns resource. It includes individual image files suitable for web use and the original Photoshop .pat file for graphic designers. Use this resource to quickly find and integrate high-quality, repeating textures into web interfaces, applications, or visual design projects.
+
+**Use Cases:**
+- Applying subtle, repeating background textures to web applications or websites
+- Using textures within graphic design software (like Photoshop) via the provided .pat file
+- Sourcing royalty-free (under CC BY-SA 3.0) design assets for mockups and prototypes
+
+---
+
+
+## Icon Libraries
+
+### [twbs/icons](https://github.com/twbs/icons)
+
+⭐ 7,839 | 🔤 TypeScript, SVG | 📅 2025-12-30
+
+Bootstrap Icons is the official open source SVG icon library providing over 2,000 high-quality vector icons designed specifically to complement the Bootstrap framework. Developers use this library to integrate scalable and consistent visual glyphs into their web applications. It is packaged for flexible use across various projects, supporting SVG injection, sprites, and web fonts.
+
+**Use Cases:**
+- Integrating scalable, accessibility-focused icons into web projects built with Bootstrap.
+- Enhancing navigation menus and button elements with universally recognized visual indicators.
+- Packaging iconography assets (SVG, WOFF, WOFF2) for efficient deployment in production environments.
+
+---
+
+
+## Icon Libraries / Design Assets
+
+### [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
+
+⭐ 19,951 | 🔤 SVG, JavaScript, React / Svelte (Integration) | 📅 2025-12-30
+
+Tabler Icons is an extensive library featuring nearly 6,000 free, MIT-licensed SVG icons designed on a standardized 24x24 grid with a 2px stroke. It provides high-quality vector assets for enhancing the visual appeal and clarity of user interfaces and web applications. Developers should use this library when they require a comprehensive, customizable, and visually consistent icon set compatible with modern frontend frameworks.
+
+**Use Cases:**
+- Integrating consistent visual cues into web application navigation, menus, and forms
+- Replacing low-quality or inconsistent raster graphics with scalable vector icons (SVG)
+- Building UI components in frameworks like React or Svelte that require functional iconography
+
+---
+
+
+## Iconography & UI Assets
+
+### [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
+
+⭐ 23,198 | 🔤 JavaScript, SVG | 📅 2025-12-30
+
+Heroicons is a high-quality, free set of hand-crafted SVG icons created by the developers of Tailwind CSS. It is widely used for modern UI development, providing vector assets that scale perfectly across applications. Use it to quickly add professional icons to web projects, available as raw SVGs or integrated components for React and Vue.
+
+**Use Cases:**
+- Integrating visual assets into navigation systems (sidebars, menus)
+- Enhancing the clarity and appearance of buttons and interactive controls
+- Displaying universal symbols for system feedback, alerts, and settings pages
+
+---
+
+
 ## Prototyping Tools
 
 ### [aguiarsc/wireframe-ui](https://github.com/aguiarsc/wireframe-ui)
@@ -1193,6 +1330,25 @@ keybr.com is an intelligent, web-based typing tutor designed to help users learn
 - Learning touch typing from scratch efficiently.
 - Improving existing words per minute (WPM) speed and accuracy.
 - Identifying and practicing specific difficult keys or key combinations based on statistical analysis.
+
+---
+
+
+# Mobile Development
+
+
+## Mobile UI/UX Toolkit (Hybrid)
+
+### [twbs/ratchet](https://github.com/twbs/ratchet)
+
+⭐ 14,655 | 🔤 CSS, JavaScript, HTML | 📅 2025-12-30
+
+Ratchet is a lightweight CSS and JavaScript framework focused on creating high-quality hybrid mobile applications that mimic native iOS and Android interfaces. It provides pre-styled components and navigation patterns, allowing developers to rapidly prototype mobile apps using standard web technologies.
+
+**Use Cases:**
+- Rapid prototyping of mobile application interfaces and workflows.
+- Building hybrid mobile apps that utilize wrappers like Apache Cordova or Capacitor.
+- Developing mobile web experiences that require a native look and feel.
 
 ---
 
@@ -1300,7 +1456,36 @@ Home Assistant Tray is a lightweight desktop application that embeds your Home A
 ---
 
 
+## Home Assistant Component
+
+### [VolantisDev/ha-chore-helper](https://github.com/VolantisDev/ha-chore-helper)
+
+⭐ 135 | 🔤 Python, Home Assistant | 📅 2025-12-30
+
+Chore Helper is a custom Home Assistant integration used for defining, tracking, and managing recurring household chores. It utilizes Home Assistant helpers and sensors to provide status updates on pending chores, allowing users to integrate chore management into their existing smart home dashboards and automations.
+
+**Use Cases:**
+- Defining and tracking the due dates for standard recurring tasks like cleaning, maintenance, or rotating household duties.
+- Monitoring the status of chores (due, complete, overdue) via dedicated Home Assistant sensor entities.
+- Triggering automations or notifications within Home Assistant when a specific chore becomes due or is missed.
+
+---
+
+
 ## Home Assistant Integration
+
+### [danieldotnl/ha-measureit](https://github.com/danieldotnl/ha-measureit)
+
+⭐ 208 | 🔤 Python, Home Assistant | 📅 2025-12-30
+
+Measure It is a Home Assistant custom component designed to track durations and counts of specific events within a smart home environment. It uses templates and conditions to define when a measurement should start, stop, or increment, allowing users to create custom usage metrics. It is primarily used for generating detailed statistics on appliance use or event frequency over time.
+
+**Use Cases:**
+- Measure the daily duration a water heater runs based on power consumption.
+- Count the number of times a sensor detects motion during specific hours (e.g., night time intrusion attempts).
+- Track the cumulative time an irrigation system is actively running across various zones.
+
+---
 
 ### [Timman70/home-assistant-pc-power](https://github.com/Timman70/home-assistant-pc-power)
 
@@ -1867,6 +2052,22 @@ This JavaScript library automatically generates an HTML form from a JSON Schema 
 ---
 
 
+## Frontend Frameworks
+
+### [foundation/foundation-sites](https://github.com/foundation/foundation-sites)
+
+⭐ 29,781 | 🔤 HTML, Sass, JavaScript | 📅 2025-12-30
+
+Foundation for Sites is a professional, responsive front-end framework providing a robust grid system and reusable UI components for quick development. It is used to rapidly prototype and build production-ready, mobile-first websites and applications that function reliably across all devices.
+
+**Use Cases:**
+- Building responsive, mobile-first websites, landing pages, and marketing sites.
+- Rapidly prototyping web interfaces and testing layout designs.
+- Developing complex web applications using a standardized, accessible component library.
+
+---
+
+
 ## Frontend Templates / Starter Kits
 
 ### [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)
@@ -1976,6 +2177,23 @@ Solara is a Pure Python, React-style framework designed for building scalable we
 - Building scalable, component-based data dashboards and analytics applications
 - Developing full-stack web applications purely in Python using familiar React paradigms
 - Creating highly interactive user interfaces and widgets within Jupyter and IPython environments
+
+---
+
+
+## UI/UX Libraries & Styling
+
+### [animate-css/animate.css](https://github.com/animate-css/animate.css)
+
+⭐ 82,543 | 🔤 CSS, HTML | 📅 2025-12-30
+
+Animate.css is a widely popular, cross-browser library of pre-built CSS animations designed to be implemented with ease by adding utility classes to HTML elements. Use it to instantly apply visual effects like entrance, exit, and attention-seeking motions to enhance user interface interactions and add professional flair. It removes the need to write complex CSS keyframes from scratch for common animation patterns.
+
+**Use Cases:**
+- Adding entrance and exit transitions to dynamically loaded elements (e.g., notifications or content sections)
+- Highlighting calls to action (CTAs) or important page elements using attention-seeking animations (e.g., bounce or flash)
+- Creating engaging animated headers, slideshows, or landing page introductions
+- Animating UI components like modals, navigation menus, and tooltips
 
 ---
 

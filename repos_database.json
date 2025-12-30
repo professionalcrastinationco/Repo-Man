@@ -2272,5 +2272,261 @@
       "Python",
       "TypeScript"
     ]
+  },
+  "tripleyak/skillcreator": {
+    "name": "tripleyak/skillcreator",
+    "url": "https://github.com/tripleyak/skillcreator",
+    "stars": 54,
+    "language": "Python",
+    "starred_date": "2025-12-30",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Development Tools",
+    "summary": "SkillCreator is the ultimate meta-skill for generating best-in-class Claude Code skills autonomously. It employs a rigorous 4-phase, multi-agent architecture to ensure comprehensive analysis, clean generation, and unanimous quality approval for every skill produced. Use this tool when you need to rapidly create and deploy professional, verified skills specifically tailored for the Anthropic Claude platform.",
+    "use_cases": [
+      "Generating new, fully verified Claude Code skills based on a simple prompt (e.g., automated code review).",
+      "Establishing a rigorous, quality-gated workflow for developing AI skills using the 4-phase synthesis process.",
+      "Rapidly prototyping and deploying complex, multi-agent AI capabilities for the Anthropic Claude platform."
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude-AI"
+    ]
+  },
+  "tabler/tabler-icons": {
+    "name": "tabler/tabler-icons",
+    "url": "https://github.com/tabler/tabler-icons",
+    "stars": 19951,
+    "language": "JavaScript",
+    "starred_date": "2025-12-30",
+    "main_category": "Design & UI/UX",
+    "subcategory": "Icon Libraries / Design Assets",
+    "summary": "Tabler Icons is an extensive library featuring nearly 6,000 free, MIT-licensed SVG icons designed on a standardized 24x24 grid with a 2px stroke. It provides high-quality vector assets for enhancing the visual appeal and clarity of user interfaces and web applications. Developers should use this library when they require a comprehensive, customizable, and visually consistent icon set compatible with modern frontend frameworks.",
+    "use_cases": [
+      "Integrating consistent visual cues into web application navigation, menus, and forms",
+      "Replacing low-quality or inconsistent raster graphics with scalable vector icons (SVG)",
+      "Building UI components in frameworks like React or Svelte that require functional iconography"
+    ],
+    "tech_stack": [
+      "SVG",
+      "JavaScript",
+      "React / Svelte (Integration)"
+    ]
+  },
+  "tailwindlabs/heroicons": {
+    "name": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "stars": 23198,
+    "language": "JavaScript",
+    "starred_date": "2025-12-30",
+    "main_category": "Design & UI/UX",
+    "subcategory": "Iconography & UI Assets",
+    "summary": "Heroicons is a high-quality, free set of hand-crafted SVG icons created by the developers of Tailwind CSS. It is widely used for modern UI development, providing vector assets that scale perfectly across applications. Use it to quickly add professional icons to web projects, available as raw SVGs or integrated components for React and Vue.",
+    "use_cases": [
+      "Integrating visual assets into navigation systems (sidebars, menus)",
+      "Enhancing the clarity and appearance of buttons and interactive controls",
+      "Displaying universal symbols for system feedback, alerts, and settings pages"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "SVG"
+    ]
+  },
+  "twbs/icons": {
+    "name": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "stars": 7839,
+    "language": "TypeScript",
+    "starred_date": "2025-12-30",
+    "main_category": "Design & UI/UX",
+    "subcategory": "Icon Libraries",
+    "summary": "Bootstrap Icons is the official open source SVG icon library providing over 2,000 high-quality vector icons designed specifically to complement the Bootstrap framework. Developers use this library to integrate scalable and consistent visual glyphs into their web applications. It is packaged for flexible use across various projects, supporting SVG injection, sprites, and web fonts.",
+    "use_cases": [
+      "Integrating scalable, accessibility-focused icons into web projects built with Bootstrap.",
+      "Enhancing navigation menus and button elements with universally recognized visual indicators.",
+      "Packaging iconography assets (SVG, WOFF, WOFF2) for efficient deployment in production environments."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "SVG"
+    ]
+  },
+  "atlemo/SubtlePatterns": {
+    "name": "atlemo/SubtlePatterns",
+    "url": "https://github.com/atlemo/SubtlePatterns",
+    "stars": 4712,
+    "language": "HTML",
+    "starred_date": "2025-12-30",
+    "main_category": "Design & UI/UX",
+    "subcategory": "Design Assets & Libraries",
+    "summary": "This repository is a comprehensive collection of subtle background patterns, derived from the popular Subtle Patterns resource. It includes individual image files suitable for web use and the original Photoshop .pat file for graphic designers. Use this resource to quickly find and integrate high-quality, repeating textures into web interfaces, applications, or visual design projects.",
+    "use_cases": [
+      "Applying subtle, repeating background textures to web applications or websites",
+      "Using textures within graphic design software (like Photoshop) via the provided .pat file",
+      "Sourcing royalty-free (under CC BY-SA 3.0) design assets for mockups and prototypes"
+    ],
+    "tech_stack": [
+      "HTML",
+      "CSS (Implied)",
+      "Photoshop (.pat format)"
+    ]
+  },
+  "IanLunn/Hover": {
+    "name": "IanLunn/Hover",
+    "url": "https://github.com/IanLunn/Hover",
+    "stars": 29399,
+    "language": "SCSS",
+    "starred_date": "2025-12-30",
+    "main_category": "Design & UI/UX",
+    "subcategory": "CSS Styling Libraries",
+    "summary": "Hover.css is an extensive collection of pure CSS3-powered hover effects (like pushes, fades, and glows) designed to enhance interaction on web elements such as buttons, links, and images. It allows developers and designers to quickly add polished visual feedback to their interfaces without writing complex custom CSS transitions. It is available in CSS, Sass, and LESS formats for easy integration.",
+    "use_cases": [
+      "Adding visual feedback and dynamic effects to buttons and navigation links",
+      "Enhancing the interaction state of images, logos, or featured content thumbnails",
+      "Creating compelling Call-to-Action (CTA) elements with subtle or prominent animations",
+      "Applying complex CSS transitions and animations quickly using pre-defined classes"
+    ],
+    "tech_stack": [
+      "CSS3",
+      "SCSS (Sass)",
+      "LESS"
+    ]
+  },
+  "twbs/ratchet": {
+    "name": "twbs/ratchet",
+    "url": "https://github.com/twbs/ratchet",
+    "stars": 14655,
+    "language": "CSS",
+    "starred_date": "2025-12-30",
+    "main_category": "Mobile Development",
+    "subcategory": "Mobile UI/UX Toolkit (Hybrid)",
+    "summary": "Ratchet is a lightweight CSS and JavaScript framework focused on creating high-quality hybrid mobile applications that mimic native iOS and Android interfaces. It provides pre-styled components and navigation patterns, allowing developers to rapidly prototype mobile apps using standard web technologies.",
+    "use_cases": [
+      "Rapid prototyping of mobile application interfaces and workflows.",
+      "Building hybrid mobile apps that utilize wrappers like Apache Cordova or Capacitor.",
+      "Developing mobile web experiences that require a native look and feel."
+    ],
+    "tech_stack": [
+      "CSS",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  "foundation/foundation-sites": {
+    "name": "foundation/foundation-sites",
+    "url": "https://github.com/foundation/foundation-sites",
+    "stars": 29781,
+    "language": "HTML",
+    "starred_date": "2025-12-30",
+    "main_category": "Web Development",
+    "subcategory": "Frontend Frameworks",
+    "summary": "Foundation for Sites is a professional, responsive front-end framework providing a robust grid system and reusable UI components for quick development. It is used to rapidly prototype and build production-ready, mobile-first websites and applications that function reliably across all devices.",
+    "use_cases": [
+      "Building responsive, mobile-first websites, landing pages, and marketing sites.",
+      "Rapidly prototyping web interfaces and testing layout designs.",
+      "Developing complex web applications using a standardized, accessible component library."
+    ],
+    "tech_stack": [
+      "HTML",
+      "Sass",
+      "JavaScript",
+      "CSS Framework"
+    ]
+  },
+  "animate-css/animate.css": {
+    "name": "animate-css/animate.css",
+    "url": "https://github.com/animate-css/animate.css",
+    "stars": 82543,
+    "language": "CSS",
+    "starred_date": "2025-12-30",
+    "main_category": "Web Development",
+    "subcategory": "UI/UX Libraries & Styling",
+    "summary": "Animate.css is a widely popular, cross-browser library of pre-built CSS animations designed to be implemented with ease by adding utility classes to HTML elements. Use it to instantly apply visual effects like entrance, exit, and attention-seeking motions to enhance user interface interactions and add professional flair. It removes the need to write complex CSS keyframes from scratch for common animation patterns.",
+    "use_cases": [
+      "Adding entrance and exit transitions to dynamically loaded elements (e.g., notifications or content sections)",
+      "Highlighting calls to action (CTAs) or important page elements using attention-seeking animations (e.g., bounce or flash)",
+      "Creating engaging animated headers, slideshows, or landing page introductions",
+      "Animating UI components like modals, navigation menus, and tooltips"
+    ],
+    "tech_stack": [
+      "CSS",
+      "HTML"
+    ]
+  },
+  "x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "stars": 103720,
+    "language": "Various",
+    "starred_date": "2025-12-30",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Engineering & Prompting",
+    "summary": "This repository is an extensive, open-sourced collection of system prompts, internal tools, and AI models utilized by popular developer assistants such as Cursor, Devin AI, Replit, and GitHub Copilot. It offers profound insights into the operational directives, behavioral constraints, and underlying models of leading production AI tools. Use this resource to study advanced prompt engineering techniques, reverse-engineer commercial AI assistant behavior, and learn how internal tools utilize LLMs.",
+    "use_cases": [
+      "Studying the proprietary system prompts and internal configurations of major AI developer tools (e.g., Cursor, Devin, Copilot).",
+      "Learning advanced prompt engineering techniques and defensive prompting strategies used in production LLM applications.",
+      "Understanding the differences and similarities between the models and prompts employed by competing AI coding assistants."
+    ],
+    "tech_stack": [
+      "Prompt Engineering",
+      "Large Language Models (LLMs)",
+      "Documentation/Text Files"
+    ]
+  },
+  "VolantisDev/ha-chore-helper": {
+    "name": "VolantisDev/ha-chore-helper",
+    "url": "https://github.com/VolantisDev/ha-chore-helper",
+    "stars": 135,
+    "language": "Python",
+    "starred_date": "2025-12-30",
+    "main_category": "Smart Home",
+    "subcategory": "Home Assistant Component",
+    "summary": "Chore Helper is a custom Home Assistant integration used for defining, tracking, and managing recurring household chores. It utilizes Home Assistant helpers and sensors to provide status updates on pending chores, allowing users to integrate chore management into their existing smart home dashboards and automations.",
+    "use_cases": [
+      "Defining and tracking the due dates for standard recurring tasks like cleaning, maintenance, or rotating household duties.",
+      "Monitoring the status of chores (due, complete, overdue) via dedicated Home Assistant sensor entities.",
+      "Triggering automations or notifications within Home Assistant when a specific chore becomes due or is missed."
+    ],
+    "tech_stack": [
+      "Python",
+      "Home Assistant"
+    ]
+  },
+  "danieldotnl/ha-measureit": {
+    "name": "danieldotnl/ha-measureit",
+    "url": "https://github.com/danieldotnl/ha-measureit",
+    "stars": 208,
+    "language": "Python",
+    "starred_date": "2025-12-30",
+    "main_category": "Smart Home",
+    "subcategory": "Home Assistant Integration",
+    "summary": "Measure It is a Home Assistant custom component designed to track durations and counts of specific events within a smart home environment. It uses templates and conditions to define when a measurement should start, stop, or increment, allowing users to create custom usage metrics. It is primarily used for generating detailed statistics on appliance use or event frequency over time.",
+    "use_cases": [
+      "Measure the daily duration a water heater runs based on power consumption.",
+      "Count the number of times a sensor detects motion during specific hours (e.g., night time intrusion attempts).",
+      "Track the cumulative time an irrigation system is actively running across various zones."
+    ],
+    "tech_stack": [
+      "Python",
+      "Home Assistant"
+    ]
+  },
+  "glittercowboy/get-shit-done": {
+    "name": "glittercowboy/get-shit-done",
+    "url": "https://github.com/glittercowboy/get-shit-done",
+    "stars": 210,
+    "language": "JavaScript",
+    "starred_date": "2025-12-30",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Developer Tools / Prompt Engineering",
+    "summary": "Get Shit Done (GSD) is a meta-prompting and context engineering system designed to make AI code generation (specifically with Claude Code) reliable and consistent. It acts as a layer that extracts detailed specifications from an idea description, ensuring the resulting code is scalable and high-quality, eliminating the inconsistency of typical 'vibecoding'.",
+    "use_cases": [
+      "Establishing standardized context engineering practices for AI-driven development.",
+      "Generating complex, spec-driven code using Claude Code with high reliability.",
+      "Improving the consistency and scalability of applications built using generative AI."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Claude Code / Meta-Prompting"
+    ]
   }
 }
