@@ -2528,5 +2528,24 @@
       "JavaScript",
       "Claude Code / Meta-Prompting"
     ]
+  },
+  "tripleyak/SkillForge": {
+    "name": "tripleyak/SkillForge",
+    "url": "https://github.com/tripleyak/SkillForge",
+    "stars": 131,
+    "language": "Python",
+    "starred_date": "2025-12-31",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Skill Development",
+    "summary": "SkillForge is a Python-based methodology and framework designed to elevate Claude AI skill creation from ad-hoc processes to rigorous engineering disciplines. It integrates quality and predictability into every stage of development, ensuring robust and scalable custom tools. Use it when developing complex or enterprise-grade skills for the Claude AI platform where reliability is paramount.",
+    "use_cases": [
+      "Engineering scalable and robust custom tools (skills) for the Claude AI platform.",
+      "Establishing standardized, high-quality development workflows for AI agent capabilities.",
+      "Shifting AI prompt/skill development from reactive testing to proactive engineering design."
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude AI SDK/APIs"
+    ]
   }
 }

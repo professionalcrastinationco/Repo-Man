@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 130 | **Last Updated:** 2025-12-30
+**Total Repos:** 131 | **Last Updated:** 2025-12-31
 
 ---
 
@@ -19,7 +19,7 @@
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
-   * *...and 41 more*
+   * *...and 42 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -435,6 +435,22 @@ OpenMemory is a self-hosted, framework-free memory engine that provides persiste
 - Providing stateful, long-term memory for complex AI agents and LLM applications.
 - Implementing explainable Retrieval-Augmented Generation (RAG) pipelines for grounded responses.
 - Self-hosting a dedicated memory layer (vector database/engine) independent of LLM providers.
+
+---
+
+
+## AI Skill Development
+
+### [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge)
+
+⭐ 131 | 🔤 Python, Claude AI SDK/APIs | 📅 2025-12-31
+
+SkillForge is a Python-based methodology and framework designed to elevate Claude AI skill creation from ad-hoc processes to rigorous engineering disciplines. It integrates quality and predictability into every stage of development, ensuring robust and scalable custom tools. Use it when developing complex or enterprise-grade skills for the Claude AI platform where reliability is paramount.
+
+**Use Cases:**
+- Engineering scalable and robust custom tools (skills) for the Claude AI platform.
+- Establishing standardized, high-quality development workflows for AI agent capabilities.
+- Shifting AI prompt/skill development from reactive testing to proactive engineering design.
 
 ---
 
