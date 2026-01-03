@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 131 | **Last Updated:** 2025-12-31
+**Total Repos:** 142 | **Last Updated:** 2026-01-03
 
 ---
 
@@ -13,13 +13,13 @@
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
    * [ComfyUI](#comfyanonymouscomfyui) (Designing and running)
    * [awesome-llm-apps](#shubhamsabooawesome-llm-apps) (Discovering and learning)
+   * [openai-cookbook](#openaiopenai-cookbook) (Learning foundational methods)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
+   * [exo](#exo-exploreexo) (Running large language)
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
-   * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
-   * [agents](#wshobsonagents) (Orchestrating multi-step automation)
-   * *...and 42 more*
+   * *...and 47 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -36,6 +36,7 @@
 * **Data & Analytics**
    * [streamlit](#streamlitstreamlit) (Building interactive data)
    * [marimo](#marimo-teammarimo) (Running reproducible data)
+   * [cocoindex](#cocoindex-iococoindex) (Building and maintaining)
    * [textract](#deanmalmgrentextract) (Building search engines)
    * [dash-mantine-components](#snehilvjdash-mantine-components) (Developing complex, feature-rich)
    * [plotlydash-flask-tutorial](#toddbirchardplotlydash-flask-tutorial) (Integrating interactive data)
@@ -50,6 +51,7 @@
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
 
 * **DevOps & Infrastructure**
+   * [awesome-docker](#veggiemonkawesome-docker) (Discovering new open-source)
    * [lazy-bird](#yusufkaraaslanlazy-bird) (Automating feature implementation)
 
 * **Education & Learning**
@@ -65,6 +67,8 @@
 
 * **Self Hosted**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
+   * [nocodb](#nocodbnocodb) (Building custom internal)
+   * [metube](#alexta69metube) (Self-hosting a centralized)
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
 
 * **Smart Home**
@@ -91,7 +95,7 @@
    * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
-   * *...and 12 more*
+   * *...and 13 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -99,12 +103,12 @@
    * [foundation-sites](#foundationfoundation-sites) (Building responsive, mobile-first)
    * [reflex](#reflex-devreflex) (Building interactive data)
    * [flet](#flet-devflet) (Developing internal business)
+   * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
    * [mesop](#mesop-devmesop) (Rapidly build internal)
    * [json-editor](#json-editorjson-editor) (Building dynamic configuration)
    * [toapi](#elliotgao2toapi) (Generating instant JSON)
-   * [baserow](#baserowbaserow) (Building custom relational)
-   * *...and 4 more*
+   * *...and 5 more*
 
 
 
@@ -173,6 +177,22 @@ MemMachine is an open-source, universal memory layer designed specifically for a
 ---
 
 
+## AI Agent Orchestration Platform
+
+### [simstudioai/sim](https://github.com/simstudioai/sim)
+
+⭐ 24,877 | 🔤 TypeScript, Next.js/React | 📅 2026-01-03
+
+Sim is an open-source, low-code platform for building and deploying complex AI agent workflows quickly. It utilizes a visual interface to connect various large language models (like OpenAI, Gemini) and tools, enabling users to automate multi-step processes without extensive coding.
+
+**Use Cases:**
+- Designing and deploying autonomous AI chatbots and sophisticated conversational agents
+- Automating complex, multi-step business processes using a visual, drag-and-drop workflow builder
+- Creating custom RAG (Retrieval-Augmented Generation) applications by integrating models with external data sources
+
+---
+
+
 ## AI Agents & Knowledge Management
 
 ### [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
@@ -185,6 +205,22 @@ SurfSense is an open-source, highly customizable AI research agent designed as a
 - Conducting complex research by synthesizing external web data with internal documents (Notion, GitHub, Slack)
 - Building a unified, private, and searchable knowledge base across disparate SaaS tools (Jira, Linear, ClickUp, Confluence)
 - Developing highly customized AI workflows and agents for specific enterprise or personal research tasks
+
+---
+
+
+## AI Agents & LLM Enhancements
+
+### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
+⭐ 10,023 | 🔤 TypeScript, Claude Agent SDK, ChromaDB | 📅 2026-01-03
+
+Claude-Mem is a TypeScript plugin for the Claude Code environment that captures, compresses, and manages the history of coding sessions, effectively providing long-term memory for the AI assistant. It utilizes RAG techniques with embeddings and vector stores like ChromaDB and SQLite to inject contextually relevant memories back into future sessions. This tool ensures that Claude maintains deep project knowledge over extended periods, improving the accuracy and coherence of its coding assistance.
+
+**Use Cases:**
+- Maintaining long-term context and coherence across extended coding projects managed by the Claude AI assistant.
+- Enhancing the accuracy and relevance of Claude's suggestions by injecting contextually retrieved historical decisions and code changes (RAG).
+- Providing efficient, compressed access to previous debugging steps, architectural decisions, and code snippets during new development sessions.
 
 ---
 
@@ -554,6 +590,22 @@ This is a Python command-line tool designed to analyze the technical quality of 
 ---
 
 
+## Data Visualization
+
+### [antvis/Infographic](https://github.com/antvis/Infographic)
+
+⭐ 2,656 | 🔤 TypeScript, Large Language Models (LLM) | 📅 2026-01-03
+
+Infographic is an AI-powered framework built on TypeScript for the automated generation and rendering of visual infographics from textual inputs or data. It leverages LLMs to interpret content and structure visualization elements, making it ideal for rapidly creating visually appealing summaries of complex information. Use it when efficiency and AI-driven design are required to transform data into polished communicative graphics.
+
+**Use Cases:**
+- Automating the creation of executive summaries or business intelligence reports from raw data streams.
+- Integrating AI visualization capabilities into web applications and data analysis platforms.
+- Rapidly transforming long-form content or research findings into concise, visually appealing shareable infographics.
+
+---
+
+
 ## Developer Tools / AI Agents
 
 ### [idosal/git-mcp](https://github.com/idosal/git-mcp)
@@ -863,6 +915,19 @@ Claude Quickstarts is a collection of foundational, deployable projects designed
 
 ## LLMs & Generative AI
 
+### [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
+⭐ 70,481 | 🔤 Python, Jupyter Notebook, OpenAI API | 📅 2026-01-03
+
+This repository is the official OpenAI Cookbook, providing extensive example code and practical guides (mostly in Jupyter Notebook format) for leveraging the OpenAI API. Developers use this resource to learn common patterns and implement advanced features like token counting, prompt engineering, and function calling. It serves as the primary educational resource for integrating services like GPT-4 and ChatGPT.
+
+**Use Cases:**
+- Learning foundational methods for calling the OpenAI API (e.g., Chat Completions, embeddings, Whisper).
+- Implementing advanced AI features such as prompt engineering, function calling, and streaming responses.
+- Calculating token usage, managing context length, and handling data for fine-tuning models.
+
+---
+
 ### [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 ⭐ 25,563 | 🔤 Markdown, Curated List (Resources) | 📅 2025-11-17
@@ -873,6 +938,22 @@ Awesome-LLM is a comprehensive curated resource list focusing on Large Language 
 - Discovering trending research papers and projects related to Large Language Models (LLMs)
 - Finding open-source frameworks for LLM training, fine-tuning, and deployment
 - Locating publicly available LLM checkpoints, APIs, courses, and tutorials
+
+---
+
+
+## ML Infrastructure & Distributed Computing
+
+### [exo-explore/exo](https://github.com/exo-explore/exo)
+
+⭐ 39,280 | 🔤 Python, Distributed Systems | 📅 2026-01-03
+
+Exo is a framework designed to help users deploy and manage a robust, distributed AI cluster utilizing common household devices like phones, laptops, and PCs. This system pools local computing resources to run and operate large AI models efficiently at home. It is ideal for individuals looking to leverage unused device power for personalized, private machine learning applications without cloud reliance.
+
+**Use Cases:**
+- Running large language models (LLMs) or complex generative AI locally by aggregating compute power from multiple personal devices.
+- Creating a personal, decentralized cloud infrastructure for running custom machine learning workloads.
+- Experimental training and fine-tuning of small to medium-sized AI models using shared hardware resources.
 
 ---
 
@@ -1118,6 +1199,24 @@ Streamlit is a Python-based framework that allows users to transform Python scri
 ---
 
 
+## Data Infrastructure
+
+### [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+
+⭐ 5,614 | 🔤 Rust, Python | 📅 2026-01-03
+
+CocoIndex is an ultra-performant data transformation framework built in Rust, specialized for incremental processing and real-time pipelines tailored for AI applications.
+It acts as a robust ETL engine and indexing layer that uses Change Data Capture (CDC) to ensure RAG systems and LLMs always access fresh, high-quality contextual data.
+Use it when scalable, real-time data preparation is crucial for AI context engineering.
+
+**Use Cases:**
+- Building and maintaining real-time, up-to-date context for Retrieval Augmented Generation (RAG) systems.
+- Performing ultra-performant, incremental ETL (Extract, Transform, Load) and data pipeline processing.
+- Real-time indexing of large datasets for semantic search and knowledge graph construction.
+
+---
+
+
 ## Data Science Tools
 
 ### [marimo-team/marimo](https://github.com/marimo-team/marimo)
@@ -1315,6 +1414,22 @@ Lazy Bird is an AI-powered development assistant utilizing Claude Code to autono
 ---
 
 
+## Containerization Resources
+
+### [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
+
+⭐ 35,027 | 🔤 Docker, Moby | 📅 2026-01-03
+
+This repository is the definitive "Awesome List" compiling a vast collection of resources, tools, projects, and guides centered around Docker and containerization technology. It serves as a central hub for developers and DevOps engineers looking to find specialized utilities for image building, deployment (Swarm), monitoring, and security. Use it as a comprehensive directory for everything Docker-related.
+
+**Use Cases:**
+- Discovering new open-source tools and utilities for managing Docker environments, security, and networking.
+- Finding detailed documentation, tutorials, or projects related to Docker deployment methods like Docker Swarm.
+- Identifying resources for improving Docker image building efficiency and monitoring container performance.
+
+---
+
+
 # Education & Learning
 
 
@@ -1433,6 +1548,39 @@ Awesome-Selfhosted is a comprehensive, curated list of Free Software network ser
 - Discovering self-hostable Free Software alternatives to commercial cloud services (e.g., document management, chat, file sharing)
 - Building private and secure digital infrastructure free from vendor lock-in
 - Researching diverse categories of self-hosted applications for personal or organizational use
+
+---
+
+
+## Media Downloader
+
+### [alexta69/metube](https://github.com/alexta69/metube)
+
+⭐ 11,872 | 🔤 Python, yt-dlp (backend utility) | 📅 2026-01-03
+
+MeTube is a self-hosted web UI providing a simple graphical interface for the powerful yt-dlp command-line utility. It allows users to easily download videos, audio, and complete playlists from YouTube and dozens of other supported media sites. Use it for privately managing and archiving online video content outside of proprietary streaming platforms.
+
+**Use Cases:**
+- Self-hosting a centralized media download service accessible via a web browser on a private network
+- Archiving specific YouTube videos, playlists, or entire channels for offline viewing and preservation
+- Converting and extracting audio tracks (MP3, etc.) from online video sources
+
+---
+
+
+## No-Code/Low-Code Platforms
+
+### [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
+⭐ 60,004 | 🔤 TypeScript, No-Code Platform | 📅 2026-01-03
+
+NocoDB is an open-source, low-code platform designed as the self-hosted alternative to Airtable, presenting relational databases in a powerful spreadsheet interface. It automatically generates REST and Swagger APIs for data stored in external SQL backends (PostgreSQL, MySQL, SQLite, etc.). Use it to rapidly build collaborative data management systems and internal tools without writing application code.
+
+**Use Cases:**
+- Building custom internal applications (CRM, HR systems, project trackers)
+- Creating an easy-to-use spreadsheet interface for existing complex SQL databases
+- Replacing proprietary SaaS solutions like Airtable for data management
+- Rapid prototyping of data-driven web applications via automatic REST APIs
 
 ---
 
@@ -1968,6 +2116,22 @@ Claude Config Editor is a lightweight web tool designed to clean and optimize th
 ---
 
 
+## Task Management / Workflow Tools
+
+### [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+
+⭐ 11,551 | 🔤 Rust, JavaScript/TypeScript (Frontend) | 📅 2026-01-03
+
+Vibe Kanban is a specialized task management system structured around a Kanban board designed to maximize the output and workflow efficiency of coding AI agents like Claude Code or Codex. It allows users to track, prioritize, and manage multi-step coding projects generated by LLMs, ensuring organized development and integration.
+
+**Use Cases:**
+- Managing complex, multi-stage software projects where code generation is heavily outsourced to AI agents.
+- Visualizing the progress and current status of tasks assigned to LLMs in a familiar Kanban format.
+- Prioritizing agent outputs and ensuring clear human intervention points (review, deployment, integration)
+
+---
+
+
 ## Web Scraping & Data Extraction
 
 ### [ksanjeev284/reddit-universal-scraper](https://github.com/ksanjeev284/reddit-universal-scraper)
@@ -2048,6 +2212,22 @@ Flet is a Python framework powered by Flutter, designed for building realtime, m
 - Developing internal business tools, dashboards, and management interfaces
 - Creating native desktop and mobile applications from a single Python codebase
 - Rapid prototyping and deployment of functional user interfaces using server-driven UI
+
+---
+
+
+## E-commerce Platforms
+
+### [antiwork/gumroad](https://github.com/antiwork/gumroad)
+
+⭐ 8,084 | 🔤 Ruby, Ruby on Rails | 📅 2026-01-03
+
+This repository contains the full source code for Gumroad, a prominent e-commerce platform designed to enable creators to sell products directly to their audience. It is used for studying or deploying a scalable, creator-focused digital marketplace solution built on a Ruby foundation.
+
+**Use Cases:**
+- Deploying a custom or niche instance of the Gumroad e-commerce marketplace.
+- Analyzing the architecture and implementation of a large, creator-focused SaaS application built with Ruby.
+- Contributing improvements or features to the core open-source Gumroad platform.
 
 ---
 

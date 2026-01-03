@@ -2547,5 +2547,218 @@
       "Python",
       "Claude AI SDK/APIs"
     ]
+  },
+  "veggiemonk/awesome-docker": {
+    "name": "veggiemonk/awesome-docker",
+    "url": "https://github.com/veggiemonk/awesome-docker",
+    "stars": 35027,
+    "language": "Various",
+    "starred_date": "2026-01-03",
+    "main_category": "DevOps & Infrastructure",
+    "subcategory": "Containerization Resources",
+    "summary": "This repository is the definitive \"Awesome List\" compiling a vast collection of resources, tools, projects, and guides centered around Docker and containerization technology. It serves as a central hub for developers and DevOps engineers looking to find specialized utilities for image building, deployment (Swarm), monitoring, and security. Use it as a comprehensive directory for everything Docker-related.",
+    "use_cases": [
+      "Discovering new open-source tools and utilities for managing Docker environments, security, and networking.",
+      "Finding detailed documentation, tutorials, or projects related to Docker deployment methods like Docker Swarm.",
+      "Identifying resources for improving Docker image building efficiency and monitoring container performance."
+    ],
+    "tech_stack": [
+      "Docker",
+      "Moby"
+    ]
+  },
+  "cocoindex-io/cocoindex": {
+    "name": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "stars": 5614,
+    "language": "Rust",
+    "starred_date": "2026-01-03",
+    "main_category": "Data & Analytics",
+    "subcategory": "Data Infrastructure",
+    "summary": "CocoIndex is an ultra-performant data transformation framework built in Rust, specialized for incremental processing and real-time pipelines tailored for AI applications.\nIt acts as a robust ETL engine and indexing layer that uses Change Data Capture (CDC) to ensure RAG systems and LLMs always access fresh, high-quality contextual data.\nUse it when scalable, real-time data preparation is crucial for AI context engineering.",
+    "use_cases": [
+      "Building and maintaining real-time, up-to-date context for Retrieval Augmented Generation (RAG) systems.",
+      "Performing ultra-performant, incremental ETL (Extract, Transform, Load) and data pipeline processing.",
+      "Real-time indexing of large datasets for semantic search and knowledge graph construction."
+    ],
+    "tech_stack": [
+      "Rust",
+      "Python"
+    ]
+  },
+  "simstudioai/sim": {
+    "name": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "stars": 24877,
+    "language": "TypeScript",
+    "starred_date": "2026-01-03",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agent Orchestration Platform",
+    "summary": "Sim is an open-source, low-code platform for building and deploying complex AI agent workflows quickly. It utilizes a visual interface to connect various large language models (like OpenAI, Gemini) and tools, enabling users to automate multi-step processes without extensive coding.",
+    "use_cases": [
+      "Designing and deploying autonomous AI chatbots and sophisticated conversational agents",
+      "Automating complex, multi-step business processes using a visual, drag-and-drop workflow builder",
+      "Creating custom RAG (Retrieval-Augmented Generation) applications by integrating models with external data sources"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Next.js/React"
+    ]
+  },
+  "exo-explore/exo": {
+    "name": "exo-explore/exo",
+    "url": "https://github.com/exo-explore/exo",
+    "stars": 39280,
+    "language": "Python",
+    "starred_date": "2026-01-03",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "ML Infrastructure & Distributed Computing",
+    "summary": "Exo is a framework designed to help users deploy and manage a robust, distributed AI cluster utilizing common household devices like phones, laptops, and PCs. This system pools local computing resources to run and operate large AI models efficiently at home. It is ideal for individuals looking to leverage unused device power for personalized, private machine learning applications without cloud reliance.",
+    "use_cases": [
+      "Running large language models (LLMs) or complex generative AI locally by aggregating compute power from multiple personal devices.",
+      "Creating a personal, decentralized cloud infrastructure for running custom machine learning workloads.",
+      "Experimental training and fine-tuning of small to medium-sized AI models using shared hardware resources."
+    ],
+    "tech_stack": [
+      "Python",
+      "Distributed Systems"
+    ]
+  },
+  "thedotmack/claude-mem": {
+    "name": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "stars": 10023,
+    "language": "TypeScript",
+    "starred_date": "2026-01-03",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents & LLM Enhancements",
+    "summary": "Claude-Mem is a TypeScript plugin for the Claude Code environment that captures, compresses, and manages the history of coding sessions, effectively providing long-term memory for the AI assistant. It utilizes RAG techniques with embeddings and vector stores like ChromaDB and SQLite to inject contextually relevant memories back into future sessions. This tool ensures that Claude maintains deep project knowledge over extended periods, improving the accuracy and coherence of its coding assistance.",
+    "use_cases": [
+      "Maintaining long-term context and coherence across extended coding projects managed by the Claude AI assistant.",
+      "Enhancing the accuracy and relevance of Claude's suggestions by injecting contextually retrieved historical decisions and code changes (RAG).",
+      "Providing efficient, compressed access to previous debugging steps, architectural decisions, and code snippets during new development sessions."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Claude Agent SDK",
+      "ChromaDB",
+      "SQLite"
+    ]
+  },
+  "antiwork/gumroad": {
+    "name": "antiwork/gumroad",
+    "url": "https://github.com/antiwork/gumroad",
+    "stars": 8084,
+    "language": "Ruby",
+    "starred_date": "2026-01-03",
+    "main_category": "Web Development",
+    "subcategory": "E-commerce Platforms",
+    "summary": "This repository contains the full source code for Gumroad, a prominent e-commerce platform designed to enable creators to sell products directly to their audience. It is used for studying or deploying a scalable, creator-focused digital marketplace solution built on a Ruby foundation.",
+    "use_cases": [
+      "Deploying a custom or niche instance of the Gumroad e-commerce marketplace.",
+      "Analyzing the architecture and implementation of a large, creator-focused SaaS application built with Ruby.",
+      "Contributing improvements or features to the core open-source Gumroad platform."
+    ],
+    "tech_stack": [
+      "Ruby",
+      "Ruby on Rails"
+    ]
+  },
+  "alexta69/metube": {
+    "name": "alexta69/metube",
+    "url": "https://github.com/alexta69/metube",
+    "stars": 11872,
+    "language": "Python",
+    "starred_date": "2026-01-03",
+    "main_category": "Self Hosted",
+    "subcategory": "Media Downloader",
+    "summary": "MeTube is a self-hosted web UI providing a simple graphical interface for the powerful yt-dlp command-line utility. It allows users to easily download videos, audio, and complete playlists from YouTube and dozens of other supported media sites. Use it for privately managing and archiving online video content outside of proprietary streaming platforms.",
+    "use_cases": [
+      "Self-hosting a centralized media download service accessible via a web browser on a private network",
+      "Archiving specific YouTube videos, playlists, or entire channels for offline viewing and preservation",
+      "Converting and extracting audio tracks (MP3, etc.) from online video sources"
+    ],
+    "tech_stack": [
+      "Python",
+      "yt-dlp (backend utility)"
+    ]
+  },
+  "antvis/Infographic": {
+    "name": "antvis/Infographic",
+    "url": "https://github.com/antvis/Infographic",
+    "stars": 2656,
+    "language": "TypeScript",
+    "starred_date": "2026-01-03",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Data Visualization",
+    "summary": "Infographic is an AI-powered framework built on TypeScript for the automated generation and rendering of visual infographics from textual inputs or data. It leverages LLMs to interpret content and structure visualization elements, making it ideal for rapidly creating visually appealing summaries of complex information. Use it when efficiency and AI-driven design are required to transform data into polished communicative graphics.",
+    "use_cases": [
+      "Automating the creation of executive summaries or business intelligence reports from raw data streams.",
+      "Integrating AI visualization capabilities into web applications and data analysis platforms.",
+      "Rapidly transforming long-form content or research findings into concise, visually appealing shareable infographics."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Large Language Models (LLM)"
+    ]
+  },
+  "BloopAI/vibe-kanban": {
+    "name": "BloopAI/vibe-kanban",
+    "url": "https://github.com/BloopAI/vibe-kanban",
+    "stars": 11551,
+    "language": "Rust",
+    "starred_date": "2026-01-03",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Task Management / Workflow Tools",
+    "summary": "Vibe Kanban is a specialized task management system structured around a Kanban board designed to maximize the output and workflow efficiency of coding AI agents like Claude Code or Codex. It allows users to track, prioritize, and manage multi-step coding projects generated by LLMs, ensuring organized development and integration.",
+    "use_cases": [
+      "Managing complex, multi-stage software projects where code generation is heavily outsourced to AI agents.",
+      "Visualizing the progress and current status of tasks assigned to LLMs in a familiar Kanban format.",
+      "Prioritizing agent outputs and ensuring clear human intervention points (review, deployment, integration)"
+    ],
+    "tech_stack": [
+      "Rust",
+      "JavaScript/TypeScript (Frontend)"
+    ]
+  },
+  "openai/openai-cookbook": {
+    "name": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "stars": 70481,
+    "language": "Jupyter Notebook",
+    "starred_date": "2026-01-03",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLMs & Generative AI",
+    "summary": "This repository is the official OpenAI Cookbook, providing extensive example code and practical guides (mostly in Jupyter Notebook format) for leveraging the OpenAI API. Developers use this resource to learn common patterns and implement advanced features like token counting, prompt engineering, and function calling. It serves as the primary educational resource for integrating services like GPT-4 and ChatGPT.",
+    "use_cases": [
+      "Learning foundational methods for calling the OpenAI API (e.g., Chat Completions, embeddings, Whisper).",
+      "Implementing advanced AI features such as prompt engineering, function calling, and streaming responses.",
+      "Calculating token usage, managing context length, and handling data for fine-tuning models."
+    ],
+    "tech_stack": [
+      "Python",
+      "Jupyter Notebook",
+      "OpenAI API"
+    ]
+  },
+  "nocodb/nocodb": {
+    "name": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "stars": 60004,
+    "language": "TypeScript",
+    "starred_date": "2026-01-03",
+    "main_category": "Self Hosted",
+    "subcategory": "No-Code/Low-Code Platforms",
+    "summary": "NocoDB is an open-source, low-code platform designed as the self-hosted alternative to Airtable, presenting relational databases in a powerful spreadsheet interface. It automatically generates REST and Swagger APIs for data stored in external SQL backends (PostgreSQL, MySQL, SQLite, etc.). Use it to rapidly build collaborative data management systems and internal tools without writing application code.",
+    "use_cases": [
+      "Building custom internal applications (CRM, HR systems, project trackers)",
+      "Creating an easy-to-use spreadsheet interface for existing complex SQL databases",
+      "Replacing proprietary SaaS solutions like Airtable for data management",
+      "Rapid prototyping of data-driven web applications via automatic REST APIs"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "No-Code Platform"
+    ]
   }
 }
