@@ -2760,5 +2760,142 @@
       "TypeScript",
       "No-Code Platform"
     ]
+  },
+  "OpenBB-finance/OpenBB": {
+    "name": "OpenBB-finance/OpenBB",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "stars": 57132,
+    "language": "Python",
+    "starred_date": "2026-01-05",
+    "main_category": "Data & Analytics",
+    "subcategory": "Quantitative Finance",
+    "summary": "OpenBB is a comprehensive financial data platform for analysts, quants, and AI agents, providing extensive tools for sophisticated financial modeling and data retrieval across various asset classes (stocks, crypto, derivatives). It is used to perform quantitative research, backtesting, technical analysis, and build data science pipelines leveraging integrated financial market data.",
+    "use_cases": [
+      "Performing quantitative research and developing algorithmic trading strategies.",
+      "Integrating standardized financial and economic data feeds into AI/ML models.",
+      "Conducting in-depth fundamental, technical, and macroeconomic analysis."
+    ],
+    "tech_stack": [
+      "Python",
+      "Data Science Frameworks (Pandas/NumPy)"
+    ]
+  },
+  "microsoft/VibeVoice": {
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "stars": 19742,
+    "language": "Python",
+    "starred_date": "2026-01-05",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Generative AI",
+    "summary": "VibeVoice is an open-source, frontier Voice AI project developed by Microsoft, providing state-of-the-art models for speech processing and generation. It is designed for researchers and developers who need high-fidelity, advanced voice capabilities for their applications or research. Its availability on Hugging Face and arXiv confirms its foundation in ML research.",
+    "use_cases": [
+      "High-fidelity Text-to-Speech (TTS) generation",
+      "Voice cloning and synthetic personalization of audio content",
+      "Creating dynamic voiceovers and dialogue for virtual assistants, games, or media"
+    ],
+    "tech_stack": [
+      "Python",
+      "Deep Learning Frameworks (likely PyTorch/TensorFlow)"
+    ]
+  },
+  "danielmiessler/Personal_AI_Infrastructure": {
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "stars": 3566,
+    "language": "TypeScript",
+    "starred_date": "2026-01-05",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Tools & Infrastructure",
+    "summary": "This repository provides open-source TypeScript scaffolding and modular components (\"Packs\" and \"Bundles\") for building a custom, personal AI operating system. It serves as foundational infrastructure designed to enhance individual productivity, augmentation, and workflow automation using various AI models. Users should leverage this to centralize and manage their AI-powered tools.",
+    "use_cases": [
+      "Building a personal, integrated AI operating system (PAI)",
+      "Developing modular AI tools and agents for productivity augmentation",
+      "Creating standardized architecture for combining multiple AI workflows (Packs and Bundles)"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "usememos/memos": {
+    "name": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "stars": 51845,
+    "language": "Go",
+    "starred_date": "2026-01-05",
+    "main_category": "Self Hosted",
+    "subcategory": "Note Taking",
+    "summary": "Memos is an open-source, self-hosted note-taking platform designed for personal knowledge management, journaling, and microblogging. It emphasizes user control over data, offering a private, tracking-free service built on a simple Go and SQLite architecture. Use it when you need a simple, self-contained way to record and manage your daily thoughts and observations.",
+    "use_cases": [
+      "Deploying a private, tracking-free personal knowledge management (PKM) system",
+      "Running a self-hosted microblog or public journal using short memos",
+      "Creating and organizing notes, thoughts, and quick markdown snippets"
+    ],
+    "tech_stack": [
+      "Go",
+      "React",
+      "SQLite"
+    ]
+  },
+  "steipete/summarize": {
+    "name": "steipete/summarize",
+    "url": "https://github.com/steipete/summarize",
+    "stars": 672,
+    "language": "TypeScript",
+    "starred_date": "2026-01-05",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "Content Summarization",
+    "summary": "This is a versatile tool for generating fast summaries from various sources including URLs, files (PDFs, images), and media (YouTube, podcasts). It utilizes a robust extraction pipeline, leverages Whisper for media transcription, and supports streaming output in the terminal or via a Chrome Extension.",
+    "use_cases": [
+      "Quickly summarize long web articles, news stories, or complex documentation using the Chrome extension or CLI.",
+      "Extract the gist of YouTube videos or podcasts by utilizing its transcript-first flow and Whisper fallback.",
+      "Process local files like PDFs, images, or audio/video transcripts via the command-line interface (CLI)",
+      "Test and compare summarization outputs using various local or paid large language models (LLMs) via its compatible API."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "CLI Tooling",
+      "AI APIs (OpenAI/OpenRouter)",
+      "Chrome Extension"
+    ]
+  },
+  "SawyerHood/dev-browser": {
+    "name": "SawyerHood/dev-browser",
+    "url": "https://github.com/SawyerHood/dev-browser",
+    "stars": 2316,
+    "language": "TypeScript",
+    "starred_date": "2026-01-05",
+    "main_category": "Automation & Scripting",
+    "subcategory": "Browser Automation Tools",
+    "summary": "Dev Browser is a Claude Skill (plugin) that grants AI agents the ability to control a web browser for automation and verification tasks.\nIt features persistent page sessions, flexible execution modes, and structured DOM snapshots optimized for large language models.\nDevelopers use this tool to allow Claude Code to test, explore, and verify web application functionality automatically during the development cycle.",
+    "use_cases": [
+      "Enabling AI agents (Claude Code) to perform end-to-end testing of web applications.",
+      "Allowing the AI to navigate and interact with persistent browser sessions across multiple development steps.",
+      "Automating the verification and debugging of front-end development work guided by Claude."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Playwright"
+    ]
+  },
+  "AndyMik90/Auto-Claude": {
+    "name": "AndyMik90/Auto-Claude",
+    "url": "https://github.com/AndyMik90/Auto-Claude",
+    "stars": 5886,
+    "language": "TypeScript",
+    "starred_date": "2026-01-05",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents / Software Development Tools",
+    "summary": "Auto Claude is an autonomous multi-agent framework built in TypeScript designed to plan, build, and validate software solutions entirely using LLMs.\nIt acts as a complete AI software engineer, handling the full development lifecycle from requirements gathering to final validation across multiple sessions.\nUse it to automate complex coding tasks, accelerate prototyping, and explore autonomous software creation.",
+    "use_cases": [
+      "Autonomous prototyping and creation of small to medium-sized applications",
+      "Automating multi-step software development tasks requiring complex planning and execution (AI CI/CD)",
+      "Testing and validation of generated codebases using integrated agents"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "LLM Agents (Anthropic Claude)"
+    ]
   }
 }

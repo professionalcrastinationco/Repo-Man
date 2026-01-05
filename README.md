@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 142 | **Last Updated:** 2026-01-03
+**Total Repos:** 149 | **Last Updated:** 2026-01-05
 
 ---
 
@@ -19,21 +19,23 @@
    * [exo](#exo-exploreexo) (Running large language)
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
-   * *...and 47 more*
+   * *...and 51 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
    * [activepieces](#activepiecesactivepieces) (Automating business processes)
    * [skyvern](#skyvern-aiskyvern) (Automating multi-step business)
+   * [dev-browser](#sawyerhooddev-browser) (Enabling AI agents)
    * [awesome-playwright](#mxschmittawesome-playwright) (Discovering community integrations)
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [sleepless-agent](#context-machine-labsleepless-agent) (Fully automating tedious)
    * [browser-debugger-cli](#szymdzumbrowser-debugger-cli) (Feeding live browser)
    * [anti_bot_scraper](#harimxchoianti-bot-scraper) (Extracting comprehensive real)
-   * [better-playwright-mcp](#livorasbetter-playwright-mcp) (Developing scalable infrastructure)
+   * *...and 1 more*
 
 * **Data & Analytics**
+   * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
    * [streamlit](#streamlitstreamlit) (Building interactive data)
    * [marimo](#marimo-teammarimo) (Running reproducible data)
    * [cocoindex](#cocoindex-iococoindex) (Building and maintaining)
@@ -68,6 +70,7 @@
 * **Self Hosted**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
    * [nocodb](#nocodbnocodb) (Building custom internal)
+   * [memos](#usememosmemos) (Deploying a private,)
    * [metube](#alexta69metube) (Self-hosting a centralized)
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
 
@@ -290,6 +293,24 @@ OpenManus is a highly popular, Python-based open-source project designed as an a
 ---
 
 
+## AI Agents / Software Development Tools
+
+### [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)
+
+⭐ 5,886 | 🔤 TypeScript, LLM Agents (Anthropic Claude) | 📅 2026-01-05
+
+Auto Claude is an autonomous multi-agent framework built in TypeScript designed to plan, build, and validate software solutions entirely using LLMs.
+It acts as a complete AI software engineer, handling the full development lifecycle from requirements gathering to final validation across multiple sessions.
+Use it to automate complex coding tasks, accelerate prototyping, and explore autonomous software creation.
+
+**Use Cases:**
+- Autonomous prototyping and creation of small to medium-sized applications
+- Automating multi-step software development tasks requiring complex planning and execution (AI CI/CD)
+- Testing and validation of generated codebases using integrated agents
+
+---
+
+
 ## AI Agents / Web Automation
 
 ### [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
@@ -507,6 +528,22 @@ This repository is a curated index of official and community-built Claude Skills
 ---
 
 
+## AI Tools & Infrastructure
+
+### [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+
+⭐ 3,566 | 🔤 TypeScript, Node.js | 📅 2026-01-05
+
+This repository provides open-source TypeScript scaffolding and modular components ("Packs" and "Bundles") for building a custom, personal AI operating system. It serves as foundational infrastructure designed to enhance individual productivity, augmentation, and workflow automation using various AI models. Users should leverage this to centralize and manage their AI-powered tools.
+
+**Use Cases:**
+- Building a personal, integrated AI operating system (PAI)
+- Developing modular AI tools and agents for productivity augmentation
+- Creating standardized architecture for combining multiple AI workflows (Packs and Bundles)
+
+---
+
+
 ## AI Tools & Resources
 
 ### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
@@ -590,6 +627,23 @@ This is a Python command-line tool designed to analyze the technical quality of 
 ---
 
 
+## Content Summarization
+
+### [steipete/summarize](https://github.com/steipete/summarize)
+
+⭐ 672 | 🔤 TypeScript, CLI Tooling, AI APIs (OpenAI/OpenRouter) | 📅 2026-01-05
+
+This is a versatile tool for generating fast summaries from various sources including URLs, files (PDFs, images), and media (YouTube, podcasts). It utilizes a robust extraction pipeline, leverages Whisper for media transcription, and supports streaming output in the terminal or via a Chrome Extension.
+
+**Use Cases:**
+- Quickly summarize long web articles, news stories, or complex documentation using the Chrome extension or CLI.
+- Extract the gist of YouTube videos or podcasts by utilizing its transcript-first flow and Whisper fallback.
+- Process local files like PDFs, images, or audio/video transcripts via the command-line interface (CLI)
+- Test and compare summarization outputs using various local or paid large language models (LLMs) via its compatible API.
+
+---
+
+
 ## Data Visualization
 
 ### [antvis/Infographic](https://github.com/antvis/Infographic)
@@ -635,6 +689,22 @@ Get Shit Done (GSD) is a meta-prompting and context engineering system designed 
 - Establishing standardized context engineering practices for AI-driven development.
 - Generating complex, spec-driven code using Claude Code with high reliability.
 - Improving the consistency and scalability of applications built using generative AI.
+
+---
+
+
+## Generative AI
+
+### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
+⭐ 19,742 | 🔤 Python, Deep Learning Frameworks (likely PyTorch/TensorFlow) | 📅 2026-01-05
+
+VibeVoice is an open-source, frontier Voice AI project developed by Microsoft, providing state-of-the-art models for speech processing and generation. It is designed for researchers and developers who need high-fidelity, advanced voice capabilities for their applications or research. Its availability on Hugging Face and arXiv confirms its foundation in ML research.
+
+**Use Cases:**
+- High-fidelity Text-to-Speech (TTS) generation
+- Voice cloning and synthetic personalization of audio content
+- Creating dynamic voiceovers and dialogue for virtual assistants, games, or media
 
 ---
 
@@ -1100,6 +1170,24 @@ This project is a high-performance Playwright-based server providing an HTTP API
 ---
 
 
+## Browser Automation Tools
+
+### [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)
+
+⭐ 2,316 | 🔤 TypeScript, Playwright | 📅 2026-01-05
+
+Dev Browser is a Claude Skill (plugin) that grants AI agents the ability to control a web browser for automation and verification tasks.
+It features persistent page sessions, flexible execution modes, and structured DOM snapshots optimized for large language models.
+Developers use this tool to allow Claude Code to test, explore, and verify web application functionality automatically during the development cycle.
+
+**Use Cases:**
+- Enabling AI agents (Claude Code) to perform end-to-end testing of web applications.
+- Allowing the AI to navigate and interact with persistent browser sessions across multiple development steps.
+- Automating the verification and debugging of front-end development work guided by Claude.
+
+---
+
+
 ## Creative Software Extensions
 
 ### [creold/illustrator-scripts](https://github.com/creold/illustrator-scripts)
@@ -1258,6 +1346,22 @@ This repository provides a tutorial for embedding interactive Plotly Dash dashbo
 - Integrating interactive data dashboards (Dash) into existing Flask applications.
 - Building multi-page web applications that combine traditional views with embedded analytical tools.
 - Learning best practices for organizing Flask and Dash components using Blueprints.
+
+---
+
+
+## Quantitative Finance
+
+### [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
+⭐ 57,132 | 🔤 Python, Data Science Frameworks (Pandas/NumPy) | 📅 2026-01-05
+
+OpenBB is a comprehensive financial data platform for analysts, quants, and AI agents, providing extensive tools for sophisticated financial modeling and data retrieval across various asset classes (stocks, crypto, derivatives). It is used to perform quantitative research, backtesting, technical analysis, and build data science pipelines leveraging integrated financial market data.
+
+**Use Cases:**
+- Performing quantitative research and developing algorithmic trading strategies.
+- Integrating standardized financial and economic data feeds into AI/ML models.
+- Conducting in-depth fundamental, technical, and macroeconomic analysis.
 
 ---
 
@@ -1581,6 +1685,22 @@ NocoDB is an open-source, low-code platform designed as the self-hosted alternat
 - Creating an easy-to-use spreadsheet interface for existing complex SQL databases
 - Replacing proprietary SaaS solutions like Airtable for data management
 - Rapid prototyping of data-driven web applications via automatic REST APIs
+
+---
+
+
+## Note Taking
+
+### [usememos/memos](https://github.com/usememos/memos)
+
+⭐ 51,845 | 🔤 Go, React, SQLite | 📅 2026-01-05
+
+Memos is an open-source, self-hosted note-taking platform designed for personal knowledge management, journaling, and microblogging. It emphasizes user control over data, offering a private, tracking-free service built on a simple Go and SQLite architecture. Use it when you need a simple, self-contained way to record and manage your daily thoughts and observations.
+
+**Use Cases:**
+- Deploying a private, tracking-free personal knowledge management (PKM) system
+- Running a self-hosted microblog or public journal using short memos
+- Creating and organizing notes, thoughts, and quick markdown snippets
 
 ---
 
