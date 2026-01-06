@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 149 | **Last Updated:** 2026-01-05
+**Total Repos:** 153 | **Last Updated:** 2026-01-06
 
 ---
 
@@ -19,7 +19,7 @@
    * [exo](#exo-exploreexo) (Running large language)
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
-   * *...and 51 more*
+   * *...and 54 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -49,6 +49,7 @@
    * [tabler-icons](#tablertabler-icons) (Integrating consistent visual)
    * [icons](#twbsicons) (Integrating scalable, accessibility-focused)
    * [SubtlePatterns](#atlemosubtlepatterns) (Applying subtle, repeating)
+   * [claude-design-skill](#dammyjay93claude-design-skill) (Generating high-fidelity SaaS)
    * [adabraka-ui](#auganiadabraka-ui) (Building new high-performance)
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
 
@@ -196,6 +197,22 @@ Sim is an open-source, low-code platform for building and deploying complex AI a
 ---
 
 
+## AI Agent Tooling
+
+### [steveyegge/beads](https://github.com/steveyegge/beads)
+
+⭐ 8,464 | 🔤 Go, Git | 📅 2026-01-06
+
+Beads (bd) is a distributed, git-backed graph issue tracker that provides persistent, structured memory for AI coding agents. It replaces unstructured markdown plans with a dependency-aware task graph, crucial for managing long-horizon development tasks. Developers use it to ensure their agents maintain context and track complex project dependencies effectively.
+
+**Use Cases:**
+- Providing long-term, persistent memory and context management for AI coding agents.
+- Managing and visualizing task dependencies for complex, multi-step development projects handled by an agent.
+- Integrating a structured planning system (graph issue tracker) directly into the agent's workflow, backed by Git for version control.
+
+---
+
+
 ## AI Agents & Knowledge Management
 
 ### [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
@@ -224,6 +241,23 @@ Claude-Mem is a TypeScript plugin for the Claude Code environment that captures,
 - Maintaining long-term context and coherence across extended coding projects managed by the Claude AI assistant.
 - Enhancing the accuracy and relevance of Claude's suggestions by injecting contextually retrieved historical decisions and code changes (RAG).
 - Providing efficient, compressed access to previous debugging steps, architectural decisions, and code snippets during new development sessions.
+
+---
+
+
+## AI Agents & LLM Optimization
+
+### [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+
+⭐ 5,803 | 🔤 Python, Large Language Models (LLMs) | 📅 2026-01-06
+
+This repository is an open collection of Agent Skills and principles focused on Context Engineering—the discipline of curating all information within a language model's context window. It teaches methods for managing system prompts, tools, and message history to maximize agent effectiveness. Use this resource when building, optimizing, or debugging complex, production-grade AI and multi-agent systems.
+
+**Use Cases:**
+- Building and optimizing production-grade AI agent systems requiring precise context management.
+- Designing and implementing effective multi-agent architectures using structured context.
+- Debugging or improving agent performance issues related to context window constraints or irrelevant information.
+- Learning the principles of Context Engineering as a successor to prompt engineering for LLM applications.
 
 ---
 
@@ -556,6 +590,23 @@ This repository is a curated 'Awesome List' featuring skills, tools, resources, 
 - Discovering and exploring tools and integrations for the Anthropic Claude API.
 - Finding code examples and best practices for building custom Claude skills and agents.
 - Identifying resources for learning advanced prompt engineering techniques and workflow customization.
+
+---
+
+
+## AI Tools & Workflow Optimization
+
+### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+
+⭐ 19,466 | 🔤 Markdown, Python, Anthropic Claude | 📅 2026-01-06
+
+This is a comprehensive, highly-starred Awesome List dedicated to maximizing productivity with Anthropic's Claude as an agentic coding partner. It curates best practices, advanced commands, structured file layouts, and efficient AI workflows.
+Use it as a primary reference guide to optimize prompt engineering, context management, and output quality when using Claude for code generation, review, or refactoring tasks.
+
+**Use Cases:**
+- Discovering advanced prompt engineering techniques and optimal commands for Claude Code.
+- Implementing structured context and file management strategies for agentic coding sessions.
+- Learning best practices for integrating Claude into existing development processes and CI/CD pipelines.
 
 ---
 
@@ -1383,6 +1434,23 @@ textract is a robust Python library designed to simplify the process of extracti
 
 
 # Design & UI/UX
+
+
+## AI Tools for Design
+
+### [Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)
+
+⭐ 404 | 🔤 Shell, Claude Code (AI Model) | 📅 2026-01-06
+
+This is a specialized 'skill' for the Claude Code AI, designed to enforce precise, high-craft design principles suitable for enterprise software, SaaS dashboards, and admin interfaces. It guides the AI to apply consistent rules, such as a 4px grid and strict typography hierarchy, ensuring generated UI avoids common anti-patterns like dramatic shadows or decorative gradients. Use it when leveraging AI for front-end development but needing a sophisticated, production-ready aesthetic inspired by brands like Stripe and Vercel.
+
+**Use Cases:**
+- Generating high-fidelity SaaS dashboards and complex admin interfaces using AI.
+- Enforcing modern design principles (4px grid, intentional depth) during AI-assisted UI generation.
+- Guiding the Claude Code model to adopt specific design directions (e.g., Precision & Density) before writing code.
+- Rapidly prototyping enterprise UIs that adhere to a sophisticated and trustworthy visual standard.
+
+---
 
 
 ## CSS Styling Libraries

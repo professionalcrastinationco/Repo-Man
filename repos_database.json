@@ -2897,5 +2897,84 @@
       "TypeScript",
       "LLM Agents (Anthropic Claude)"
     ]
+  },
+  "Dammyjay93/claude-design-skill": {
+    "name": "Dammyjay93/claude-design-skill",
+    "url": "https://github.com/Dammyjay93/claude-design-skill",
+    "stars": 404,
+    "language": "Shell",
+    "starred_date": "2026-01-06",
+    "main_category": "Design & UI/UX",
+    "subcategory": "AI Tools for Design",
+    "summary": "This is a specialized 'skill' for the Claude Code AI, designed to enforce precise, high-craft design principles suitable for enterprise software, SaaS dashboards, and admin interfaces. It guides the AI to apply consistent rules, such as a 4px grid and strict typography hierarchy, ensuring generated UI avoids common anti-patterns like dramatic shadows or decorative gradients. Use it when leveraging AI for front-end development but needing a sophisticated, production-ready aesthetic inspired by brands like Stripe and Vercel.",
+    "use_cases": [
+      "Generating high-fidelity SaaS dashboards and complex admin interfaces using AI.",
+      "Enforcing modern design principles (4px grid, intentional depth) during AI-assisted UI generation.",
+      "Guiding the Claude Code model to adopt specific design directions (e.g., Precision & Density) before writing code.",
+      "Rapidly prototyping enterprise UIs that adhere to a sophisticated and trustworthy visual standard."
+    ],
+    "tech_stack": [
+      "Shell",
+      "Claude Code (AI Model)"
+    ]
+  },
+  "steveyegge/beads": {
+    "name": "steveyegge/beads",
+    "url": "https://github.com/steveyegge/beads",
+    "stars": 8464,
+    "language": "Go",
+    "starred_date": "2026-01-06",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agent Tooling",
+    "summary": "Beads (bd) is a distributed, git-backed graph issue tracker that provides persistent, structured memory for AI coding agents. It replaces unstructured markdown plans with a dependency-aware task graph, crucial for managing long-horizon development tasks. Developers use it to ensure their agents maintain context and track complex project dependencies effectively.",
+    "use_cases": [
+      "Providing long-term, persistent memory and context management for AI coding agents.",
+      "Managing and visualizing task dependencies for complex, multi-step development projects handled by an agent.",
+      "Integrating a structured planning system (graph issue tracker) directly into the agent's workflow, backed by Git for version control."
+    ],
+    "tech_stack": [
+      "Go",
+      "Git"
+    ]
+  },
+  "muratcankoylan/Agent-Skills-for-Context-Engineering": {
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "stars": 5803,
+    "language": "Python",
+    "starred_date": "2026-01-06",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Agents & LLM Optimization",
+    "summary": "This repository is an open collection of Agent Skills and principles focused on Context Engineering\u2014the discipline of curating all information within a language model's context window. It teaches methods for managing system prompts, tools, and message history to maximize agent effectiveness. Use this resource when building, optimizing, or debugging complex, production-grade AI and multi-agent systems.",
+    "use_cases": [
+      "Building and optimizing production-grade AI agent systems requiring precise context management.",
+      "Designing and implementing effective multi-agent architectures using structured context.",
+      "Debugging or improving agent performance issues related to context window constraints or irrelevant information.",
+      "Learning the principles of Context Engineering as a successor to prompt engineering for LLM applications."
+    ],
+    "tech_stack": [
+      "Python",
+      "Large Language Models (LLMs)"
+    ]
+  },
+  "hesreallyhim/awesome-claude-code": {
+    "name": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "stars": 19466,
+    "language": "Python",
+    "starred_date": "2026-01-06",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Tools & Workflow Optimization",
+    "summary": "This is a comprehensive, highly-starred Awesome List dedicated to maximizing productivity with Anthropic's Claude as an agentic coding partner. It curates best practices, advanced commands, structured file layouts, and efficient AI workflows.\nUse it as a primary reference guide to optimize prompt engineering, context management, and output quality when using Claude for code generation, review, or refactoring tasks.",
+    "use_cases": [
+      "Discovering advanced prompt engineering techniques and optimal commands for Claude Code.",
+      "Implementing structured context and file management strategies for agentic coding sessions.",
+      "Learning best practices for integrating Claude into existing development processes and CI/CD pipelines."
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Python",
+      "Anthropic Claude"
+    ]
   }
 }
