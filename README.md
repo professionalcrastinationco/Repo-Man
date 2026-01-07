@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 153 | **Last Updated:** 2026-01-06
+**Total Repos:** 161 | **Last Updated:** 2026-01-07
 
 ---
 
@@ -11,6 +11,7 @@
 * **AI & Machine Learning**
    * [ollama](#ollamaollama) (Running various LLMs)
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
+   * [ComfyUI](#comfy-orgcomfyui) (Visually designing and)
    * [ComfyUI](#comfyanonymouscomfyui) (Designing and running)
    * [awesome-llm-apps](#shubhamsabooawesome-llm-apps) (Discovering and learning)
    * [openai-cookbook](#openaiopenai-cookbook) (Learning foundational methods)
@@ -18,8 +19,7 @@
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [exo](#exo-exploreexo) (Running large language)
    * [context7](#upstashcontext7) (Improving the factual)
-   * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
-   * *...and 54 more*
+   * *...and 57 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -83,10 +83,10 @@
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
    * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
+   * [Humidity-Intelligence](#senyo888humidity-intelligence) (Proactively monitor condensation)
    * [DailyGrapher](#000miixdailygrapher) (Displaying personal or)
    * [ha-open-window-blueprint](#adamcornforthha-open-window-blueprint) (Receiving intelligent, non-spammy)
-   * [home-assistant-pc-power](#timman70home-assistant-pc-power) (Automate the startup)
-   * *...and 3 more*
+   * *...and 4 more*
 
 * **Tools & Utilities**
    * [public-apis](#public-apispublic-apis) (Discovering external services)
@@ -99,7 +99,7 @@
    * [ComfyUI-Manager](#comfy-orgcomfyui-manager) (Installing and updating)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
-   * *...and 13 more*
+   * *...and 15 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -112,7 +112,7 @@
    * [mesop](#mesop-devmesop) (Rapidly build internal)
    * [json-editor](#json-editorjson-editor) (Building dynamic configuration)
    * [toapi](#elliotgao2toapi) (Generating instant JSON)
-   * *...and 5 more*
+   * *...and 7 more*
 
 
 
@@ -542,6 +542,22 @@ SkillForge is a Python-based methodology and framework designed to elevate Claud
 - Engineering scalable and robust custom tools (skills) for the Claude AI platform.
 - Establishing standardized, high-quality development workflows for AI agent capabilities.
 - Shifting AI prompt/skill development from reactive testing to proactive engineering design.
+
+---
+
+
+## AI Tooling & Interfaces
+
+### [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
+⭐ 99,303 | 🔤 Python, PyTorch, Stable Diffusion | 📅 2026-01-07
+
+ComfyUI is a highly powerful and modular visual programming environment (GUI) designed for creating and executing complex diffusion model workflows, such as Stable Diffusion. It provides a graph/nodes interface for fine-grained control over generation pipelines, along with an API and backend for integration. Use it when visual workflow management and intricate chaining of AI steps are required.
+
+**Use Cases:**
+- Visually designing and executing complex Stable Diffusion pipelines (e.g., text-to-image, inpainting, controlnets)
+- Developing, testing, and sharing modular AI workflows using a node-based interface
+- Serving as a modular backend and API for applications requiring powerful generative AI capabilities
 
 ---
 
@@ -985,6 +1001,22 @@ Mem0 is a universal memory layer designed for managing long-term, persistent, an
 ---
 
 
+## LLM Tools & Agent Reflection
+
+### [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect)
+
+⭐ 259 | 🔤 Python, LLM APIs (Claude) | 📅 2026-01-07
+
+A self-learning system for Claude Code that captures user corrections and preferences, effectively giving the AI persistent memory. It syncs this behavioral feedback to CLAUDE.md and AGENTS.md files for improved future performance and context.
+
+**Use Cases:**
+- Providing Claude with persistent context and behavioral memory across multiple coding sessions.
+- Capturing and storing specific corrections or preferred coding styles to prevent repeated AI errors.
+- Standardizing the skills, constraints, and operational persona of an LLM agent (Claude) for consistency.
+
+---
+
+
 ## LLM Tools/Plugins Registry
 
 ### [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
@@ -997,6 +1029,23 @@ This is an 'Awesome List' cataloging various functional skills, tools, and plugi
 - Discovering specific development, utility, or data analysis tools usable with the Claude AI model.
 - Finding skills related to document creation, editing, and analysis (PDF, DOCX) through AI.
 - Identifying AI capabilities for security testing, research, and scientific workflows.
+
+---
+
+
+## LLM Training and Experiment Management
+
+### [MaxHastings/llm-madness](https://github.com/MaxHastings/llm-madness)
+
+⭐ 156 | 🔤 Python, Web UI framework (Implied) | 📅 2026-01-07
+
+llm-madness is a lightweight, end-to-end pipeline designed for configuring, training, and inspecting text-based Large Language Models (LLMs). It provides a comprehensive web UI to manage BPE tokenizer settings, input datasets, and model hyperparameters for rapid experimentation.
+
+**Use Cases:**
+- Building and launching custom LLM training runs with configurable models and optimizers.
+- Designing and building BPE vocabularies and tokenizers from specific dataset snapshots.
+- Visual inspection and tracking of LLM training run metrics and configurations.
+- Managing and combining multiple datasets for NLP model training.
 
 ---
 
@@ -1824,6 +1873,22 @@ Chore Helper is a custom Home Assistant integration used for defining, tracking,
 ---
 
 
+## Home Assistant Components
+
+### [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence)
+
+⭐ 134 | 🔤 Home Assistant (Lovelace/YAML), ApexCharts | 📅 2026-01-07
+
+Humidity-Intelligence is a comprehensive package for Home Assistant that transforms raw humidity sensor data into actionable intelligence. It provides customizable Lovelace badges, risk assessments for mould/condensation, and a multi-room ApexCharts dashboard. Use this tool to proactively monitor home comfort and environmental risks across multiple rooms efficiently.
+
+**Use Cases:**
+- Proactively monitor condensation and mould risk in specific rooms using dynamic risk badges.
+- Visualize 24-hour humidity trends across multiple rooms for historical analysis.
+- Establish a house-wide average humidity baseline and track 7-day humidity drift.
+
+---
+
+
 ## Home Assistant Integration
 
 ### [danieldotnl/ha-measureit](https://github.com/danieldotnl/ha-measureit)
@@ -2125,6 +2190,19 @@ Vibe-log-cli is an open-source TypeScript CLI designed for logging and analyzing
 
 ## Developer Tools
 
+### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+
+⭐ 1,510 | 🔤 JavaScript, TypeScript, Claude Code Plugin API | 📅 2026-01-07
+
+Claude HUD is a statusline plugin for the Claude Code CLI environment, providing a persistent Heads-Up Display visible below the user input. It monitors crucial metrics like context usage, active tools, and the progress of running agents and tasks (todos). Developers use this tool to gain real-time insight into the AI's current state and resource consumption during interactions.
+
+**Use Cases:**
+- Monitoring context usage and token consumption during complex AI prompts.
+- Tracking the status of running agents and observing which tools are actively being used by the AI.
+- Gaining immediate, continuous visual feedback on the progress of ongoing development tasks (todos) delegated to Claude Code.
+
+---
+
 ### [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions)
 
 ⭐ 1,346 | 🔤 JavaScript, Node.js, Python | 📅 2025-11-17
@@ -2266,6 +2344,23 @@ It functions as a central 'book' of secret technical knowledge for system admini
 - Quickly referencing complex commands or technical one-liners during SysOps or development tasks
 - Discovering new tools and resources relevant to penetration testing or general security research
 - Consulting aggregated manuals and guidelines for Linux, BSD, networking, and DevOps practices
+
+---
+
+
+## Remote Access / Web Shells
+
+### [lyehe/porterminal](https://github.com/lyehe/porterminal)
+
+⭐ 207 | 🔤 Python, WebSockets | 📅 2026-01-07
+
+Porterminal is a simple Python utility designed to create a web-accessible terminal that tunnels command-line access between your PC and any remote device, like a mobile phone. It is a quick and dirty solution for needing terminal access from anywhere via a web browser without complex setup. Use it for fast maintenance, running scripts, or managing a system while away from the physical machine.
+
+**Use Cases:**
+- Accessing a computer's command line remotely using only a web browser (e.g., from a phone or tablet)
+- Quickly running maintenance scripts or checking system status while traveling
+- Setting up a temporary, disposable tunnel for secure remote shell access
+- Providing remote debugging access to a server or local machine
 
 ---
 
@@ -2561,6 +2656,35 @@ Solara is a Pure Python, React-style framework designed for building scalable we
 - Building scalable, component-based data dashboards and analytics applications
 - Developing full-stack web applications purely in Python using familiar React paradigms
 - Creating highly interactive user interfaces and widgets within Jupyter and IPython environments
+
+---
+
+
+## UI Components
+
+### [rayasabari/joko-ui](https://github.com/rayasabari/joko-ui)
+
+⭐ 170 | 🔤 Tailwind CSS, TypeScript | 📅 2026-01-07
+
+Joko UI is a zero-configuration collection of free, copy-paste ready Tailwind CSS components designed for rapid development. It allows developers to quickly integrate high-quality UI elements without installing heavy dependencies. Use it to bootstrap marketing sites, admin dashboards, or e-commerce stores efficiently.
+
+**Use Cases:**
+- Rapidly prototyping new web applications and landing pages
+- Building modern, responsive admin dashboards and user interfaces
+- Adding copy-paste UI sections (heroes, headers, footers) to existing Tailwind projects
+
+---
+
+### [tombcato/smart-ticker](https://github.com/tombcato/smart-ticker)
+
+⭐ 117 | 🔤 TypeScript, React, Vue | 📅 2026-01-07
+
+Smart Ticker is a high-performance UI component for React and Vue applications specializing in smooth, animated text and number transitions. It utilizes the Levenshtein diff algorithm to calculate character-level changes, enabling precise and efficient scrolling animations. This component is suitable for creating dynamic counters, price tickers, and odometer effects supporting all character sets including CJK and Emoji.
+
+**Use Cases:**
+- Implementing financial tickers or price change displays with smooth, character-level animation.
+- Creating dynamic counter displays (odometers) for statistics, scores, or follower counts.
+- Developing animated components like flip-clocks or digital displays that support complex international characters and emojis.
 
 ---
 

@@ -2976,5 +2976,162 @@
       "Python",
       "Anthropic Claude"
     ]
+  },
+  "BayramAnnakov/claude-reflect": {
+    "name": "BayramAnnakov/claude-reflect",
+    "url": "https://github.com/BayramAnnakov/claude-reflect",
+    "stars": 259,
+    "language": "Python",
+    "starred_date": "2026-01-07",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Tools & Agent Reflection",
+    "summary": "A self-learning system for Claude Code that captures user corrections and preferences, effectively giving the AI persistent memory. It syncs this behavioral feedback to CLAUDE.md and AGENTS.md files for improved future performance and context.",
+    "use_cases": [
+      "Providing Claude with persistent context and behavioral memory across multiple coding sessions.",
+      "Capturing and storing specific corrections or preferred coding styles to prevent repeated AI errors.",
+      "Standardizing the skills, constraints, and operational persona of an LLM agent (Claude) for consistency."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM APIs (Claude)"
+    ]
+  },
+  "jarrodwatts/claude-hud": {
+    "name": "jarrodwatts/claude-hud",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "stars": 1510,
+    "language": "JavaScript",
+    "starred_date": "2026-01-07",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Developer Tools",
+    "summary": "Claude HUD is a statusline plugin for the Claude Code CLI environment, providing a persistent Heads-Up Display visible below the user input. It monitors crucial metrics like context usage, active tools, and the progress of running agents and tasks (todos). Developers use this tool to gain real-time insight into the AI's current state and resource consumption during interactions.",
+    "use_cases": [
+      "Monitoring context usage and token consumption during complex AI prompts.",
+      "Tracking the status of running agents and observing which tools are actively being used by the AI.",
+      "Gaining immediate, continuous visual feedback on the progress of ongoing development tasks (todos) delegated to Claude Code."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "TypeScript",
+      "Claude Code Plugin API"
+    ]
+  },
+  "lyehe/porterminal": {
+    "name": "lyehe/porterminal",
+    "url": "https://github.com/lyehe/porterminal",
+    "stars": 207,
+    "language": "Python",
+    "starred_date": "2026-01-07",
+    "main_category": "Tools & Utilities",
+    "subcategory": "Remote Access / Web Shells",
+    "summary": "Porterminal is a simple Python utility designed to create a web-accessible terminal that tunnels command-line access between your PC and any remote device, like a mobile phone. It is a quick and dirty solution for needing terminal access from anywhere via a web browser without complex setup. Use it for fast maintenance, running scripts, or managing a system while away from the physical machine.",
+    "use_cases": [
+      "Accessing a computer's command line remotely using only a web browser (e.g., from a phone or tablet)",
+      "Quickly running maintenance scripts or checking system status while traveling",
+      "Setting up a temporary, disposable tunnel for secure remote shell access",
+      "Providing remote debugging access to a server or local machine"
+    ],
+    "tech_stack": [
+      "Python",
+      "WebSockets"
+    ]
+  },
+  "rayasabari/joko-ui": {
+    "name": "rayasabari/joko-ui",
+    "url": "https://github.com/rayasabari/joko-ui",
+    "stars": 170,
+    "language": "TypeScript",
+    "starred_date": "2026-01-07",
+    "main_category": "Web Development",
+    "subcategory": "UI Components",
+    "summary": "Joko UI is a zero-configuration collection of free, copy-paste ready Tailwind CSS components designed for rapid development. It allows developers to quickly integrate high-quality UI elements without installing heavy dependencies. Use it to bootstrap marketing sites, admin dashboards, or e-commerce stores efficiently.",
+    "use_cases": [
+      "Rapidly prototyping new web applications and landing pages",
+      "Building modern, responsive admin dashboards and user interfaces",
+      "Adding copy-paste UI sections (heroes, headers, footers) to existing Tailwind projects"
+    ],
+    "tech_stack": [
+      "Tailwind CSS",
+      "TypeScript"
+    ]
+  },
+  "MaxHastings/llm-madness": {
+    "name": "MaxHastings/llm-madness",
+    "url": "https://github.com/MaxHastings/llm-madness",
+    "stars": 156,
+    "language": "Python",
+    "starred_date": "2026-01-07",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "LLM Training and Experiment Management",
+    "summary": "llm-madness is a lightweight, end-to-end pipeline designed for configuring, training, and inspecting text-based Large Language Models (LLMs). It provides a comprehensive web UI to manage BPE tokenizer settings, input datasets, and model hyperparameters for rapid experimentation.",
+    "use_cases": [
+      "Building and launching custom LLM training runs with configurable models and optimizers.",
+      "Designing and building BPE vocabularies and tokenizers from specific dataset snapshots.",
+      "Visual inspection and tracking of LLM training run metrics and configurations.",
+      "Managing and combining multiple datasets for NLP model training."
+    ],
+    "tech_stack": [
+      "Python",
+      "Web UI framework (Implied)"
+    ]
+  },
+  "tombcato/smart-ticker": {
+    "name": "tombcato/smart-ticker",
+    "url": "https://github.com/tombcato/smart-ticker",
+    "stars": 117,
+    "language": "TypeScript",
+    "starred_date": "2026-01-07",
+    "main_category": "Web Development",
+    "subcategory": "UI Components",
+    "summary": "Smart Ticker is a high-performance UI component for React and Vue applications specializing in smooth, animated text and number transitions. It utilizes the Levenshtein diff algorithm to calculate character-level changes, enabling precise and efficient scrolling animations. This component is suitable for creating dynamic counters, price tickers, and odometer effects supporting all character sets including CJK and Emoji.",
+    "use_cases": [
+      "Implementing financial tickers or price change displays with smooth, character-level animation.",
+      "Creating dynamic counter displays (odometers) for statistics, scores, or follower counts.",
+      "Developing animated components like flip-clocks or digital displays that support complex international characters and emojis."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React",
+      "Vue"
+    ]
+  },
+  "senyo888/Humidity-Intelligence": {
+    "name": "senyo888/Humidity-Intelligence",
+    "url": "https://github.com/senyo888/Humidity-Intelligence",
+    "stars": 134,
+    "language": "Various",
+    "starred_date": "2026-01-07",
+    "main_category": "Smart Home",
+    "subcategory": "Home Assistant Components",
+    "summary": "Humidity-Intelligence is a comprehensive package for Home Assistant that transforms raw humidity sensor data into actionable intelligence. It provides customizable Lovelace badges, risk assessments for mould/condensation, and a multi-room ApexCharts dashboard. Use this tool to proactively monitor home comfort and environmental risks across multiple rooms efficiently.",
+    "use_cases": [
+      "Proactively monitor condensation and mould risk in specific rooms using dynamic risk badges.",
+      "Visualize 24-hour humidity trends across multiple rooms for historical analysis.",
+      "Establish a house-wide average humidity baseline and track 7-day humidity drift."
+    ],
+    "tech_stack": [
+      "Home Assistant (Lovelace/YAML)",
+      "ApexCharts"
+    ]
+  },
+  "Comfy-Org/ComfyUI": {
+    "name": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "stars": 99303,
+    "language": "Python",
+    "starred_date": "2026-01-07",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Tooling & Interfaces",
+    "summary": "ComfyUI is a highly powerful and modular visual programming environment (GUI) designed for creating and executing complex diffusion model workflows, such as Stable Diffusion. It provides a graph/nodes interface for fine-grained control over generation pipelines, along with an API and backend for integration. Use it when visual workflow management and intricate chaining of AI steps are required.",
+    "use_cases": [
+      "Visually designing and executing complex Stable Diffusion pipelines (e.g., text-to-image, inpainting, controlnets)",
+      "Developing, testing, and sharing modular AI workflows using a node-based interface",
+      "Serving as a modular backend and API for applications requiring powerful generative AI capabilities"
+    ],
+    "tech_stack": [
+      "Python",
+      "PyTorch",
+      "Stable Diffusion"
+    ]
   }
 }
