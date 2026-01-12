@@ -3133,5 +3133,44 @@
       "PyTorch",
       "Stable Diffusion"
     ]
+  },
+  "TailGrids/tailgrids": {
+    "name": "TailGrids/tailgrids",
+    "url": "https://github.com/TailGrids/tailgrids",
+    "stars": 1460,
+    "language": "TypeScript",
+    "starred_date": "2026-01-12",
+    "main_category": "Web Development",
+    "subcategory": "Component Libraries / Design Systems",
+    "summary": "TailGrids is an open-source React UI component library built entirely with Tailwind CSS, offering over 500 production-ready components, blocks, and templates. It is designed to accelerate development by providing high-performance, accessible, and pixel-perfect UI elements. Use TailGrids to ship modern web applications, SaaS products, and dashboards without relying on generic UI solutions.",
+    "use_cases": [
+      "Rapidly developing modern, complex web applications and websites.",
+      "Creating consistent, custom-branded dashboards, internal tools, and administrative panels.",
+      "Building high-conversion landing pages and sophisticated SaaS product interfaces."
+    ],
+    "tech_stack": [
+      "React",
+      "Tailwind CSS / TypeScript"
+    ]
+  },
+  "docfork/docfork": {
+    "name": "docfork/docfork",
+    "url": "https://github.com/docfork/docfork",
+    "stars": 373,
+    "language": "TypeScript",
+    "starred_date": "2026-01-12",
+    "main_category": "AI & Machine Learning",
+    "subcategory": "AI Infrastructure & Tools",
+    "summary": "Docfork MCP delivers current, structured documentation specifically designed for consumption by AI agents via the Model Context Protocol (MCP). Use it to ensure AI assistants, code generators, and context-aware tools have access to accurate, up-to-date project information, enhancing the quality of AI outputs.",
+    "use_cases": [
+      "Providing accurate project context to AI code assistants (e.g., Cursor, VS Code AI tools)",
+      "Implementing the Model Context Protocol (MCP) for documentation distribution",
+      "Maintaining an up-to-date knowledge base consumed by internal AI agents",
+      "Standardizing documentation retrieval for AI development workflows"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }

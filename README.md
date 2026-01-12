@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 161 | **Last Updated:** 2026-01-07
+**Total Repos:** 163 | **Last Updated:** 2026-01-12
 
 ---
 
@@ -19,7 +19,7 @@
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [exo](#exo-exploreexo) (Running large language)
    * [context7](#upstashcontext7) (Improving the factual)
-   * *...and 57 more*
+   * *...and 58 more*
 
 * **Automation & Scripting**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -112,7 +112,7 @@
    * [mesop](#mesop-devmesop) (Rapidly build internal)
    * [json-editor](#json-editorjson-editor) (Building dynamic configuration)
    * [toapi](#elliotgao2toapi) (Generating instant JSON)
-   * *...and 7 more*
+   * *...and 8 more*
 
 
 
@@ -526,6 +526,23 @@ OpenMemory is a self-hosted, framework-free memory engine that provides persiste
 - Providing stateful, long-term memory for complex AI agents and LLM applications.
 - Implementing explainable Retrieval-Augmented Generation (RAG) pipelines for grounded responses.
 - Self-hosting a dedicated memory layer (vector database/engine) independent of LLM providers.
+
+---
+
+
+## AI Infrastructure & Tools
+
+### [docfork/docfork](https://github.com/docfork/docfork)
+
+⭐ 373 | 🔤 TypeScript, Model Context Protocol (MCP) | 📅 2026-01-12
+
+Docfork MCP delivers current, structured documentation specifically designed for consumption by AI agents via the Model Context Protocol (MCP). Use it to ensure AI assistants, code generators, and context-aware tools have access to accurate, up-to-date project information, enhancing the quality of AI outputs.
+
+**Use Cases:**
+- Providing accurate project context to AI code assistants (e.g., Cursor, VS Code AI tools)
+- Implementing the Model Context Protocol (MCP) for documentation distribution
+- Maintaining an up-to-date knowledge base consumed by internal AI agents
+- Standardizing documentation retrieval for AI development workflows
 
 ---
 
@@ -2479,6 +2496,22 @@ Toapi is a Python library that allows users to turn any existing website into a 
 - Building microservices that require real-time data feeds scraped from external websites.
 - Rapidly prototyping applications that need immediate access to third-party web data.
 - Creating a standardized data layer over legacy web properties.
+
+---
+
+
+## Component Libraries / Design Systems
+
+### [TailGrids/tailgrids](https://github.com/TailGrids/tailgrids)
+
+⭐ 1,460 | 🔤 React, Tailwind CSS / TypeScript | 📅 2026-01-12
+
+TailGrids is an open-source React UI component library built entirely with Tailwind CSS, offering over 500 production-ready components, blocks, and templates. It is designed to accelerate development by providing high-performance, accessible, and pixel-perfect UI elements. Use TailGrids to ship modern web applications, SaaS products, and dashboards without relying on generic UI solutions.
+
+**Use Cases:**
+- Rapidly developing modern, complex web applications and websites.
+- Creating consistent, custom-branded dashboards, internal tools, and administrative panels.
+- Building high-conversion landing pages and sophisticated SaaS product interfaces.
 
 ---
 
