@@ -84,8 +84,17 @@ You must respond with ONLY a valid JSON object, nothing else. No markdown, no co
 Analyze this repository and respond with this exact JSON structure:
 
 {{
-  "main_category": "Choose ONE: AI & Machine Learning, Automation & Scripting, Blockchain & Web3, Browser Extensions, Content Management, Data & Analytics, Design & UI/UX, DevOps & Infrastructure, Education & Learning, Gaming & Graphics, Mobile Development, Other, Security & Privacy, Self Hosted, Smart Home, Tools & Utilities, Web Development",
-  "subcategory": "A more specific category (e.g., 'Frontend Frameworks', 'Data Visualization', 'CI/CD Tools', etc.)",
+  "main_category": "Choose ONE from this exact list: AI Agents & Assistants, AI Infrastructure, Automation, Data & Analytics, Design & Assets, Developer Tools, Home Automation, Self-Hosted Apps, Web Development",
+  "subcategory": "Choose the most appropriate subcategory based on main_category:
+    - AI Agents & Assistants: Agent Frameworks, Claude Ecosystem, LLM Applications, Memory & Context, MCP Servers, Multi-Agent Systems
+    - AI Infrastructure: Generative AI, LLM Resources, Model Serving, NLP & Speech, Training & Fine-tuning
+    - Automation: Browser Automation, Creative Scripts, Web Scraping, Workflow Platforms
+    - Data & Analytics: Data Apps, Dashboards, Data Processing, Finance & Quant
+    - Design & Assets: Animations & Effects, Design Resources, Icon Libraries
+    - Developer Tools: API Resources, Awesome Lists, CLI Utilities, Dev Methodology, JSON & Data Tools
+    - Home Automation: HA Integrations, HA Resources, Smart Home Apps
+    - Self-Hosted Apps: Dashboards & Startpages, Databases & Backends, Media Tools, Notes & Knowledge
+    - Web Development: Component Libraries, Frontend Frameworks, Full-Stack Python, Starter Templates, Web Services",
   "summary": "2-3 sentence summary of what this does and when to use it",
   "use_cases": ["use case 1", "use case 2", "use case 3"],
   "tech_stack": ["language/framework 1", "language/framework 2"]
@@ -128,8 +137,8 @@ CRITICAL: Your response must be ONLY the JSON object. Do not include ```json or 
     # Fallback - but print warning
     print(f"  ⚠ Using fallback categorization")
     return {
-        "main_category": "Other",
-        "subcategory": "Uncategorized",
+        "main_category": "Developer Tools",
+        "subcategory": "Awesome Lists",
         "summary": repo.description or "No description available.",
         "use_cases": ["General purpose"],
         "tech_stack": [repo.language] if repo.language else ["Various"]
