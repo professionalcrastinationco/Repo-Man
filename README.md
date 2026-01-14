@@ -1,53 +1,53 @@
-# GitHub Stars Library
+# 🌟 GitHub Stars Library
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 163 | **Last Updated:** 2026-01-13
+**Total Repos:** 209 | **Last Updated:** 2026-01-14
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-* **[AI Agents & Assistants](#ai-agents-assistants)**
+* **AI Agents & Assistants**
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
    * [awesome-mcp-servers](#punkpeyeawesome-mcp-servers) (Discovering a wide)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
+   * [goose](#blockgoose) (Automating complex, multi-step)
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * [awesome-claude-code](#hesreallyhimawesome-claude-code) (Discovering advanced prompt)
-   * *...and 42 more*
+   * *...and 63 more*
 
-* **[AI Infrastructure](#ai-infrastructure)**
+* **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
    * [ComfyUI](#comfy-orgcomfyui) (Visually designing and)
    * [ComfyUI](#comfyanonymouscomfyui) (Designing and running)
    * [awesome-llm-apps](#shubhamsabooawesome-llm-apps) (Discovering and learning)
    * [openai-cookbook](#openaiopenai-cookbook) (Learning foundational methods)
    * [exo](#exo-exploreexo) (Running large language)
+   * [Qwen3](#qwenlmqwen3) (Building advanced chatbots)
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * [chatterbox](#resemble-aichatterbox) (Generating professional narration)
-   * *...and 7 more*
+   * *...and 16 more*
 
-* **[Automation](#automation)**
+* **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
    * [activepieces](#activepiecesactivepieces) (Automating business processes)
    * [skyvern](#skyvern-aiskyvern) (Automating multi-step business)
    * [requests-html](#psfrequests-html) (Scraping content from)
+   * [agent-browser](#vercel-labsagent-browser) (Providing AI agents)
    * [dev-browser](#sawyerhooddev-browser) (Enabling AI agents)
    * [awesome-playwright](#mxschmittawesome-playwright) (Discovering community integrations)
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [sleepless-agent](#context-machine-labsleepless-agent) (Fully automating tedious)
-   * [browser-debugger-cli](#szymdzumbrowser-debugger-cli) (Feeding live browser)
-   * *...and 2 more*
+   * *...and 4 more*
 
-* **[Data & Analytics](#data-analytics)**
+* **Data & Analytics**
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
    * [streamlit](#streamlitstreamlit) (Building interactive data)
    * [marimo](#marimo-teammarimo) (Running reproducible data)
@@ -55,8 +55,9 @@
    * [textract](#deanmalmgrentextract) (Building search engines)
    * [dash-mantine-components](#snehilvjdash-mantine-components) (Developing complex, feature-rich)
    * [plotlydash-flask-tutorial](#toddbirchardplotlydash-flask-tutorial) (Integrating interactive data)
+   * [situation-monitor](#hipcityregsituation-monitor) (Providing real-time situational)
 
-* **[Design & Assets](#design-assets)**
+* **Design & Assets**
    * [Hover](#ianlunnhover) (Adding visual feedback)
    * [heroicons](#tailwindlabsheroicons) (Integrating visual assets)
    * [tabler-icons](#tablertabler-icons) (Integrating consistent visual)
@@ -66,7 +67,7 @@
    * [adabraka-ui](#auganiadabraka-ui) (Building new high-performance)
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
 
-* **[Developer Tools](#developer-tools)**
+* **Developer Tools**
    * [public-apis](#public-apispublic-apis) (Discovering external services)
    * [awesome-python](#vintaawesome-python) (Discovering highly-rated Python)
    * [Python](#thealgorithmspython) (Learning and studying)
@@ -77,22 +78,22 @@
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
    * [vibe-kanban](#bloopaivibe-kanban) (Managing complex, multi-stage)
    * [check-if-email-exists](#reacherhqcheck-if-email-exists) (Integrating real-time email)
-   * *...and 15 more*
+   * *...and 23 more*
 
-* **[Home Automation](#home-automation)**
+* **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
    * [wallpanel-android](#thecowanwallpanel-android) (Mounting an Android)
    * [versatile_thermostat](#jmcollin78versatile-thermostat) (Simplifying complex Home)
+   * [cafe-hass](#fezvrastacafe-hass) (Visually design complex)
    * [ha-measureit](#danieldotnlha-measureit) (Measure the daily)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
    * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
    * [Humidity-Intelligence](#senyo888humidity-intelligence) (Proactively monitor condensation)
-   * [DailyGrapher](#000miixdailygrapher) (Displaying personal or)
-   * [ha-open-window-blueprint](#adamcornforthha-open-window-blueprint) (Receiving intelligent, non-spammy)
-   * *...and 4 more*
+   * [wall-panel](#dotstartechwall-panel) (Home Assistant Dashboard)
+   * *...and 6 more*
 
-* **[Self-Hosted Apps](#self-hosted-apps)**
+* **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
    * [nocodb](#nocodbnocodb) (Building custom internal)
    * [memos](#usememosmemos) (Deploying a private,)
@@ -102,8 +103,10 @@
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
    * [baserow](#baserowbaserow) (Building custom relational)
    * [OpenMemory](#caviraossopenmemory) (Providing stateful, long-term)
+   * [ffmpreg](#yazaldefilimoneffmpreg) (Replacing legacy FFmpeg)
+   * *...and 1 more*
 
-* **[Web Development](#web-development)**
+* **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
    * [animate.css](#animate-cssanimatecss) (Adding entrance and)
    * [foundation-sites](#foundationfoundation-sites) (Building responsive, mobile-first)
@@ -114,7 +117,7 @@
    * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
    * [mesop](#mesop-devmesop) (Rapidly build internal)
-   * *...and 9 more*
+   * *...and 10 more*
 
 
 
@@ -128,7 +131,7 @@
 
 ### [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 
-Stars: 51,250 | Tech: Python, PyTorch | Starred: 2025-12-12
+⭐ 51,250 | 🔤 Python, PyTorch | 📅 2025-12-12
 
 OpenManus is a highly popular, Python-based open-source project designed as an accessible implementation or alternative to the complex 'Manus' AI system. It provides foundational capabilities for advanced language models and intelligent agents, backed by a research focus (indicated by the DOI) and a public demo. Use it for cutting-edge AI research, developing custom agent workflows, or deploying powerful open-source models.
 
@@ -141,7 +144,7 @@ OpenManus is a highly popular, Python-based open-source project designed as an a
 
 ### [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
 
-Stars: 9,715 | Tech: Python, Reinforcement Learning | Starred: 2025-12-18
+⭐ 9,715 | 🔤 Python, Reinforcement Learning | 📅 2025-12-18
 
 Agent Lightning is a robust Python framework designed as a trainer for building and scaling autonomous AI agents. It integrates concepts from LLMs, reinforcement learning, and MLOps to provide a comprehensive development environment. Developers should use this library to create, train, and manage complex agentic workflows and systems efficiently.
 
@@ -154,7 +157,7 @@ Agent Lightning is a robust Python framework designed as a trainer for building 
 
 ### [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
 
-Stars: 8,999 | Tech: Python, Large Language Models (LLMs) | Starred: 2025-12-11
+⭐ 8,999 | 🔤 Python, Large Language Models (LLMs) | 📅 2025-12-11
 
 Magentic-UI is a research prototype of a human-centered AI agent designed to automate complex web and coding tasks that require monitoring and human oversight. Unlike typical black-box agents, it provides transparency by revealing its plan and allowing users to guide its actions during execution. It is ideal for developers and researchers exploring controllable and interactive web automation solutions.
 
@@ -167,7 +170,7 @@ Magentic-UI is a research prototype of a human-centered AI agent designed to aut
 
 ### [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)
 
-Stars: 5,886 | Tech: TypeScript, LLM Agents (Anthropic Claude) | Starred: 2026-01-05
+⭐ 5,886 | 🔤 TypeScript, LLM Agents (Anthropic Claude) | 📅 2026-01-05
 
 Auto Claude is an autonomous multi-agent framework built in TypeScript designed to plan, build, and validate software solutions entirely using LLMs.
 It acts as a complete AI software engineer, handling the full development lifecycle from requirements gathering to final validation across multiple sessions.
@@ -180,9 +183,22 @@ Use it to automate complex coding tasks, accelerate prototyping, and explore aut
 
 ---
 
+### [snarktank/ralph](https://github.com/snarktank/ralph)
+
+⭐ 3,759 | 🔤 TypeScript, Shell Scripting, Amp CLI | 📅 2026-01-14
+
+Ralph is an autonomous AI agent loop designed to execute development tasks repeatedly until a Product Requirements Document (PRD) is fully implemented. It leverages the Amp CLI for code execution and persists its state, memory, and progress via Git history and dedicated progress files. This pattern provides a structured approach for systematic, goal-oriented AI development iteration.
+
+**Use Cases:**
+- Autonomous software development and implementation based on a PRD.
+- Managing persistent context and memory for long-running, iterative AI development tasks.
+- Applying the 'Ralph pattern' to ensure systematic, clean-context execution cycles for AI coding agents.
+
+---
+
 ### [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
 
-Stars: 1,219 | Tech: Rust, LLM / AI Models, Python | Starred: 2025-12-23
+⭐ 1,219 | 🔤 Rust, LLM / AI Models, Python | 📅 2025-12-23
 
 Terminator is a Rust-based framework for building intelligent AI agents capable of automating complex workflows on Windows machines, serving as a native desktop equivalent to browser automation tools like Playwright. It facilitates the recording and execution of tasks by leveraging LLMs for decision-making and interaction. Use it to create robust, low-level scripts that interact directly with the native Windows environment.
 
@@ -193,12 +209,39 @@ Terminator is a Rust-based framework for building intelligent AI agents capable 
 
 ---
 
+### [vercel-labs/ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent)
+
+⭐ 514 | 🔤 TypeScript, AI SDK | 📅 2026-01-14
+
+Ralph Loop Agent is an experimental TypeScript framework for the AI SDK designed to build continuously running, autonomous AI agents. It implements the 'Ralph Wiggum technique' to manage agent loops, stop conditions, and context for complex, iterative tasks.
+Use it when you need to define persistent AI workflows, such as automated PR generation or continuous research, leveraging integrated tools like Playwright and PostgreSQL.
+
+**Use Cases:**
+- Developing continuous autonomy agents following the iterative 'Ralph Wiggum technique'.
+- Building full-featured CLI agents integrating tools like Vercel Sandbox and browser automation (Playwright).
+- Automating developer workflows, such as handling GitHub Pull Request integration via a looping AI agent.
+
+---
+
+### [Prof-Harita/terminaI](https://github.com/Prof-Harita/terminaI)
+
+⭐ 124 | 🔤 TypeScript, Node.js | 📅 2026-01-14
+
+TerminaI is a governed, AI-powered system operator that allows users to describe system tasks in natural language. It inspects the machine, proposes actions, and executes them through controlled tools, ensuring a deterministic approval ladder and a full audit trail. Use it to securely automate complex terminal and system administration operations driven by an LLM agent.
+
+**Use Cases:**
+- Executing complex multi-step terminal operations via natural language instructions
+- Securely automating system administration tasks with required human approval steps
+- Creating an auditable trail of all AI-driven changes made to the local machine environment
+
+---
+
 
 ## Claude Ecosystem
 
 ### [anthropics/skills](https://github.com/anthropics/skills)
 
-Stars: 20,335 | Tech: Python | Starred: 2025-12-11
+⭐ 20,335 | 🔤 Python | 📅 2025-12-11
 
 This repository provides the structure and resources for defining 'Skills,' which are modular instruction sets and scripts used by the Claude AI model. Skills dynamically enhance Claude's performance on specialized, repeatable tasks by providing context, internal workflows, and resources. Use this framework to customize Claude for organizational needs like document creation, data analysis, or task automation.
 
@@ -211,7 +254,7 @@ This repository provides the structure and resources for defining 'Skills,' whic
 
 ### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-Stars: 19,466 | Tech: Markdown, Python, Anthropic Claude | Starred: 2026-01-06
+⭐ 19,466 | 🔤 Markdown, Python, Anthropic Claude | 📅 2026-01-06
 
 This is a comprehensive, highly-starred Awesome List dedicated to maximizing productivity with Anthropic's Claude as an agentic coding partner. It curates best practices, advanced commands, structured file layouts, and efficient AI workflows.
 Use it as a primary reference guide to optimize prompt engineering, context management, and output quality when using Claude for code generation, review, or refactoring tasks.
@@ -225,7 +268,7 @@ Use it as a primary reference guide to optimize prompt engineering, context mana
 
 ### [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 
-Stars: 11,882 | Tech: Python, Claude API (Anthropic) | Starred: 2025-12-11
+⭐ 11,882 | 🔤 Python, Claude API (Anthropic) | 📅 2025-12-11
 
 Claude Quickstarts is a collection of foundational, deployable projects designed to help developers quickly integrate the Anthropic Claude API into applications. It provides immediate boilerplate for systems like AI agents and chatbots, significantly accelerating the development process. Use this repository to prototype and build production-ready applications powered by Large Language Models.
 
@@ -239,7 +282,7 @@ Claude Quickstarts is a collection of foundational, deployable projects designed
 
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
-Stars: 10,023 | Tech: TypeScript, Claude Agent SDK, ChromaDB | Starred: 2026-01-03
+⭐ 10,023 | 🔤 TypeScript, Claude Agent SDK, ChromaDB | 📅 2026-01-03
 
 Claude-Mem is a TypeScript plugin for the Claude Code environment that captures, compresses, and manages the history of coding sessions, effectively providing long-term memory for the AI assistant. It utilizes RAG techniques with embeddings and vector stores like ChromaDB and SQLite to inject contextually relevant memories back into future sessions. This tool ensures that Claude maintains deep project knowledge over extended periods, improving the accuracy and coherence of its coding assistance.
 
@@ -252,7 +295,7 @@ Claude-Mem is a TypeScript plugin for the Claude Code environment that captures,
 
 ### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
-Stars: 7,667 | Tech: Python, Anthropic Claude API | Starred: 2025-12-18
+⭐ 7,667 | 🔤 Python, Anthropic Claude API | 📅 2025-12-18
 
 This repository is a curated 'Awesome List' featuring skills, tools, resources, and code examples for customizing and extending Claude AI workflows via the Anthropic API. It serves as a central hub for developers and users looking to build specialized AI agents or integrate Claude capabilities into applications. It provides links to SDKs, tutorials, and third-party integrations.
 
@@ -265,7 +308,7 @@ This repository is a curated 'Awesome List' featuring skills, tools, resources, 
 
 ### [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)
 
-Stars: 6,749 | Tech: Shell, Claude AI Infrastructure | Starred: 2025-11-17
+⭐ 6,749 | 🔤 Shell, Claude AI Infrastructure | 📅 2025-11-17
 
 This is a comprehensive reference library of production-tested infrastructure for managing Claude Code development. It provides patterns and systems designed to solve common LLM scaling issues, such as ensuring skills auto-activate, managing context resets, and structuring modular specialized agents. Use this repository to build robust, enterprise-grade AI development workflows.
 
@@ -276,9 +319,23 @@ This is a comprehensive reference library of production-tested infrastructure fo
 
 ---
 
+### [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)
+
+⭐ 4,282 | 🔤 JavaScript, Claude Code / LLM Agents | 📅 2026-01-14
+
+This repository provides a detailed configuration showcase for setting up robust Claude Code projects, demonstrating how to properly define reusable skills, specialized agents, and commands. It serves as a blueprint for engineers looking to leverage Claude Code agents to enforce coding conventions, automate specialized tasks, and integrate LLM capabilities into their development workflow. Use it to operationalize an AI agent as a high-functioning, specialized teammate.
+
+**Use Cases:**
+- Configuring Claude Code agents with specialized skills and knowledge specific to a particular codebase or UI library
+- Defining standard coding conventions and testing patterns for an LLM agent to follow and enforce across the team
+- Integrating LLM agent operations (via commands and agents) into existing GitHub Actions CI/CD workflows
+- Creating specialized AI assistants ('agents') tailored for recurring development tasks, such as maintaining component libraries
+
+---
+
 ### [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
 
-Stars: 3,103 | Tech: Markdown, Claude AI | Starred: 2025-12-11
+⭐ 3,103 | 🔤 Markdown, Claude AI | 📅 2025-12-11
 
 This is an 'Awesome List' cataloging various functional skills, tools, and plugins available for the Claude large language model. It helps users discover capabilities ranging from document processing and coding assistance to scientific analysis and security testing. Use this repository when looking for specific, pre-built integrations or prompt templates to enhance Claude's utility across numerous domains.
 
@@ -291,7 +348,7 @@ This is an 'Awesome List' cataloging various functional skills, tools, and plugi
 
 ### [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
 
-Stars: 2,684 | Tech: Awesome Lists, Markdown, AI Prompts/Instructions | Starred: 2025-12-11
+⭐ 2,684 | 🔤 Awesome Lists, Markdown, AI Prompts/Instructions | 📅 2025-12-11
 
 A comprehensive awesome list compiling Claude Skills, resources, and tools aimed at customizing and optimizing Claude AI workflows, particularly emphasizing agentic coding via Claude Code. It serves as a centralized hub for developers looking to teach Claude repeatable, complex tasks using specialized instruction sets and scripts.
 
@@ -302,9 +359,87 @@ A comprehensive awesome list compiling Claude Skills, resources, and tools aimed
 
 ---
 
+### [ZeframLou/call-me](https://github.com/ZeframLou/call-me)
+
+⭐ 1,968 | 🔤 TypeScript, Twilio/Telnyx API | 📅 2026-01-14
+
+CallMe is a minimal TypeScript plugin that allows a Claude Code agent to initiate a voice call to the user's phone or watch upon completing a task or encountering a roadblock. It leverages Telnyx/Twilio and OpenAI for speech processing, enabling natural, multi-turn conversations where the user can guide the agent remotely. This is ideal for managing long-running agent tasks that require intermittent human decision-making.
+
+**Use Cases:**
+- Receiving real-time voice notifications when a long-running AI task is finished or requires immediate human intervention.
+- Making multi-turn decisions for a running Claude agent remotely via smartphone or landline.
+- Allowing Claude to perform tool-use actions (like web searching) while interacting with the user during a live call.
+
+---
+
+### [1rgs/nanocode](https://github.com/1rgs/nanocode)
+
+⭐ 943 | 🔤 Python, Anthropic API/OpenRouter | 📅 2026-01-14
+
+Nanocode is a minimalist, single-file Python implementation (~250 lines) of an LLM agent designed as a Claude Code alternative. It enables conversational AI via Anthropic or OpenRouter to interact with the file system and execute bash commands using built-in tools. Use it for lightweight, autonomous coding and scripting tasks directly from the terminal.
+
+**Use Cases:**
+- Performing autonomous coding tasks (read, write, edit files) using an LLM.
+- Testing and prototyping agentic behavior with access to the file system and bash.
+- Using a minimal, self-contained Python script to access Anthropic/OpenRouter models.
+
+---
+
+### [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)
+
+⭐ 765 | 🔤 Python, Claude/Anthropic AI | 📅 2026-01-14
+
+This repository provides a comprehensive collection of configuration files (rules, skills, agents, commands) for the Claude Code development environment. It allows users to quickly install a pre-configured, community-sourced setup to enhance interaction and productivity with Claude's coding capabilities. It acts as a specialized 'dotfiles' repository for Claude Code.
+
+**Use Cases:**
+- Quickly initializing a robust Claude Code environment with custom rules and settings
+- Installing specialized skills and commands for the Claude AI coding agent
+- Distributing and syncing personal configurations across multiple Claude Code instances
+
+---
+
+### [numman-ali/n-skills](https://github.com/numman-ali/n-skills)
+
+⭐ 603 | 🔤 TypeScript, Node.js | 📅 2026-01-14
+
+n-skills is a curated, centralized marketplace for distributing and standardizing plugins and skills across various AI agent platforms, including Claude Code, Codex, and openskills. It promotes a 'write once, run everywhere' philosophy for developers building agent tooling. Use it to discover and install new, verified capabilities for your autonomous AI agents.
+
+**Use Cases:**
+- Discovering and installing standardized plugins/skills for AI agents (Claude, Codex, etc.)
+- Publishing custom agent tools to a wide marketplace of developers and users.
+- Providing infrastructural standardization for cross-platform agent capabilities.
+
+---
+
+### [muratcankoylan/ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)
+
+⭐ 460 | 🔤 JavaScript, Claude Code Plugin | 📅 2026-01-14
+
+This is a Claude Code Plugin designed to function as an autonomous AI copywriter specializing in SaaS content marketing. It uses the "Ralph Wiggum pattern," an iterative AI loop, to automatically generate and ship content while you sleep. Use it to fully automate content creation directly within the Claude environment.
+
+**Use Cases:**
+- Autonomous generation of content marketing copy for SaaS products
+- Implementing the iterative 'Ralph Wiggum' AI content generation pattern
+- Automating the drafting and publishing of blog posts or social media content
+
+---
+
+### [rohunvora/just-fucking-cancel](https://github.com/rohunvora/just-fucking-cancel)
+
+⭐ 400 | 🔤 Claude Code (Anthropic), HTML, CSV Processing | 📅 2026-01-14
+
+This project is a 'Claude Code skill' designed to automate the process of finding and canceling recurring subscriptions. It analyzes exported credit card CSV transaction files, uses Claude to identify repetitive charges, and automates the in-browser cancellation workflow. This is intended for users who want to quickly audit and eliminate unnecessary monthly fees with minimal effort.
+
+**Use Cases:**
+- Auditing and reviewing personal credit card statements for recurring monthly charges
+- Automating the physical cancellation steps for identified unwanted subscriptions
+- Leveraging LLMs (Claude) for guided financial management tasks based on transaction data
+
+---
+
 ### [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)
 
-Stars: 311 | Tech: Documentation, AI/LLM Configuration | Starred: 2025-12-11
+⭐ 311 | 🔤 Documentation, AI/LLM Configuration | 📅 2025-12-11
 
 This repository is a curated index of official and community-built Claude Skills, which are modular tools designed to extend the capabilities of Anthropic's Claude AI. It enables users of Claude Pro or Enterprise to browse and integrate specific tools for coding, data analysis, document creation, and complex productivity workflows.
 
@@ -317,7 +452,7 @@ This repository is a curated index of official and community-built Claude Skills
 
 ### [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect)
 
-Stars: 259 | Tech: Python, LLM APIs (Claude) | Starred: 2026-01-07
+⭐ 259 | 🔤 Python, LLM APIs (Claude) | 📅 2026-01-07
 
 A self-learning system for Claude Code that captures user corrections and preferences, effectively giving the AI persistent memory. It syncs this behavioral feedback to CLAUDE.md and AGENTS.md files for improved future performance and context.
 
@@ -328,12 +463,52 @@ A self-learning system for Claude Code that captures user corrections and prefer
 
 ---
 
+### [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
+
+⭐ 159 | 🔤 Markdown, LLM Instructions | 📅 2026-01-14
+
+This repository provides 'Stop Slop,' a skill designed to eliminate predictable patterns, repetitive phrases, and structural 'tells' commonly found in LLM-generated prose. It teaches models like Claude to improve writing quality by referencing lists of patterns to avoid, making the output sound more natural and human-like. Use this when generating high-stakes content that must avoid sounding generic or robotic.
+
+**Use Cases:**
+- Refining and editing AI-generated drafts to remove 'slop' and increase authenticity
+- Training an LLM (via skills/prompting) to adopt a more unique, less predictable writing style
+- Generating marketing copy, articles, or fiction that must pass as human-written content
+
+---
+
+### [abracadabra50/claude-code-voice-skill](https://github.com/abracadabra50/claude-code-voice-skill)
+
+⭐ 139 | 🔤 Python, Vapi | 📅 2026-01-14
+
+Claude Code Voice is a Python CLI utility that enables voice conversations with Claude Opus 4.5 about your local codebase directly over the phone, utilizing the Vapi platform for voice services. It simplifies the setup required for tunneling and configuration, allowing users to register projects and either call Claude or have Claude call them. This tool is ideal for getting real-time verbal debugging help, code reviews, or brainstorming sessions with an advanced LLM.
+
+**Use Cases:**
+- Debugging complex code issues through a voice conversation with Claude
+- Receiving a verbal code review of a project over the phone
+- Brainstorming architectural decisions or new feature ideas vocally with an AI
+- Getting an immediate, context-aware AI assistant while away from the keyboard
+
+---
+
+### [broady/claude2stream](https://github.com/broady/claude2stream)
+
+⭐ 101 | 🔤 Go, TypeScript | 📅 2026-01-14
+
+claude2stream exposes local Claude conversation history as a real-time Durable Stream, providing an accessible, structured feed of interactions. It includes a streaming web UI for live-tailing sessions as they occur, offering instant visibility into ongoing AI usage. Use this tool for auditing, monitoring, and programmatically analyzing your historical data with the Claude AI assistant.
+
+**Use Cases:**
+- Monitor and live-tail ongoing Claude conversations in a dedicated streaming web interface.
+- Stream conversation history for integration with external data analysis or logging platforms.
+- Audit past interactions with Claude by accessing the history via the Durable Stream protocol.
+
+---
+
 
 ## LLM Applications
 
 ### [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
-Stars: 103,720 | Tech: Prompt Engineering, Large Language Models (LLMs), Documentation/Text Files | Starred: 2025-12-30
+⭐ 103,720 | 🔤 Prompt Engineering, Large Language Models (LLMs), Documentation/Text Files | 📅 2025-12-30
 
 This repository is an extensive, open-sourced collection of system prompts, internal tools, and AI models utilized by popular developer assistants such as Cursor, Devin AI, Replit, and GitHub Copilot. It offers profound insights into the operational directives, behavioral constraints, and underlying models of leading production AI tools. Use this resource to study advanced prompt engineering techniques, reverse-engineer commercial AI assistant behavior, and learn how internal tools utilize LLMs.
 
@@ -346,7 +521,7 @@ This repository is an extensive, open-sourced collection of system prompts, inte
 
 ### [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
 
-Stars: 35,097 | Tech: JavaScript, Node.js | Starred: 2025-12-11
+⭐ 35,097 | 🔤 JavaScript, Node.js | 📅 2025-12-11
 
 Fabric is an open-source framework designed to augment human capabilities by providing a modular system of specialized AI prompts and agents. It leverages a crowdsourced library of high-quality instructions to solve specific, complex problems across various aspects of work and life. Use it to standardize AI workflows and deploy specialized, reusable augmentation tools instantly.
 
@@ -360,7 +535,7 @@ Fabric is an open-source framework designed to augment human capabilities by pro
 
 ### [simstudioai/sim](https://github.com/simstudioai/sim)
 
-Stars: 24,877 | Tech: TypeScript, Next.js/React | Starred: 2026-01-03
+⭐ 24,877 | 🔤 TypeScript, Next.js/React | 📅 2026-01-03
 
 Sim is an open-source, low-code platform for building and deploying complex AI agent workflows quickly. It utilizes a visual interface to connect various large language models (like OpenAI, Gemini) and tools, enabling users to automate multi-step processes without extensive coding.
 
@@ -373,7 +548,7 @@ Sim is an open-source, low-code platform for building and deploying complex AI a
 
 ### [wshobson/agents](https://github.com/wshobson/agents)
 
-Stars: 22,487 | Tech: Python, Anthropic Claude API | Starred: 2025-12-11
+⭐ 22,487 | 🔤 Python, Anthropic Claude API | 📅 2025-12-11
 
 This repository provides a production-ready system for intelligent automation, featuring 91 specialized AI agents and 15 multi-agent workflow orchestrators built specifically for Claude Code.
 It enables users to orchestrate complex development tasks and extend Claude's capabilities using 65 single-purpose plugins and a comprehensive set of 47 agent skills.
@@ -386,9 +561,22 @@ Use it to leverage a tiered model strategy (Opus, Sonnet, Haiku) to achieve reli
 
 ---
 
+### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+
+⭐ 17,355 | 🔤 TypeScript, Node.js | 📅 2026-01-14
+
+Qwen-Code is an open-source AI agent designed to operate directly within your terminal environment. It allows developers to interact naturally with an AI to execute commands, debug issues, and manage code workflows without leaving the command line. Use it when you need AI assistance for coding tasks quickly and efficiently in a familiar terminal interface.
+
+**Use Cases:**
+- Generating or modifying code snippets based on natural language input in the terminal.
+- Debugging and fixing terminal errors or code issues using AI insights.
+- Automating complex command-line tasks and operations through conversational interaction.
+
+---
+
 ### [oraios/serena](https://github.com/oraios/serena)
 
-Stars: 16,084 | Tech: Python, LLM Toolkits | Starred: 2025-11-17
+⭐ 16,084 | 🔤 Python, LLM Toolkits | 📅 2025-11-17
 
 Serena is a powerful Python toolkit designed to transform LLMs into effective coding agents that operate directly on a codebase. It provides advanced semantic code retrieval and editing capabilities, allowing agents to understand and manipulate code entities at the symbol level. This tool greatly enhances the efficiency and accuracy of AI-driven programming tasks by providing deep context.
 
@@ -401,7 +589,7 @@ Serena is a powerful Python toolkit designed to transform LLMs into effective co
 
 ### [google/adk-python](https://github.com/google/adk-python)
 
-Stars: 15,201 | Tech: Python, Large Language Models (LLMs) | Starred: 2025-11-17
+⭐ 15,201 | 🔤 Python, Large Language Models (LLMs) | 📅 2025-11-17
 
 The Agent Development Kit (ADK) is a code-first Python toolkit designed for building, evaluating, and deploying sophisticated AI agents with high control and flexibility. It is essential for developers focused on engineering complex single or multi-agent systems and bringing them to production maturity.
 
@@ -414,7 +602,7 @@ The Agent Development Kit (ADK) is a code-first Python toolkit designed for buil
 
 ### [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
 
-Stars: 11,006 | Tech: Python, TypeScript | Starred: 2025-11-17
+⭐ 11,006 | 🔤 Python, TypeScript | 📅 2025-11-17
 
 Chainlit is a powerful framework for building and deploying conversational AI applications rapidly, primarily leveraging Python and modern LLMs. It provides an immediate, production-ready web UI for interacting with, visualizing, and debugging complex AI flows and LangChain applications. Use Chainlit to transform prototypes into shareable, polished chat interfaces quickly.
 
@@ -427,7 +615,7 @@ Chainlit is a powerful framework for building and deploying conversational AI ap
 
 ### [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 
-Stars: 10,649 | Tech: Python, Next.js, FastAPI | Starred: 2025-11-17
+⭐ 10,649 | 🔤 Python, Next.js, FastAPI | 📅 2025-11-17
 
 SurfSense is an open-source, highly customizable AI research agent designed as an alternative to tools like NotebookLM and Perplexity. It utilizes RAG technology to integrate and synthesize information from numerous external sources, including search engines, Notion, Slack, Jira, GitHub, and a personal knowledge base. Use it to conduct comprehensive research and unify data retrieval across all your professional and organizational silos.
 
@@ -440,7 +628,7 @@ SurfSense is an open-source, highly customizable AI research agent designed as a
 
 ### [steveyegge/beads](https://github.com/steveyegge/beads)
 
-Stars: 8,464 | Tech: Go, Git | Starred: 2026-01-06
+⭐ 8,464 | 🔤 Go, Git | 📅 2026-01-06
 
 Beads (bd) is a distributed, git-backed graph issue tracker that provides persistent, structured memory for AI coding agents. It replaces unstructured markdown plans with a dependency-aware task graph, crucial for managing long-horizon development tasks. Developers use it to ensure their agents maintain context and track complex project dependencies effectively.
 
@@ -453,7 +641,7 @@ Beads (bd) is a distributed, git-backed graph issue tracker that provides persis
 
 ### [obra/superpowers](https://github.com/obra/superpowers)
 
-Stars: 7,032 | Tech: JavaScript, AI Workflow/Prompt Engineering | Starred: 2025-11-17
+⭐ 7,032 | 🔤 JavaScript, AI Workflow/Prompt Engineering | 📅 2025-11-17
 
 Superpowers is a comprehensive skills library for AI coding assistants, offering proven techniques, patterns, and workflows for complex software engineering tasks. It enhances AI productivity by standardizing processes like TDD, systematic debugging, and code review. Engineers use this to ensure AI outputs are consistently high-quality and follow structured, reliable methodologies.
 
@@ -467,7 +655,7 @@ Superpowers is a comprehensive skills library for AI coding assistants, offering
 
 ### [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 
-Stars: 5,803 | Tech: Python, Large Language Models (LLMs) | Starred: 2026-01-06
+⭐ 5,803 | 🔤 Python, Large Language Models (LLMs) | 📅 2026-01-06
 
 This repository is an open collection of Agent Skills and principles focused on Context Engineering—the discipline of curating all information within a language model's context window. It teaches methods for managing system prompts, tools, and message history to maximize agent effectiveness. Use this resource when building, optimizing, or debugging complex, production-grade AI and multi-agent systems.
 
@@ -481,7 +669,7 @@ This repository is an open collection of Agent Skills and principles focused on 
 
 ### [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
 
-Stars: 4,904 | Tech: Python, Web Scraping / AST Parsing | Starred: 2025-12-11
+⭐ 4,904 | 🔤 Python, Web Scraping / AST Parsing | 📅 2025-12-11
 
 Skill Seeker automates the transformation of external knowledge sources—including documentation websites, GitHub repositories, and PDFs—into structured skills compatible with the Claude AI platform. It uses web scraping, OCR, and AST parsing to preprocess multi-source data while utilizing automatic conflict detection. Use this tool to rapidly onboard complex, external, or proprietary knowledge into an LLM's context or knowledge base.
 
@@ -495,7 +683,7 @@ Skill Seeker automates the transformation of external knowledge sources—includ
 
 ### [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
-Stars: 3,566 | Tech: TypeScript, Node.js | Starred: 2026-01-05
+⭐ 3,566 | 🔤 TypeScript, Node.js | 📅 2026-01-05
 
 This repository provides open-source TypeScript scaffolding and modular components ("Packs" and "Bundles") for building a custom, personal AI operating system. It serves as foundational infrastructure designed to enhance individual productivity, augmentation, and workflow automation using various AI models. Users should leverage this to centralize and manage their AI-powered tools.
 
@@ -508,7 +696,7 @@ This repository provides open-source TypeScript scaffolding and modular componen
 
 ### [antvis/Infographic](https://github.com/antvis/Infographic)
 
-Stars: 2,656 | Tech: TypeScript, Large Language Models (LLM) | Starred: 2026-01-03
+⭐ 2,656 | 🔤 TypeScript, Large Language Models (LLM) | 📅 2026-01-03
 
 Infographic is an AI-powered framework built on TypeScript for the automated generation and rendering of visual infographics from textual inputs or data. It leverages LLMs to interpret content and structure visualization elements, making it ideal for rapidly creating visually appealing summaries of complex information. Use it when efficiency and AI-driven design are required to transform data into polished communicative graphics.
 
@@ -521,7 +709,7 @@ Infographic is an AI-powered framework built on TypeScript for the automated gen
 
 ### [ruc-datalab/DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
 
-Stars: 2,108 | Tech: Python, Large Language Models (LLMs) / Agentic AI Frameworks | Starred: 2025-11-17
+⭐ 2,108 | 🔤 Python, Large Language Models (LLMs) / Agentic AI Frameworks | 📅 2025-11-17
 
 DeepAnalyze is an agentic Large Language Model (LLM) designed for autonomous data science, functioning as a fully automated AI data analyst. It excels at processing large datasets, performing sophisticated analysis, and generating professional reports with minimal human input. Use it when you need rapid, comprehensive data insights and analysis reports generated automatically from raw data.
 
@@ -534,7 +722,7 @@ DeepAnalyze is an agentic Large Language Model (LLM) designed for autonomous dat
 
 ### [writer/writer-framework](https://github.com/writer/writer-framework)
 
-Stars: 1,433 | Tech: Python, WebSockets | Starred: 2025-11-17
+⭐ 1,433 | 🔤 Python, WebSockets | 📅 2025-11-17
 
 Writer Framework is an open-source framework for creating data and AI applications, featuring a no-code visual editor for building UIs and a standard Python backend. It enforces strong separation between UI and business logic, making it ideal for rapidly developing complex and easily testable data apps.
 
@@ -545,9 +733,22 @@ Writer Framework is an open-source framework for creating data and AI applicatio
 
 ---
 
+### [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+
+⭐ 1,073 | 🔤 TypeScript, Obsidian | 📅 2026-01-14
+
+Plannotator is an interactive visual UI designed for reviewing, annotating, and refining execution plans generated by AI Coding Agents. It is used to facilitate team collaboration and provide seamless, targeted feedback to tools like Claude Code and OpenCode.
+
+**Use Cases:**
+- Visually review and mark up multi-step coding plans generated by AI agents to ensure accuracy.
+- Share complex AI-generated plans with a development team for collaboration and iterative refinement.
+- Integrate a structured plan review step into workflows using specific AI coding tools like Claude Code and OpenCode.
+
+---
+
 ### [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail)
 
-Stars: 740 | Tech: Python, SQLite, Git | Starred: 2025-11-17
+⭐ 740 | 🔤 Python, SQLite, Git | 📅 2025-11-17
 
 MCP Agent Mail is an asynchronous, mail-like coordination layer designed specifically for multiple concurrent coding agents. It provides agents with unique identities, an inbox/outbox system, searchable message history, and file reservation 'leases' to prevent conflicts. This tool enables complex coordination and change-intent signaling among autonomous agents, using Git and SQLite for robust logging and indexing.
 
@@ -561,7 +762,7 @@ MCP Agent Mail is an asynchronous, mail-like coordination layer designed specifi
 
 ### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 
-Stars: 666 | Tech: Large Language Models (LLMs), Prompt Engineering | Starred: 2025-11-17
+⭐ 666 | 🔤 Large Language Models (LLMs), Prompt Engineering | 📅 2025-11-17
 
 This repository is a collection of 51 meticulously defined AI agent personas, designed to simulate a complete professional agency team, including roles like developers and marketers. Each agent has a specialized personality and process, allowing users to structure complex multi-step tasks by assigning specialized LLM roles.
 
@@ -574,7 +775,7 @@ This repository is a collection of 51 meticulously defined AI agent personas, de
 
 ### [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
 
-Stars: 609 | Tech: Python, Claude Code Skill API, Browser Automation | Starred: 2025-12-11
+⭐ 609 | 🔤 Python, Claude Code Skill API, Browser Automation | 📅 2025-12-11
 
 This is a Claude Code Skill built in Python that allows users to query their Google NotebookLM notebooks directly. It integrates browser automation and persistent authentication to retrieve source-grounded, citation-backed answers exclusively from the user's private documents. Use it to enhance Claude Code's knowledge base with specific, private information stored in NotebookLM.
 
@@ -587,7 +788,7 @@ This is a Claude Code Skill built in Python that allows users to query their Goo
 
 ### [docfork/docfork](https://github.com/docfork/docfork)
 
-Stars: 373 | Tech: TypeScript, Model Context Protocol (MCP) | Starred: 2026-01-12
+⭐ 373 | 🔤 TypeScript, Model Context Protocol (MCP) | 📅 2026-01-12
 
 Docfork MCP delivers current, structured documentation specifically designed for consumption by AI agents via the Model Context Protocol (MCP). Use it to ensure AI assistants, code generators, and context-aware tools have access to accurate, up-to-date project information, enhancing the quality of AI outputs.
 
@@ -601,7 +802,7 @@ Docfork MCP delivers current, structured documentation specifically designed for
 
 ### [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done)
 
-Stars: 210 | Tech: JavaScript, Claude Code / Meta-Prompting | Starred: 2025-12-30
+⭐ 210 | 🔤 JavaScript, Claude Code / Meta-Prompting | 📅 2025-12-30
 
 Get Shit Done (GSD) is a meta-prompting and context engineering system designed to make AI code generation (specifically with Claude Code) reliable and consistent. It acts as a layer that extracts detailed specifications from an idea description, ensuring the resulting code is scalable and high-quality, eliminating the inconsistency of typical 'vibecoding'.
 
@@ -614,7 +815,7 @@ Get Shit Done (GSD) is a meta-prompting and context engineering system designed 
 
 ### [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge)
 
-Stars: 131 | Tech: Python, Claude AI SDK/APIs | Starred: 2025-12-31
+⭐ 131 | 🔤 Python, Claude AI SDK/APIs | 📅 2025-12-31
 
 SkillForge is a Python-based methodology and framework designed to elevate Claude AI skill creation from ad-hoc processes to rigorous engineering disciplines. It integrates quality and predictability into every stage of development, ensuring robust and scalable custom tools. Use it when developing complex or enterprise-grade skills for the Claude AI platform where reliability is paramount.
 
@@ -627,7 +828,7 @@ SkillForge is a Python-based methodology and framework designed to elevate Claud
 
 ### [tripleyak/skillcreator](https://github.com/tripleyak/skillcreator)
 
-Stars: 54 | Tech: Python, Claude-AI | Starred: 2025-12-30
+⭐ 54 | 🔤 Python, Claude-AI | 📅 2025-12-30
 
 SkillCreator is the ultimate meta-skill for generating best-in-class Claude Code skills autonomously. It employs a rigorous 4-phase, multi-agent architecture to ensure comprehensive analysis, clean generation, and unanimous quality approval for every skill produced. Use this tool when you need to rapidly create and deploy professional, verified skills specifically tailored for the Anthropic Claude platform.
 
@@ -640,7 +841,7 @@ SkillCreator is the ultimate meta-skill for generating best-in-class Claude Code
 
 ### [holstein13/mcp-config-manager](https://github.com/holstein13/mcp-config-manager)
 
-Stars: 17 | Tech: Python, PyQt6 | Tkinter | Starred: 2025-11-17
+⭐ 17 | 🔤 Python, PyQt6 | Tkinter | 📅 2025-11-17
 
 The MCP Config Manager is a Python utility designed to manage server configurations adhering to the Model Context Protocol (MCP) for systems like Claude and Gemini. It provides both a command-line interface and a fully functional GUI for easy server enabling, disabling, and preset management. Use it to quickly sync and apply specialized configuration profiles across different AI development environments.
 
@@ -653,7 +854,7 @@ The MCP Config Manager is a Python utility designed to manage server configurati
 
 ### [prasadabhishek/photo-quality-analyzer](https://github.com/prasadabhishek/photo-quality-analyzer)
 
-Stars: 6 | Tech: Python, OpenCV, YOLO / Ultralytics | Starred: 2025-11-25
+⭐ 6 | 🔤 Python, OpenCV, YOLO / Ultralytics | 📅 2025-11-25
 
 This is a Python command-line tool designed to analyze the technical quality of digital photographs using OpenCV and a YOLO model for subject detection. It provides objective metrics and an overall judgment on image quality, helping users filter and curate large photo collections efficiently. Use it as an AI-powered first pass to identify technically sound images.
 
@@ -669,7 +870,7 @@ This is a Python command-line tool designed to analyze the technical quality of 
 
 ### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
-Stars: 75,085 | Tech: Markdown, Git/GitHub | Starred: 2025-11-17
+⭐ 75,085 | 🔤 Markdown, Git/GitHub | 📅 2025-11-17
 
 This repository is an extensive, multilingual 'Awesome List' that collects and curates a vast array of MCP (likely Minecraft/Modded Client Protocol) servers, tagged specifically with 'ai'. It provides a community-vetted directory, helping users discover high-quality, featured servers.
 Users should consult this list when looking to join or explore popular, diverse, and well-maintained servers.
@@ -681,9 +882,22 @@ Users should consult this list when looking to join or explore popular, diverse,
 
 ---
 
+### [block/goose](https://github.com/block/goose)
+
+⭐ 25,875 | 🔤 Rust, LLM Agent Framework | 📅 2026-01-14
+
+goose is an on-machine, open-source AI agent designed to automate complex software engineering tasks, moving beyond simple code suggestions. It leverages Multi-step Continuous Planning (MCP) to execute, edit, install, and test code changes directly within the local development environment. Developers use goose to accelerate full-cycle development automation using any LLM.
+
+**Use Cases:**
+- Automating complex, multi-step software engineering tasks (installing, executing, editing)
+- Using an AI agent to execute tests and debug code locally on demand
+- Integrating LLMs directly into the development workflow for autonomous task completion
+
+---
+
 ### [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
 
-Stars: 9,911 | Tech: Python, LLM API Integration | Starred: 2025-12-05
+⭐ 9,911 | 🔤 Python, LLM API Integration | 📅 2025-12-05
 
 PAL MCP (Provider Abstraction Layer) enables popular AI command-line interfaces (such as Claude Code or Gemini CLI) to utilize and coordinate multiple underlying LLMs (OpenAI, Gemini, Grok, etc.) within a single workflow. It consolidates context and responses from these diverse models, simplifying complex multi-model AI development. Use it when needing to leverage the specialized strengths of different AI models without modifying existing CLI workflows.
 
@@ -696,7 +910,7 @@ PAL MCP (Provider Abstraction Layer) enables popular AI command-line interfaces 
 
 ### [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
 
-Stars: 9,638 | Tech: Python, LLM APIs/Providers (OpenAI, Anthropic, Grok, Ollama) | Starred: 2025-11-17
+⭐ 9,638 | 🔤 Python, LLM APIs/Providers (OpenAI, Anthropic, Grok, Ollama) | 📅 2025-11-17
 
 Zen MCP is a Python-based server/framework for Multi-Context Prompting, designed to unify multiple AI developer CLIs (like Claude Code and Gemini CLI) and numerous LLM providers into a single operational context. It acts as an orchestration layer, enabling users to leverage the strengths of different models concurrently for complex automation and development tasks.
 
@@ -709,7 +923,7 @@ Zen MCP is a Python-based server/framework for Multi-Context Prompting, designed
 
 ### [idosal/git-mcp](https://github.com/idosal/git-mcp)
 
-Stars: 6,964 | Tech: TypeScript, Node.js, LLM/Agentic AI (Claude, Copilot integration) | Starred: 2025-11-17
+⭐ 6,964 | 🔤 TypeScript, Node.js, LLM/Agentic AI (Claude, Copilot integration) | 📅 2025-11-17
 
 GitMCP is a free, open-source remote server that acts as a Multi-Codebase Project (MCP) layer for any GitHub repository, designed to stop code hallucinations caused by existing LLMs. It enables sophisticated AI agents (like those powering Cursor and Copilot) to interact accurately with the entire codebase by providing a centralized, reliable environment. Developers use GitMCP to enhance code quality and run complex, agentic tasks remotely.
 
@@ -723,7 +937,7 @@ GitMCP is a free, open-source remote server that acts as a Multi-Codebase Projec
 
 ### [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
 
-Stars: 6,852 | Tech: JavaScript, Chrome Extension / DevTools API, Model Context Protocol (MCP) | Starred: 2025-11-17
+⭐ 6,852 | 🔤 JavaScript, Chrome Extension / DevTools API, Model Context Protocol (MCP) | 📅 2025-11-17
 
 BrowserTools MCP is a powerful Chrome extension that acts as a bridge, enabling AI models to capture and analyze real-time browser data, logs, and screenshots via Anthropic's Model Context Protocol (MCP). This tool significantly enhances the contextual awareness of AI agents in compatible IDEs like Cursor, making AI-powered debugging and interaction 10x more capable. Use it when developing or interacting with web applications where the AI needs deep visibility into the user agent's environment.
 
@@ -736,7 +950,7 @@ BrowserTools MCP is a powerful Chrome extension that acts as a bridge, enabling 
 
 ### [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp)
 
-Stars: 309 | Tech: TypeScript, Node.js (Runtime) | Starred: 2025-11-17
+⭐ 309 | 🔤 TypeScript, Node.js (Runtime) | 📅 2025-11-17
 
 Docfork MCP is an implementation of the Model Context Protocol (MCP) server, designed to provide structured, up-to-date documentation and codebase context specifically for AI agents and developer tools like Cursor. It enables better context retrieval and application for large language models, significantly enhancing AI-assisted coding and documentation analysis. Use it when building tools that require robust, machine-readable context from a repository.
 
@@ -747,9 +961,23 @@ Docfork MCP is an implementation of the Model Context Protocol (MCP) server, des
 
 ---
 
+### [egebese/seo-research-mcp](https://github.com/egebese/seo-research-mcp)
+
+⭐ 128 | 🔤 Python, Model Context Protocol (MCP) | 📅 2026-01-14
+
+This project offers a free SEO research tool leveraging Ahrefs data, designed to integrate into AI-powered IDEs using the Model Context Protocol (MCP). It enables AI agents to perform backlink analysis, keyword research, and traffic estimation by providing real-time data context. Use it to enhance LLM-driven content strategy, planning, and development processes with actionable SEO metrics.
+
+**Use Cases:**
+- Providing AI agents with backlink data and traffic estimates via MCP for sophisticated SEO analysis.
+- Integrating keyword research and competitive analysis directly into an AI-powered IDE environment.
+- Automating the collection of Ahrefs data for content planning and SEO reporting.
+- Using the data to refine and ground generative AI outputs for SEO optimization.
+
+---
+
 ### [AshKash/playwright-mcp](https://github.com/AshKash/playwright-mcp)
 
-Stars: 12 | Tech: TypeScript, Playwright, Node.js | Starred: 2025-12-23
+⭐ 12 | 🔤 TypeScript, Playwright, Node.js | 📅 2025-12-23
 
 Playwright MCP is a Model Context Protocol server that enables Large Language Models (LLMs) to perform robust web automation and interaction. It provides structured accessibility snapshots of web pages, allowing LLMs to navigate and act deterministically without relying on vision models or ambiguous pixel data.
 
@@ -762,7 +990,7 @@ Playwright MCP is a Model Context Protocol server that enables Large Language Mo
 
 ### [livoras/better-playwright-mcp](https://github.com/livoras/better-playwright-mcp)
 
-Stars: 11 | Tech: JavaScript, Playwright, ripgrep | Starred: 2025-12-23
+⭐ 11 | 🔤 JavaScript, Playwright, ripgrep | 📅 2025-12-23
 
 This project is a high-performance Playwright-based server providing an HTTP API for browser automation using a Model Context Protocol (MCP). It features intelligent DOM compression (achieving 91%+ reduction) and uses ripgrep for ultra-fast, regex-based content search across semantic HTML snapshots. Use it when high-speed, scalable, and bandwidth-efficient interaction with web pages is required.
 
@@ -778,7 +1006,7 @@ This project is a high-performance Playwright-based server providing an HTTP API
 
 ### [mem0ai/mem0](https://github.com/mem0ai/mem0)
 
-Stars: 43,240 | Tech: Python, Generative AI / LLM Frameworks | Starred: 2025-11-17
+⭐ 43,240 | 🔤 Python, Generative AI / LLM Frameworks | 📅 2025-11-17
 
 Mem0 is a universal memory layer designed for managing long-term, persistent, and contextual memory for AI agents and LLM applications. It enables personalized AI experiences by storing, retrieving, and managing conversation history necessary for Retrieval Augmented Generation (RAG). Use it when building sophisticated chatbots or AI agents that need to recall past interactions across sessions.
 
@@ -791,7 +1019,7 @@ Mem0 is a universal memory layer designed for managing long-term, persistent, an
 
 ### [upstash/context7](https://github.com/upstash/context7)
 
-Stars: 37,334 | Tech: JavaScript, Node.js | Starred: 2025-11-17
+⭐ 37,334 | 🔤 JavaScript, Node.js | 📅 2025-11-17
 
 Context7 is an MCP (Model Context Provider) server designed to deliver up-to-date code documentation and context directly to Large Language Models (LLMs) and AI code editors. It ensures that AI assistants used for coding have current, relevant knowledge for generating accurate responses and code snippets.
 
@@ -804,7 +1032,7 @@ Context7 is an MCP (Model Context Provider) server designed to deliver up-to-dat
 
 ### [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
 
-Stars: 11,105 | Tech: Python, SQL/Database Connectivity | Starred: 2025-12-18
+⭐ 11,105 | 🔤 Python, SQL/Database Connectivity | 📅 2025-12-18
 
 Memori is a SQL-native memory layer designed to provide robust long-short-term memory and state management for LLMs, single AI agents, and complex multi-agent systems. It acts as a memory fabric that is LLM, framework, and datastore agnostic, plugging into existing enterprise infrastructure. Use it when building large-scale, stateful AI applications requiring scalable and persistent memory handling.
 
@@ -817,7 +1045,7 @@ Memori is a SQL-native memory layer designed to provide robust long-short-term m
 
 ### [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine)
 
-Stars: 2,542 | Tech: Python, LLM/Agent Systems | Starred: 2025-12-17
+⭐ 2,542 | 🔤 Python, LLM/Agent Systems | 📅 2025-12-17
 
 MemMachine is an open-source, universal memory layer designed specifically for advanced AI agents and LLMs. It enables agents to learn, store, and recall preferences and data across past sessions to enrich future interactions. Use it to provide persistent, stateful, and scalable memory management for complex autonomous systems.
 
@@ -829,6 +1057,64 @@ MemMachine is an open-source, universal memory layer designed specifically for a
 
 ---
 
+### [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem)
+
+⭐ 978 | 🔤 Python, LLMs/Agent Frameworks | 📅 2026-01-14
+
+SimpleMem is an efficient lifelong memory system designed specifically for LLM agents, enabling them to retain and access historical knowledge across extended sessions.
+It helps overcome the context window limitations of large language models, providing agents with persistent memory for improved consistency and performance over time.
+Use it to deploy stateful, knowledgeable AI agents that require long-term recall and contextual awareness.
+
+**Use Cases:**
+- Building persistent AI assistants (e.g., virtual colleagues) that remember user interactions spanning weeks or months.
+- Developing LLM agents for long-term tasks like project management or personal finance, where historical context is critical.
+- Implementing efficient retrieval for large, evolving knowledge bases (RAG optimization) specific to an agent's history.
+- Running the SimpleMem MCP Server to manage shared memory resources for multiple LLM agents.
+
+---
+
+### [GMaN1911/claude-cognitive](https://github.com/GMaN1911/claude-cognitive)
+
+⭐ 406 | 🔤 Python, Claude API | 📅 2026-01-14
+
+Claude Cognitive provides essential working memory and persistent context management for the stateless Claude Code LLM assistant. It utilizes attention-based file injection and context routing to ensure consistency across development sessions, reduce hallucinations, and optimize token expenditure. This tool is necessary for developers working with large codebases who frequently rely on Claude Code.
+
+**Use Cases:**
+- Managing persistent, long-term context when using Claude Code across multiple instances or days.
+- Significantly reducing API token usage by preventing the LLM from repeatedly re-reading unchanged files.
+- Improving the quality and reducing hallucinations of Claude Code's suggestions on large, complex codebases.
+
+---
+
+
+## Multi-Agent Systems
+
+### [steveyegge/gastown](https://github.com/steveyegge/gastown)
+
+⭐ 3,512 | 🔤 Go, Git Hooks | 📅 2026-01-14
+
+Gas Town is a multi-agent orchestration system designed for managing and coordinating multiple Claude Code agents in a persistent workspace. It solves the problem of context loss by using git-backed hooks to persist agent work state and context across restarts. Use it when scaling complex AI workflows requiring reliable communication, handoffs, and state management for dozens of agents.
+
+**Use Cases:**
+- Orchestrating complex software development or research projects requiring coordination between 20-30 separate AI agents.
+- Ensuring long-running agent workflows maintain context and state persistence, even after agent restarts or system failures.
+- Managing reliable communication and task handoffs between different specialized agents using built-in mailboxes and identity tracking.
+
+---
+
+### [jonesphillip/weft](https://github.com/jonesphillip/weft)
+
+⭐ 387 | 🔤 TypeScript, Cloudflare Workers | 📅 2026-01-14
+
+Weft is a self-hosted task management system where tasks are executed by AI agents, allowing them to perform complex actions like reading emails, writing code, and interacting with services like GitHub and Google Workspace. It enables users to run multiple agents in parallel and features mandatory user approval for all state-mutating actions (e.g., sending emails or creating PRs) before commitment. This is ideal for automating personal and administrative workflows securely.
+
+**Use Cases:**
+- Automating email management by drafting responses or summaries based on incoming messages in Gmail.
+- Handling small development tasks, such as creating pull requests, updating GitHub issues, or writing utility code snippets.
+- Synchronizing and updating business data by modifying Google Docs or Sheets based on task outcomes.
+
+---
+
 
 # AI Infrastructure
 
@@ -837,7 +1123,7 @@ MemMachine is an open-source, universal memory layer designed specifically for a
 
 ### [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
-Stars: 99,303 | Tech: Python, PyTorch, Stable Diffusion | Starred: 2026-01-07
+⭐ 99,303 | 🔤 Python, PyTorch, Stable Diffusion | 📅 2026-01-07
 
 ComfyUI is a highly powerful and modular visual programming environment (GUI) designed for creating and executing complex diffusion model workflows, such as Stable Diffusion. It provides a graph/nodes interface for fine-grained control over generation pipelines, along with an API and backend for integration. Use it when visual workflow management and intricate chaining of AI steps are required.
 
@@ -850,7 +1136,7 @@ ComfyUI is a highly powerful and modular visual programming environment (GUI) de
 
 ### [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
-Stars: 96,503 | Tech: Python, PyTorch | Starred: 2025-12-11
+⭐ 96,503 | 🔤 Python, PyTorch | 📅 2025-12-11
 
 ComfyUI is a highly modular and powerful visual AI engine and GUI for diffusion models, primarily Stable Diffusion. It utilizes a graph/nodes interface, allowing users to connect individual steps of the generation process to create complex, customized workflows. Use it when high control, reproducibility, and advanced workflow customization for generative image tasks are required.
 
@@ -861,9 +1147,22 @@ ComfyUI is a highly modular and powerful visual AI engine and GUI for diffusion 
 
 ---
 
+### [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
+
+⭐ 26,138 | 🔤 Python, Hugging Face Transformers | 📅 2026-01-14
+
+Qwen3 is a leading large language model series developed by Alibaba Cloud, offering state-of-the-art performance for general-purpose natural language processing tasks. Use it as a powerful foundation model for building advanced AI applications requiring complex reasoning, robust language understanding, and high-quality generation capabilities.
+
+**Use Cases:**
+- Building advanced chatbots and conversational agents
+- Generating code snippets and documentation
+- Performing complex reasoning, summarization, and translation tasks
+
+---
+
 ### [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)
 
-Stars: 12,692 | Tech: Python, uv (Package Management) | Starred: 2025-12-11
+⭐ 12,692 | 🔤 Python, uv (Package Management) | 📅 2025-12-11
 
 ComfyUI-Manager is a crucial extension designed to streamline the usage of ComfyUI by providing robust management features for custom nodes. It allows users to easily install, remove, disable, and enable various extensions directly within the ComfyUI interface. This tool is essential for anyone needing simplified maintenance and configuration of their complex AI generation workflow environment.
 
@@ -875,12 +1174,65 @@ ComfyUI-Manager is a crucial extension designed to streamline the usage of Comfy
 
 ---
 
+### [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image)
+
+⭐ 6,985 | 🔤 Python, HuggingFace ecosystem | 📅 2026-01-14
+
+Qwen-Image is a powerful foundation model specializing in advanced image generation and manipulation, capable of producing high-quality images from text prompts. It is specifically noted for its ability to handle complex tasks like precise text rendering within generated images and detailed image editing operations. Developers use it for building sophisticated creative AI applications and research in visual generation.
+
+**Use Cases:**
+- High-fidelity Text-to-Image (T2I) generation with strong photorealism.
+- Precise image editing, including subject replacement, inpainting, and object manipulation.
+- Generating images that correctly incorporate specific text and complex typography.
+
+---
+
+### [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered)
+
+⭐ 1,423 | 🔤 Python, Deep Learning Frameworks | 📅 2026-01-14
+
+Qwen-Image-Layered is a generative image model that employs layered decomposition to provide inherent editability and structural control over generated outputs. It separates elements like objects, backgrounds, and text into distinct layers, simplifying post-generation manipulation and precise object editing. Use it for high-fidelity image synthesis requiring advanced structural editing capabilities.
+
+**Use Cases:**
+- Generating images that require immediate layered editing capability (e.g., adjusting background without affecting the subject).
+- Developing image generation pipelines where individual objects or scene components need to be isolated and replaced.
+- Research and development of new controllable image synthesis techniques based on structural decomposition.
+
+---
+
+### [IQuestLab/IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1)
+
+⭐ 1,210 | 🔤 Python, Hugging Face (Model Hosting) | 📅 2026-01-14
+
+IQuest-Coder-V1 is a family of large language models (up to 40B parameters) specialized for code generation and instruction following. This repository serves as the central resource, linking to the instruction-tuned models hosted on Hugging Face and providing technical documentation. It is used by researchers and developers interested in high-performance coding LLMs.
+
+**Use Cases:**
+- Generate complex code snippets from natural language instructions
+- Fine-tuning base models for specific programming language tasks
+- Benchmarking large code models against industry standards
+- Developing AI coding assistants or programming tools
+
+---
+
+### [SamurAIGPT/Open-Weavy](https://github.com/SamurAIGPT/Open-Weavy)
+
+⭐ 23 | 🔤 JavaScript, Node-Based Workflow Editor | 📅 2026-01-14
+
+Open-Weavy is an open-source, node-based workflow editor designed for creating, editing, and composing generative AI media (images and video). It provides modular, reusable pipelines (similar to ComfyUI or Blender) to bridge human creativity with AI automation. Use it to gain professional precision and complex control over generative content production.
+
+**Use Cases:**
+- Designing complex, multi-stage pipelines for generative media creation (e.g., conditioning, generation, upscaling, editing).
+- Building reusable workflow templates for consistent brand asset generation using custom AI models.
+- Visualizing and managing the input/output flow of various generative AI services integrated via MuAPI.
+
+---
+
 
 ## LLM Resources
 
 ### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-Stars: 78,701 | Tech: Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) | Starred: 2025-11-17
+⭐ 78,701 | 🔤 Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) | 📅 2025-11-17
 
 This repository is an extensive, highly-starred collection of practical LLM applications and implementation examples, focusing on AI Agents and RAG systems. It serves as a comprehensive resource for developers looking to explore, build, and deploy sophisticated applications leveraging models from major commercial and open-source providers. Use it to quickly find patterns and functional code for building advanced generative AI tools.
 
@@ -893,7 +1245,7 @@ This repository is an extensive, highly-starred collection of practical LLM appl
 
 ### [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 
-Stars: 70,481 | Tech: Python, Jupyter Notebook, OpenAI API | Starred: 2026-01-03
+⭐ 70,481 | 🔤 Python, Jupyter Notebook, OpenAI API | 📅 2026-01-03
 
 This repository is the official OpenAI Cookbook, providing extensive example code and practical guides (mostly in Jupyter Notebook format) for leveraging the OpenAI API. Developers use this resource to learn common patterns and implement advanced features like token counting, prompt engineering, and function calling. It serves as the primary educational resource for integrating services like GPT-4 and ChatGPT.
 
@@ -906,7 +1258,7 @@ This repository is the official OpenAI Cookbook, providing extensive example cod
 
 ### [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
-Stars: 25,563 | Tech: Markdown, Curated List (Resources) | Starred: 2025-11-17
+⭐ 25,563 | 🔤 Markdown, Curated List (Resources) | 📅 2025-11-17
 
 Awesome-LLM is a comprehensive curated resource list focusing on Large Language Models (LLMs), including frameworks, deployment tools, and research papers. It is ideal for developers and researchers who need a central hub to find trending LLM projects, open checkpoints, APIs, and educational materials.
 
@@ -919,7 +1271,7 @@ Awesome-LLM is a comprehensive curated resource list focusing on Large Language 
 
 ### [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
-Stars: 20,308 | Tech: AI Agents, Generative AI, Large Language Models (LLMs) | Starred: 2025-12-11
+⭐ 20,308 | 🔤 AI Agents, Generative AI, Large Language Models (LLMs) | 📅 2025-12-11
 
 This is a massive, curated catalogue detailing over 500 practical AI agent use cases across numerous industries, including healthcare, finance, and education. Use this resource for inspiration, research, or to identify existing open-source projects for implementing AI agents in business solutions.
 
@@ -932,7 +1284,7 @@ This is a massive, curated catalogue detailing over 500 practical AI agent use c
 
 ### [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
-Stars: 7,313 | Tech: Python, LLM Frameworks (LangChain, LlamaIndex, etc.) | Starred: 2025-11-17
+⭐ 7,313 | 🔤 Python, LLM Frameworks (LangChain, LlamaIndex, etc.) | 📅 2025-11-17
 
 This repository is a comprehensive collection of practical examples, tutorials, and recipes for building powerful LLM-powered applications, focusing on modern AI paradigms like RAG and advanced AI agents. It serves as an excellent resource for developers looking for concrete code examples to implement custom chatbots and complex AI workflows.
 
@@ -943,9 +1295,23 @@ This repository is a comprehensive collection of practical examples, tutorials, 
 
 ---
 
+### [QwenLM/Qwen3-VL-Embedding](https://github.com/QwenLM/Qwen3-VL-Embedding)
+
+⭐ 698 | 🔤 Python, Vision-Language Models (VLMs) | 📅 2026-01-14
+
+This repository provides the official implementation and components for the Qwen3 Vision-Language (VL) Embedding and Reranker models. It is designed to facilitate high-performance multimodal retrieval and ranking tasks involving both text and images. Developers use these specialized models to improve the quality and relevance of information retrieval within advanced RAG systems.
+
+**Use Cases:**
+- Performing cross-modal semantic search using text queries against a database of images and vice versa
+- Implementing retrieval-augmented generation (RAG) pipelines requiring multimodal context
+- Improving the relevance of search results using the specialized Qwen3-VL-Reranker component
+- Generating high-dimensional vector embeddings for indexing diverse data types
+
+---
+
 ### [MaxHastings/llm-madness](https://github.com/MaxHastings/llm-madness)
 
-Stars: 156 | Tech: Python, Web UI framework (Implied) | Starred: 2026-01-07
+⭐ 156 | 🔤 Python, Web UI framework (Implied) | 📅 2026-01-07
 
 llm-madness is a lightweight, end-to-end pipeline designed for configuring, training, and inspecting text-based Large Language Models (LLMs). It provides a comprehensive web UI to manage BPE tokenizer settings, input datasets, and model hyperparameters for rapid experimentation.
 
@@ -962,7 +1328,7 @@ llm-madness is a lightweight, end-to-end pipeline designed for configuring, trai
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
 
-Stars: 156,107 | Tech: Go, LLM Architecture (e.g., Llama, Mistral) | Starred: 2025-11-17
+⭐ 156,107 | 🔤 Go, LLM Architecture (e.g., Llama, Mistral) | 📅 2025-11-17
 
 Ollama is a command-line tool and API server designed to simplify running large language models (LLMs) like Llama 3 and Mistral locally across macOS, Windows, and Linux environments. It handles model downloads, setup, and serving, making it accessible for developers and researchers. Use it to quickly experiment with open-source models or integrate local LLM capabilities into applications.
 
@@ -976,7 +1342,7 @@ Ollama is a command-line tool and API server designed to simplify running large 
 
 ### [exo-explore/exo](https://github.com/exo-explore/exo)
 
-Stars: 39,280 | Tech: Python, Distributed Systems | Starred: 2026-01-03
+⭐ 39,280 | 🔤 Python, Distributed Systems | 📅 2026-01-03
 
 Exo is a framework designed to help users deploy and manage a robust, distributed AI cluster utilizing common household devices like phones, laptops, and PCs. This system pools local computing resources to run and operate large AI models efficiently at home. It is ideal for individuals looking to leverage unused device power for personalized, private machine learning applications without cloud reliance.
 
@@ -987,12 +1353,38 @@ Exo is a framework designed to help users deploy and manage a robust, distribute
 
 ---
 
+### [naklecha/simple-llm](https://github.com/naklecha/simple-llm)
+
+⭐ 343 | 🔤 Python, Machine Learning (Inference/Serving) | 📅 2026-01-14
+
+SimpleLLM is a minimal, ~950 line LLM inference engine built from scratch in Python, designed for high-performance throughput and high GPU saturation on dedicated hardware like the NVIDIA H100. It uses an async architecture with continuous background batching to manage requests efficiently. Use it as a lightweight, transparent, and extensible alternative to complex serving frameworks when maximizing throughput and customizing the inference pipeline are critical.
+
+**Use Cases:**
+- Deploying a highly optimized, high-throughput LLM serving environment on specific hardware configurations (e.g., single H100).
+- Developing custom scheduling or batching algorithms for LLM requests by modifying the core engine code.
+- Studying the minimal components required to build a viable LLM inference engine for research or educational purposes.
+
+---
+
+### [sgasser/pasteguard](https://github.com/sgasser/pasteguard)
+
+⭐ 292 | 🔤 TypeScript, Presidio (PII detection) | 📅 2026-01-14
+
+PasteGuard is an OpenAI API-compatible privacy proxy for LLMs that automatically detects and masks PII and sensitive data before the input is transmitted to the upstream provider. It provides a crucial security and compliance layer, allowing organizations to leverage generative AI models while protecting user privacy. It can also be configured to route requests to local, self-hosted models if PII is detected.
+
+**Use Cases:**
+- Securing prompts containing PII (e.g., names, addresses, emails) before transmission to external LLM providers.
+- Ensuring regulatory compliance (GDPR, HIPAA) when integrating generative AI into enterprise applications.
+- Redacting sensitive proprietary information or secrets accidentally included in user inputs.
+
+---
+
 
 ## NLP & Speech
 
 ### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 
-Stars: 19,742 | Tech: Python, Deep Learning Frameworks (likely PyTorch/TensorFlow) | Starred: 2026-01-05
+⭐ 19,742 | 🔤 Python, Deep Learning Frameworks (likely PyTorch/TensorFlow) | 📅 2026-01-05
 
 VibeVoice is an open-source, frontier Voice AI project developed by Microsoft, providing state-of-the-art models for speech processing and generation. It is designed for researchers and developers who need high-fidelity, advanced voice capabilities for their applications or research. Its availability on Hugging Face and arXiv confirms its foundation in ML research.
 
@@ -1005,7 +1397,7 @@ VibeVoice is an open-source, frontier Voice AI project developed by Microsoft, p
 
 ### [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 
-Stars: 15,975 | Tech: Python, Deep Learning Models (TTS) | Starred: 2025-12-18
+⭐ 15,975 | 🔤 Python, Deep Learning Models (TTS) | 📅 2025-12-18
 
 Chatterbox TTS is a state-of-the-art open-source Text-to-Speech system developed by Resemble AI for high-quality voice synthesis. It allows developers and researchers to generate realistic, expressive AI-driven audio content programmatically. Use it when implementing dynamic voice outputs for user interfaces, media production, or conversational applications.
 
@@ -1018,7 +1410,7 @@ Chatterbox TTS is a state-of-the-art open-source Text-to-Speech system developed
 
 ### [miso-belica/sumy](https://github.com/miso-belica/sumy)
 
-Stars: 3,638 | Tech: Python, NLP / Text Summarization Algorithms (LSA, LexRank) | Starred: 2025-11-17
+⭐ 3,638 | 🔤 Python, NLP / Text Summarization Algorithms (LSA, LexRank) | 📅 2025-11-17
 
 Sumy is a Python library and command-line utility designed for automatic text summarization, supporting various extractive methods including LSA, LexRank, and TextTeaser. It can process both plain text documents and content extracted from HTML pages. Use it when you need to programmatically generate concise summaries from long articles, documents, or scraped web content.
 
@@ -1029,9 +1421,22 @@ Sumy is a Python library and command-line utility designed for automatic text su
 
 ---
 
+### [samuel-vitorino/sopro](https://github.com/samuel-vitorino/sopro)
+
+⭐ 712 | 🔤 Python, Text-to-Speech (TTS) | 📅 2026-01-14
+
+Sopro is a lightweight, 169M parameter English text-to-speech (TTS) model built using dilated convolutions and cross-attention layers instead of the traditional Transformer architecture. It supports streaming synthesis and offers zero-shot voice cloning capabilities. Use Sopro when seeking an efficient, low-budget TTS solution for custom voice generation and speech streaming applications.
+
+**Use Cases:**
+- Generating synthetic voiceovers for videos, podcasts, or audiobooks.
+- Integrating real-time, streaming text-to-speech into applications or assistants.
+- Performing zero-shot voice cloning to create unique voices from short audio samples.
+
+---
+
 ### [steipete/summarize](https://github.com/steipete/summarize)
 
-Stars: 672 | Tech: TypeScript, CLI Tooling, AI APIs (OpenAI/OpenRouter) | Starred: 2026-01-05
+⭐ 672 | 🔤 TypeScript, CLI Tooling, AI APIs (OpenAI/OpenRouter) | 📅 2026-01-05
 
 This is a versatile tool for generating fast summaries from various sources including URLs, files (PDFs, images), and media (YouTube, podcasts). It utilizes a robust extraction pipeline, leverages Whisper for media transcription, and supports streaming output in the terminal or via a Chrome Extension.
 
@@ -1048,7 +1453,7 @@ This is a versatile tool for generating fast summaries from various sources incl
 
 ### [volcengine/verl](https://github.com/volcengine/verl)
 
-Stars: 15,931 | Tech: Python, Deep Learning Frameworks (e.g., PyTorch/JAX) | Starred: 2025-11-17
+⭐ 15,931 | 🔤 Python, Deep Learning Frameworks (e.g., PyTorch/JAX) | 📅 2025-11-17
 
 verl is an open-source, high-performance Python library for applying Reinforcement Learning (RL) techniques, specifically tailored for training and aligning Large Language Models (LLMs). Initiated by the ByteDance Seed team, it provides tools for complex RL algorithms like RLHF. Use verl when implementing advanced, distributed RL-based fine-tuning methods for foundation models.
 
@@ -1061,7 +1466,7 @@ verl is an open-source, high-performance Python library for applying Reinforceme
 
 ### [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
-Stars: 12,397 | Tech: Python, PyTorch, VLLM | Starred: 2025-11-17
+⭐ 12,397 | 🔤 Python, PyTorch, VLLM | 📅 2025-11-17
 
 TinyZero is a minimal, cost-effective reproduction of the DeepSeek R1-Zero methodology, which utilizes Reinforcement Learning (RL) to develop self-verification and search abilities in a 3B base language model. This repository is used by researchers and enthusiasts to study how RL can enhance reasoning capabilities on structured tasks like countdown and multiplication. It demonstrates that advanced reasoning training can be achieved for a low budget (under $30).
 
@@ -1080,7 +1485,7 @@ TinyZero is a minimal, cost-effective reproduction of the DeepSeek R1-Zero metho
 
 ### [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 
-Stars: 18,229 | Tech: Python, Playwright/Puppeteer/Selenium | Starred: 2025-11-17
+⭐ 18,229 | 🔤 Python, Playwright/Puppeteer/Selenium | 📅 2025-11-17
 
 Skyvern is an advanced AI-powered framework designed to automate complex browser-based workflows using LLMs and computer vision. It functions as an intelligent Robotic Process Automation (RPA) tool that can understand and interact with dynamic web interfaces without traditional XPath reliance. Use it when reliability and human-like decision making are required for automating processes across websites.
 
@@ -1091,9 +1496,23 @@ Skyvern is an advanced AI-powered framework designed to automate complex browser
 
 ---
 
+### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
+⭐ 4,162 | 🔤 Rust, TypeScript, Playwright / Chromium | 📅 2026-01-14
+
+Agent-Browser is a high-performance CLI tool for headless browser automation, specifically designed to power AI agents. It leverages a fast Rust core with a Node.js fallback to allow LLMs to interact with and understand web content.
+Developers use this tool to enable complex web navigation, input filling, and structured snapshot generation (accessibility trees) for AI-driven tasks.
+
+**Use Cases:**
+- Providing AI agents with the ability to navigate and interact with complex web applications.
+- Generating detailed, structured accessibility tree snapshots of web pages for LLM context and reasoning.
+- Automating complex, multi-step tasks on the web driven by external AI orchestration frameworks.
+
+---
+
 ### [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)
 
-Stars: 2,316 | Tech: TypeScript, Playwright | Starred: 2026-01-05
+⭐ 2,316 | 🔤 TypeScript, Playwright | 📅 2026-01-05
 
 Dev Browser is a Claude Skill (plugin) that grants AI agents the ability to control a web browser for automation and verification tasks.
 It features persistent page sessions, flexible execution modes, and structured DOM snapshots optimized for large language models.
@@ -1108,7 +1527,7 @@ Developers use this tool to allow Claude Code to test, explore, and verify web a
 
 ### [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
 
-Stars: 1,322 | Tech: Playwright, Node.js, Python | Starred: 2025-12-23
+⭐ 1,322 | 🔤 Playwright, Node.js, Python | 📅 2025-12-23
 
 A curated awesome list dedicated to the Playwright framework, cataloging useful tools, libraries, integrations, and guides. This list helps developers discover community projects for end-to-end testing and browser automation using Playwright across multiple languages (Node.js, Python, .NET, Java).
 
@@ -1121,7 +1540,7 @@ A curated awesome list dedicated to the Playwright framework, cataloging useful 
 
 ### [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)
 
-Stars: 974 | Tech: JavaScript, Playwright | Starred: 2025-12-23
+⭐ 974 | 🔤 JavaScript, Playwright | 📅 2025-12-23
 
 This is a Claude Code Skill that enables the Claude AI model to autonomously write and execute customized Playwright scripts for general browser automation. It is designed for developers who need AI to perform real-time testing, validation, or complex multi-step web interaction flows without pre-written scripts.
 
@@ -1134,7 +1553,7 @@ This is a Claude Code Skill that enables the Claude AI model to autonomously wri
 
 ### [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli)
 
-Stars: 71 | Tech: TypeScript, Chrome DevTools Protocol (CDP) | Starred: 2025-12-18
+⭐ 71 | 🔤 TypeScript, Chrome DevTools Protocol (CDP) | 📅 2025-12-18
 
 This CLI tool provides direct terminal access to the Chrome DevTools Protocol (CDP), maintaining a persistent connection to Chrome for executing commands sequentially via Unix pipes. It is designed to allow AI agents and scripts to quickly access browser telemetry like DOM structure, network data, and console output without complex framework overhead.
 
@@ -1150,7 +1569,7 @@ This CLI tool provides direct terminal access to the Chrome DevTools Protocol (C
 
 ### [creold/illustrator-scripts](https://github.com/creold/illustrator-scripts)
 
-Stars: 930 | Tech: JavaScript, ExtendScript (JSX) | Starred: 2025-11-17
+⭐ 930 | 🔤 JavaScript, ExtendScript (JSX) | 📅 2025-11-17
 
 This is a collection of powerful ExtendScript (JSX) scripts designed to extend the functionality and automate repetitive tasks within Adobe Illustrator. Users should utilize these scripts to significantly speed up their design workflow, handle complex operations, and add features not natively available in the standard application. The repository focuses entirely on enhancing the productivity of graphic designers using the Adobe suite.
 
@@ -1161,12 +1580,25 @@ This is a collection of powerful ExtendScript (JSX) scripts designed to extend t
 
 ---
 
+### [ndrscalia/asciify-them](https://github.com/ndrscalia/asciify-them)
+
+⭐ 151 | 🔤 Python, Image Processing Libraries (e.g., PIL/Pillow) | 📅 2026-01-14
+
+This Python package converts standard digital images (JPG and PNG) into stylized ASCII art representations. It provides a straightforward method for developers to quickly transform photographic content into character-based drawings suitable for terminal display or text-based projects. Use it to add a vintage or unique visual flair to CLI utilities and creative coding experiments.
+
+**Use Cases:**
+- Generating terminal-friendly ASCII art logos or profile images.
+- Integrating image previews directly into command-line interface applications.
+- Creating stylized, low-fidelity versions of photos for creative coding projects.
+
+---
+
 
 ## Web Scraping
 
 ### [psf/requests-html](https://github.com/psf/requests-html)
 
-Stars: 13,867 | Tech: Python, Requests, PyQuery / LXML | Starred: 2025-11-17
+⭐ 13,867 | 🔤 Python, Requests, PyQuery / LXML | 📅 2025-11-17
 
 Requests-HTML is a Python library that merges the simplicity of the standard Requests library with powerful HTML parsing, including full JavaScript rendering via Chromium. It provides robust support for both CSS and XPath selectors, making web scraping simple and intuitive. Use it for high-level data extraction and handling complex, dynamic web pages where simple HTTP requests fail.
 
@@ -1179,7 +1611,7 @@ Requests-HTML is a Python library that merges the simplicity of the standard Req
 
 ### [ksanjeev284/reddit-universal-scraper](https://github.com/ksanjeev284/reddit-universal-scraper)
 
-Stars: 59 | Tech: Python, Streamlit | Starred: 2025-12-17
+⭐ 59 | 🔤 Python, Streamlit | 📅 2025-12-17
 
 This is a comprehensive, open-source Reddit scraping suite designed to extract posts, comments, and multimedia content without requiring API keys. It offers advanced features like a Streamlit web dashboard for visualization, a REST API for easy integration with external analytic platforms, and scheduling capabilities.
 
@@ -1192,7 +1624,7 @@ This is a comprehensive, open-source Reddit scraping suite designed to extract p
 
 ### [HarimxChoi/anti_bot_scraper](https://github.com/HarimxChoi/anti_bot_scraper)
 
-Stars: 29 | Tech: Python, Playwright | Starred: 2025-11-17
+⭐ 29 | 🔤 Python, Playwright | 📅 2025-11-17
 
 An advanced Python scraper utilizing Playwright to bypass complex anti-bot detection systems, specifically targeting Korean real estate data from sites like Naver-Land. It is designed for investors and researchers needing reliable, structured data for property market analysis and identifying investment opportunities. Its primary function is reliable data extraction where standard scraping methods fail due to anti-bot measures.
 
@@ -1208,7 +1640,7 @@ An advanced Python scraper utilizing Playwright to bypass complex anti-bot detec
 
 ### [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 
-Stars: 41,310 | Tech: n8n (Workflow Automation Platform), JSON | Starred: 2025-11-17
+⭐ 41,310 | 🔤 n8n (Workflow Automation Platform), JSON | 📅 2025-11-17
 
 This is the ultimate, comprehensive collection of over 4,300 pre-built n8n automation workflows covering hundreds of integrations and services. Users should leverage this massive resource library to rapidly deploy complex integration and data processing tasks without needing to build them from scratch. It serves as a centralized hub for the n8n community.
 
@@ -1221,7 +1653,7 @@ This is the ultimate, comprehensive collection of over 4,300 pre-built n8n autom
 
 ### [activepieces/activepieces](https://github.com/activepieces/activepieces)
 
-Stars: 19,200 | Tech: TypeScript, Node.js | Starred: 2025-11-17
+⭐ 19,200 | 🔤 TypeScript, Node.js | 📅 2025-11-17
 
 Activepieces is an open-source, no-code/low-code workflow automation platform designed as a self-hosted alternative to tools like Zapier or Make. It enables users to connect various applications and services to automate complex business processes. The platform is specifically optimized for deploying and managing AI agents and sophisticated AI workflows using dedicated MCP server infrastructure.
 
@@ -1234,7 +1666,7 @@ Activepieces is an open-source, no-code/low-code workflow automation platform de
 
 ### [context-machine-lab/sleepless-agent](https://github.com/context-machine-lab/sleepless-agent)
 
-Stars: 354 | Tech: Python, Anthropic Claude API, Slack API | Starred: 2025-11-17
+⭐ 354 | 🔤 Python, Anthropic Claude API, Slack API | 📅 2025-11-17
 
 Sleepless Agent is a 24/7 autonomous agent built in Python designed to maximize usage of expensive AI models like Claude Code Pro, especially during off-peak hours. It operates as an AgentOS, managing tasks submitted via Slack, handling isolated workspaces, and executing development tasks including Git commits and PR creation. Use it to ensure continuous development progress and fully leverage high-limit AI subscriptions.
 
@@ -1253,7 +1685,7 @@ Sleepless Agent is a 24/7 autonomous agent built in Python designed to maximize 
 
 ### [snehilvj/dash-mantine-components](https://github.com/snehilvj/dash-mantine-components)
 
-Stars: 695 | Tech: Plotly Dash, TypeScript, Mantine | Starred: 2025-11-17
+⭐ 695 | 🔤 Plotly Dash, TypeScript, Mantine | 📅 2025-11-17
 
 Dash Mantine Components is an extensive library featuring over 90 UI components based on Mantine, specifically designed for use within Plotly Dash applications. Developers should use this library to build professional, modern, and aesthetically pleasing interactive dashboards entirely in Python. It provides high-quality UI/UX elements that significantly enhance standard Dash component offerings.
 
@@ -1266,7 +1698,7 @@ Dash Mantine Components is an extensive library featuring over 90 UI components 
 
 ### [toddbirchard/plotlydash-flask-tutorial](https://github.com/toddbirchard/plotlydash-flask-tutorial)
 
-Stars: 494 | Tech: Python, Flask, Plotly Dash | Starred: 2025-11-17
+⭐ 494 | 🔤 Python, Flask, Plotly Dash | 📅 2025-11-17
 
 This repository provides a tutorial for embedding interactive Plotly Dash dashboards directly into a structured Flask application. It allows developers to leverage Flask for routing and traditional web features while utilizing Dash and Pandas for powerful data analysis and visualization capabilities. Use this when integrating complex, dynamic dashboards into existing Python web projects.
 
@@ -1277,12 +1709,25 @@ This repository provides a tutorial for embedding interactive Plotly Dash dashbo
 
 ---
 
+### [hipcityreg/situation-monitor](https://github.com/hipcityreg/situation-monitor)
+
+⭐ 177 | 🔤 TypeScript, Real-time Data Streams (e.g., WebSockets) | 📅 2026-01-14
+
+A real-time dashboard solution written in TypeScript for monitoring and visualizing key global data streams, including news, markets, and geopolitical events. It is designed for users needing immediate, aggregated situational awareness across multiple high-impact data sources. Use it to quickly track and respond to unfolding global developments.
+
+**Use Cases:**
+- Providing real-time situational awareness for security or risk analysis teams.
+- Monitoring simultaneous global market movements alongside related news events.
+- Creating a unified display for tracking geopolitical conflicts and their downstream economic effects.
+
+---
+
 
 ## Data Apps
 
 ### [streamlit/streamlit](https://github.com/streamlit/streamlit)
 
-Stars: 42,245 | Tech: Python, Streamlit | Starred: 2025-11-17
+⭐ 42,245 | 🔤 Python, Streamlit | 📅 2025-11-17
 
 Streamlit is a Python-based framework that allows users to transform Python scripts into interactive, shareable web apps and dashboards in minutes. It is designed for data scientists and ML engineers seeking fast prototyping and deployment without extensive frontend knowledge.
 
@@ -1295,7 +1740,7 @@ Streamlit is a Python-based framework that allows users to transform Python scri
 
 ### [marimo-team/marimo](https://github.com/marimo-team/marimo)
 
-Stars: 17,265 | Tech: Python, Reactive Programming / Dataflow | Starred: 2025-11-17
+⭐ 17,265 | 🔤 Python, Reactive Programming / Dataflow | 📅 2025-11-17
 
 Marimo is a reactive Python notebook designed for data science and machine learning, emphasizing reproducible experiments and easy version control. It automatically manages data dependencies (DAG), allowing notebooks to be executed as scripts or deployed instantly as interactive web applications. Use it when needing a modern, reproducible alternative to traditional notebooks.
 
@@ -1311,7 +1756,7 @@ Marimo is a reactive Python notebook designed for data science and machine learn
 
 ### [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
 
-Stars: 5,614 | Tech: Rust, Python | Starred: 2026-01-03
+⭐ 5,614 | 🔤 Rust, Python | 📅 2026-01-03
 
 CocoIndex is an ultra-performant data transformation framework built in Rust, specialized for incremental processing and real-time pipelines tailored for AI applications.
 It acts as a robust ETL engine and indexing layer that uses Change Data Capture (CDC) to ensure RAG systems and LLMs always access fresh, high-quality contextual data.
@@ -1326,7 +1771,7 @@ Use it when scalable, real-time data preparation is crucial for AI context engin
 
 ### [deanmalmgren/textract](https://github.com/deanmalmgren/textract)
 
-Stars: 4,358 | Tech: Python, Natural Language Processing, Data Mining | Starred: 2025-11-17
+⭐ 4,358 | 🔤 Python, Natural Language Processing, Data Mining | 📅 2025-11-17
 
 textract is a robust Python library designed to simplify the process of extracting raw text content from almost any document format, including PDFs, DOCX, and images. It automatically handles various underlying dependencies, making document standardization easy for data pipelines. This tool is essential for preparing unstructured data for downstream natural language processing or indexing tasks.
 
@@ -1342,7 +1787,7 @@ textract is a robust Python library designed to simplify the process of extracti
 
 ### [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 
-Stars: 57,132 | Tech: Python, Data Science Frameworks (Pandas/NumPy) | Starred: 2026-01-05
+⭐ 57,132 | 🔤 Python, Data Science Frameworks (Pandas/NumPy) | 📅 2026-01-05
 
 OpenBB is a comprehensive financial data platform for analysts, quants, and AI agents, providing extensive tools for sophisticated financial modeling and data retrieval across various asset classes (stocks, crypto, derivatives). It is used to perform quantitative research, backtesting, technical analysis, and build data science pipelines leveraging integrated financial market data.
 
@@ -1361,7 +1806,7 @@ OpenBB is a comprehensive financial data platform for analysts, quants, and AI a
 
 ### [IanLunn/Hover](https://github.com/IanLunn/Hover)
 
-Stars: 29,399 | Tech: CSS3, SCSS (Sass), LESS | Starred: 2025-12-30
+⭐ 29,399 | 🔤 CSS3, SCSS (Sass), LESS | 📅 2025-12-30
 
 Hover.css is an extensive collection of pure CSS3-powered hover effects (like pushes, fades, and glows) designed to enhance interaction on web elements such as buttons, links, and images. It allows developers and designers to quickly add polished visual feedback to their interfaces without writing complex custom CSS transitions. It is available in CSS, Sass, and LESS formats for easy integration.
 
@@ -1378,7 +1823,7 @@ Hover.css is an extensive collection of pure CSS3-powered hover effects (like pu
 
 ### [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns)
 
-Stars: 4,712 | Tech: HTML, CSS (Implied), Photoshop (.pat format) | Starred: 2025-12-30
+⭐ 4,712 | 🔤 HTML, CSS (Implied), Photoshop (.pat format) | 📅 2025-12-30
 
 This repository is a comprehensive collection of subtle background patterns, derived from the popular Subtle Patterns resource. It includes individual image files suitable for web use and the original Photoshop .pat file for graphic designers. Use this resource to quickly find and integrate high-quality, repeating textures into web interfaces, applications, or visual design projects.
 
@@ -1391,7 +1836,7 @@ This repository is a comprehensive collection of subtle background patterns, der
 
 ### [Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)
 
-Stars: 404 | Tech: Shell, Claude Code (AI Model) | Starred: 2026-01-06
+⭐ 404 | 🔤 Shell, Claude Code (AI Model) | 📅 2026-01-06
 
 This is a specialized 'skill' for the Claude Code AI, designed to enforce precise, high-craft design principles suitable for enterprise software, SaaS dashboards, and admin interfaces. It guides the AI to apply consistent rules, such as a 4px grid and strict typography hierarchy, ensuring generated UI avoids common anti-patterns like dramatic shadows or decorative gradients. Use it when leveraging AI for front-end development but needing a sophisticated, production-ready aesthetic inspired by brands like Stripe and Vercel.
 
@@ -1405,7 +1850,7 @@ This is a specialized 'skill' for the Claude Code AI, designed to enforce precis
 
 ### [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui)
 
-Stars: 254 | Tech: Rust, GPUI (GPU-accelerated UI framework) | Starred: 2025-11-17
+⭐ 254 | 🔤 Rust, GPUI (GPU-accelerated UI framework) | 📅 2025-11-17
 
 adabraka-ui is a professional UI component library built specifically for the GPUI framework, which powers the Zed text editor. It provides a comprehensive set of ready-to-use widgets and design components for building high-performance desktop applications in Rust. Use this library when developing GPU-accelerated desktop tools that require a modern, consistent, and integrated UI system.
 
@@ -1418,7 +1863,7 @@ adabraka-ui is a professional UI component library built specifically for the GP
 
 ### [aguiarsc/wireframe-ui](https://github.com/aguiarsc/wireframe-ui)
 
-Stars: 159 | Tech: TypeScript, React, Tailwind CSS | Starred: 2025-11-17
+⭐ 159 | 🔤 TypeScript, React, Tailwind CSS | 📅 2025-11-17
 
 wireframe-ui is a component library allowing developers to quickly build low-fidelity mockups and prototypes directly within their IDE using React components. It aims to eliminate the need for dedicated design tools like Figma during the initial development and concept sketching phase. Utilizing the shadcn/ui pattern, components are easily installed and customized using standard development workflows.
 
@@ -1434,7 +1879,7 @@ wireframe-ui is a component library allowing developers to quickly build low-fid
 
 ### [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
 
-Stars: 23,198 | Tech: JavaScript, SVG | Starred: 2025-12-30
+⭐ 23,198 | 🔤 JavaScript, SVG | 📅 2025-12-30
 
 Heroicons is a high-quality, free set of hand-crafted SVG icons created by the developers of Tailwind CSS. It is widely used for modern UI development, providing vector assets that scale perfectly across applications. Use it to quickly add professional icons to web projects, available as raw SVGs or integrated components for React and Vue.
 
@@ -1447,7 +1892,7 @@ Heroicons is a high-quality, free set of hand-crafted SVG icons created by the d
 
 ### [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
 
-Stars: 19,951 | Tech: SVG, JavaScript, React / Svelte (Integration) | Starred: 2025-12-30
+⭐ 19,951 | 🔤 SVG, JavaScript, React / Svelte (Integration) | 📅 2025-12-30
 
 Tabler Icons is an extensive library featuring nearly 6,000 free, MIT-licensed SVG icons designed on a standardized 24x24 grid with a 2px stroke. It provides high-quality vector assets for enhancing the visual appeal and clarity of user interfaces and web applications. Developers should use this library when they require a comprehensive, customizable, and visually consistent icon set compatible with modern frontend frameworks.
 
@@ -1460,7 +1905,7 @@ Tabler Icons is an extensive library featuring nearly 6,000 free, MIT-licensed S
 
 ### [twbs/icons](https://github.com/twbs/icons)
 
-Stars: 7,839 | Tech: TypeScript, SVG | Starred: 2025-12-30
+⭐ 7,839 | 🔤 TypeScript, SVG | 📅 2025-12-30
 
 Bootstrap Icons is the official open source SVG icon library providing over 2,000 high-quality vector icons designed specifically to complement the Bootstrap framework. Developers use this library to integrate scalable and consistent visual glyphs into their web applications. It is packaged for flexible use across various projects, supporting SVG injection, sprites, and web fonts.
 
@@ -1479,7 +1924,7 @@ Bootstrap Icons is the official open source SVG icon library providing over 2,00
 
 ### [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
-Stars: 379,105 | Tech: Python, Markdown | Starred: 2025-11-17
+⭐ 379,105 | 🔤 Python, Markdown | 📅 2025-11-17
 
 This repository is the largest community-curated catalog of free public APIs available across numerous domains, serving as a comprehensive resource list for developers. Use this resource when starting a new project and searching for external services or third-party integrations to add functionality without building it from scratch.
 
@@ -1495,7 +1940,7 @@ This repository is the largest community-curated catalog of free public APIs ava
 
 ### [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
-Stars: 269,775 | Tech: Python (Subject Matter), Markdown | Starred: 2025-11-17
+⭐ 269,775 | 🔤 Python (Subject Matter), Markdown | 📅 2025-11-17
 
 Awesome Python is an opinionated, highly-starred curated list of Python frameworks, libraries, software, and educational resources covering the entire ecosystem. It serves as a starting point for developers looking to discover high-quality, recommended tools for almost any Python development task, from web development to data science. Use this list when researching the best available options for a new project or learning about the breadth of the Python community's offerings.
 
@@ -1508,7 +1953,7 @@ Awesome Python is an opinionated, highly-starred curated list of Python framewor
 
 ### [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
-Stars: 213,250 | Tech: Python | Starred: 2025-11-17
+⭐ 213,250 | 🔤 Python | 📅 2025-11-17
 
 This repository is a comprehensive, community-driven collection of algorithms implemented in Python, covering a wide range of topics from sorting and searching to competitive programming concepts. It serves as an excellent educational resource for learning, practicing, and understanding fundamental computer science algorithms, making it ideal for students and professionals preparing for technical interviews.
 
@@ -1521,10 +1966,9 @@ This repository is a comprehensive, community-driven collection of algorithms im
 
 ### [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-Stars: 194,335 | Tech: Markdown, Awesome List (Resource Collection) | Starred: 2025-11-17
+⭐ 194,335 | 🔤 Markdown, Awesome List (Resource Collection) | 📅 2025-11-17
 
 This repository is a massive curated collection of inspiring lists, comprehensive manuals, cheatsheets, and practical hacks spanning DevOps, Linux administration, and cybersecurity.
-
 It functions as a central 'book' of secret technical knowledge for system administrators, security researchers, and developers seeking efficient guidelines and tools.
 
 **Use Cases:**
@@ -1536,7 +1980,7 @@ It functions as a central 'book' of secret technical knowledge for system admini
 
 ### [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
-Stars: 35,027 | Tech: Docker, Moby | Starred: 2026-01-03
+⭐ 35,027 | 🔤 Docker, Moby | 📅 2026-01-03
 
 This repository is the definitive "Awesome List" compiling a vast collection of resources, tools, projects, and guides centered around Docker and containerization technology. It serves as a central hub for developers and DevOps engineers looking to find specialized utilities for image building, deployment (Swarm), monitoring, and security. Use it as a comprehensive directory for everything Docker-related.
 
@@ -1549,7 +1993,7 @@ This repository is the definitive "Awesome List" compiling a vast collection of 
 
 ### [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
 
-Stars: 12,395 | Tech: Markdown, TypeScript | Starred: 2025-12-18
+⭐ 12,395 | 🔤 Markdown, TypeScript | 📅 2025-12-18
 
 AGENTS.md is a simple, open specification format designed to act as a dedicated README for AI coding agents. Its purpose is to provide predictable context, environment tips, and specific instructions to help AI agents reliably work on a project.
 
@@ -1562,7 +2006,7 @@ AGENTS.md is a simple, open specification format designed to act as a dedicated 
 
 ### [aradzie/keybr.com](https://github.com/aradzie/keybr.com)
 
-Stars: 3,852 | Tech: TypeScript, Web Development | Starred: 2025-12-16
+⭐ 3,852 | 🔤 TypeScript, Web Development | 📅 2025-12-16
 
 keybr.com is an intelligent, web-based typing tutor designed to help users learn touch typing and significantly improve their typing speed. It tracks individual key statistics and automatically generates lessons focusing on the user's weakest keys. Use it to develop reliable touch typing skills or optimize existing speed through personalized, focused practice.
 
@@ -1575,7 +2019,7 @@ keybr.com is an intelligent, web-based typing tutor designed to help users learn
 
 ### [buildermethods/agent-os](https://github.com/buildermethods/agent-os)
 
-Stars: 2,509 | Tech: Shell, AI Agents (e.g., Claude Code, Cursor) | Starred: 2025-11-17
+⭐ 2,509 | 🔤 Shell, AI Agents (e.g., Claude Code, Cursor) | 📅 2025-11-17
 
 Agent OS is a spec-driven system designed to structure workflows for AI coding agents, transforming them into productive developers. It provides agents with the necessary standards, stack details, and specifications from the codebase. Use it to ensure AI agents ship high-quality, spec-compliant code reliably across any language or project size.
 
@@ -1588,7 +2032,7 @@ Agent OS is a spec-driven system designed to structure workflows for AI coding a
 
 ### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 
-Stars: 1,510 | Tech: JavaScript, TypeScript, Claude Code Plugin API | Starred: 2026-01-07
+⭐ 1,510 | 🔤 JavaScript, TypeScript, Claude Code Plugin API | 📅 2026-01-07
 
 Claude HUD is a statusline plugin for the Claude Code CLI environment, providing a persistent Heads-Up Display visible below the user input. It monitors crucial metrics like context usage, active tools, and the progress of running agents and tasks (todos). Developers use this tool to gain real-time insight into the AI's current state and resource consumption during interactions.
 
@@ -1601,7 +2045,7 @@ Claude HUD is a statusline plugin for the Claude Code CLI environment, providing
 
 ### [tompi/cheapino](https://github.com/tompi/cheapino)
 
-Stars: 988 | Tech: OpenSCAD, PCB Design / Electronics | Starred: 2025-12-13
+⭐ 988 | 🔤 OpenSCAD, PCB Design / Electronics | 📅 2025-12-13
 
 Cheapino provides the design files and comprehensive guides for building a highly affordable, 36-key split ergonomic mechanical keyboard. It utilizes a reversible PCB and a duplex matrix connected via RJ45 to minimize component count and cost, making custom keyboards accessible to builders on a budget. Use this repository to source the necessary OpenSCAD and PCB files if you wish to self-manufacture a low-cost, wired, split keyboard.
 
@@ -1614,7 +2058,7 @@ Cheapino provides the design files and comprehensive guides for building a highl
 
 ### [ocampor/image-quality](https://github.com/ocampor/image-quality)
 
-Stars: 429 | Tech: Python | Starred: 2025-11-21
+⭐ 429 | 🔤 Python | 📅 2025-11-21
 
 Image quality is an open source software library for Image Quality Assessment (IQA).
 
@@ -1625,7 +2069,7 @@ Image quality is an open source software library for Image Quality Assessment (I
 
 ### [yusufkaraaslan/lazy-bird](https://github.com/yusufkaraaslan/lazy-bird)
 
-Stars: 160 | Tech: Python, Anthropic/Claude | Starred: 2025-11-17
+⭐ 160 | 🔤 Python, Anthropic/Claude | 📅 2025-11-17
 
 Lazy Bird is an AI-powered development assistant utilizing Claude Code to autonomously implement features, run tests, and create PRs across diverse projects. It provides universal automation, supporting frameworks like Python, Rust, Node.js, Django, React, and game engines like Godot and Unity. Developers use it to delegate development workflow tasks and save significant time on routine or issue-driven implementation.
 
@@ -1639,7 +2083,7 @@ Lazy Bird is an AI-powered development assistant utilizing Claude Code to autono
 
 ### [gagarinyury/claude-config-editor](https://github.com/gagarinyury/claude-config-editor)
 
-Stars: 129 | Tech: HTML, Python | Starred: 2025-11-17
+⭐ 129 | 🔤 HTML, Python | 📅 2025-11-17
 
 Claude Config Editor is a lightweight web tool designed to clean and optimize the frequently bloated configuration files (.claude.json) for Claude Code/Desktop applications. It provides a missing graphical interface for bulk deleting chat histories, analyzing file sizes, and managing server settings visually. Users should use this tool locally to drastically reduce config size (e.g., from 17 MB to under 1 MB) and speed up their Claude experience.
 
@@ -1653,7 +2097,7 @@ Claude Config Editor is a lightweight web tool designed to clean and optimize th
 
 ### [vostoklabs/Baikal-Handwired-Split-Corne-Keyboard](https://github.com/vostoklabs/Baikal-Handwired-Split-Corne-Keyboard)
 
-Stars: 55 | Tech: ZMK Firmware, NRF52840 Microcontroller, BLE | Starred: 2025-12-13
+⭐ 55 | 🔤 ZMK Firmware, NRF52840 Microcontroller, BLE | 📅 2025-12-13
 
 This repository provides a comprehensive, beginner-friendly guide for building the Baikal, an affordable (~€20) handwired split Corne keyboard. It details the process of wiring the matrix and utilizes the Pro Micro NRF52840 for wireless connectivity via ZMK firmware (BLE). Use this project if you seek a detailed, low-cost entry point into custom mechanical keyboard building.
 
@@ -1666,7 +2110,7 @@ This repository provides a comprehensive, beginner-friendly guide for building t
 
 ### [jrussellsmyth/quadsmack_keebs](https://github.com/jrussellsmyth/quadsmack_keebs)
 
-Stars: 35 | Tech: Embedded C/C++ (QMK/ZMK Firmware), RP2040 Microcontrollers | Starred: 2025-12-13
+⭐ 35 | 🔤 Embedded C/C++ (QMK/ZMK Firmware), RP2040 Microcontrollers | 📅 2025-12-13
 
 QuadSmack Keebs is a collection of open-source designs, hardware specifications, and firmware intended for building highly functional and ergonomic custom mechanical keyboards. The focus is on unique layouts, split designs, and minimizing build cost using components like the RP2040-Zero. This repository is ideal for DIY enthusiasts looking to source, handwire, or 3D print specialized keyboard peripherals.
 
@@ -1682,7 +2126,7 @@ QuadSmack Keebs is a collection of open-source designs, hardware specifications,
 
 ### [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 
-Stars: 6,874 | Tech: Rust, HTTP API | Starred: 2025-12-19
+⭐ 6,874 | 🔤 Rust, HTTP API | 📅 2025-12-19
 
 This is a high-performance Rust library and accompanying HTTP backend service designed to check if an email address exists and is deliverable without sending any actual email. It validates email syntax, verifies domain MX records, and conducts necessary SMTP checks. Use this tool to ensure data integrity, minimize bounce rates, and improve the quality of user sign-ups.
 
@@ -1693,9 +2137,22 @@ This is a high-performance Rust library and accompanying HTTP backend service de
 
 ---
 
+### [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)
+
+⭐ 993 | 🔤 Python, SOCKS5, SMTP/TLS | 📅 2026-01-14
+
+A high-speed covert SOCKS5 proxy tunnel designed to bypass network censorship and Deep Packet Inspection (DPI) firewalls. It achieves evasion by disguising standard TCP traffic inside encrypted SMTP communication (typically over port 587). This is used when standard VPNs or proxies are blocked due to sophisticated traffic pattern analysis.
+
+**Use Cases:**
+- Bypassing national censorship and restrictive network firewalls
+- Evading Deep Packet Inspection (DPI) systems by masquerading traffic as legitimate email
+- Creating an obfuscated SOCKS5 proxy link for general applications (browsers, chat clients)
+
+---
+
 ### [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)
 
-Stars: 692 | Tech: Python, Gmail API | Starred: 2025-12-02
+⭐ 692 | 🔤 Python, Gmail API | 📅 2025-12-02
 
 This is a free, privacy-focused, web-based tool designed for rapid Gmail inbox cleanup using the Gmail API. It enables users to perform bulk actions like unsubscribing from mailing lists, deleting emails by sender, and marking large volumes of messages as read. It runs locally on the user's machine via Docker for enhanced privacy.
 
@@ -1706,9 +2163,35 @@ This is a free, privacy-focused, web-based tool designed for rapid Gmail inbox c
 
 ---
 
+### [builtbybel/Winslop](https://github.com/builtbybel/Winslop)
+
+⭐ 431 | 🔤 C#, .NET | 📅 2026-01-14
+
+Winslop is a C# utility designed to 'De-slop' or remove unnecessary, low-value system components and default bloatware from Windows, particularly targeting configurations found in Windows 11. It provides users with a way to streamline their operating system, reduce resource consumption, and regain control over included features. This tool is used by power users who prioritize performance and minimal background activity.
+
+**Use Cases:**
+- Removing default, low-value applications and services ('slop') from a fresh Windows installation.
+- Optimizing Windows system performance by eliminating background resource consumption.
+- Customizing and debloating Windows 11 to fit privacy or performance preferences.
+
+---
+
+### [wedow/ticket](https://github.com/wedow/ticket)
+
+⭐ 283 | 🔤 Shell, Git, YAML/Markdown | 📅 2026-01-14
+
+tk is a fast, git-native issue tracking tool implemented as a single bash script, adhering to the Unix philosophy. It manages tickets as markdown files with YAML frontmatter, making them easily parsable by AI agents. Use it to track priorities and complex dependency graphs locally within your repository structure.
+
+**Use Cases:**
+- Manage and track development issues and tickets directly within a local git repository without external databases.
+- Visualize and query complex dependency graphs and relationships between various tasks and issues.
+- Generate structured, AI-readable issue data (Markdown/YAML) for integration with LLM agents and automated analysis.
+
+---
+
 ### [vibe-log/vibe-log-cli](https://github.com/vibe-log/vibe-log-cli)
 
-Stars: 235 | Tech: TypeScript, Node.js | Starred: 2025-11-17
+⭐ 235 | 🔤 TypeScript, Node.js | 📅 2025-11-17
 
 Vibe-log-cli is an open-source TypeScript CLI designed for logging and analyzing coding sessions performed using AI assistants like Claude Code and Cursor. It processes session data locally to generate detailed productivity reports, providing developers insights into their AI-assisted workflows. Use this tool to track time, optimize prompt engineering, and measure developer productivity.
 
@@ -1721,7 +2204,7 @@ Vibe-log-cli is an open-source TypeScript CLI designed for logging and analyzing
 
 ### [lyehe/porterminal](https://github.com/lyehe/porterminal)
 
-Stars: 207 | Tech: Python, WebSockets | Starred: 2026-01-07
+⭐ 207 | 🔤 Python, WebSockets | 📅 2026-01-07
 
 Porterminal is a simple Python utility designed to create a web-accessible terminal that tunnels command-line access between your PC and any remote device, like a mobile phone. It is a quick and dirty solution for needing terminal access from anywhere via a web browser without complex setup. Use it for fast maintenance, running scripts, or managing a system while away from the physical machine.
 
@@ -1733,12 +2216,25 @@ Porterminal is a simple Python utility designed to create a web-accessible termi
 
 ---
 
+### [shanselman/toasty](https://github.com/shanselman/toasty)
+
+⭐ 138 | 🔤 C++, Windows | 📅 2026-01-14
+
+Toasty is a tiny, dependency-free Windows command-line utility for triggering native toast notifications. It is specifically designed to integrate hooks into AI coding agents like Claude, Copilot, and Gemini, ensuring users are notified instantly when long-running tasks are completed. This makes it ideal for streamlining asynchronous development workflows.
+
+**Use Cases:**
+- Triggering a custom Windows toast notification from a batch script or terminal command line.
+- Integrating desktop alerts into local build processes or automation scripts to signify completion or errors.
+- Installing hooks for AI CLI tools (e.g., Claude or Gemini) to automatically receive a desktop notification upon task completion.
+
+---
+
 
 ## Dev Methodology
 
 ### [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 
-Stars: 22,494 | Tech: JavaScript, Node.js, NPM | Starred: 2025-11-17
+⭐ 22,494 | 🔤 JavaScript, Node.js, NPM | 📅 2025-11-17
 
 BMad Method is a comprehensive methodology and associated core tooling (implemented in JavaScript) designed for Breakthrough Method Agile AI Driven Development. It provides a structured framework for teams to manage complex projects, integrating modern AI components into standard agile workflows. Use BMad to standardize and accelerate the iteration, planning, and deployment cycles for AI-infused applications.
 
@@ -1751,7 +2247,7 @@ BMad Method is a comprehensive methodology and associated core tooling (implemen
 
 ### [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
-Stars: 11,551 | Tech: Rust, JavaScript/TypeScript (Frontend) | Starred: 2026-01-03
+⭐ 11,551 | 🔤 Rust, JavaScript/TypeScript (Frontend) | 📅 2026-01-03
 
 Vibe Kanban is a specialized task management system structured around a Kanban board designed to maximize the output and workflow efficiency of coding AI agents like Claude Code or Codex. It allows users to track, prioritize, and manage multi-step coding projects generated by LLMs, ensuring organized development and integration.
 
@@ -1764,7 +2260,7 @@ Vibe Kanban is a specialized task management system structured around a Kanban b
 
 ### [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs)
 
-Stars: 1,961 | Tech: TypeScript, Python3, Playwright | Starred: 2025-11-17
+⭐ 1,961 | 🔤 TypeScript, Python3, Playwright | 📅 2025-11-17
 
 DevDocs is a free, private, UI-based server designed to manage and serve technical documentation for coders, utilizing LLMs and scraping technologies like Playwright. It transforms documentation research from weeks into hours by providing an optimized knowledge base. This tool is built to integrate seamlessly with various development environments and AI coding assistants.
 
@@ -1775,9 +2271,23 @@ DevDocs is a free, private, UI-based server designed to manage and serve technic
 
 ---
 
+### [rberg27/doom-coding](https://github.com/rberg27/doom-coding)
+
+⭐ 1,347 | 🔤 Terminal / CLI, SSH / Remote Access | 📅 2026-01-14
+
+This repository provides a highly-rated, step-by-step guide for setting up a mobile coding environment, dubbed 'Doom Coding.' It enables developers to access their full terminal and CLI environment via their smartphone, allowing for coding and server management anywhere. This approach is ideal for pushing quick fixes, managing remote infrastructure, or continuing development work while away from a traditional computer setup.
+
+**Use Cases:**
+- Pushing urgent hotfixes or small code changes while commuting or traveling.
+- Managing remote servers (e.g., monitoring logs, restarting services) via SSH on a phone.
+- Practicing coding skills or performing quick scripting tasks during short breaks or downtime.
+- Accessing a remote development environment (like a cloud VM) from a mobile device.
+
+---
+
 ### [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions)
 
-Stars: 1,346 | Tech: JavaScript, Node.js, Python | Starred: 2025-11-17
+⭐ 1,346 | 🔤 JavaScript, Node.js, Python | 📅 2025-11-17
 
 cc-sessions provides an opinionated framework for structuring and managing productive development sessions specifically utilizing the Claude Code AI assistant. It helps developers standardize inputs, track conversation history, and manage context across complex coding tasks. This utility ensures a more consistent and reproducible workflow when collaborating with LLMs for development.
 
@@ -1789,12 +2299,25 @@ cc-sessions provides an opinionated framework for structuring and managing produ
 
 ---
 
+### [danish296/codevibes](https://github.com/danish296/codevibes)
+
+⭐ 36 | 🔤 TypeScript, React/Express | 📅 2026-01-14
+
+CodeVibes is an intelligent, AI-powered tool that scans GitHub repositories using LLMs (like DeepSeek) to find security vulnerabilities, bugs, and code quality issues. It provides actionable insights and a quantifiable Vibe Score to help developers continuously monitor and improve their codebase health. Use it as an affordable, self-hosted alternative to expensive AI code review solutions.
+
+**Use Cases:**
+- Automating code review processes before merging pull requests.
+- Identifying security flaws and performance bottlenecks in legacy or active projects.
+- Benchmarking codebase quality over time using the measurable Vibe Score.
+
+---
+
 
 ## JSON & Data Tools
 
 ### [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)
 
-Stars: 12,117 | Tech: JavaScript, Web Browsers (Client-side) | Starred: 2025-11-17
+⭐ 12,117 | 🔤 JavaScript, Web Browsers (Client-side) | 📅 2025-11-17
 
 JSON Editor is a comprehensive web-based tool built in JavaScript designed to view, edit, format, and validate JSON data structures. It offers multiple modes, including an interactive tree editor and a code editor, simplifying data manipulation for users. It is ideal for embedding interactive JSON handling capabilities into web applications or dashboards.
 
@@ -1807,7 +2330,7 @@ JSON Editor is a comprehensive web-based tool built in JavaScript designed to vi
 
 ### [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser)
 
-Stars: 2,233 | Tech: Python | Starred: 2025-11-17
+⭐ 2,233 | 🔤 Python | 📅 2025-11-17
 
 Feedparser is a robust Python library designed to parse and standardize data from various feed formats, including Atom, RSS, JSON, and RDF. It is essential for developers building applications that need to reliably consume content streams or integrate data from disparate web sources.
 
@@ -1815,6 +2338,32 @@ Feedparser is a robust Python library designed to parse and standardize data fro
 - Building content aggregators or news readers that consume multiple RSS/Atom feeds.
 - Integrating external blog posts or news updates into a content management system.
 - Converting disparate feed formats (like Atom, RSS 1.0/2.0, JSON Feed) into a standardized Python dictionary structure.
+
+---
+
+### [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
+
+⭐ 923 | 🔤 Next.js, React, TypeScript | 📅 2026-01-14
+
+PDFCraft is a free, privacy-focused web toolkit offering over 80 professional tools for manipulating PDF files, including merging, splitting, converting, and editing. It operates entirely client-side using the browser, ensuring user files are never uploaded to a server. This is ideal for quickly and securely performing common PDF management tasks.
+
+**Use Cases:**
+- Merging multiple PDF documents together without uploading sensitive data to a third-party server.
+- Splitting large PDF files into smaller, manageable sections or extracting specific pages.
+- Converting various document types (e.g., images, Word documents) into secure PDF formats in the browser.
+
+---
+
+### [dbreunig/whenwords](https://github.com/dbreunig/whenwords)
+
+⭐ 422 | 🔤 Specification/Concept, Language Agnostic | 📅 2026-01-14
+
+whenwords is a specification for a relative time formatting library that contains no code. It defines functions like timeago, duration parsing, and contextual date naming to convert timestamps into human-readable strings. It is useful for developers needing standardized, user-friendly time representations in applications.
+
+**Use Cases:**
+- Displaying elapsed time since an event occurred (e.g., '3 hours ago').
+- Converting numerical duration (seconds) into human-readable strings (e.g., '2 hours, 30 minutes').
+- Providing contextual date labels like 'Today' or 'Yesterday' for enhanced user experience.
 
 ---
 
@@ -1826,7 +2375,7 @@ Feedparser is a robust Python library designed to parse and standardize data fro
 
 ### [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat)
 
-Stars: 704 | Tech: Python, Home Assistant / HACS | Starred: 2025-11-25
+⭐ 704 | 🔤 Python, Home Assistant / HACS | 📅 2025-11-25
 
 Versatile Thermostat is a feature-rich, HACS-compatible Home Assistant integration written in Python designed to manage heating systems. It centralizes common heating automations, natively handling events like window openings, presence detection, and power load shedding. Users should use this integration to greatly simplify complex climate control logic within their Smart Home setup.
 
@@ -1837,9 +2386,22 @@ Versatile Thermostat is a feature-rich, HACS-compatible Home Assistant integrati
 
 ---
 
+### [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass)
+
+⭐ 335 | 🔤 TypeScript, Home Assistant/HACS | 📅 2026-01-14
+
+CAFE (Complex Automation Flow Editor) provides a Node-RED style visual editor for designing Home Assistant automations natively. It eliminates the need for external engines by transpiling visual diagrams directly into 100% compliant Home Assistant YAML logic. Use it when you need robust, flow-based automation creation stored entirely within the Home Assistant core system.
+
+**Use Cases:**
+- Visually design complex branching and conditional Home Assistant automations.
+- Edit, manage, and debug automations using a flow-based interface instead of raw YAML.
+- Provide a middle ground between simple HA UI automations and powerful, but external, Node-RED systems.
+
+---
+
 ### [danieldotnl/ha-measureit](https://github.com/danieldotnl/ha-measureit)
 
-Stars: 208 | Tech: Python, Home Assistant | Starred: 2025-12-30
+⭐ 208 | 🔤 Python, Home Assistant | 📅 2025-12-30
 
 Measure It is a Home Assistant custom component designed to track durations and counts of specific events within a smart home environment. It uses templates and conditions to define when a measurement should start, stop, or increment, allowing users to create custom usage metrics. It is primarily used for generating detailed statistics on appliance use or event frequency over time.
 
@@ -1852,7 +2414,7 @@ Measure It is a Home Assistant custom component designed to track durations and 
 
 ### [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon)
 
-Stars: 195 | Tech: Python, Jinja | Starred: 2025-11-25
+⭐ 195 | 🔤 Python, Jinja | 📅 2025-11-25
 
 This repository provides the official Home Assistant Community Add-on for AppDaemon, a Python-based automation framework. It allows users to write custom Python applications for advanced, state-based home automation logic within the Home Assistant environment. Use this framework when complex logic or highly customized dashboards (HADashboard) are required beyond standard Home Assistant features.
 
@@ -1865,7 +2427,7 @@ This repository provides the official Home Assistant Community Add-on for AppDae
 
 ### [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances)
 
-Stars: 173 | Tech: Shell, Glances (Python) | Starred: 2025-11-25
+⭐ 173 | 🔤 Shell, Glances (Python) | 📅 2025-11-25
 
 This repository provides the Glances system monitoring tool packaged as an official Home Assistant Add-on. It allows users to visualize detailed, real-time metrics concerning the host system's resources, including CPU utilization, memory, network traffic, and running processes. Use it to diagnose performance degradation or ensure the overall health of the HA operating system.
 
@@ -1878,7 +2440,7 @@ This repository provides the Glances system monitoring tool packaged as an offic
 
 ### [VolantisDev/ha-chore-helper](https://github.com/VolantisDev/ha-chore-helper)
 
-Stars: 135 | Tech: Python, Home Assistant | Starred: 2025-12-30
+⭐ 135 | 🔤 Python, Home Assistant | 📅 2025-12-30
 
 Chore Helper is a custom Home Assistant integration used for defining, tracking, and managing recurring household chores. It utilizes Home Assistant helpers and sensors to provide status updates on pending chores, allowing users to integrate chore management into their existing smart home dashboards and automations.
 
@@ -1891,7 +2453,7 @@ Chore Helper is a custom Home Assistant integration used for defining, tracking,
 
 ### [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence)
 
-Stars: 134 | Tech: Home Assistant (Lovelace/YAML), ApexCharts | Starred: 2026-01-07
+⭐ 134 | 🔤 Home Assistant (Lovelace/YAML), ApexCharts | 📅 2026-01-07
 
 Humidity-Intelligence is a comprehensive package for Home Assistant that transforms raw humidity sensor data into actionable intelligence. It provides customizable Lovelace badges, risk assessments for mould/condensation, and a multi-room ApexCharts dashboard. Use this tool to proactively monitor home comfort and environmental risks across multiple rooms efficiently.
 
@@ -1904,7 +2466,7 @@ Humidity-Intelligence is a comprehensive package for Home Assistant that transfo
 
 ### [adamcornforth/ha-open-window-blueprint](https://github.com/adamcornforth/ha-open-window-blueprint)
 
-Stars: 4 | Tech: Home Assistant, YAML | Starred: 2025-11-25
+⭐ 4 | 🔤 Home Assistant, YAML | 📅 2025-11-25
 
 This Home Assistant blueprint dynamically monitors indoor and outdoor absolute humidity (AH) to provide accurate window ventilation recommendations. It prevents excess indoor moisture build-up by notifying the user only when opening a window will effectively lower the indoor AH. It uses an edge-triggered system to send only one notification when conditions change.
 
@@ -1917,7 +2479,7 @@ This Home Assistant blueprint dynamically monitors indoor and outdoor absolute h
 
 ### [Timman70/home-assistant-pc-power](https://github.com/Timman70/home-assistant-pc-power)
 
-Stars: 2 | Tech: Python, Home Assistant, Wake-on-LAN | Starred: 2025-11-25
+⭐ 2 | 🔤 Python, Home Assistant, Wake-on-LAN | 📅 2025-11-25
 
 This custom Home Assistant integration allows users to control the power state of a Windows PC remotely and safely. It uses Wake-on-LAN (WoL) to turn the PC on and SSH to execute a proper shutdown command, with status detected via ping. Use this for automating PC power management or integrating it into smart home dashboards.
 
@@ -1930,7 +2492,7 @@ This custom Home Assistant integration allows users to control the power state o
 
 ### [Rmkrs/HomeAssistantLink](https://github.com/Rmkrs/HomeAssistantLink)
 
-Stars: 1 | Tech: C#, .NET 8.0, Windows Services | Starred: 2025-11-25
+⭐ 1 | 🔤 C#, .NET 8.0, Windows Services | 📅 2025-11-25
 
 HomeAssistantLink is a C# Windows Service designed to monitor system-level states (like webcam activity or VPN connection) on a workstation. It updates dedicated entities in Home Assistant via the REST API in real-time. This tool enables users to trigger timely and location-aware automations based on precise PC status.
 
@@ -1946,7 +2508,7 @@ HomeAssistantLink is a C# Windows Service designed to monitor system-level state
 
 ### [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)
 
-Stars: 7,136 | Tech: Home Assistant, Markdown, Shell | Starred: 2025-11-25
+⭐ 7,136 | 🔤 Home Assistant, Markdown, Shell | 📅 2025-11-25
 
 This is a comprehensive, curated 'awesome list' dedicated entirely to Home Assistant resources, configurations, and integrations. It serves as a central hub for discovering community-developed add-ons, hardware components, and useful tools for home automation enthusiasts. Use it to find inspiration, advanced configurations, and reliable resources for setting up or optimizing a Home Assistant installation.
 
@@ -1957,12 +2519,25 @@ This is a comprehensive, curated 'awesome list' dedicated entirely to Home Assis
 
 ---
 
+### [dotstartech/wall-panel](https://github.com/dotstartech/wall-panel)
+
+⭐ 93 | 🔤 Raspberry Pi Compute Module 4 (CM4), HTML, MIPI/I2C Hardware interfacing | 📅 2026-01-14
+
+This repository provides the design and documentation for a 4-inch, wall-mounted touch display panel powered by a Raspberry Pi Compute Module 4 (CM4). It features a high-resolution 720x720 IPS screen optimized for interactive use. It is primarily intended to function as a compact Home Assistant dashboard or a dynamic, dedicated information display for smart homes.
+
+**Use Cases:**
+- Home Assistant Dashboard
+- Wall-mounted information display (weather/calendar)
+- Embedded display applications using Raspberry Pi CM4
+
+---
+
 
 ## Smart Home Apps
 
 ### [thecowan/wallpanel-android](https://github.com/thecowan/wallpanel-android)
 
-Stars: 756 | Tech: Kotlin, Android SDK | Starred: 2025-11-17
+⭐ 756 | 🔤 Kotlin, Android SDK | 📅 2025-11-17
 
 WallPanel is an Android application designed to turn any Android device into a dedicated, wall-mounted display for web-based dashboards and Home Automation Platforms. It provides a persistent, always-on interface for smart home systems like Home Assistant, leveraging the device's screen and internal sensors. It is ideal for creating a permanent control panel.
 
@@ -1976,7 +2551,7 @@ WallPanel is an Android application designed to turn any Android device into a d
 
 ### [000miix/DailyGrapher](https://github.com/000miix/DailyGrapher)
 
-Stars: 41 | Tech: JavaScript, Lovelace Custom Card API | Starred: 2025-12-18
+⭐ 41 | 🔤 JavaScript, Lovelace Custom Card API | 📅 2025-12-18
 
 DailyGrapher is a HACS custom card designed for Home Assistant's Lovelace interface. It transforms traditional calendar events into an engaging, circular clock visualization, making daily scheduling immediately apparent. This card is ideal for users looking for a unique and compact way to display multiple calendar entities on their smart home dashboard.
 
@@ -1989,7 +2564,7 @@ DailyGrapher is a HACS custom card designed for Home Assistant's Lovelace interf
 
 ### [justinforlenza/home-assistant-tray](https://github.com/justinforlenza/home-assistant-tray)
 
-Stars: 1 | Tech: Rust, Tauri | Starred: 2025-11-25
+⭐ 1 | 🔤 Rust, Tauri | 📅 2025-11-25
 
 Home Assistant Tray is a lightweight desktop application that embeds your Home Assistant dashboard into a system tray icon popup window. It provides instant, convenient access to control smart devices and view status updates without needing to open a full web browser. This tool is useful for users who require quick, borderless access to their HA interface while working on their desktop.
 
@@ -2002,7 +2577,7 @@ Home Assistant Tray is a lightweight desktop application that embeds your Home A
 
 ### [AlmostInteractive/HAcomms](https://github.com/AlmostInteractive/HAcomms)
 
-Stars: 1 | Tech: C#, MQTT | Starred: 2025-11-25
+⭐ 1 | 🔤 C#, MQTT | 📅 2025-11-25
 
 This is a C# Windows application designed to send real-time status updates and events from a PC to Home Assistant using MQTT. It reports crucial states such as webcam/microphone usage, system mute status, and actively running windows, enabling advanced contextual automations within the smart home environment. It is used to bridge Windows PC activity directly into HA automations.
 
@@ -2021,7 +2596,7 @@ This is a C# Windows application designed to send real-time status updates and e
 
 ### [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)
 
-Stars: 8,775 | Tech: PHP, Nginx | Starred: 2025-11-17
+⭐ 8,775 | 🔤 PHP, Nginx | 📅 2025-11-17
 
 Heimdall is an elegant application dashboard designed to serve as a central start page and launcher for all self-hosted web services and bookmarks. It provides a clean, cohesive interface to organize and quickly access tools like Plex, Sonarr, Radarr, and NZBGet. It is primarily used as the landing page for a home server or HTPC setup.
 
@@ -2037,7 +2612,7 @@ Heimdall is an elegant application dashboard designed to serve as a central star
 
 ### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
-Stars: 258,633 | Tech: Markdown, Static Content/Documentation | Starred: 2025-11-17
+⭐ 258,633 | 🔤 Markdown, Static Content/Documentation | 📅 2025-11-17
 
 Awesome-Selfhosted is a comprehensive, curated list of Free Software network services and web applications designed for hosting on personal servers. It functions as the premier directory for users seeking alternatives to proprietary Software as a Service (SaaS). Use this resource when planning self-managed infrastructure to maximize privacy, control, and customization over your digital services.
 
@@ -2050,7 +2625,7 @@ Awesome-Selfhosted is a comprehensive, curated list of Free Software network ser
 
 ### [nocodb/nocodb](https://github.com/nocodb/nocodb)
 
-Stars: 60,004 | Tech: TypeScript, No-Code Platform | Starred: 2026-01-03
+⭐ 60,004 | 🔤 TypeScript, No-Code Platform | 📅 2026-01-03
 
 NocoDB is an open-source, low-code platform designed as the self-hosted alternative to Airtable, presenting relational databases in a powerful spreadsheet interface. It automatically generates REST and Swagger APIs for data stored in external SQL backends (PostgreSQL, MySQL, SQLite, etc.). Use it to rapidly build collaborative data management systems and internal tools without writing application code.
 
@@ -2064,7 +2639,7 @@ NocoDB is an open-source, low-code platform designed as the self-hosted alternat
 
 ### [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
 
-Stars: 9,644 | Tech: TypeScript, Docker, OpenAI/Anthropic/Gemini APIs | Starred: 2025-11-17
+⭐ 9,644 | 🔤 TypeScript, Docker, OpenAI/Anthropic/Gemini APIs | 📅 2025-11-17
 
 Bytebot is a self-hosted, open-source AI desktop agent designed to automate complex computer tasks using natural language commands. It runs within a containerized Linux environment, giving the AI its own virtual computer to browse the web and interact with applications. This tool is ideal for users looking to delegate multi-step, routine digital workflows without requiring manual supervision.
 
@@ -2077,7 +2652,7 @@ Bytebot is a self-hosted, open-source AI desktop agent designed to automate comp
 
 ### [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 
-Stars: 9,164 | Tech: Python, OpenAI Whisper | Starred: 2025-12-11
+⭐ 9,164 | 🔤 Python, OpenAI Whisper | 📅 2025-12-11
 
 WhisperLiveKit is an ultra-low-latency, self-hosted solution for real-time speech-to-text transcription based on OpenAI's Whisper model. It specializes in simultaneous transcription and includes integrated speaker identification. This kit is ideal for applications requiring immediate, accurate conversion of live audio streams into text.
 
@@ -2091,7 +2666,7 @@ WhisperLiveKit is an ultra-low-latency, self-hosted solution for real-time speec
 
 ### [baserow/baserow](https://github.com/baserow/baserow)
 
-Stars: 3,262 | Tech: Python, PostgreSQL, RESTful API | Starred: 2025-11-17
+⭐ 3,262 | 🔤 Python, PostgreSQL, RESTful API | 📅 2025-11-17
 
 Baserow is an open-source, no-code platform designed as the best self-hostable alternative to Airtable, allowing users to build and manage relational databases, custom applications, and automations. It combines the ease of a spreadsheet interface with the power of a fully structured database.
 Use it to empower teams to create powerful internal tools that meet security compliance requirements without writing a single line of code.
@@ -2105,7 +2680,7 @@ Use it to empower teams to create powerful internal tools that meet security com
 
 ### [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
 
-Stars: 1,897 | Tech: TypeScript, LLM APIs (OpenAI/Ollama/Gemini) | Starred: 2025-11-17
+⭐ 1,897 | 🔤 TypeScript, LLM APIs (OpenAI/Ollama/Gemini) | 📅 2025-11-17
 
 OpenMemory is a self-hosted, framework-free memory engine that provides persistent long-term memory for AI systems and agents. It manages embeddings and enables explainable retrieval (RAG), allowing LLMs to recall past interactions and learned context. It is essential for building complex, stateful AI agents that need cognitive continuity.
 
@@ -2121,7 +2696,7 @@ OpenMemory is a self-hosted, framework-free memory engine that provides persiste
 
 ### [alexta69/metube](https://github.com/alexta69/metube)
 
-Stars: 11,872 | Tech: Python, yt-dlp (backend utility) | Starred: 2026-01-03
+⭐ 11,872 | 🔤 Python, yt-dlp (backend utility) | 📅 2026-01-03
 
 MeTube is a self-hosted web UI providing a simple graphical interface for the powerful yt-dlp command-line utility. It allows users to easily download videos, audio, and complete playlists from YouTube and dozens of other supported media sites. Use it for privately managing and archiving online video content outside of proprietary streaming platforms.
 
@@ -2132,12 +2707,25 @@ MeTube is a self-hosted web UI providing a simple graphical interface for the po
 
 ---
 
+### [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg)
+
+⭐ 612 | 🔤 Rust | 📅 2026-01-14
+
+FFmpReg is a high-performance, Rust-native multimedia toolkit that safely decodes, transforms, and encodes audio and video without relying on external dependencies like FFmpeg. It provides a modular library API and a command-line interface, focusing on explicit pipelines and developer control. Use it to integrate robust and deterministic media processing directly into Rust applications or for fast, safe media manipulation from the terminal.
+
+**Use Cases:**
+- Replacing legacy FFmpeg dependencies in deployment environments with a Rust-native binary.
+- Integrating safe, high-performance media processing (encoding, format conversion) directly into server-side Rust applications.
+- Performing batch transformations and conversions on video and audio files using a dedicated CLI utility.
+
+---
+
 
 ## Notes & Knowledge
 
 ### [usememos/memos](https://github.com/usememos/memos)
 
-Stars: 51,845 | Tech: Go, React, SQLite | Starred: 2026-01-05
+⭐ 51,845 | 🔤 Go, React, SQLite | 📅 2026-01-05
 
 Memos is an open-source, self-hosted note-taking platform designed for personal knowledge management, journaling, and microblogging. It emphasizes user control over data, offering a private, tracking-free service built on a simple Go and SQLite architecture. Use it when you need a simple, self-contained way to record and manage your daily thoughts and observations.
 
@@ -2145,6 +2733,19 @@ Memos is an open-source, self-hosted note-taking platform designed for personal 
 - Deploying a private, tracking-free personal knowledge management (PKM) system
 - Running a self-hosted microblog or public journal using short memos
 - Creating and organizing notes, thoughts, and quick markdown snippets
+
+---
+
+### [dengo07/textual-sticky-notes-tui](https://github.com/dengo07/textual-sticky-notes-tui)
+
+⭐ 83 | 🔤 Python, Textual TUI | 📅 2026-01-14
+
+This is a modern, keyboard-centric Terminal User Interface (TUI) application for managing sticky notes, tasks, and reminders directly within the console. Built with Python and Textual, it offers a seamless graphical experience with rich colors and persistent storage. Use it to efficiently manage your thoughts and workflow without ever leaving the terminal.
+
+**Use Cases:**
+- Quickly capture fleeting ideas or reminders without breaking focus from command line tasks.
+- Manage and prioritize daily to-do lists using the TUI's built-in priority system.
+- Maintain a minimal, persistent scratchpad or knowledge base accessible via keyboard shortcuts.
 
 ---
 
@@ -2156,7 +2757,7 @@ Memos is an open-source, self-hosted note-taking platform designed for personal 
 
 ### [animate-css/animate.css](https://github.com/animate-css/animate.css)
 
-Stars: 82,543 | Tech: CSS, HTML | Starred: 2025-12-30
+⭐ 82,543 | 🔤 CSS, HTML | 📅 2025-12-30
 
 Animate.css is a widely popular, cross-browser library of pre-built CSS animations designed to be implemented with ease by adding utility classes to HTML elements. Use it to instantly apply visual effects like entrance, exit, and attention-seeking motions to enhance user interface interactions and add professional flair. It removes the need to write complex CSS keyframes from scratch for common animation patterns.
 
@@ -2170,7 +2771,7 @@ Animate.css is a widely popular, cross-browser library of pre-built CSS animatio
 
 ### [foundation/foundation-sites](https://github.com/foundation/foundation-sites)
 
-Stars: 29,781 | Tech: HTML, Sass, JavaScript | Starred: 2025-12-30
+⭐ 29,781 | 🔤 HTML, Sass, JavaScript | 📅 2025-12-30
 
 Foundation for Sites is a professional, responsive front-end framework providing a robust grid system and reusable UI components for quick development. It is used to rapidly prototype and build production-ready, mobile-first websites and applications that function reliably across all devices.
 
@@ -2183,7 +2784,7 @@ Foundation for Sites is a professional, responsive front-end framework providing
 
 ### [twbs/ratchet](https://github.com/twbs/ratchet)
 
-Stars: 14,655 | Tech: CSS, JavaScript, HTML | Starred: 2025-12-30
+⭐ 14,655 | 🔤 CSS, JavaScript, HTML | 📅 2025-12-30
 
 Ratchet is a lightweight CSS and JavaScript framework focused on creating high-quality hybrid mobile applications that mimic native iOS and Android interfaces. It provides pre-styled components and navigation patterns, allowing developers to rapidly prototype mobile apps using standard web technologies.
 
@@ -2196,7 +2797,7 @@ Ratchet is a lightweight CSS and JavaScript framework focused on creating high-q
 
 ### [antiwork/gumroad](https://github.com/antiwork/gumroad)
 
-Stars: 8,084 | Tech: Ruby, Ruby on Rails | Starred: 2026-01-03
+⭐ 8,084 | 🔤 Ruby, Ruby on Rails | 📅 2026-01-03
 
 This repository contains the full source code for Gumroad, a prominent e-commerce platform designed to enable creators to sell products directly to their audience. It is used for studying or deploying a scalable, creator-focused digital marketplace solution built on a Ruby foundation.
 
@@ -2209,7 +2810,7 @@ This repository contains the full source code for Gumroad, a prominent e-commerc
 
 ### [json-editor/json-editor](https://github.com/json-editor/json-editor)
 
-Stars: 4,842 | Tech: JavaScript, JSON Schema, Bootstrap | Starred: 2025-11-17
+⭐ 4,842 | 🔤 JavaScript, JSON Schema, Bootstrap | 📅 2025-11-17
 
 This JavaScript library automatically generates an HTML form from a JSON Schema (v3 or v4). It provides a structured, validated interface for users to edit JSON data without requiring manual form coding. Use it to rapidly create configuration editors or administrative panels that conform precisely to defined data models.
 
@@ -2222,7 +2823,7 @@ This JavaScript library automatically generates an HTML form from a JSON Schema 
 
 ### [TailGrids/tailgrids](https://github.com/TailGrids/tailgrids)
 
-Stars: 1,460 | Tech: React, Tailwind CSS / TypeScript | Starred: 2026-01-12
+⭐ 1,460 | 🔤 React, Tailwind CSS / TypeScript | 📅 2026-01-12
 
 TailGrids is an open-source React UI component library built entirely with Tailwind CSS, offering over 500 production-ready components, blocks, and templates. It is designed to accelerate development by providing high-performance, accessible, and pixel-perfect UI elements. Use TailGrids to ship modern web applications, SaaS products, and dashboards without relying on generic UI solutions.
 
@@ -2235,7 +2836,7 @@ TailGrids is an open-source React UI component library built entirely with Tailw
 
 ### [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components)
 
-Stars: 1,439 | Tech: Tailwind CSS, HTML | Starred: 2025-11-17
+⭐ 1,439 | 🔤 Tailwind CSS, HTML | 📅 2025-11-17
 
 TailGrids is a comprehensive UI library offering over 600 high-quality, copy-paste components and blocks built on Tailwind CSS. It significantly accelerates development by providing pre-built assets ready for modern websites, applications, and dashboards. Use this library when you need a multi-framework compatible (HTML, React, Vue) design system for rapid, large-scale frontend development.
 
@@ -2248,7 +2849,7 @@ TailGrids is a comprehensive UI library offering over 600 high-quality, copy-pas
 
 ### [rayasabari/joko-ui](https://github.com/rayasabari/joko-ui)
 
-Stars: 170 | Tech: Tailwind CSS, TypeScript | Starred: 2026-01-07
+⭐ 170 | 🔤 Tailwind CSS, TypeScript | 📅 2026-01-07
 
 Joko UI is a zero-configuration collection of free, copy-paste ready Tailwind CSS components designed for rapid development. It allows developers to quickly integrate high-quality UI elements without installing heavy dependencies. Use it to bootstrap marketing sites, admin dashboards, or e-commerce stores efficiently.
 
@@ -2261,7 +2862,7 @@ Joko UI is a zero-configuration collection of free, copy-paste ready Tailwind CS
 
 ### [tombcato/smart-ticker](https://github.com/tombcato/smart-ticker)
 
-Stars: 117 | Tech: TypeScript, React, Vue | Starred: 2026-01-07
+⭐ 117 | 🔤 TypeScript, React, Vue | 📅 2026-01-07
 
 Smart Ticker is a high-performance UI component for React and Vue applications specializing in smooth, animated text and number transitions. It utilizes the Levenshtein diff algorithm to calculate character-level changes, enabling precise and efficient scrolling animations. This component is suitable for creating dynamic counters, price tickers, and odometer effects supporting all character sets including CJK and Emoji.
 
@@ -2277,7 +2878,7 @@ Smart Ticker is a high-performance UI component for React and Vue applications s
 
 ### [elliotgao2/toapi](https://github.com/elliotgao2/toapi)
 
-Stars: 3,539 | Tech: Python, Flask (Web Framework) | Starred: 2025-11-17
+⭐ 3,539 | 🔤 Python, Flask (Web Framework) | 📅 2025-11-17
 
 Toapi is a Python library that allows users to turn any existing website into a structured API, effectively exposing scraped data as JSON endpoints. It leverages crawling techniques to extract data from HTML and provides mapping tools to define the output schema. This tool is used to quickly integrate data from third-party sites that lack official APIs into new applications or services.
 
@@ -2291,7 +2892,7 @@ Toapi is a Python library that allows users to turn any existing website into a 
 
 ### [opactorai/Claudable](https://github.com/opactorai/Claudable)
 
-Stars: 3,148 | Tech: TypeScript, CLI Agent Integration | Starred: 2025-11-17
+⭐ 3,148 | 🔤 TypeScript, CLI Agent Integration | 📅 2025-11-17
 
 Claudable is an open-source web builder that integrates various local CLI coding agents (such as Claude Code, Codex, and Gemini) to facilitate the rapid development and deployment of web products. It provides a unified web interface for connecting these agents to generate code, manage project files, and instantly deploy the resulting application. Use it to streamline the workflow between coding agents and production deployment.
 
@@ -2307,7 +2908,7 @@ Claudable is an open-source web builder that integrates various local CLI coding
 
 ### [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 
-Stars: 27,574 | Tech: Python, Web Framework | Starred: 2025-11-17
+⭐ 27,574 | 🔤 Python, Web Framework | 📅 2025-11-17
 
 Reflex is a powerful framework that enables developers to build and deploy performant, customizable web applications entirely in Python, bypassing the need for JavaScript. It serves as a full-stack solution for quickly creating sophisticated GUIs and dashboards. Use it when seeking high developer productivity within the Python ecosystem for internal tools or general web applications.
 
@@ -2320,7 +2921,7 @@ Reflex is a powerful framework that enables developers to build and deploy perfo
 
 ### [flet-dev/flet](https://github.com/flet-dev/flet)
 
-Stars: 14,756 | Tech: Python, Flutter | Starred: 2025-11-17
+⭐ 14,756 | 🔤 Python, Flutter | 📅 2025-11-17
 
 Flet is a Python framework powered by Flutter, designed for building realtime, multi-platform applications targeting web, desktop, and mobile devices. It utilizes a server-driven UI approach, enabling Python developers to easily deploy a single codebase everywhere. Use Flet when you need a streamlined way to create modern, functional user interfaces strictly using Python.
 
@@ -2333,7 +2934,7 @@ Flet is a Python framework powered by Flutter, designed for building realtime, m
 
 ### [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
-Stars: 14,633 | Tech: Python, Web Application Framework | Starred: 2025-11-17
+⭐ 14,633 | 🔤 Python, Web Application Framework | 📅 2025-11-17
 
 NiceGUI is an easy-to-use Python-based UI framework that allows developers to build interactive web applications and interfaces purely using Python code, rendering components like buttons, plots, and 3D scenes in a web browser. It is excellent for rapid prototyping, creating dashboards, micro web apps, and interactive control panels for robotics or ML configuration.
 
@@ -2346,7 +2947,7 @@ NiceGUI is an easy-to-use Python-based UI framework that allows developers to bu
 
 ### [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml)
 
-Stars: 6,700 | Tech: Python, FastHTML | Starred: 2025-11-17
+⭐ 6,700 | 🔤 Python, FastHTML | 📅 2025-11-17
 
 FastHTML is a next-generation web framework designed for building fast, scalable, and interactive HTML applications using minimal Python code. It maps Python functionality directly to HTML and HTTP, allowing developers to leverage the full Python ecosystem for web app development. Use it when rapid prototyping and developing complex, lightweight web interfaces primarily in Python is required.
 
@@ -2359,7 +2960,7 @@ FastHTML is a next-generation web framework designed for building fast, scalable
 
 ### [mesop-dev/mesop](https://github.com/mesop-dev/mesop)
 
-Stars: 6,479 | Tech: Python, UI Framework | Starred: 2025-11-17
+⭐ 6,479 | 🔤 Python, UI Framework | 📅 2025-11-17
 
 Mesop is a Python-based UI framework used for rapidly developing web applications, emphasizing internal tools, demos, and AI app interfaces. It allows Python developers to create robust and modern UIs quickly without relying heavily on traditional frontend technologies. It is ideal for prototyping and deploying internal applications or operational dashboards, and is used at Google for rapid internal development.
 
@@ -2372,7 +2973,7 @@ Mesop is a Python-based UI framework used for rapidly developing web application
 
 ### [widgetti/solara](https://github.com/widgetti/solara)
 
-Stars: 2,117 | Tech: Python, React-style Framework | Starred: 2025-11-17
+⭐ 2,117 | 🔤 Python, React-style Framework | 📅 2025-11-17
 
 Solara is a Pure Python, React-style framework designed for building scalable web and data applications, focusing on robust state management and code reusability. It allows developers to create complex dashboards and applications without offloading the frontend to JavaScript, integrating seamlessly with Jupyter and popular Python web servers like FastAPI and Flask.
 
@@ -2388,7 +2989,7 @@ Solara is a Pure Python, React-style framework designed for building scalable we
 
 ### [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)
 
-Stars: 1,308 | Tech: Next.js (React), TypeScript | Starred: 2025-12-11
+⭐ 1,308 | 🔤 Next.js (React), TypeScript | 📅 2025-12-11
 
 This is a modern, feature-rich admin dashboard template built with Next.js 16 and Shadcn UI, designed as a clean alternative to cluttered starters. It includes authentication layouts, multiple dashboards, and theme customization. Use it to rapidly bootstrap the administrative interface or control panel for any full-stack web application.
 
@@ -2404,7 +3005,7 @@ This is a modern, feature-rich admin dashboard template built with Next.js 16 an
 
 ### [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 
-Stars: 130,932 | Tech: HTML, Domain Name Registration Platform | Starred: 2025-12-18
+⭐ 130,932 | 🔤 HTML, Domain Name Registration Platform | 📅 2025-12-18
 
 DigitalPlat FreeDomain is a service that provides completely free domain names to individuals and organizations, drastically lowering the barrier to entry for establishing an online identity. Users can register a unique domain at no cost and connect it to third-party DNS providers like Cloudflare or Afraid.org for hosting. This platform is ideal for anyone seeking to launch a website or online project without incurring annual domain registration fees.
 
@@ -2413,6 +3014,19 @@ DigitalPlat FreeDomain is a service that provides completely free domain names t
 - Establishing a digital identity for non-profit organizations or small community projects on a tight budget
 - Registering temporary or permanent domains for testing and development environments
 - Creating an accessible, free URL for new startups before investing heavily in premium domains
+
+---
+
+### [skridlevsky/openchaos](https://github.com/skridlevsky/openchaos)
+
+⭐ 629 | 🔤 TypeScript, Vercel | 📅 2026-01-14
+
+OpenChaos is an experimental, self-evolving web project where the codebase and live website are permanently dictated by weekly community PR votes. It utilizes a novel decentralized governance model where the most highly-rated PR gets automatically merged and deployed every Sunday. It serves as a real-time experiment in chaotic, decentralized open source development.
+
+**Use Cases:**
+- Studying novel decentralized governance models for open source projects
+- Contributing small, experimental features to a live, chaotic web service
+- Observing the weekly evolution and structure of a community-controlled codebase
 
 ---
 

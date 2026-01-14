@@ -3172,5 +3172,892 @@
       "TypeScript",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "block/goose": {
+    "name": "block/goose",
+    "url": "https://github.com/block/goose",
+    "stars": 25875,
+    "language": "Rust",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "goose is an on-machine, open-source AI agent designed to automate complex software engineering tasks, moving beyond simple code suggestions. It leverages Multi-step Continuous Planning (MCP) to execute, edit, install, and test code changes directly within the local development environment. Developers use goose to accelerate full-cycle development automation using any LLM.",
+    "use_cases": [
+      "Automating complex, multi-step software engineering tasks (installing, executing, editing)",
+      "Using an AI agent to execute tests and debug code locally on demand",
+      "Integrating LLMs directly into the development workflow for autonomous task completion"
+    ],
+    "tech_stack": [
+      "Rust",
+      "LLM Agent Framework"
+    ]
+  },
+  "Prof-Harita/terminaI": {
+    "name": "Prof-Harita/terminaI",
+    "url": "https://github.com/Prof-Harita/terminaI",
+    "stars": 124,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "TerminaI is a governed, AI-powered system operator that allows users to describe system tasks in natural language. It inspects the machine, proposes actions, and executes them through controlled tools, ensuring a deterministic approval ladder and a full audit trail. Use it to securely automate complex terminal and system administration operations driven by an LLM agent.",
+    "use_cases": [
+      "Executing complex multi-step terminal operations via natural language instructions",
+      "Securely automating system administration tasks with required human approval steps",
+      "Creating an auditable trail of all AI-driven changes made to the local machine environment"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "QwenLM/Qwen-Image-Layered": {
+    "name": "QwenLM/Qwen-Image-Layered",
+    "url": "https://github.com/QwenLM/Qwen-Image-Layered",
+    "stars": 1423,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Generative AI",
+    "summary": "Qwen-Image-Layered is a generative image model that employs layered decomposition to provide inherent editability and structural control over generated outputs. It separates elements like objects, backgrounds, and text into distinct layers, simplifying post-generation manipulation and precise object editing. Use it for high-fidelity image synthesis requiring advanced structural editing capabilities.",
+    "use_cases": [
+      "Generating images that require immediate layered editing capability (e.g., adjusting background without affecting the subject).",
+      "Developing image generation pipelines where individual objects or scene components need to be isolated and replaced.",
+      "Research and development of new controllable image synthesis techniques based on structural decomposition."
+    ],
+    "tech_stack": [
+      "Python",
+      "Deep Learning Frameworks"
+    ]
+  },
+  "QwenLM/Qwen-Image": {
+    "name": "QwenLM/Qwen-Image",
+    "url": "https://github.com/QwenLM/Qwen-Image",
+    "stars": 6985,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Generative AI",
+    "summary": "Qwen-Image is a powerful foundation model specializing in advanced image generation and manipulation, capable of producing high-quality images from text prompts. It is specifically noted for its ability to handle complex tasks like precise text rendering within generated images and detailed image editing operations. Developers use it for building sophisticated creative AI applications and research in visual generation.",
+    "use_cases": [
+      "High-fidelity Text-to-Image (T2I) generation with strong photorealism.",
+      "Precise image editing, including subject replacement, inpainting, and object manipulation.",
+      "Generating images that correctly incorporate specific text and complex typography."
+    ],
+    "tech_stack": [
+      "Python",
+      "HuggingFace ecosystem"
+    ]
+  },
+  "QwenLM/Qwen3": {
+    "name": "QwenLM/Qwen3",
+    "url": "https://github.com/QwenLM/Qwen3",
+    "stars": 26138,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Generative AI",
+    "summary": "Qwen3 is a leading large language model series developed by Alibaba Cloud, offering state-of-the-art performance for general-purpose natural language processing tasks. Use it as a powerful foundation model for building advanced AI applications requiring complex reasoning, robust language understanding, and high-quality generation capabilities.",
+    "use_cases": [
+      "Building advanced chatbots and conversational agents",
+      "Generating code snippets and documentation",
+      "Performing complex reasoning, summarization, and translation tasks"
+    ],
+    "tech_stack": [
+      "Python",
+      "Hugging Face Transformers"
+    ]
+  },
+  "QwenLM/qwen-code": {
+    "name": "QwenLM/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "stars": 17355,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Qwen-Code is an open-source AI agent designed to operate directly within your terminal environment. It allows developers to interact naturally with an AI to execute commands, debug issues, and manage code workflows without leaving the command line. Use it when you need AI assistance for coding tasks quickly and efficiently in a familiar terminal interface.",
+    "use_cases": [
+      "Generating or modifying code snippets based on natural language input in the terminal.",
+      "Debugging and fixing terminal errors or code issues using AI insights.",
+      "Automating complex command-line tasks and operations through conversational interaction."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "snarktank/ralph": {
+    "name": "snarktank/ralph",
+    "url": "https://github.com/snarktank/ralph",
+    "stars": 3759,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "Ralph is an autonomous AI agent loop designed to execute development tasks repeatedly until a Product Requirements Document (PRD) is fully implemented. It leverages the Amp CLI for code execution and persists its state, memory, and progress via Git history and dedicated progress files. This pattern provides a structured approach for systematic, goal-oriented AI development iteration.",
+    "use_cases": [
+      "Autonomous software development and implementation based on a PRD.",
+      "Managing persistent context and memory for long-running, iterative AI development tasks.",
+      "Applying the 'Ralph pattern' to ensure systematic, clean-context execution cycles for AI coding agents."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Shell Scripting",
+      "Amp CLI"
+    ]
+  },
+  "egebese/seo-research-mcp": {
+    "name": "egebese/seo-research-mcp",
+    "url": "https://github.com/egebese/seo-research-mcp",
+    "stars": 128,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "This project offers a free SEO research tool leveraging Ahrefs data, designed to integrate into AI-powered IDEs using the Model Context Protocol (MCP). It enables AI agents to perform backlink analysis, keyword research, and traffic estimation by providing real-time data context. Use it to enhance LLM-driven content strategy, planning, and development processes with actionable SEO metrics.",
+    "use_cases": [
+      "Providing AI agents with backlink data and traffic estimates via MCP for sophisticated SEO analysis.",
+      "Integrating keyword research and competitive analysis directly into an AI-powered IDE environment.",
+      "Automating the collection of Ahrefs data for content planning and SEO reporting.",
+      "Using the data to refine and ground generative AI outputs for SEO optimization."
+    ],
+    "tech_stack": [
+      "Python",
+      "Model Context Protocol (MCP)"
+    ]
+  },
+  "muratcankoylan/ralph-wiggum-marketer": {
+    "name": "muratcankoylan/ralph-wiggum-marketer",
+    "url": "https://github.com/muratcankoylan/ralph-wiggum-marketer",
+    "stars": 460,
+    "language": "JavaScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This is a Claude Code Plugin designed to function as an autonomous AI copywriter specializing in SaaS content marketing. It uses the \"Ralph Wiggum pattern,\" an iterative AI loop, to automatically generate and ship content while you sleep. Use it to fully automate content creation directly within the Claude environment.",
+    "use_cases": [
+      "Autonomous generation of content marketing copy for SaaS products",
+      "Implementing the iterative 'Ralph Wiggum' AI content generation pattern",
+      "Automating the drafting and publishing of blog posts or social media content"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Claude Code Plugin"
+    ]
+  },
+  "steveyegge/gastown": {
+    "name": "steveyegge/gastown",
+    "url": "https://github.com/steveyegge/gastown",
+    "stars": 3512,
+    "language": "Go",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Gas Town is a multi-agent orchestration system designed for managing and coordinating multiple Claude Code agents in a persistent workspace. It solves the problem of context loss by using git-backed hooks to persist agent work state and context across restarts. Use it when scaling complex AI workflows requiring reliable communication, handoffs, and state management for dozens of agents.",
+    "use_cases": [
+      "Orchestrating complex software development or research projects requiring coordination between 20-30 separate AI agents.",
+      "Ensuring long-running agent workflows maintain context and state persistence, even after agent restarts or system failures.",
+      "Managing reliable communication and task handoffs between different specialized agents using built-in mailboxes and identity tracking."
+    ],
+    "tech_stack": [
+      "Go",
+      "Git Hooks"
+    ]
+  },
+  "abracadabra50/claude-code-voice-skill": {
+    "name": "abracadabra50/claude-code-voice-skill",
+    "url": "https://github.com/abracadabra50/claude-code-voice-skill",
+    "stars": 139,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Claude Code Voice is a Python CLI utility that enables voice conversations with Claude Opus 4.5 about your local codebase directly over the phone, utilizing the Vapi platform for voice services. It simplifies the setup required for tunneling and configuration, allowing users to register projects and either call Claude or have Claude call them. This tool is ideal for getting real-time verbal debugging help, code reviews, or brainstorming sessions with an advanced LLM.",
+    "use_cases": [
+      "Debugging complex code issues through a voice conversation with Claude",
+      "Receiving a verbal code review of a project over the phone",
+      "Brainstorming architectural decisions or new feature ideas vocally with an AI",
+      "Getting an immediate, context-aware AI assistant while away from the keyboard"
+    ],
+    "tech_stack": [
+      "Python",
+      "Vapi"
+    ]
+  },
+  "numman-ali/n-skills": {
+    "name": "numman-ali/n-skills",
+    "url": "https://github.com/numman-ali/n-skills",
+    "stars": 603,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "n-skills is a curated, centralized marketplace for distributing and standardizing plugins and skills across various AI agent platforms, including Claude Code, Codex, and openskills. It promotes a 'write once, run everywhere' philosophy for developers building agent tooling. Use it to discover and install new, verified capabilities for your autonomous AI agents.",
+    "use_cases": [
+      "Discovering and installing standardized plugins/skills for AI agents (Claude, Codex, etc.)",
+      "Publishing custom agent tools to a wide marketplace of developers and users.",
+      "Providing infrastructural standardization for cross-platform agent capabilities."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "SamurAIGPT/Open-Weavy": {
+    "name": "SamurAIGPT/Open-Weavy",
+    "url": "https://github.com/SamurAIGPT/Open-Weavy",
+    "stars": 23,
+    "language": "JavaScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Generative AI",
+    "summary": "Open-Weavy is an open-source, node-based workflow editor designed for creating, editing, and composing generative AI media (images and video). It provides modular, reusable pipelines (similar to ComfyUI or Blender) to bridge human creativity with AI automation. Use it to gain professional precision and complex control over generative content production.",
+    "use_cases": [
+      "Designing complex, multi-stage pipelines for generative media creation (e.g., conditioning, generation, upscaling, editing).",
+      "Building reusable workflow templates for consistent brand asset generation using custom AI models.",
+      "Visualizing and managing the input/output flow of various generative AI services integrated via MuAPI."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node-Based Workflow Editor"
+    ]
+  },
+  "rohunvora/just-fucking-cancel": {
+    "name": "rohunvora/just-fucking-cancel",
+    "url": "https://github.com/rohunvora/just-fucking-cancel",
+    "stars": 400,
+    "language": "HTML",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This project is a 'Claude Code skill' designed to automate the process of finding and canceling recurring subscriptions. It analyzes exported credit card CSV transaction files, uses Claude to identify repetitive charges, and automates the in-browser cancellation workflow. This is intended for users who want to quickly audit and eliminate unnecessary monthly fees with minimal effort.",
+    "use_cases": [
+      "Auditing and reviewing personal credit card statements for recurring monthly charges",
+      "Automating the physical cancellation steps for identified unwanted subscriptions",
+      "Leveraging LLMs (Claude) for guided financial management tasks based on transaction data"
+    ],
+    "tech_stack": [
+      "Claude Code (Anthropic)",
+      "HTML",
+      "CSV Processing"
+    ]
+  },
+  "broady/claude2stream": {
+    "name": "broady/claude2stream",
+    "url": "https://github.com/broady/claude2stream",
+    "stars": 101,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "claude2stream exposes local Claude conversation history as a real-time Durable Stream, providing an accessible, structured feed of interactions. It includes a streaming web UI for live-tailing sessions as they occur, offering instant visibility into ongoing AI usage. Use this tool for auditing, monitoring, and programmatically analyzing your historical data with the Claude AI assistant.",
+    "use_cases": [
+      "Monitor and live-tail ongoing Claude conversations in a dedicated streaming web interface.",
+      "Stream conversation history for integration with external data analysis or logging platforms.",
+      "Audit past interactions with Claude by accessing the history via the Durable Stream protocol."
+    ],
+    "tech_stack": [
+      "Go",
+      "TypeScript"
+    ]
+  },
+  "backnotprop/plannotator": {
+    "name": "backnotprop/plannotator",
+    "url": "https://github.com/backnotprop/plannotator",
+    "stars": 1073,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Plannotator is an interactive visual UI designed for reviewing, annotating, and refining execution plans generated by AI Coding Agents. It is used to facilitate team collaboration and provide seamless, targeted feedback to tools like Claude Code and OpenCode.",
+    "use_cases": [
+      "Visually review and mark up multi-step coding plans generated by AI agents to ensure accuracy.",
+      "Share complex AI-generated plans with a development team for collaboration and iterative refinement.",
+      "Integrate a structured plan review step into workflows using specific AI coding tools like Claude Code and OpenCode."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Obsidian"
+    ]
+  },
+  "GMaN1911/claude-cognitive": {
+    "name": "GMaN1911/claude-cognitive",
+    "url": "https://github.com/GMaN1911/claude-cognitive",
+    "stars": 406,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Memory & Context",
+    "summary": "Claude Cognitive provides essential working memory and persistent context management for the stateless Claude Code LLM assistant. It utilizes attention-based file injection and context routing to ensure consistency across development sessions, reduce hallucinations, and optimize token expenditure. This tool is necessary for developers working with large codebases who frequently rely on Claude Code.",
+    "use_cases": [
+      "Managing persistent, long-term context when using Claude Code across multiple instances or days.",
+      "Significantly reducing API token usage by preventing the LLM from repeatedly re-reading unchanged files.",
+      "Improving the quality and reducing hallucinations of Claude Code's suggestions on large, complex codebases."
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude API"
+    ]
+  },
+  "vercel-labs/ralph-loop-agent": {
+    "name": "vercel-labs/ralph-loop-agent",
+    "url": "https://github.com/vercel-labs/ralph-loop-agent",
+    "stars": 514,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "Ralph Loop Agent is an experimental TypeScript framework for the AI SDK designed to build continuously running, autonomous AI agents. It implements the 'Ralph Wiggum technique' to manage agent loops, stop conditions, and context for complex, iterative tasks.\nUse it when you need to define persistent AI workflows, such as automated PR generation or continuous research, leveraging integrated tools like Playwright and PostgreSQL.",
+    "use_cases": [
+      "Developing continuous autonomy agents following the iterative 'Ralph Wiggum technique'.",
+      "Building full-featured CLI agents integrating tools like Vercel Sandbox and browser automation (Playwright).",
+      "Automating developer workflows, such as handling GitHub Pull Request integration via a looping AI agent."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "AI SDK"
+    ]
+  },
+  "IQuestLab/IQuest-Coder-V1": {
+    "name": "IQuestLab/IQuest-Coder-V1",
+    "url": "https://github.com/IQuestLab/IQuest-Coder-V1",
+    "stars": 1210,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Generative AI",
+    "summary": "IQuest-Coder-V1 is a family of large language models (up to 40B parameters) specialized for code generation and instruction following. This repository serves as the central resource, linking to the instruction-tuned models hosted on Hugging Face and providing technical documentation. It is used by researchers and developers interested in high-performance coding LLMs.",
+    "use_cases": [
+      "Generate complex code snippets from natural language instructions",
+      "Fine-tuning base models for specific programming language tasks",
+      "Benchmarking large code models against industry standards",
+      "Developing AI coding assistants or programming tools"
+    ],
+    "tech_stack": [
+      "Python",
+      "Hugging Face (Model Hosting)"
+    ]
+  },
+  "ChrisWiles/claude-code-showcase": {
+    "name": "ChrisWiles/claude-code-showcase",
+    "url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "stars": 4282,
+    "language": "JavaScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This repository provides a detailed configuration showcase for setting up robust Claude Code projects, demonstrating how to properly define reusable skills, specialized agents, and commands. It serves as a blueprint for engineers looking to leverage Claude Code agents to enforce coding conventions, automate specialized tasks, and integrate LLM capabilities into their development workflow. Use it to operationalize an AI agent as a high-functioning, specialized teammate.",
+    "use_cases": [
+      "Configuring Claude Code agents with specialized skills and knowledge specific to a particular codebase or UI library",
+      "Defining standard coding conventions and testing patterns for an LLM agent to follow and enforce across the team",
+      "Integrating LLM agent operations (via commands and agents) into existing GitHub Actions CI/CD workflows",
+      "Creating specialized AI assistants ('agents') tailored for recurring development tasks, such as maintaining component libraries"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Claude Code / LLM Agents"
+    ]
+  },
+  "FezVrasta/cafe-hass": {
+    "name": "FezVrasta/cafe-hass",
+    "url": "https://github.com/FezVrasta/cafe-hass",
+    "stars": 335,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "Home Automation",
+    "subcategory": "HA Integrations",
+    "summary": "CAFE (Complex Automation Flow Editor) provides a Node-RED style visual editor for designing Home Assistant automations natively. It eliminates the need for external engines by transpiling visual diagrams directly into 100% compliant Home Assistant YAML logic. Use it when you need robust, flow-based automation creation stored entirely within the Home Assistant core system.",
+    "use_cases": [
+      "Visually design complex branching and conditional Home Assistant automations.",
+      "Edit, manage, and debug automations using a flow-based interface instead of raw YAML.",
+      "Provide a middle ground between simple HA UI automations and powerful, but external, Node-RED systems."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Home Assistant/HACS"
+    ]
+  },
+  "danish296/codevibes": {
+    "name": "danish296/codevibes",
+    "url": "https://github.com/danish296/codevibes",
+    "stars": 36,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "Dev Methodology",
+    "summary": "CodeVibes is an intelligent, AI-powered tool that scans GitHub repositories using LLMs (like DeepSeek) to find security vulnerabilities, bugs, and code quality issues. It provides actionable insights and a quantifiable Vibe Score to help developers continuously monitor and improve their codebase health. Use it as an affordable, self-hosted alternative to expensive AI code review solutions.",
+    "use_cases": [
+      "Automating code review processes before merging pull requests.",
+      "Identifying security flaws and performance bottlenecks in legacy or active projects.",
+      "Benchmarking codebase quality over time using the measurable Vibe Score."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React/Express"
+    ]
+  },
+  "naklecha/simple-llm": {
+    "name": "naklecha/simple-llm",
+    "url": "https://github.com/naklecha/simple-llm",
+    "stars": 343,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Model Serving",
+    "summary": "SimpleLLM is a minimal, ~950 line LLM inference engine built from scratch in Python, designed for high-performance throughput and high GPU saturation on dedicated hardware like the NVIDIA H100. It uses an async architecture with continuous background batching to manage requests efficiently. Use it as a lightweight, transparent, and extensible alternative to complex serving frameworks when maximizing throughput and customizing the inference pipeline are critical.",
+    "use_cases": [
+      "Deploying a highly optimized, high-throughput LLM serving environment on specific hardware configurations (e.g., single H100).",
+      "Developing custom scheduling or batching algorithms for LLM requests by modifying the core engine code.",
+      "Studying the minimal components required to build a viable LLM inference engine for research or educational purposes."
+    ],
+    "tech_stack": [
+      "Python",
+      "Machine Learning (Inference/Serving)"
+    ]
+  },
+  "sgasser/pasteguard": {
+    "name": "sgasser/pasteguard",
+    "url": "https://github.com/sgasser/pasteguard",
+    "stars": 292,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Model Serving",
+    "summary": "PasteGuard is an OpenAI API-compatible privacy proxy for LLMs that automatically detects and masks PII and sensitive data before the input is transmitted to the upstream provider. It provides a crucial security and compliance layer, allowing organizations to leverage generative AI models while protecting user privacy. It can also be configured to route requests to local, self-hosted models if PII is detected.",
+    "use_cases": [
+      "Securing prompts containing PII (e.g., names, addresses, emails) before transmission to external LLM providers.",
+      "Ensuring regulatory compliance (GDPR, HIPAA) when integrating generative AI into enterprise applications.",
+      "Redacting sensitive proprietary information or secrets accidentally included in user inputs."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Presidio (PII detection)"
+    ]
+  },
+  "jarrodwatts/claude-code-config": {
+    "name": "jarrodwatts/claude-code-config",
+    "url": "https://github.com/jarrodwatts/claude-code-config",
+    "stars": 765,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This repository provides a comprehensive collection of configuration files (rules, skills, agents, commands) for the Claude Code development environment. It allows users to quickly install a pre-configured, community-sourced setup to enhance interaction and productivity with Claude's coding capabilities. It acts as a specialized 'dotfiles' repository for Claude Code.",
+    "use_cases": [
+      "Quickly initializing a robust Claude Code environment with custom rules and settings",
+      "Installing specialized skills and commands for the Claude AI coding agent",
+      "Distributing and syncing personal configurations across multiple Claude Code instances"
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude/Anthropic AI"
+    ]
+  },
+  "ndrscalia/asciify-them": {
+    "name": "ndrscalia/asciify-them",
+    "url": "https://github.com/ndrscalia/asciify-them",
+    "stars": 151,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "Automation",
+    "subcategory": "Creative Scripts",
+    "summary": "This Python package converts standard digital images (JPG and PNG) into stylized ASCII art representations. It provides a straightforward method for developers to quickly transform photographic content into character-based drawings suitable for terminal display or text-based projects. Use it to add a vintage or unique visual flair to CLI utilities and creative coding experiments.",
+    "use_cases": [
+      "Generating terminal-friendly ASCII art logos or profile images.",
+      "Integrating image previews directly into command-line interface applications.",
+      "Creating stylized, low-fidelity versions of photos for creative coding projects."
+    ],
+    "tech_stack": [
+      "Python",
+      "Image Processing Libraries (e.g., PIL/Pillow)"
+    ]
+  },
+  "x011/smtp-tunnel-proxy": {
+    "name": "x011/smtp-tunnel-proxy",
+    "url": "https://github.com/x011/smtp-tunnel-proxy",
+    "stars": 993,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "A high-speed covert SOCKS5 proxy tunnel designed to bypass network censorship and Deep Packet Inspection (DPI) firewalls. It achieves evasion by disguising standard TCP traffic inside encrypted SMTP communication (typically over port 587). This is used when standard VPNs or proxies are blocked due to sophisticated traffic pattern analysis.",
+    "use_cases": [
+      "Bypassing national censorship and restrictive network firewalls",
+      "Evading Deep Packet Inspection (DPI) systems by masquerading traffic as legitimate email",
+      "Creating an obfuscated SOCKS5 proxy link for general applications (browsers, chat clients)"
+    ],
+    "tech_stack": [
+      "Python",
+      "SOCKS5",
+      "SMTP/TLS"
+    ]
+  },
+  "QwenLM/Qwen3-VL-Embedding": {
+    "name": "QwenLM/Qwen3-VL-Embedding",
+    "url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
+    "stars": 698,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "LLM Resources",
+    "summary": "This repository provides the official implementation and components for the Qwen3 Vision-Language (VL) Embedding and Reranker models. It is designed to facilitate high-performance multimodal retrieval and ranking tasks involving both text and images. Developers use these specialized models to improve the quality and relevance of information retrieval within advanced RAG systems.",
+    "use_cases": [
+      "Performing cross-modal semantic search using text queries against a database of images and vice versa",
+      "Implementing retrieval-augmented generation (RAG) pipelines requiring multimodal context",
+      "Improving the relevance of search results using the specialized Qwen3-VL-Reranker component",
+      "Generating high-dimensional vector embeddings for indexing diverse data types"
+    ],
+    "tech_stack": [
+      "Python",
+      "Vision-Language Models (VLMs)"
+    ]
+  },
+  "ZeframLou/call-me": {
+    "name": "ZeframLou/call-me",
+    "url": "https://github.com/ZeframLou/call-me",
+    "stars": 1968,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "CallMe is a minimal TypeScript plugin that allows a Claude Code agent to initiate a voice call to the user's phone or watch upon completing a task or encountering a roadblock. It leverages Telnyx/Twilio and OpenAI for speech processing, enabling natural, multi-turn conversations where the user can guide the agent remotely. This is ideal for managing long-running agent tasks that require intermittent human decision-making.",
+    "use_cases": [
+      "Receiving real-time voice notifications when a long-running AI task is finished or requires immediate human intervention.",
+      "Making multi-turn decisions for a running Claude agent remotely via smartphone or landline.",
+      "Allowing Claude to perform tool-use actions (like web searching) while interacting with the user during a live call."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Twilio/Telnyx API"
+    ]
+  },
+  "jonesphillip/weft": {
+    "name": "jonesphillip/weft",
+    "url": "https://github.com/jonesphillip/weft",
+    "stars": 387,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Weft is a self-hosted task management system where tasks are executed by AI agents, allowing them to perform complex actions like reading emails, writing code, and interacting with services like GitHub and Google Workspace. It enables users to run multiple agents in parallel and features mandatory user approval for all state-mutating actions (e.g., sending emails or creating PRs) before commitment. This is ideal for automating personal and administrative workflows securely.",
+    "use_cases": [
+      "Automating email management by drafting responses or summaries based on incoming messages in Gmail.",
+      "Handling small development tasks, such as creating pull requests, updating GitHub issues, or writing utility code snippets.",
+      "Synchronizing and updating business data by modifying Google Docs or Sheets based on task outcomes."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Cloudflare Workers"
+    ]
+  },
+  "wedow/ticket": {
+    "name": "wedow/ticket",
+    "url": "https://github.com/wedow/ticket",
+    "stars": 283,
+    "language": "Shell",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "tk is a fast, git-native issue tracking tool implemented as a single bash script, adhering to the Unix philosophy. It manages tickets as markdown files with YAML frontmatter, making them easily parsable by AI agents. Use it to track priorities and complex dependency graphs locally within your repository structure.",
+    "use_cases": [
+      "Manage and track development issues and tickets directly within a local git repository without external databases.",
+      "Visualize and query complex dependency graphs and relationships between various tasks and issues.",
+      "Generate structured, AI-readable issue data (Markdown/YAML) for integration with LLM agents and automated analysis."
+    ],
+    "tech_stack": [
+      "Shell",
+      "Git",
+      "YAML/Markdown"
+    ]
+  },
+  "yazaldefilimone/ffmpreg": {
+    "name": "yazaldefilimone/ffmpreg",
+    "url": "https://github.com/yazaldefilimone/ffmpreg",
+    "stars": 612,
+    "language": "Rust",
+    "starred_date": "2026-01-14",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Media Tools",
+    "summary": "FFmpReg is a high-performance, Rust-native multimedia toolkit that safely decodes, transforms, and encodes audio and video without relying on external dependencies like FFmpeg. It provides a modular library API and a command-line interface, focusing on explicit pipelines and developer control. Use it to integrate robust and deterministic media processing directly into Rust applications or for fast, safe media manipulation from the terminal.",
+    "use_cases": [
+      "Replacing legacy FFmpeg dependencies in deployment environments with a Rust-native binary.",
+      "Integrating safe, high-performance media processing (encoding, format conversion) directly into server-side Rust applications.",
+      "Performing batch transformations and conversions on video and audio files using a dedicated CLI utility."
+    ],
+    "tech_stack": [
+      "Rust"
+    ]
+  },
+  "hardikpandya/stop-slop": {
+    "name": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "stars": 159,
+    "language": "Various",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This repository provides 'Stop Slop,' a skill designed to eliminate predictable patterns, repetitive phrases, and structural 'tells' commonly found in LLM-generated prose. It teaches models like Claude to improve writing quality by referencing lists of patterns to avoid, making the output sound more natural and human-like. Use this when generating high-stakes content that must avoid sounding generic or robotic.",
+    "use_cases": [
+      "Refining and editing AI-generated drafts to remove 'slop' and increase authenticity",
+      "Training an LLM (via skills/prompting) to adopt a more unique, less predictable writing style",
+      "Generating marketing copy, articles, or fiction that must pass as human-written content"
+    ],
+    "tech_stack": [
+      "Markdown",
+      "LLM Instructions"
+    ]
+  },
+  "dotstartech/wall-panel": {
+    "name": "dotstartech/wall-panel",
+    "url": "https://github.com/dotstartech/wall-panel",
+    "stars": 93,
+    "language": "HTML",
+    "starred_date": "2026-01-14",
+    "main_category": "Home Automation",
+    "subcategory": "HA Resources",
+    "summary": "This repository provides the design and documentation for a 4-inch, wall-mounted touch display panel powered by a Raspberry Pi Compute Module 4 (CM4). It features a high-resolution 720x720 IPS screen optimized for interactive use. It is primarily intended to function as a compact Home Assistant dashboard or a dynamic, dedicated information display for smart homes.",
+    "use_cases": [
+      "Home Assistant Dashboard",
+      "Wall-mounted information display (weather/calendar)",
+      "Embedded display applications using Raspberry Pi CM4"
+    ],
+    "tech_stack": [
+      "Raspberry Pi Compute Module 4 (CM4)",
+      "HTML",
+      "MIPI/I2C Hardware interfacing"
+    ]
+  },
+  "dengo07/textual-sticky-notes-tui": {
+    "name": "dengo07/textual-sticky-notes-tui",
+    "url": "https://github.com/dengo07/textual-sticky-notes-tui",
+    "stars": 83,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Notes & Knowledge",
+    "summary": "This is a modern, keyboard-centric Terminal User Interface (TUI) application for managing sticky notes, tasks, and reminders directly within the console. Built with Python and Textual, it offers a seamless graphical experience with rich colors and persistent storage. Use it to efficiently manage your thoughts and workflow without ever leaving the terminal.",
+    "use_cases": [
+      "Quickly capture fleeting ideas or reminders without breaking focus from command line tasks.",
+      "Manage and prioritize daily to-do lists using the TUI's built-in priority system.",
+      "Maintain a minimal, persistent scratchpad or knowledge base accessible via keyboard shortcuts."
+    ],
+    "tech_stack": [
+      "Python",
+      "Textual TUI"
+    ]
+  },
+  "shanselman/toasty": {
+    "name": "shanselman/toasty",
+    "url": "https://github.com/shanselman/toasty",
+    "stars": 138,
+    "language": "C++",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "Toasty is a tiny, dependency-free Windows command-line utility for triggering native toast notifications. It is specifically designed to integrate hooks into AI coding agents like Claude, Copilot, and Gemini, ensuring users are notified instantly when long-running tasks are completed. This makes it ideal for streamlining asynchronous development workflows.",
+    "use_cases": [
+      "Triggering a custom Windows toast notification from a batch script or terminal command line.",
+      "Integrating desktop alerts into local build processes or automation scripts to signify completion or errors.",
+      "Installing hooks for AI CLI tools (e.g., Claude or Gemini) to automatically receive a desktop notification upon task completion."
+    ],
+    "tech_stack": [
+      "C++",
+      "Windows"
+    ]
+  },
+  "samuel-vitorino/sopro": {
+    "name": "samuel-vitorino/sopro",
+    "url": "https://github.com/samuel-vitorino/sopro",
+    "stars": 712,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Infrastructure",
+    "subcategory": "NLP & Speech",
+    "summary": "Sopro is a lightweight, 169M parameter English text-to-speech (TTS) model built using dilated convolutions and cross-attention layers instead of the traditional Transformer architecture. It supports streaming synthesis and offers zero-shot voice cloning capabilities. Use Sopro when seeking an efficient, low-budget TTS solution for custom voice generation and speech streaming applications.",
+    "use_cases": [
+      "Generating synthetic voiceovers for videos, podcasts, or audiobooks.",
+      "Integrating real-time, streaming text-to-speech into applications or assistants.",
+      "Performing zero-shot voice cloning to create unique voices from short audio samples."
+    ],
+    "tech_stack": [
+      "Python",
+      "Text-to-Speech (TTS)"
+    ]
+  },
+  "skridlevsky/openchaos": {
+    "name": "skridlevsky/openchaos",
+    "url": "https://github.com/skridlevsky/openchaos",
+    "stars": 629,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "Web Development",
+    "subcategory": "Web Services",
+    "summary": "OpenChaos is an experimental, self-evolving web project where the codebase and live website are permanently dictated by weekly community PR votes. It utilizes a novel decentralized governance model where the most highly-rated PR gets automatically merged and deployed every Sunday. It serves as a real-time experiment in chaotic, decentralized open source development.",
+    "use_cases": [
+      "Studying novel decentralized governance models for open source projects",
+      "Contributing small, experimental features to a live, chaotic web service",
+      "Observing the weekly evolution and structure of a community-controlled codebase"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Vercel"
+    ]
+  },
+  "1rgs/nanocode": {
+    "name": "1rgs/nanocode",
+    "url": "https://github.com/1rgs/nanocode",
+    "stars": 943,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Nanocode is a minimalist, single-file Python implementation (~250 lines) of an LLM agent designed as a Claude Code alternative. It enables conversational AI via Anthropic or OpenRouter to interact with the file system and execute bash commands using built-in tools. Use it for lightweight, autonomous coding and scripting tasks directly from the terminal.",
+    "use_cases": [
+      "Performing autonomous coding tasks (read, write, edit files) using an LLM.",
+      "Testing and prototyping agentic behavior with access to the file system and bash.",
+      "Using a minimal, self-contained Python script to access Anthropic/OpenRouter models."
+    ],
+    "tech_stack": [
+      "Python",
+      "Anthropic API/OpenRouter"
+    ]
+  },
+  "hipcityreg/situation-monitor": {
+    "name": "hipcityreg/situation-monitor",
+    "url": "https://github.com/hipcityreg/situation-monitor",
+    "stars": 177,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "Data & Analytics",
+    "subcategory": "Dashboards",
+    "summary": "A real-time dashboard solution written in TypeScript for monitoring and visualizing key global data streams, including news, markets, and geopolitical events. It is designed for users needing immediate, aggregated situational awareness across multiple high-impact data sources. Use it to quickly track and respond to unfolding global developments.",
+    "use_cases": [
+      "Providing real-time situational awareness for security or risk analysis teams.",
+      "Monitoring simultaneous global market movements alongside related news events.",
+      "Creating a unified display for tracking geopolitical conflicts and their downstream economic effects."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Real-time Data Streams (e.g., WebSockets)"
+    ]
+  },
+  "builtbybel/Winslop": {
+    "name": "builtbybel/Winslop",
+    "url": "https://github.com/builtbybel/Winslop",
+    "stars": 431,
+    "language": "C#",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "Winslop is a C# utility designed to 'De-slop' or remove unnecessary, low-value system components and default bloatware from Windows, particularly targeting configurations found in Windows 11. It provides users with a way to streamline their operating system, reduce resource consumption, and regain control over included features. This tool is used by power users who prioritize performance and minimal background activity.",
+    "use_cases": [
+      "Removing default, low-value applications and services ('slop') from a fresh Windows installation.",
+      "Optimizing Windows system performance by eliminating background resource consumption.",
+      "Customizing and debloating Windows 11 to fit privacy or performance preferences."
+    ],
+    "tech_stack": [
+      "C#",
+      ".NET"
+    ]
+  },
+  "vercel-labs/agent-browser": {
+    "name": "vercel-labs/agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "stars": 4162,
+    "language": "TypeScript",
+    "starred_date": "2026-01-14",
+    "main_category": "Automation",
+    "subcategory": "Browser Automation",
+    "summary": "Agent-Browser is a high-performance CLI tool for headless browser automation, specifically designed to power AI agents. It leverages a fast Rust core with a Node.js fallback to allow LLMs to interact with and understand web content.\nDevelopers use this tool to enable complex web navigation, input filling, and structured snapshot generation (accessibility trees) for AI-driven tasks.",
+    "use_cases": [
+      "Providing AI agents with the ability to navigate and interact with complex web applications.",
+      "Generating detailed, structured accessibility tree snapshots of web pages for LLM context and reasoning.",
+      "Automating complex, multi-step tasks on the web driven by external AI orchestration frameworks."
+    ],
+    "tech_stack": [
+      "Rust",
+      "TypeScript",
+      "Playwright / Chromium"
+    ]
+  },
+  "rberg27/doom-coding": {
+    "name": "rberg27/doom-coding",
+    "url": "https://github.com/rberg27/doom-coding",
+    "stars": 1347,
+    "language": "Various",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "Dev Methodology",
+    "summary": "This repository provides a highly-rated, step-by-step guide for setting up a mobile coding environment, dubbed 'Doom Coding.' It enables developers to access their full terminal and CLI environment via their smartphone, allowing for coding and server management anywhere. This approach is ideal for pushing quick fixes, managing remote infrastructure, or continuing development work while away from a traditional computer setup.",
+    "use_cases": [
+      "Pushing urgent hotfixes or small code changes while commuting or traveling.",
+      "Managing remote servers (e.g., monitoring logs, restarting services) via SSH on a phone.",
+      "Practicing coding skills or performing quick scripting tasks during short breaks or downtime.",
+      "Accessing a remote development environment (like a cloud VM) from a mobile device."
+    ],
+    "tech_stack": [
+      "Terminal / CLI",
+      "SSH / Remote Access"
+    ]
+  },
+  "dbreunig/whenwords": {
+    "name": "dbreunig/whenwords",
+    "url": "https://github.com/dbreunig/whenwords",
+    "stars": 422,
+    "language": "Various",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "JSON & Data Tools",
+    "summary": "whenwords is a specification for a relative time formatting library that contains no code. It defines functions like timeago, duration parsing, and contextual date naming to convert timestamps into human-readable strings. It is useful for developers needing standardized, user-friendly time representations in applications.",
+    "use_cases": [
+      "Displaying elapsed time since an event occurred (e.g., '3 hours ago').",
+      "Converting numerical duration (seconds) into human-readable strings (e.g., '2 hours, 30 minutes').",
+      "Providing contextual date labels like 'Today' or 'Yesterday' for enhanced user experience."
+    ],
+    "tech_stack": [
+      "Specification/Concept",
+      "Language Agnostic"
+    ]
+  },
+  "aiming-lab/SimpleMem": {
+    "name": "aiming-lab/SimpleMem",
+    "url": "https://github.com/aiming-lab/SimpleMem",
+    "stars": 978,
+    "language": "Python",
+    "starred_date": "2026-01-14",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Memory & Context",
+    "summary": "SimpleMem is an efficient lifelong memory system designed specifically for LLM agents, enabling them to retain and access historical knowledge across extended sessions.\r\nIt helps overcome the context window limitations of large language models, providing agents with persistent memory for improved consistency and performance over time.\r\nUse it to deploy stateful, knowledgeable AI agents that require long-term recall and contextual awareness.",
+    "use_cases": [
+      "Building persistent AI assistants (e.g., virtual colleagues) that remember user interactions spanning weeks or months.",
+      "Developing LLM agents for long-term tasks like project management or personal finance, where historical context is critical.",
+      "Implementing efficient retrieval for large, evolving knowledge bases (RAG optimization) specific to an agent's history.",
+      "Running the SimpleMem MCP Server to manage shared memory resources for multiple LLM agents."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLMs/Agent Frameworks"
+    ]
+  },
+  "PDFCraftTool/pdfcraft": {
+    "name": "PDFCraftTool/pdfcraft",
+    "url": "https://github.com/PDFCraftTool/pdfcraft",
+    "stars": 923,
+    "language": "JavaScript",
+    "starred_date": "2026-01-14",
+    "main_category": "Developer Tools",
+    "subcategory": "JSON & Data Tools",
+    "summary": "PDFCraft is a free, privacy-focused web toolkit offering over 80 professional tools for manipulating PDF files, including merging, splitting, converting, and editing. It operates entirely client-side using the browser, ensuring user files are never uploaded to a server. This is ideal for quickly and securely performing common PDF management tasks.",
+    "use_cases": [
+      "Merging multiple PDF documents together without uploading sensitive data to a third-party server.",
+      "Splitting large PDF files into smaller, manageable sections or extracting specific pages.",
+      "Converting various document types (e.g., images, Word documents) into secure PDF formats in the browser."
+    ],
+    "tech_stack": [
+      "Next.js",
+      "React",
+      "TypeScript"
+    ]
   }
 }
