@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 209 | **Last Updated:** 2026-01-14
+**Total Repos:** 212 | **Last Updated:** 2026-01-15
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 63 more*
+   * *...and 64 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 16 more*
+   * *...and 17 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -91,7 +91,7 @@
    * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
    * [Humidity-Intelligence](#senyo888humidity-intelligence) (Proactively monitor condensation)
    * [wall-panel](#dotstartechwall-panel) (Home Assistant Dashboard)
-   * *...and 6 more*
+   * *...and 7 more*
 
 * **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
@@ -369,6 +369,19 @@ CallMe is a minimal TypeScript plugin that allows a Claude Code agent to initiat
 - Receiving real-time voice notifications when a long-running AI task is finished or requires immediate human intervention.
 - Making multi-turn decisions for a running Claude agent remotely via smartphone or landline.
 - Allowing Claude to perform tool-use actions (like web searching) while interacting with the user during a live call.
+
+---
+
+### [Dammyjay93/claude-design-engineer](https://github.com/Dammyjay93/claude-design-engineer)
+
+⭐ 989 | 🔤 JavaScript, Claude Integration | 📅 2026-01-15
+
+Design Engineer is a JavaScript utility designed to leverage Claude (LLMs) for consistent UI construction. It implements 'Craft,' 'Memory,' and 'Enforcement' mechanisms to prevent design drift across coding sessions. Use it to capture design decisions and systematically maintain UI consistency when using LLM assistance for front-end development.
+
+**Use Cases:**
+- Enforcing consistent spacing, color palettes, and depth strategies in LLM-generated UI code.
+- Saving complex design decisions to a systematic memory file (like `.design-engineer/system.md`).
+- Guiding the LLM with smart direction inference (e.g., dashboard vs. marketing design aesthetic).
 
 ---
 
@@ -1418,6 +1431,19 @@ Sumy is a Python library and command-line utility designed for automatic text su
 - Generating short, accurate previews or snippets for news feeds and content aggregation platforms.
 - Integrating automatic summarization into document processing pipelines to analyze large reports rapidly.
 - Providing command-line utility for quickly summarizing text files or web content without writing complex scripts.
+
+---
+
+### [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+
+⭐ 724 | 🔤 Python, PyTorch | 📅 2026-01-15
+
+Pocket TTS is a lightweight, CPU-optimized text-to-speech (TTS) library designed for efficiency and local execution. It allows developers to generate high-quality speech directly via a simple Python function call without needing GPUs or reliance on external cloud APIs. Use it when integrating fast, resource-efficient, and fully local TTS capabilities into applications.
+
+**Use Cases:**
+- Integrating resource-efficient text-to-speech capabilities into desktop or CPU-bound local applications.
+- Developing offline accessibility features, such as local screen readers and reading assistants.
+- Generating audio assets or voiceovers quickly for projects without incurring cloud API costs.
 
 ---
 
@@ -2474,6 +2500,19 @@ This Home Assistant blueprint dynamically monitors indoor and outdoor absolute h
 - Receiving intelligent, non-spammy notifications for optimal window ventilation.
 - Preventing high indoor absolute humidity and related issues like condensation and mold growth.
 - Managing indoor moisture levels effectively in climates where traditional relative humidity metrics are misleading.
+
+---
+
+### [robsonfelix/robsonfelix-hass-addons](https://github.com/robsonfelix/robsonfelix-hass-addons)
+
+⭐ 4 | 🔤 Python, Home Assistant Addons, Anthropic / Claude API | 📅 2026-01-15
+
+This repository provides custom add-ons for Home Assistant, notably integrating Anthropic's Claude AI assistant directly into the smart home platform. The flagship 'Claude Code' add-on helps users generate and manage complex HA automations using AI. It also includes utilities for camera discovery (Auto-Monocle) and powerful browser automation (Playwright Browser).
+
+**Use Cases:**
+- Using Claude Code to generate, debug, or refine Home Assistant automations and scripts.
+- Automatically discovering and exposing HA cameras to Alexa through Monocle Gateway.
+- Running advanced browser automation (web scraping or interactions) within the Home Assistant environment via Playwright.
 
 ---
 

@@ -4059,5 +4059,64 @@
       "React",
       "TypeScript"
     ]
+  },
+  "robsonfelix/robsonfelix-hass-addons": {
+    "name": "robsonfelix/robsonfelix-hass-addons",
+    "url": "https://github.com/robsonfelix/robsonfelix-hass-addons",
+    "stars": 4,
+    "language": "Python",
+    "starred_date": "2026-01-15",
+    "main_category": "Home Automation",
+    "subcategory": "HA Integrations",
+    "summary": "This repository provides custom add-ons for Home Assistant, notably integrating Anthropic's Claude AI assistant directly into the smart home platform. The flagship 'Claude Code' add-on helps users generate and manage complex HA automations using AI. It also includes utilities for camera discovery (Auto-Monocle) and powerful browser automation (Playwright Browser).",
+    "use_cases": [
+      "Using Claude Code to generate, debug, or refine Home Assistant automations and scripts.",
+      "Automatically discovering and exposing HA cameras to Alexa through Monocle Gateway.",
+      "Running advanced browser automation (web scraping or interactions) within the Home Assistant environment via Playwright."
+    ],
+    "tech_stack": [
+      "Python",
+      "Home Assistant Addons",
+      "Anthropic / Claude API",
+      "Playwright"
+    ]
+  },
+  "kyutai-labs/pocket-tts": {
+    "name": "kyutai-labs/pocket-tts",
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "stars": 724,
+    "language": "Python",
+    "starred_date": "2026-01-15",
+    "main_category": "AI Infrastructure",
+    "subcategory": "NLP & Speech",
+    "summary": "Pocket TTS is a lightweight, CPU-optimized text-to-speech (TTS) library designed for efficiency and local execution. It allows developers to generate high-quality speech directly via a simple Python function call without needing GPUs or reliance on external cloud APIs. Use it when integrating fast, resource-efficient, and fully local TTS capabilities into applications.",
+    "use_cases": [
+      "Integrating resource-efficient text-to-speech capabilities into desktop or CPU-bound local applications.",
+      "Developing offline accessibility features, such as local screen readers and reading assistants.",
+      "Generating audio assets or voiceovers quickly for projects without incurring cloud API costs."
+    ],
+    "tech_stack": [
+      "Python",
+      "PyTorch"
+    ]
+  },
+  "Dammyjay93/claude-design-engineer": {
+    "name": "Dammyjay93/claude-design-engineer",
+    "url": "https://github.com/Dammyjay93/claude-design-engineer",
+    "stars": 989,
+    "language": "JavaScript",
+    "starred_date": "2026-01-15",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Design Engineer is a JavaScript utility designed to leverage Claude (LLMs) for consistent UI construction. It implements 'Craft,' 'Memory,' and 'Enforcement' mechanisms to prevent design drift across coding sessions. Use it to capture design decisions and systematically maintain UI consistency when using LLM assistance for front-end development.",
+    "use_cases": [
+      "Enforcing consistent spacing, color palettes, and depth strategies in LLM-generated UI code.",
+      "Saving complex design decisions to a systematic memory file (like `.design-engineer/system.md`).",
+      "Guiding the LLM with smart direction inference (e.g., dashboard vs. marketing design aesthetic)."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Claude Integration"
+    ]
   }
 }
