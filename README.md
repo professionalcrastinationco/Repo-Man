@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 212 | **Last Updated:** 2026-01-15
+**Total Repos:** 218 | **Last Updated:** 2026-01-16
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 64 more*
+   * *...and 66 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 17 more*
+   * *...and 18 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -45,7 +45,7 @@
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [sleepless-agent](#context-machine-labsleepless-agent) (Fully automating tedious)
-   * *...and 4 more*
+   * *...and 5 more*
 
 * **Data & Analytics**
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
@@ -87,11 +87,11 @@
    * [cafe-hass](#fezvrastacafe-hass) (Visually design complex)
    * [ha-measureit](#danieldotnlha-measureit) (Measure the daily)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
+   * [humidity-intelligence](#senyo888humidity-intelligence) (Proactively monitor and)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
    * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
    * [Humidity-Intelligence](#senyo888humidity-intelligence) (Proactively monitor condensation)
-   * [wall-panel](#dotstartechwall-panel) (Home Assistant Dashboard)
-   * *...and 7 more*
+   * *...and 8 more*
 
 * **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
@@ -117,7 +117,7 @@
    * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
    * [mesop](#mesop-devmesop) (Rapidly build internal)
-   * *...and 10 more*
+   * *...and 11 more*
 
 
 
@@ -574,6 +574,19 @@ Use it to leverage a tiered model strategy (Opus, Sonnet, Haiku) to achieve reli
 
 ---
 
+### [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+
+⭐ 18,587 | 🔤 Next.js, TypeScript | 📅 2026-01-16
+
+This Next.js application integrates AI capabilities with the draw.io engine, allowing users to create, modify, and enhance complex diagrams using natural language commands. It functions as an AI-powered productivity tool, translating simple text prompts into detailed system architecture, flowcharts, or infrastructure diagrams. Use it to rapidly prototype visualizations and streamline technical documentation creation.
+
+**Use Cases:**
+- Generate complex system architecture diagrams (e.g., AWS, Kubernetes) purely from descriptive text prompts.
+- Modify, enhance, or reorganize existing draw.io diagrams using conversational AI commands.
+- Rapidly prototype flowcharts, organizational charts, and process maps for business and technical documentation.
+
+---
+
 ### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 ⭐ 17,355 | 🔤 TypeScript, Node.js | 📅 2026-01-14
@@ -875,6 +888,19 @@ This is a Python command-line tool designed to analyze the technical quality of 
 - Photographers automating the culling process to quickly filter out blurry or poorly composed shots before editing.
 - Integrating into image ingestion pipelines to automatically reject photographs that fail minimum technical quality standards.
 - Analyzing large photo datasets to ensure high technical quality before using them for deep learning model training.
+
+---
+
+### [joyi-ai/Aura](https://github.com/joyi-ai/Aura)
+
+⭐ 5 | 🔤 TypeScript, ONNX (Parakeet model) | 📅 2026-01-16
+
+Aura is a TypeScript-based desktop application providing a unified, multi-pane environment for interacting with multiple coding AI agents, including Claude Code, Codex, and Opencode. It enhances developer productivity by allowing simultaneous sessions, offering smooth UI animations, and integrating local speech-to-text capabilities. Use it as a dedicated, feature-rich client for managing your coding assistance workflow across different AI models.
+
+**Use Cases:**
+- Running parallel coding assistance sessions using different LLMs side-by-side (e.g., comparing Claude and Codex output).
+- Utilizing integrated speech-to-text (STT) for hands-free or faster input of complex coding requests.
+- Accessing specialized coding LLMs through an optimized desktop client with enhanced UI/UX features.
 
 ---
 
@@ -1421,6 +1447,20 @@ Chatterbox TTS is a state-of-the-art open-source Text-to-Speech system developed
 
 ---
 
+### [neuphonic/neutts](https://github.com/neuphonic/neutts)
+
+⭐ 4,487 | 🔤 Python, GGUF | 📅 2026-01-16
+
+NeuTTS is an on-device, high-performance Text-to-Speech (TTS) model optimized for speed and small size, available in formats like GGUF. It allows developers to integrate state-of-the-art voice synthesis directly into applications without relying on cloud APIs. Use it when high-quality, low-latency, and privacy-focused voice generation is required locally on consumer hardware.
+
+**Use Cases:**
+- Integrating real-time speech synthesis into mobile applications or edge devices.
+- Developing assistive technology that requires low-latency, local voice output.
+- Creating applications where voice generation must run offline or prioritize user privacy.
+- Embedding voice feedback into video games or specialized local software.
+
+---
+
 ### [miso-belica/sumy](https://github.com/miso-belica/sumy)
 
 ⭐ 3,638 | 🔤 Python, NLP / Text Summarization Algorithms (LSA, LexRank) | 📅 2025-11-17
@@ -1616,6 +1656,19 @@ This Python package converts standard digital images (JPG and PNG) into stylized
 - Generating terminal-friendly ASCII art logos or profile images.
 - Integrating image previews directly into command-line interface applications.
 - Creating stylized, low-fidelity versions of photos for creative coding projects.
+
+---
+
+### [CarterPerez-dev/DevLog](https://github.com/CarterPerez-dev/DevLog)
+
+⭐ 2 | 🔤 Automation Scripting, Git/CLI | 📅 2026-01-16
+
+DevLog is an automated developer log maintained by a tool called CodeWorm. The worm automatically commits random code snippets and documentation from the user's various repositories several times daily. This system is designed for passive code journaling and maintaining continuous activity across development projects.
+
+**Use Cases:**
+- Automating the creation of a chronological development journal or activity log.
+- Maintaining daily commit activity in a central repository.
+- Passively aggregating code snippets and documentation from multiple personal projects.
 
 ---
 
@@ -2558,6 +2611,20 @@ This is a comprehensive, curated 'awesome list' dedicated entirely to Home Assis
 
 ---
 
+### [senyo888/humidity-intelligence](https://github.com/senyo888/humidity-intelligence)
+
+⭐ 178 | 🔤 Jinja, Home Assistant, ApexCharts | 📅 2026-01-16
+
+Humidity Intelligence is an advanced Home Assistant package that converts raw climate sensor data into actionable building intelligence and risk assessment. It utilizes Jinja templating and custom Lovelace interfaces (ApexCharts) to visualize comfort zones and predict issues like condensation or mould. Use it to proactively monitor multi-room humidity dynamics and inform timely actions like heating or ventilation.
+
+**Use Cases:**
+- Proactively monitor and visualize the risk of condensation and mould formation across different rooms.
+- Centralize temperature and humidity data into clear, actionable badges and comfort band charts within the Home Assistant UI.
+- Drive automations based on calculated building insight, rather than just raw humidity percentages, to maintain optimal indoor climate.
+- Compare climate conditions between multiple rooms over a 24-hour period to identify sources of moisture risk.
+
+---
+
 ### [dotstartech/wall-panel](https://github.com/dotstartech/wall-panel)
 
 ⭐ 93 | 🔤 Raspberry Pi Compute Module 4 (CM4), HTML, MIPI/I2C Hardware interfacing | 📅 2026-01-14
@@ -3036,6 +3103,19 @@ This is a modern, feature-rich admin dashboard template built with Next.js 16 an
 - Rapidly prototyping the backend administrative interface for a new SaaS application or internal tool.
 - Serving as a high-quality boilerplate for new Next.js projects requiring complex, data-driven UI layouts.
 - Creating a robust administrative panel for a Content Management System (CMS) or e-commerce platform.
+
+---
+
+### [lingodotdev/interviewkit](https://github.com/lingodotdev/interviewkit)
+
+⭐ 3 | 🔤 TypeScript, Monorepo (Turbo), MongoDB | 📅 2026-01-16
+
+This is a full-stack monorepo template, built entirely in TypeScript, designed to showcase modern development best practices for API services, web applications, and CLI tools. It provides a robust, pre-configured foundation, leveraging Turbo for monorepo management and Docker Compose for MongoDB and Redis orchestration. Use it as a learning resource or a robust starting point for high-quality, production-grade TypeScript projects.
+
+**Use Cases:**
+- Bootstrap a new full-stack TypeScript monorepo using established best practices
+- Serve as a learning resource for implementing integrated API services, web apps, and CLI utilities
+- Demonstrate local development workflow orchestration using Turbo and Docker Compose
 
 ---
 

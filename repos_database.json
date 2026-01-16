@@ -4118,5 +4118,124 @@
       "JavaScript",
       "Claude Integration"
     ]
+  },
+  "neuphonic/neutts": {
+    "name": "neuphonic/neutts",
+    "url": "https://github.com/neuphonic/neutts",
+    "stars": 4487,
+    "language": "Python",
+    "starred_date": "2026-01-16",
+    "main_category": "AI Infrastructure",
+    "subcategory": "NLP & Speech",
+    "summary": "NeuTTS is an on-device, high-performance Text-to-Speech (TTS) model optimized for speed and small size, available in formats like GGUF. It allows developers to integrate state-of-the-art voice synthesis directly into applications without relying on cloud APIs. Use it when high-quality, low-latency, and privacy-focused voice generation is required locally on consumer hardware.",
+    "use_cases": [
+      "Integrating real-time speech synthesis into mobile applications or edge devices.",
+      "Developing assistive technology that requires low-latency, local voice output.",
+      "Creating applications where voice generation must run offline or prioritize user privacy.",
+      "Embedding voice feedback into video games or specialized local software."
+    ],
+    "tech_stack": [
+      "Python",
+      "GGUF"
+    ]
+  },
+  "joyi-ai/Aura": {
+    "name": "joyi-ai/Aura",
+    "url": "https://github.com/joyi-ai/Aura",
+    "stars": 5,
+    "language": "TypeScript",
+    "starred_date": "2026-01-16",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Aura is a TypeScript-based desktop application providing a unified, multi-pane environment for interacting with multiple coding AI agents, including Claude Code, Codex, and Opencode. It enhances developer productivity by allowing simultaneous sessions, offering smooth UI animations, and integrating local speech-to-text capabilities. Use it as a dedicated, feature-rich client for managing your coding assistance workflow across different AI models.",
+    "use_cases": [
+      "Running parallel coding assistance sessions using different LLMs side-by-side (e.g., comparing Claude and Codex output).",
+      "Utilizing integrated speech-to-text (STT) for hands-free or faster input of complex coding requests.",
+      "Accessing specialized coding LLMs through an optimized desktop client with enhanced UI/UX features."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "ONNX (Parakeet model)"
+    ]
+  },
+  "lingodotdev/interviewkit": {
+    "name": "lingodotdev/interviewkit",
+    "url": "https://github.com/lingodotdev/interviewkit",
+    "stars": 3,
+    "language": "TypeScript",
+    "starred_date": "2026-01-16",
+    "main_category": "Web Development",
+    "subcategory": "Starter Templates",
+    "summary": "This is a full-stack monorepo template, built entirely in TypeScript, designed to showcase modern development best practices for API services, web applications, and CLI tools. It provides a robust, pre-configured foundation, leveraging Turbo for monorepo management and Docker Compose for MongoDB and Redis orchestration. Use it as a learning resource or a robust starting point for high-quality, production-grade TypeScript projects.",
+    "use_cases": [
+      "Bootstrap a new full-stack TypeScript monorepo using established best practices",
+      "Serve as a learning resource for implementing integrated API services, web apps, and CLI utilities",
+      "Demonstrate local development workflow orchestration using Turbo and Docker Compose"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Monorepo (Turbo)",
+      "MongoDB",
+      "Docker Compose"
+    ]
+  },
+  "DayuanJiang/next-ai-draw-io": {
+    "name": "DayuanJiang/next-ai-draw-io",
+    "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "stars": 18587,
+    "language": "TypeScript",
+    "starred_date": "2026-01-16",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "This Next.js application integrates AI capabilities with the draw.io engine, allowing users to create, modify, and enhance complex diagrams using natural language commands. It functions as an AI-powered productivity tool, translating simple text prompts into detailed system architecture, flowcharts, or infrastructure diagrams. Use it to rapidly prototype visualizations and streamline technical documentation creation.",
+    "use_cases": [
+      "Generate complex system architecture diagrams (e.g., AWS, Kubernetes) purely from descriptive text prompts.",
+      "Modify, enhance, or reorganize existing draw.io diagrams using conversational AI commands.",
+      "Rapidly prototype flowcharts, organizational charts, and process maps for business and technical documentation."
+    ],
+    "tech_stack": [
+      "Next.js",
+      "TypeScript"
+    ]
+  },
+  "CarterPerez-dev/DevLog": {
+    "name": "CarterPerez-dev/DevLog",
+    "url": "https://github.com/CarterPerez-dev/DevLog",
+    "stars": 2,
+    "language": "Various",
+    "starred_date": "2026-01-16",
+    "main_category": "Automation",
+    "subcategory": "Creative Scripts",
+    "summary": "DevLog is an automated developer log maintained by a tool called CodeWorm. The worm automatically commits random code snippets and documentation from the user's various repositories several times daily. This system is designed for passive code journaling and maintaining continuous activity across development projects.",
+    "use_cases": [
+      "Automating the creation of a chronological development journal or activity log.",
+      "Maintaining daily commit activity in a central repository.",
+      "Passively aggregating code snippets and documentation from multiple personal projects."
+    ],
+    "tech_stack": [
+      "Automation Scripting",
+      "Git/CLI"
+    ]
+  },
+  "senyo888/humidity-intelligence": {
+    "name": "senyo888/humidity-intelligence",
+    "url": "https://github.com/senyo888/humidity-intelligence",
+    "stars": 178,
+    "language": "Jinja",
+    "starred_date": "2026-01-16",
+    "main_category": "Home Automation",
+    "subcategory": "HA Resources",
+    "summary": "Humidity Intelligence is an advanced Home Assistant package that converts raw climate sensor data into actionable building intelligence and risk assessment. It utilizes Jinja templating and custom Lovelace interfaces (ApexCharts) to visualize comfort zones and predict issues like condensation or mould. Use it to proactively monitor multi-room humidity dynamics and inform timely actions like heating or ventilation.",
+    "use_cases": [
+      "Proactively monitor and visualize the risk of condensation and mould formation across different rooms.",
+      "Centralize temperature and humidity data into clear, actionable badges and comfort band charts within the Home Assistant UI.",
+      "Drive automations based on calculated building insight, rather than just raw humidity percentages, to maintain optimal indoor climate.",
+      "Compare climate conditions between multiple rooms over a 24-hour period to identify sources of moisture risk."
+    ],
+    "tech_stack": [
+      "Jinja",
+      "Home Assistant",
+      "ApexCharts"
+    ]
   }
 }
