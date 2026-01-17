@@ -4237,5 +4237,119 @@
       "Home Assistant",
       "ApexCharts"
     ]
+  },
+  "DevAgentForge/Claude-Cowork": {
+    "name": "DevAgentForge/Claude-Cowork",
+    "url": "https://github.com/DevAgentForge/Claude-Cowork",
+    "stars": 1561,
+    "language": "TypeScript",
+    "starred_date": "2026-01-17",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Open Claude Cowork is a desktop AI assistant designed to help users with programming, file management, and complex multi-step tasks across macOS and Linux. It leverages large language models (like MiniMax M2.1, mentioned in the README) to act as a general-purpose productivity agent. Use it when you need an advanced, environment-aware AI companion to streamline digital workflows and coding efforts.",
+    "use_cases": [
+      "Receive AI assistance for programming tasks and code generation directly on the desktop.",
+      "Manage and organize files and directories using natural language instructions.",
+      "Automate and execute long, multi-step tasks that involve navigating the operating system or digital environments."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "LLM Integration/API"
+    ]
+  },
+  "alexzhang13/rlm": {
+    "name": "alexzhang13/rlm",
+    "url": "https://github.com/alexzhang13/rlm",
+    "stars": 1225,
+    "language": "Python",
+    "starred_date": "2026-01-17",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Generative AI",
+    "summary": "RLM is a general plug-and-play Python inference library designed to facilitate the use of Recursive Language Models (RLMs). It standardizes the process of running inference and supports various sandboxes for model evaluation and deployment. This is ideal for researchers and developers looking to integrate specialized RLM capabilities into complex AI systems.",
+    "use_cases": [
+      "Running structured inference and prediction using Recursive Language Models.",
+      "Integrating RLM capabilities into bespoke NLP or AI agent workflows.",
+      "Evaluating and experimenting with RLM performance across different execution environments (sandboxes)."
+    ],
+    "tech_stack": [
+      "Python",
+      "ML Frameworks"
+    ]
+  },
+  "pixlcore/xyops": {
+    "name": "pixlcore/xyops",
+    "url": "https://github.com/pixlcore/xyops",
+    "stars": 885,
+    "language": "JavaScript",
+    "starred_date": "2026-01-17",
+    "main_category": "Automation",
+    "subcategory": "Workflow Platforms",
+    "summary": "xyOps is a next-generation platform that combines job scheduling, workflow automation, real-time server monitoring, and incident response into a single, cohesive system. It is designed for developers and operations teams seeking complete control and visibility over their automation stack without external telemetry or licensing restrictions. Use it to consolidate monitoring and orchestration services into one open, extensible self-hosted application.",
+    "use_cases": [
+      "Orchestrating complex operational workflows and data pipelines across multiple servers.",
+      "Implementing unified alerting and incident response based on real-time server monitoring.",
+      "Scheduling and managing recurring maintenance jobs and operational runbooks."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "subsy/ralph-tui": {
+    "name": "subsy/ralph-tui",
+    "url": "https://github.com/subsy/ralph-tui",
+    "stars": 912,
+    "language": "TypeScript",
+    "starred_date": "2026-01-17",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "Ralph TUI is an AI Agent Loop Orchestrator providing a terminal user interface (TUI) for managing autonomous AI coding agents. It connects specialized AI assistants (like Claude Code or OpenCode) to task trackers, facilitating the sequential execution of complex task lists. Use it to monitor and control the workflow of AI agents working through iterative development tasks.",
+    "use_cases": [
+      "Orchestrating complex software development tasks autonomously using integrated AI coding agents.",
+      "Monitoring the real-time progress and steps of multi-agent coding loops within a terminal environment.",
+      "Connecting specialized AI assistants (e.g., Claude Code, OpenCode) to existing project task management systems."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Bun"
+    ]
+  },
+  "ruvnet/claude-flow": {
+    "name": "ruvnet/claude-flow",
+    "url": "https://github.com/ruvnet/claude-flow",
+    "stars": 12277,
+    "language": "TypeScript",
+    "starred_date": "2026-01-17",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "Claude-Flow is the leading enterprise-grade agent orchestration platform for deploying and coordinating complex multi-agent swarms powered by Anthropic's Claude models. It enables developers to construct autonomous workflows, manage distributed intelligence, and integrate RAG capabilities. Use it to build highly sophisticated and scalable conversational AI systems requiring native Claude Code support via the MCP protocol.",
+    "use_cases": [
+      "Deploying multi-agent swarms for distributed task execution and complex problem-solving.",
+      "Orchestrating autonomous, enterprise-grade AI workflows and coordination across specialized agents.",
+      "Building conversational AI systems and assistants with RAG integration and native Claude Code support."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Anthropic Claude SDK"
+    ]
+  },
+  "pocketbase/pocketbase": {
+    "name": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "stars": 55294,
+    "language": "Go",
+    "starred_date": "2026-01-17",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Databases & Backends",
+    "summary": "PocketBase is an open-source, ultra-lightweight backend packaged into a single Go binary, offering a built-in SQLite database, file storage, real-time subscriptions, and an admin dashboard. It is ideal for quickly bootstrapping small to medium-sized applications where developers prefer simplicity and minimal deployment overhead over complex microservice architectures.",
+    "use_cases": [
+      "Rapid prototyping and building MVPs for web or mobile apps.",
+      "Developing real-time applications (like basic chat apps or notification services) leveraging its built-in WebSockets.",
+      "Creating simple CRUD APIs and dashboards with minimal setup and deployment complexity."
+    ],
+    "tech_stack": [
+      "Go",
+      "SQLite"
+    ]
   }
 }

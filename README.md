@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 218 | **Last Updated:** 2026-01-16
+**Total Repos:** 224 | **Last Updated:** 2026-01-17
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 66 more*
+   * *...and 69 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 18 more*
+   * *...and 19 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -44,8 +44,8 @@
    * [awesome-playwright](#mxschmittawesome-playwright) (Discovering community integrations)
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
-   * [sleepless-agent](#context-machine-labsleepless-agent) (Fully automating tedious)
-   * *...and 5 more*
+   * [xyops](#pixlcorexyops) (Orchestrating complex operational)
+   * *...and 6 more*
 
 * **Data & Analytics**
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
@@ -96,6 +96,7 @@
 * **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
    * [nocodb](#nocodbnocodb) (Building custom internal)
+   * [pocketbase](#pocketbasepocketbase) (Rapid prototyping and)
    * [memos](#usememosmemos) (Deploying a private,)
    * [metube](#alexta69metube) (Self-hosting a centralized)
    * [bytebot](#bytebot-aibytebot) (Automating complex, multi-step)
@@ -103,8 +104,7 @@
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
    * [baserow](#baserowbaserow) (Building custom relational)
    * [OpenMemory](#caviraossopenmemory) (Providing stateful, long-term)
-   * [ffmpreg](#yazaldefilimoneffmpreg) (Replacing legacy FFmpeg)
-   * *...and 1 more*
+   * *...and 2 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -139,6 +139,19 @@ OpenManus is a highly popular, Python-based open-source project designed as an a
 - Developing and iterating on custom large language models (LLMs) and intelligent agents
 - Conducting academic research and reproducibility studies on foundational AI architectures
 - Deploying scalable, open-source AI applications using high-performance models
+
+---
+
+### [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)
+
+⭐ 12,277 | 🔤 TypeScript, Anthropic Claude SDK | 📅 2026-01-17
+
+Claude-Flow is the leading enterprise-grade agent orchestration platform for deploying and coordinating complex multi-agent swarms powered by Anthropic's Claude models. It enables developers to construct autonomous workflows, manage distributed intelligence, and integrate RAG capabilities. Use it to build highly sophisticated and scalable conversational AI systems requiring native Claude Code support via the MCP protocol.
+
+**Use Cases:**
+- Deploying multi-agent swarms for distributed task execution and complex problem-solving.
+- Orchestrating autonomous, enterprise-grade AI workflows and coordination across specialized agents.
+- Building conversational AI systems and assistants with RAG integration and native Claude Code support.
 
 ---
 
@@ -206,6 +219,19 @@ Terminator is a Rust-based framework for building intelligent AI agents capable 
 - Automating repetitive desktop tasks such as data entry or software configuration on Windows.
 - Developing AI agents that can interpret tasks and interact with native Windows applications.
 - Recording and replaying complex user workflows for quality assurance or scripted testing of desktop software.
+
+---
+
+### [subsy/ralph-tui](https://github.com/subsy/ralph-tui)
+
+⭐ 912 | 🔤 TypeScript, Bun | 📅 2026-01-17
+
+Ralph TUI is an AI Agent Loop Orchestrator providing a terminal user interface (TUI) for managing autonomous AI coding agents. It connects specialized AI assistants (like Claude Code or OpenCode) to task trackers, facilitating the sequential execution of complex task lists. Use it to monitor and control the workflow of AI agents working through iterative development tasks.
+
+**Use Cases:**
+- Orchestrating complex software development tasks autonomously using integrated AI coding agents.
+- Monitoring the real-time progress and steps of multi-agent coding loops within a terminal environment.
+- Connecting specialized AI assistants (e.g., Claude Code, OpenCode) to existing project task management systems.
 
 ---
 
@@ -746,6 +772,19 @@ DeepAnalyze is an agentic Large Language Model (LLM) designed for autonomous dat
 
 ---
 
+### [DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)
+
+⭐ 1,561 | 🔤 TypeScript, LLM Integration/API | 📅 2026-01-17
+
+Open Claude Cowork is a desktop AI assistant designed to help users with programming, file management, and complex multi-step tasks across macOS and Linux. It leverages large language models (like MiniMax M2.1, mentioned in the README) to act as a general-purpose productivity agent. Use it when you need an advanced, environment-aware AI companion to streamline digital workflows and coding efforts.
+
+**Use Cases:**
+- Receive AI assistance for programming tasks and code generation directly on the desktop.
+- Manage and organize files and directories using natural language instructions.
+- Automate and execute long, multi-step tasks that involve navigating the operating system or digital environments.
+
+---
+
 ### [writer/writer-framework](https://github.com/writer/writer-framework)
 
 ⭐ 1,433 | 🔤 Python, WebSockets | 📅 2025-11-17
@@ -1236,6 +1275,19 @@ Qwen-Image-Layered is a generative image model that employs layered decompositio
 - Generating images that require immediate layered editing capability (e.g., adjusting background without affecting the subject).
 - Developing image generation pipelines where individual objects or scene components need to be isolated and replaced.
 - Research and development of new controllable image synthesis techniques based on structural decomposition.
+
+---
+
+### [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+
+⭐ 1,225 | 🔤 Python, ML Frameworks | 📅 2026-01-17
+
+RLM is a general plug-and-play Python inference library designed to facilitate the use of Recursive Language Models (RLMs). It standardizes the process of running inference and supports various sandboxes for model evaluation and deployment. This is ideal for researchers and developers looking to integrate specialized RLM capabilities into complex AI systems.
+
+**Use Cases:**
+- Running structured inference and prediction using Recursive Language Models.
+- Integrating RLM capabilities into bespoke NLP or AI agent workflows.
+- Evaluating and experimenting with RLM performance across different execution environments (sandboxes).
 
 ---
 
@@ -1740,6 +1792,19 @@ Activepieces is an open-source, no-code/low-code workflow automation platform de
 - Automating business processes by connecting SaaS applications (CRM, Email, Databases)
 - Building and orchestrating complex AI Agents and workflows using dedicated MCP server infrastructure
 - Self-hosting an open-source alternative to proprietary integration platforms like Zapier or n8n
+
+---
+
+### [pixlcore/xyops](https://github.com/pixlcore/xyops)
+
+⭐ 885 | 🔤 JavaScript, Node.js | 📅 2026-01-17
+
+xyOps is a next-generation platform that combines job scheduling, workflow automation, real-time server monitoring, and incident response into a single, cohesive system. It is designed for developers and operations teams seeking complete control and visibility over their automation stack without external telemetry or licensing restrictions. Use it to consolidate monitoring and orchestration services into one open, extensible self-hosted application.
+
+**Use Cases:**
+- Orchestrating complex operational workflows and data pipelines across multiple servers.
+- Implementing unified alerting and incident response based on real-time server monitoring.
+- Scheduling and managing recurring maintenance jobs and operational runbooks.
 
 ---
 
@@ -2740,6 +2805,19 @@ NocoDB is an open-source, low-code platform designed as the self-hosted alternat
 - Creating an easy-to-use spreadsheet interface for existing complex SQL databases
 - Replacing proprietary SaaS solutions like Airtable for data management
 - Rapid prototyping of data-driven web applications via automatic REST APIs
+
+---
+
+### [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+
+⭐ 55,294 | 🔤 Go, SQLite | 📅 2026-01-17
+
+PocketBase is an open-source, ultra-lightweight backend packaged into a single Go binary, offering a built-in SQLite database, file storage, real-time subscriptions, and an admin dashboard. It is ideal for quickly bootstrapping small to medium-sized applications where developers prefer simplicity and minimal deployment overhead over complex microservice architectures.
+
+**Use Cases:**
+- Rapid prototyping and building MVPs for web or mobile apps.
+- Developing real-time applications (like basic chat apps or notification services) leveraging its built-in WebSockets.
+- Creating simple CRUD APIs and dashboards with minimal setup and deployment complexity.
 
 ---
 
