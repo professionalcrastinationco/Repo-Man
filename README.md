@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 224 | **Last Updated:** 2026-01-17
+**Total Repos:** 226 | **Last Updated:** 2026-01-18
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 69 more*
+   * *...and 71 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -275,6 +275,19 @@ This repository provides the structure and resources for defining 'Skills,' whic
 - Customizing Claude to create branded documents following specific company style guides and workflows.
 - Enabling Claude to perform complex data analysis using proprietary organizational procedures.
 - Automating multi-step personal and professional tasks by defining detailed, repeatable instructions for the agent.
+
+---
+
+### [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+
+⭐ 20,232 | 🔤 Python, LLM/Claude Code | 📅 2026-01-18
+
+The SuperClaude Framework transforms native Claude Code interactions into a structured development platform. It achieves this by adding specialized commands, cognitive personas, and development methodologies. Use it to enhance the consistency and quality of complex AI-driven coding and project management tasks.
+
+**Use Cases:**
+- Structuring and standardizing complex Claude Code inputs and outputs.
+- Defining and applying cognitive personas for targeted AI behavior during development.
+- Integrating specialized development methodologies directly into AI workflow commands.
 
 ---
 
@@ -1050,6 +1063,19 @@ This project offers a free SEO research tool leveraging Ahrefs data, designed to
 - Integrating keyword research and competitive analysis directly into an AI-powered IDE environment.
 - Automating the collection of Ahrefs data for content planning and SEO reporting.
 - Using the data to refine and ground generative AI outputs for SEO optimization.
+
+---
+
+### [yoloshii/mcp-code-execution-enhanced](https://github.com/yoloshii/mcp-code-execution-enhanced)
+
+⭐ 31 | 🔤 Python, Model Context Protocol (MCP) | 📅 2026-01-18
+
+This is an enhanced runtime for Model Context Protocol (MCP) servers, focused on providing secure, sandboxed, and highly efficient code execution for AI agents. It leverages CLI-based scripts and progressive tool discovery to achieve a massive 99.6% token reduction. Use this framework to integrate performant, context-efficient code execution capabilities into AI agents, especially those optimized for Claude Code.
+
+**Use Cases:**
+- Implementing secure, sandboxed code execution for LLM agents via multi-transport protocols.
+- Reducing API costs and latency for frequent code execution tasks using the 99.6% token reduction method.
+- Optimizing the performance and context management for AI agents built on the Claude Code platform.
 
 ---
 

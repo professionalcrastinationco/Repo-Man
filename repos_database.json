@@ -4351,5 +4351,43 @@
       "Go",
       "SQLite"
     ]
+  },
+  "SuperClaude-Org/SuperClaude_Framework": {
+    "name": "SuperClaude-Org/SuperClaude_Framework",
+    "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "stars": 20232,
+    "language": "Python",
+    "starred_date": "2026-01-18",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "The SuperClaude Framework transforms native Claude Code interactions into a structured development platform. It achieves this by adding specialized commands, cognitive personas, and development methodologies. Use it to enhance the consistency and quality of complex AI-driven coding and project management tasks.",
+    "use_cases": [
+      "Structuring and standardizing complex Claude Code inputs and outputs.",
+      "Defining and applying cognitive personas for targeted AI behavior during development.",
+      "Integrating specialized development methodologies directly into AI workflow commands."
+    ],
+    "tech_stack": [
+      "Python",
+      "LLM/Claude Code"
+    ]
+  },
+  "yoloshii/mcp-code-execution-enhanced": {
+    "name": "yoloshii/mcp-code-execution-enhanced",
+    "url": "https://github.com/yoloshii/mcp-code-execution-enhanced",
+    "stars": 31,
+    "language": "Python",
+    "starred_date": "2026-01-18",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "This is an enhanced runtime for Model Context Protocol (MCP) servers, focused on providing secure, sandboxed, and highly efficient code execution for AI agents. It leverages CLI-based scripts and progressive tool discovery to achieve a massive 99.6% token reduction. Use this framework to integrate performant, context-efficient code execution capabilities into AI agents, especially those optimized for Claude Code.",
+    "use_cases": [
+      "Implementing secure, sandboxed code execution for LLM agents via multi-transport protocols.",
+      "Reducing API costs and latency for frequent code execution tasks using the 99.6% token reduction method.",
+      "Optimizing the performance and context management for AI agents built on the Claude Code platform."
+    ],
+    "tech_stack": [
+      "Python",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }
