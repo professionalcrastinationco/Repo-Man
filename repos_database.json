@@ -4389,5 +4389,24 @@
       "Python",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "slopus/happy": {
+    "name": "slopus/happy",
+    "url": "https://github.com/slopus/happy",
+    "stars": 7965,
+    "language": "TypeScript",
+    "starred_date": "2026-01-20",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Happy is a fully featured, encrypted mobile and web client designed for interacting with Claude Code and OpenAI Codex. It allows developers to utilize powerful code generation and assistance AI models from iOS, Android, or the web. Use it when you need secure, cross-platform access to your AI coding tools, including realtime voice input.",
+    "use_cases": [
+      "Securely accessing Claude Code or Codex models via mobile or web interfaces",
+      "Utilizing realtime voice input for interacting with AI coding assistants",
+      "Providing a fully featured, cross-platform UI for code generation and review tasks"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React Native / Expo"
+    ]
   }
 }

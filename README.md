@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 226 | **Last Updated:** 2026-01-18
+**Total Repos:** 227 | **Last Updated:** 2026-01-20
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 71 more*
+   * *...and 72 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -329,6 +329,19 @@ Claude-Mem is a TypeScript plugin for the Claude Code environment that captures,
 - Maintaining long-term context and coherence across extended coding projects managed by the Claude AI assistant.
 - Enhancing the accuracy and relevance of Claude's suggestions by injecting contextually retrieved historical decisions and code changes (RAG).
 - Providing efficient, compressed access to previous debugging steps, architectural decisions, and code snippets during new development sessions.
+
+---
+
+### [slopus/happy](https://github.com/slopus/happy)
+
+⭐ 7,965 | 🔤 TypeScript, React Native / Expo | 📅 2026-01-20
+
+Happy is a fully featured, encrypted mobile and web client designed for interacting with Claude Code and OpenAI Codex. It allows developers to utilize powerful code generation and assistance AI models from iOS, Android, or the web. Use it when you need secure, cross-platform access to your AI coding tools, including realtime voice input.
+
+**Use Cases:**
+- Securely accessing Claude Code or Codex models via mobile or web interfaces
+- Utilizing realtime voice input for interacting with AI coding assistants
+- Providing a fully featured, cross-platform UI for code generation and review tasks
 
 ---
 
