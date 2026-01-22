@@ -4467,5 +4467,81 @@
       "Shell",
       "UI Configuration"
     ]
+  },
+  "vadimdemedes/ink": {
+    "name": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "stars": 34162,
+    "language": "TypeScript",
+    "starred_date": "2026-01-22",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "Ink is a library that allows developers to use React's component-based paradigm to build complex, interactive command-line interfaces. It leverages Flexbox layouts via Yoga to render rich user interfaces directly in the terminal environment. Use it when creating robust, modern CLIs that require dynamic updates and sophisticated UI layouts.",
+    "use_cases": [
+      "Building interactive, dynamic dashboards or monitoring tools for the terminal.",
+      "Developing complex CLI setup wizards or guided configuration interfaces.",
+      "Creating custom developer tools with rich component-based terminal UIs."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React"
+    ]
+  },
+  "itsmostafa/goralph": {
+    "name": "itsmostafa/goralph",
+    "url": "https://github.com/itsmostafa/goralph",
+    "stars": 5,
+    "language": "Go",
+    "starred_date": "2026-01-22",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Go Ralph is a CLI utility implementing the Ralph Wiggum Technique, an agentic loop designed for automated software development. It iteratively runs Claude Code and automatically commits and pushes the resulting changes to Git.\nUse this tool when you need an AI agent to autonomously build, develop, or refactor a codebase over time.",
+    "use_cases": [
+      "Running automated, iterative feature development using Claude Code.",
+      "Implementing the Ralph Wiggum Technique for hands-off, LLM-driven project growth.",
+      "Continuous code refactoring and boilerplate generation based on iterative AI feedback."
+    ],
+    "tech_stack": [
+      "Go",
+      "Claude API"
+    ]
+  },
+  "Ilias1988/Universal-News-Scraper": {
+    "name": "Ilias1988/Universal-News-Scraper",
+    "url": "https://github.com/Ilias1988/Universal-News-Scraper",
+    "stars": 6,
+    "language": "Python",
+    "starred_date": "2026-01-22",
+    "main_category": "Automation",
+    "subcategory": "Web Scraping",
+    "summary": "Universal News Scraper is a robust Python CLI tool for aggregating news via RSS feeds, web scraping, and Bing News topic auto-discovery. It features anti-blocking logic and keyword/date filtering to ensure precise data collection. Use it to programmatically collect structured news data for OSINT, research, or data analysis.",
+    "use_cases": [
+      "Programmatically monitoring real-time news feeds on niche topics using the auto-discovery feature.",
+      "Collecting structured news data (JSON/CSV) for OSINT, academic research, or historical trend analysis.",
+      "Scraping content from multiple international news sources while utilizing anti-blocking and User-Agent rotation."
+    ],
+    "tech_stack": [
+      "Python",
+      "Rich"
+    ]
+  },
+  "avifenesh/awesome-slash": {
+    "name": "avifenesh/awesome-slash",
+    "url": "https://github.com/avifenesh/awesome-slash",
+    "stars": 208,
+    "language": "JavaScript",
+    "starred_date": "2026-01-22",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Awesome Slash Commands is a zero-configuration, cross-platform plugin that provides professional-grade slash commands for popular AI coding assistants like Claude Code and Codex CLI. It automates and streamlines common development tasks, enhancing workflow efficiency and developer productivity. Use it to quickly execute complex AI instructions directly within your coding environment.",
+    "use_cases": [
+      "Execute complex code refactoring, generation, or testing tasks using predefined AI slash commands.",
+      "Standardize workflow automation across different projects when using Claude Code or Codex CLI.",
+      "Speed up routine development tasks by utilizing the zero-configuration, powerful built-in commands."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "TypeScript"
+    ]
   }
 }

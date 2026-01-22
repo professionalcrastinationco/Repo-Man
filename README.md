@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 230 | **Last Updated:** 2026-01-21
+**Total Repos:** 234 | **Last Updated:** 2026-01-22
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 74 more*
+   * *...and 76 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -45,7 +45,7 @@
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [xyops](#pixlcorexyops) (Orchestrating complex operational)
-   * *...and 6 more*
+   * *...and 7 more*
 
 * **Data & Analytics**
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
@@ -73,12 +73,12 @@
    * [Python](#thealgorithmspython) (Learning and studying)
    * [the-book-of-secret-knowledge](#trimstraythe-book-of-secret-knowledge) (Quickly referencing complex)
    * [awesome-docker](#veggiemonkawesome-docker) (Discovering new open-source)
+   * [ink](#vadimdemedesink) (Building interactive, dynamic)
    * [ntfy](#binwiederhierntfy) (Sending notifications from)
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
    * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
-   * [vibe-kanban](#bloopaivibe-kanban) (Managing complex, multi-stage)
-   * *...and 24 more*
+   * *...and 25 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -541,6 +541,19 @@ A self-learning system for Claude Code that captures user corrections and prefer
 
 ---
 
+### [avifenesh/awesome-slash](https://github.com/avifenesh/awesome-slash)
+
+⭐ 208 | 🔤 JavaScript, TypeScript | 📅 2026-01-22
+
+Awesome Slash Commands is a zero-configuration, cross-platform plugin that provides professional-grade slash commands for popular AI coding assistants like Claude Code and Codex CLI. It automates and streamlines common development tasks, enhancing workflow efficiency and developer productivity. Use it to quickly execute complex AI instructions directly within your coding environment.
+
+**Use Cases:**
+- Execute complex code refactoring, generation, or testing tasks using predefined AI slash commands.
+- Standardize workflow automation across different projects when using Claude Code or Codex CLI.
+- Speed up routine development tasks by utilizing the zero-configuration, powerful built-in commands.
+
+---
+
 ### [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
 
 ⭐ 159 | 🔤 Markdown, LLM Instructions | 📅 2026-01-14
@@ -591,6 +604,20 @@ claude2stream exposes local Claude conversation history as a real-time Durable S
 - Monitor and live-tail ongoing Claude conversations in a dedicated streaming web interface.
 - Stream conversation history for integration with external data analysis or logging platforms.
 - Audit past interactions with Claude by accessing the history via the Durable Stream protocol.
+
+---
+
+### [itsmostafa/goralph](https://github.com/itsmostafa/goralph)
+
+⭐ 5 | 🔤 Go, Claude API | 📅 2026-01-22
+
+Go Ralph is a CLI utility implementing the Ralph Wiggum Technique, an agentic loop designed for automated software development. It iteratively runs Claude Code and automatically commits and pushes the resulting changes to Git.
+Use this tool when you need an AI agent to autonomously build, develop, or refactor a codebase over time.
+
+**Use Cases:**
+- Running automated, iterative feature development using Claude Code.
+- Implementing the Ralph Wiggum Technique for hands-off, LLM-driven project growth.
+- Continuous code refactoring and boilerplate generation based on iterative AI feedback.
 
 ---
 
@@ -1831,6 +1858,19 @@ An advanced Python scraper utilizing Playwright to bypass complex anti-bot detec
 
 ---
 
+### [Ilias1988/Universal-News-Scraper](https://github.com/Ilias1988/Universal-News-Scraper)
+
+⭐ 6 | 🔤 Python, Rich | 📅 2026-01-22
+
+Universal News Scraper is a robust Python CLI tool for aggregating news via RSS feeds, web scraping, and Bing News topic auto-discovery. It features anti-blocking logic and keyword/date filtering to ensure precise data collection. Use it to programmatically collect structured news data for OSINT, research, or data analysis.
+
+**Use Cases:**
+- Programmatically monitoring real-time news feeds on niche topics using the auto-discovery feature.
+- Collecting structured news data (JSON/CSV) for OSINT, academic research, or historical trend analysis.
+- Scraping content from multiple international news sources while utilizing anti-blocking and User-Agent rotation.
+
+---
+
 
 ## Workflow Platforms
 
@@ -2346,6 +2386,19 @@ QuadSmack Keebs is a collection of open-source designs, hardware specifications,
 
 
 ## CLI Utilities
+
+### [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+
+⭐ 34,162 | 🔤 TypeScript, React | 📅 2026-01-22
+
+Ink is a library that allows developers to use React's component-based paradigm to build complex, interactive command-line interfaces. It leverages Flexbox layouts via Yoga to render rich user interfaces directly in the terminal environment. Use it when creating robust, modern CLIs that require dynamic updates and sophisticated UI layouts.
+
+**Use Cases:**
+- Building interactive, dynamic dashboards or monitoring tools for the terminal.
+- Developing complex CLI setup wizards or guided configuration interfaces.
+- Creating custom developer tools with rich component-based terminal UIs.
+
+---
 
 ### [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 
