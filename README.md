@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 234 | **Last Updated:** 2026-01-22
+**Total Repos:** 237 | **Last Updated:** 2026-01-23
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 76 more*
+   * *...and 77 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -76,9 +76,9 @@
    * [ink](#vadimdemedesink) (Building interactive, dynamic)
    * [ntfy](#binwiederhierntfy) (Sending notifications from)
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
+   * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * [jsoneditor](#josdejongjsoneditor) (Integrating an interactive)
-   * *...and 25 more*
+   * *...and 27 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -618,6 +618,19 @@ Use this tool when you need an AI agent to autonomously build, develop, or refac
 - Running automated, iterative feature development using Claude Code.
 - Implementing the Ralph Wiggum Technique for hands-off, LLM-driven project growth.
 - Continuous code refactoring and boilerplate generation based on iterative AI feedback.
+
+---
+
+### [Ark0N/Claudeman](https://github.com/Ark0N/Claudeman)
+
+⭐ 2 | 🔤 TypeScript, GNU Screen | 📅 2026-01-23
+
+Claudeman is a TypeScript application that provides a modern WebUI for managing, monitoring, and maintaining persistent Claude Code sessions utilizing GNU Screen. It enables autonomous, long-running agent work by tracking the 'Ralph Loop' and employing a Respawn Controller to handle failures and ensure continuity. This tool is ideal for supervising complex, multi-step Claude AI coding projects autonomously.
+
+**Use Cases:**
+- Managing and monitoring multiple parallel autonomous Claude Code development sessions from a centralized dashboard.
+- Ensuring long-term stability and persistence for generative AI coding tasks using automatic respawning capabilities.
+- Supervising the state and progress of Claude Code work (tracking the 'Ralph Loop') without constant manual terminal access.
 
 ---
 
@@ -2588,8 +2601,34 @@ CodeVibes is an intelligent, AI-powered tool that scans GitHub repositories usin
 
 ---
 
+### [zd8899/TDAD](https://github.com/zd8899/TDAD)
+
+⭐ 29 | 🔤 TypeScript, VS Code Extension | 📅 2026-01-23
+
+TDAD is a visual workflow engine that facilitates Test-Driven AI Development (TDD) by enforcing a strict Plan → Spec → Test → Fix cycle for AI agents. It uses runtime feedback, rather than just textual output, to guide models like Claude or ChatGPT toward delivering working, tested software. This tool is ideal for developers seeking to bring discipline and reliability to their AI-assisted code generation process.
+
+**Use Cases:**
+- Enforcing a disciplined Test-Driven Development workflow when generating code using large language models.
+- Utilizing runtime feedback and visual aids to efficiently debug and iterate on AI-generated software specifications.
+- Transforming chaotic AI code snippets into production-ready software components that pass explicit tests.
+
+---
+
 
 ## JSON & Data Tools
+
+### [toon-format/toon](https://github.com/toon-format/toon)
+
+⭐ 22,082 | 🔤 TypeScript, Serialization/Data Format | 📅 2026-01-23
+
+Token-Oriented Object Notation (TOON) is a compact, schema-aware data format designed to replace standard JSON for efficient LLM prompting. By optimizing tokenization, TOON reduces context window usage, lowers latency, and decreases inference costs. It is ideal for developers who need to reliably serialize structured data inputs or define structured outputs for LLM applications.
+
+**Use Cases:**
+- Optimizing structured data inputs to LLMs to minimize token consumption
+- Defining schema constraints for reliable structured output generation from LLM calls (e.g., function call results)
+- Reducing the overall operational cost of applications heavily reliant on structured JSON payloads with LLMs
+
+---
 
 ### [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)
 
