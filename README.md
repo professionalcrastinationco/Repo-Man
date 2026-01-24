@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 237 | **Last Updated:** 2026-01-23
+**Total Repos:** 238 | **Last Updated:** 2026-01-24
 
 ---
 
@@ -117,7 +117,7 @@
    * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
    * [mesop](#mesop-devmesop) (Rapidly build internal)
-   * *...and 11 more*
+   * *...and 12 more*
 
 
 
@@ -3199,6 +3199,19 @@ TailGrids is a comprehensive UI library offering over 600 high-quality, copy-pas
 - Rapidly prototyping and building modern websites and landing pages.
 - Developing high-quality administrative panels, dashboards, and web applications.
 - Implementing a complete and consistent design system using Tailwind CSS without starting from scratch.
+
+---
+
+### [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure)
+
+⭐ 226 | 🔤 TypeScript, React | 📅 2026-01-24
+
+This is a zero-maintenance React library that automatically generates pixel-perfect shimmer loading skeletons. It works by analyzing the component's actual runtime DOM structure, eliminating the need for developers to manually create and maintain separate skeleton markup. Use it to instantly add professional loading states to any complex React component without maintaining redundant skeleton code.
+
+**Use Cases:**
+- Quickly implementing complex shimmer loading effects without manually writing separate skeleton components.
+- Ensuring loading skeletons automatically stay synchronized when the primary component's layout or content structure changes.
+- Applying consistent, high-fidelity loading indicators across various data-heavy components like feeds, cards, or dashboards.
 
 ---
 

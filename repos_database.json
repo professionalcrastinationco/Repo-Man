@@ -4600,5 +4600,24 @@
       "TypeScript",
       "GNU Screen"
     ]
+  },
+  "darula-hpp/shimmer-from-structure": {
+    "name": "darula-hpp/shimmer-from-structure",
+    "url": "https://github.com/darula-hpp/shimmer-from-structure",
+    "stars": 226,
+    "language": "TypeScript",
+    "starred_date": "2026-01-24",
+    "main_category": "Web Development",
+    "subcategory": "Component Libraries",
+    "summary": "This is a zero-maintenance React library that automatically generates pixel-perfect shimmer loading skeletons. It works by analyzing the component's actual runtime DOM structure, eliminating the need for developers to manually create and maintain separate skeleton markup. Use it to instantly add professional loading states to any complex React component without maintaining redundant skeleton code.",
+    "use_cases": [
+      "Quickly implementing complex shimmer loading effects without manually writing separate skeleton components.",
+      "Ensuring loading skeletons automatically stay synchronized when the primary component's layout or content structure changes.",
+      "Applying consistent, high-fidelity loading indicators across various data-heavy components like feeds, cards, or dashboards."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React"
+    ]
   }
 }
