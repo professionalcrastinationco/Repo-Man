@@ -4619,5 +4619,100 @@
       "TypeScript",
       "React"
     ]
+  },
+  "mariojankovic/clueprint": {
+    "name": "mariojankovic/clueprint",
+    "url": "https://github.com/mariojankovic/clueprint",
+    "stars": 29,
+    "language": "TypeScript",
+    "starred_date": "2026-01-25",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Clueprint is a TypeScript package that gives AI coding assistants visual context and interaction capabilities in a web browser, allowing them to 'see' the browser state via MCP (Multi-modal Context Provider). Developers use it to enable AI agents like Claude to select elements, capture regions, and record complex user flows.",
+    "use_cases": [
+      "Providing visual context and browser interaction capabilities to AI agents (e.g., Claude)",
+      "Recording complex user flows for AI-driven automation and scripting",
+      "Enabling AI assistants to visually debug or understand UI states by selecting elements and capturing screen regions"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "MCP / Claude Ecosystem"
+    ]
+  },
+  "barkain/claude-code-workflow-orchestration": {
+    "name": "barkain/claude-code-workflow-orchestration",
+    "url": "https://github.com/barkain/claude-code-workflow-orchestration",
+    "stars": 16,
+    "language": "Python",
+    "starred_date": "2026-01-25",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This hook-based Python framework orchestrates complex workflows within the Claude Code environment by enforcing task delegation to specialized AI agents. It uses PreToolUse hooks to prevent direct tool usage, forcing the Unified Task Planner to route tasks to expert agents (e.g., Testing, DevOps, Architecture).\nUse this system to create structured, reliable, and expert-level multi-agent pipelines for code generation and refinement.",
+    "use_cases": [
+      "Orchestrating multi-step software development workflows using specialized AI agents.",
+      "Building structured and reliable task pipelines within the Claude Code environment.",
+      "Enforcing domain expertise and delegation rules across a team of LLM agents."
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude Ecosystem Hooks"
+    ]
+  },
+  "athola/claude-night-market": {
+    "name": "athola/claude-night-market",
+    "url": "https://github.com/athola/claude-night-market",
+    "stars": 136,
+    "language": "Python",
+    "starred_date": "2026-01-25",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This repository is a marketplace providing 16 Python plugins designed to extend and enhance Claude Code for software engineering workflows. Plugins manage complex tasks such as git operations, spec-driven development, and strict governance over code quality and stability. It is used by developers seeking to integrate rigorous development methodologies, like TDD, directly into their AI coding environment.",
+    "use_cases": [
+      "Enforcing Test-Driven Development (TDD) compliance during AI-assisted coding tasks.",
+      "Integrating advanced git operations and issue management into the Claude AI environment.",
+      "Monitoring the performance and stability of installed Claude code plugins."
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude Code Plugins"
+    ]
+  },
+  "cowwoc/cat": {
+    "name": "cowwoc/cat",
+    "url": "https://github.com/cowwoc/cat",
+    "stars": 10,
+    "language": "Shell",
+    "starred_date": "2026-01-25",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "CAT is an AI coding partner designed to bring reliability and consistency to AI-driven software development by acting as a solid foundation rather than a 'house of cards.' It learns the user's coding style and handles routine tasks automatically, only presenting the developer with genuine decision points. Use it to reliably progress development work, ensuring that AI-generated code adheres strictly to established project specifications and style guides.",
+    "use_cases": [
+      "Serve as a reliable, style-aware AI coding partner for software development.",
+      "Automate the generation and refinement of code based on project specifications and developer style preferences.",
+      "Manage spec-driven development workflows, ensuring consistency in AI output and keeping the user in control of critical changes."
+    ],
+    "tech_stack": [
+      "Shell",
+      "Claude AI"
+    ]
+  },
+  "SterlingChin/marvin-template": {
+    "name": "SterlingChin/marvin-template",
+    "url": "https://github.com/SterlingChin/marvin-template",
+    "stars": 352,
+    "language": "Shell",
+    "starred_date": "2026-01-25",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "MARVIN is an AI assistant designed to function as a personal Chief of Staff, tracking user goals and helping users stay organized by maintaining conversational memory. It requires setup within the Claude Code environment and guides the user through initial personalization steps like defining their name and objectives. Use it as a persistent, dedicated AI organizational tool.",
+    "use_cases": [
+      "Tracking and management of personal and professional goals",
+      "Maintaining conversational memory across sessions for persistent context",
+      "Serving as a dedicated AI organizational assistant for daily tasks"
+    ],
+    "tech_stack": [
+      "Shell",
+      "Claude API"
+    ]
   }
 }

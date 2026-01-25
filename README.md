@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 238 | **Last Updated:** 2026-01-24
+**Total Repos:** 243 | **Last Updated:** 2026-01-25
 
 ---
 
@@ -19,7 +19,7 @@
    * [sim](#simstudioaisim) (Designing and deploying)
    * [agents](#wshobsonagents) (Orchestrating multi-step automation)
    * [skills](#anthropicsskills) (Customizing Claude to)
-   * *...and 77 more*
+   * *...and 82 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -515,6 +515,19 @@ This project is a 'Claude Code skill' designed to automate the process of findin
 
 ---
 
+### [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template)
+
+⭐ 352 | 🔤 Shell, Claude API | 📅 2026-01-25
+
+MARVIN is an AI assistant designed to function as a personal Chief of Staff, tracking user goals and helping users stay organized by maintaining conversational memory. It requires setup within the Claude Code environment and guides the user through initial personalization steps like defining their name and objectives. Use it as a persistent, dedicated AI organizational tool.
+
+**Use Cases:**
+- Tracking and management of personal and professional goals
+- Maintaining conversational memory across sessions for persistent context
+- Serving as a dedicated AI organizational assistant for daily tasks
+
+---
+
 ### [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)
 
 ⭐ 311 | 🔤 Documentation, AI/LLM Configuration | 📅 2025-12-11
@@ -581,6 +594,19 @@ Claude Code Voice is a Python CLI utility that enables voice conversations with 
 
 ---
 
+### [athola/claude-night-market](https://github.com/athola/claude-night-market)
+
+⭐ 136 | 🔤 Python, Claude Code Plugins | 📅 2026-01-25
+
+This repository is a marketplace providing 16 Python plugins designed to extend and enhance Claude Code for software engineering workflows. Plugins manage complex tasks such as git operations, spec-driven development, and strict governance over code quality and stability. It is used by developers seeking to integrate rigorous development methodologies, like TDD, directly into their AI coding environment.
+
+**Use Cases:**
+- Enforcing Test-Driven Development (TDD) compliance during AI-assisted coding tasks.
+- Integrating advanced git operations and issue management into the Claude AI environment.
+- Monitoring the performance and stability of installed Claude code plugins.
+
+---
+
 ### [zippoxer/subtask](https://github.com/zippoxer/subtask)
 
 ⭐ 109 | 🔤 Go, Claude, Codex | 📅 2026-01-21
@@ -604,6 +630,46 @@ claude2stream exposes local Claude conversation history as a real-time Durable S
 - Monitor and live-tail ongoing Claude conversations in a dedicated streaming web interface.
 - Stream conversation history for integration with external data analysis or logging platforms.
 - Audit past interactions with Claude by accessing the history via the Durable Stream protocol.
+
+---
+
+### [mariojankovic/clueprint](https://github.com/mariojankovic/clueprint)
+
+⭐ 29 | 🔤 TypeScript, MCP / Claude Ecosystem | 📅 2026-01-25
+
+Clueprint is a TypeScript package that gives AI coding assistants visual context and interaction capabilities in a web browser, allowing them to 'see' the browser state via MCP (Multi-modal Context Provider). Developers use it to enable AI agents like Claude to select elements, capture regions, and record complex user flows.
+
+**Use Cases:**
+- Providing visual context and browser interaction capabilities to AI agents (e.g., Claude)
+- Recording complex user flows for AI-driven automation and scripting
+- Enabling AI assistants to visually debug or understand UI states by selecting elements and capturing screen regions
+
+---
+
+### [barkain/claude-code-workflow-orchestration](https://github.com/barkain/claude-code-workflow-orchestration)
+
+⭐ 16 | 🔤 Python, Claude Ecosystem Hooks | 📅 2026-01-25
+
+This hook-based Python framework orchestrates complex workflows within the Claude Code environment by enforcing task delegation to specialized AI agents. It uses PreToolUse hooks to prevent direct tool usage, forcing the Unified Task Planner to route tasks to expert agents (e.g., Testing, DevOps, Architecture).
+Use this system to create structured, reliable, and expert-level multi-agent pipelines for code generation and refinement.
+
+**Use Cases:**
+- Orchestrating multi-step software development workflows using specialized AI agents.
+- Building structured and reliable task pipelines within the Claude Code environment.
+- Enforcing domain expertise and delegation rules across a team of LLM agents.
+
+---
+
+### [cowwoc/cat](https://github.com/cowwoc/cat)
+
+⭐ 10 | 🔤 Shell, Claude AI | 📅 2026-01-25
+
+CAT is an AI coding partner designed to bring reliability and consistency to AI-driven software development by acting as a solid foundation rather than a 'house of cards.' It learns the user's coding style and handles routine tasks automatically, only presenting the developer with genuine decision points. Use it to reliably progress development work, ensuring that AI-generated code adheres strictly to established project specifications and style guides.
+
+**Use Cases:**
+- Serve as a reliable, style-aware AI coding partner for software development.
+- Automate the generation and refinement of code based on project specifications and developer style preferences.
+- Manage spec-driven development workflows, ensuring consistency in AI output and keeping the user in control of critical changes.
 
 ---
 
