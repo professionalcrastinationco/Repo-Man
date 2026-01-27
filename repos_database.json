@@ -4714,5 +4714,62 @@
       "Shell",
       "Claude API"
     ]
+  },
+  "clawdbot/clawdbot": {
+    "name": "clawdbot/clawdbot",
+    "url": "https://github.com/clawdbot/clawdbot",
+    "stars": 59299,
+    "language": "TypeScript",
+    "starred_date": "2026-01-27",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Clawdbot is a personal, self-hosted AI assistant designed to operate across any OS or platform, prioritizing data ownership. It enables users to integrate powerful AI capabilities into their existing communication channels, such as WhatsApp, for various daily tasks. Use it when you need a ubiquitous, private, and customizable AI utility.",
+    "use_cases": [
+      "Deploying a unified AI assistant accessible across multiple devices and operating systems",
+      "Integrating conversational AI capabilities directly into messaging platforms like WhatsApp or Telegram",
+      "Creating a private, self-hosted environment to interact with large language models while maintaining full ownership of conversation data"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "moltbot/summarize": {
+    "name": "moltbot/summarize",
+    "url": "https://github.com/moltbot/summarize",
+    "stars": 1030,
+    "language": "TypeScript",
+    "starred_date": "2026-01-27",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Moltbot/summarize is a versatile tool providing fast, media-aware summaries for almost any source, including web pages, PDFs, audio/video, YouTube, and podcasts. It functions as both a powerful CLI utility and a feature-rich Chrome/Firefox side panel extension offering streaming chat history. Use it to quickly extract key insights and context from long-form media, complete with advanced features like YouTube slide extraction and OCR.",
+    "use_cases": [
+      "Quickly get the main points of a long YouTube lecture or podcast episode, complete with slide previews, timestamps, and transcripts.",
+      "Summarize the content of local files (PDFs, images, audio/video) or web articles directly from the terminal or browser sidebar.",
+      "Engage in a streaming chat conversation with the AI agent about the source material being summarized within the Chrome Side Panel."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "CLI & Browser Extension"
+    ]
+  },
+  "verl-project/verl": {
+    "name": "verl-project/verl",
+    "url": "https://github.com/verl-project/verl",
+    "stars": 18740,
+    "language": "Python",
+    "starred_date": "2026-01-27",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Training & Fine-tuning",
+    "summary": "verl is a powerful Python library providing a complete Reinforcement Learning (RL) framework optimized for training and fine-tuning Large Language Models (LLMs). Developed by ByteDance, it enables researchers and engineers to implement state-of-the-art algorithms like PPO and DPO for complex preference alignment and behavior steering.",
+    "use_cases": [
+      "Implementing scalable Reinforcement Learning from Human Feedback (RLHF) pipelines for LLMs.",
+      "Fine-tuning foundational models (LLMs) to align with specific user preferences, dialogue styles, or safety constraints.",
+      "Researching and experimenting with new Reinforcement Learning algorithms tailored for natural language tasks."
+    ],
+    "tech_stack": [
+      "Python",
+      "Reinforcement Learning (RL) Framework"
+    ]
   }
 }
