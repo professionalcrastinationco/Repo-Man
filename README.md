@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 246 | **Last Updated:** 2026-01-27
+**Total Repos:** 251 | **Last Updated:** 2026-01-28
 
 ---
 
@@ -10,6 +10,7 @@
 
 * **AI Agents & Assistants**
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
+   * [moltbot](#moltbotmoltbot) (Deploying a privacy-focused)
    * [awesome-mcp-servers](#punkpeyeawesome-mcp-servers) (Discovering a wide)
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
@@ -18,8 +19,7 @@
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
    * [sim](#simstudioaisim) (Designing and deploying)
-   * [agents](#wshobsonagents) (Orchestrating multi-step automation)
-   * *...and 84 more*
+   * *...and 87 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 20 more*
+   * *...and 21 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -45,7 +45,7 @@
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [xyops](#pixlcorexyops) (Orchestrating complex operational)
-   * *...and 7 more*
+   * *...and 8 more*
 
 * **Data & Analytics**
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
@@ -620,6 +620,19 @@ Subtask is a specialized Go CLI integrated as a Claude Skill, enabling AI agents
 
 ---
 
+### [paulpreibisch/AgentVibes](https://github.com/paulpreibisch/AgentVibes)
+
+⭐ 103 | 🔤 Shell, Piper TTS/macOS Say | 📅 2026-01-28
+
+AgentVibes integrates professional text-to-speech capabilities into various AI interaction tools like Claude Code, Claude Desktop, and Warp Terminal. It allows generative agents to communicate verbally using free technologies like Piper TTS or built-in macOS voice features. Use it to create a more immersive, interactive, and accessible collaborative coding experience.
+
+**Use Cases:**
+- Adding conversational voice output to AI coding sessions (e.g., Claude Code)
+- Enhancing accessibility and immersion in terminal-based AI assistants (e.g., Warp Terminal)
+- Creating distinct voice personalities for different specialized agents or projects
+
+---
+
 ### [broady/claude2stream](https://github.com/broady/claude2stream)
 
 ⭐ 101 | 🔤 Go, TypeScript | 📅 2026-01-14
@@ -713,6 +726,19 @@ This repository is an extensive, open-sourced collection of system prompts, inte
 - Studying the proprietary system prompts and internal configurations of major AI developer tools (e.g., Cursor, Devin, Copilot).
 - Learning advanced prompt engineering techniques and defensive prompting strategies used in production LLM applications.
 - Understanding the differences and similarities between the models and prompts employed by competing AI coding assistants.
+
+---
+
+### [moltbot/moltbot](https://github.com/moltbot/moltbot)
+
+⭐ 80,067 | 🔤 TypeScript, Node.js | 📅 2026-01-28
+
+Moltbot is a personalized, self-hosted AI assistant designed to operate across multiple operating systems and platforms. Focused on the 'own-your-data' philosophy, it provides private conversational AI capabilities and utility features. It is used by individuals who want dedicated, platform-agnostic AI access integrated into their workflow, potentially through messaging apps like WhatsApp.
+
+**Use Cases:**
+- Deploying a privacy-focused personal AI assistant for general knowledge and task execution.
+- Integrating AI features directly into communication platforms such as WhatsApp or Telegram.
+- Self-hosting conversational AI services to maintain control over personal data and interactions.
 
 ---
 
@@ -992,6 +1018,19 @@ Moltbot/summarize is a versatile tool providing fast, media-aware summaries for 
 - Quickly get the main points of a long YouTube lecture or podcast episode, complete with slide previews, timestamps, and transcripts.
 - Summarize the content of local files (PDFs, images, audio/video) or web articles directly from the terminal or browser sidebar.
 - Engage in a streaming chat conversation with the AI agent about the source material being summarized within the Chrome Side Panel.
+
+---
+
+### [savbell/whisper-writer](https://github.com/savbell/whisper-writer)
+
+⭐ 1,008 | 🔤 Python, PyQt5, OpenAI Whisper | 📅 2026-01-28
+
+WhisperWriter is a small, cross-platform dictation application built in Python that uses OpenAI's Whisper model for highly accurate speech-to-text conversion. It offers features like continuous recording, configurable settings, and supports both the official OpenAI API and local API endpoints (e.g., faster-whisper). Use this application to dramatically speed up typing workflows, dictating emails, reports, or documentation directly into any text field.
+
+**Use Cases:**
+- Dictating long emails, reports, or documents quickly using natural speech.
+- Providing hands-free input for documentation or coding tasks.
+- Transcribing short spoken notes or memos directly into an active text editor.
 
 ---
 
@@ -1696,6 +1735,19 @@ Chatterbox TTS is a state-of-the-art open-source Text-to-Speech system developed
 
 ---
 
+### [rhasspy/piper](https://github.com/rhasspy/piper)
+
+⭐ 10,484 | 🔤 C++, Python | 📅 2026-01-28
+
+Piper is a fast, local neural text-to-speech (TTS) system designed for low-latency, high-quality audio generation. It enables users to deploy TTS capabilities privately and offline, making it perfect for embedded systems or local smart assistant implementations. Use it when high privacy or independence from cloud TTS services is required.
+
+**Use Cases:**
+- Providing localized, low-latency voice feedback for smart home assistants and voice control systems.
+- Generating offline audio narration for embedded devices, interactive exhibits, or video game characters.
+- Building privacy-focused applications that require converting user-provided text to speech locally.
+
+---
+
 ### [neuphonic/neutts](https://github.com/neuphonic/neutts)
 
 ⭐ 4,487 | 🔤 Python, GGUF | 📅 2026-01-16
@@ -2041,6 +2093,19 @@ Sleepless Agent is a 24/7 autonomous agent built in Python designed to maximize 
 - Fully automating tedious or low-priority coding tasks (e.g., refactoring, writing tests) during off-hours.
 - Maximizing the utilization and cost-efficiency of high-rate generative AI subscriptions.
 - Managing isolated coding environments and autonomously creating Git commits and Pull Requests based on task completion.
+
+---
+
+### [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow)
+
+⭐ 35 | 🔤 JavaScript, Node-based UI Framework | 📅 2026-01-28
+
+Vibe Workflow is an open-source, node-based editor for designing, editing, and composing AI-generated media content. It serves as a flexible alternative to commercial tools like Krea Workflows, allowing creators to build custom pipelines for high-volume media asset production.
+
+**Use Cases:**
+- Building custom pipelines for complex AI media generation and manipulation.
+- Editing and composing sequences of AI-generated content using a visual node-based system.
+- Providing an open-source foundation for developers needing a flexible AI creative workflow tool.
 
 ---
 

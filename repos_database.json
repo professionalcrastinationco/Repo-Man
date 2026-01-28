@@ -4771,5 +4771,101 @@
       "Python",
       "Reinforcement Learning (RL) Framework"
     ]
+  },
+  "rhasspy/piper": {
+    "name": "rhasspy/piper",
+    "url": "https://github.com/rhasspy/piper",
+    "stars": 10484,
+    "language": "C++",
+    "starred_date": "2026-01-28",
+    "main_category": "AI Infrastructure",
+    "subcategory": "NLP & Speech",
+    "summary": "Piper is a fast, local neural text-to-speech (TTS) system designed for low-latency, high-quality audio generation. It enables users to deploy TTS capabilities privately and offline, making it perfect for embedded systems or local smart assistant implementations. Use it when high privacy or independence from cloud TTS services is required.",
+    "use_cases": [
+      "Providing localized, low-latency voice feedback for smart home assistants and voice control systems.",
+      "Generating offline audio narration for embedded devices, interactive exhibits, or video game characters.",
+      "Building privacy-focused applications that require converting user-provided text to speech locally."
+    ],
+    "tech_stack": [
+      "C++",
+      "Python"
+    ]
+  },
+  "savbell/whisper-writer": {
+    "name": "savbell/whisper-writer",
+    "url": "https://github.com/savbell/whisper-writer",
+    "stars": 1008,
+    "language": "Python",
+    "starred_date": "2026-01-28",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "WhisperWriter is a small, cross-platform dictation application built in Python that uses OpenAI's Whisper model for highly accurate speech-to-text conversion. It offers features like continuous recording, configurable settings, and supports both the official OpenAI API and local API endpoints (e.g., faster-whisper). Use this application to dramatically speed up typing workflows, dictating emails, reports, or documentation directly into any text field.",
+    "use_cases": [
+      "Dictating long emails, reports, or documents quickly using natural speech.",
+      "Providing hands-free input for documentation or coding tasks.",
+      "Transcribing short spoken notes or memos directly into an active text editor."
+    ],
+    "tech_stack": [
+      "Python",
+      "PyQt5",
+      "OpenAI Whisper"
+    ]
+  },
+  "paulpreibisch/AgentVibes": {
+    "name": "paulpreibisch/AgentVibes",
+    "url": "https://github.com/paulpreibisch/AgentVibes",
+    "stars": 103,
+    "language": "Shell",
+    "starred_date": "2026-01-28",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "AgentVibes integrates professional text-to-speech capabilities into various AI interaction tools like Claude Code, Claude Desktop, and Warp Terminal. It allows generative agents to communicate verbally using free technologies like Piper TTS or built-in macOS voice features. Use it to create a more immersive, interactive, and accessible collaborative coding experience.",
+    "use_cases": [
+      "Adding conversational voice output to AI coding sessions (e.g., Claude Code)",
+      "Enhancing accessibility and immersion in terminal-based AI assistants (e.g., Warp Terminal)",
+      "Creating distinct voice personalities for different specialized agents or projects"
+    ],
+    "tech_stack": [
+      "Shell",
+      "Piper TTS/macOS Say"
+    ]
+  },
+  "moltbot/moltbot": {
+    "name": "moltbot/moltbot",
+    "url": "https://github.com/moltbot/moltbot",
+    "stars": 80067,
+    "language": "TypeScript",
+    "starred_date": "2026-01-28",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Moltbot is a personalized, self-hosted AI assistant designed to operate across multiple operating systems and platforms. Focused on the 'own-your-data' philosophy, it provides private conversational AI capabilities and utility features. It is used by individuals who want dedicated, platform-agnostic AI access integrated into their workflow, potentially through messaging apps like WhatsApp.",
+    "use_cases": [
+      "Deploying a privacy-focused personal AI assistant for general knowledge and task execution.",
+      "Integrating AI features directly into communication platforms such as WhatsApp or Telegram.",
+      "Self-hosting conversational AI services to maintain control over personal data and interactions."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "SamurAIGPT/Vibe-Workflow": {
+    "name": "SamurAIGPT/Vibe-Workflow",
+    "url": "https://github.com/SamurAIGPT/Vibe-Workflow",
+    "stars": 35,
+    "language": "JavaScript",
+    "starred_date": "2026-01-28",
+    "main_category": "Automation",
+    "subcategory": "Workflow Platforms",
+    "summary": "Vibe Workflow is an open-source, node-based editor for designing, editing, and composing AI-generated media content. It serves as a flexible alternative to commercial tools like Krea Workflows, allowing creators to build custom pipelines for high-volume media asset production.",
+    "use_cases": [
+      "Building custom pipelines for complex AI media generation and manipulation.",
+      "Editing and composing sequences of AI-generated content using a visual node-based system.",
+      "Providing an open-source foundation for developers needing a flexible AI creative workflow tool."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node-based UI Framework"
+    ]
   }
 }
