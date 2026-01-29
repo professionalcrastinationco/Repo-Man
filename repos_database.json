@@ -4867,5 +4867,43 @@
       "JavaScript",
       "Node-based UI Framework"
     ]
+  },
+  "kaanozhan/Frame": {
+    "name": "kaanozhan/Frame",
+    "url": "https://github.com/kaanozhan/Frame",
+    "stars": 110,
+    "language": "JavaScript",
+    "starred_date": "2026-01-29",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Frame is a specialized, lightweight IDE designed to manage coding projects specifically handled by Anthropic's Claude Code. It standardizes project structure (using files like CLAUDE.md) and automatically preserves context and decision tracking across sessions. Use it to provide a dedicated, structured environment for complex, AI-assisted coding workflows.",
+    "use_cases": [
+      "Managing and structuring complex coding projects handled by the Claude Code LLM",
+      "Standardizing documentation (CLAUDE.md, STRUCTURE.json) for improved context sharing with the AI",
+      "Tracking decisions, tasks, and project memory within an integrated desktop environment"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "IDE/Desktop App Framework"
+    ]
+  },
+  "claude-did-this/claude-hub": {
+    "name": "claude-did-this/claude-hub",
+    "url": "https://github.com/claude-did-this/claude-hub",
+    "stars": 338,
+    "language": "TypeScript",
+    "starred_date": "2026-01-29",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Claude Hub is a webhook service integrating the Claude LLM directly into GitHub repositories via pull requests and issues. It acts as an AI-powered assistant that can be summoned via @mentions to provide context-aware code analysis, answer technical questions, and suggest improvements. This tool streamlines code review processes and enhances developer understanding of the codebase.",
+    "use_cases": [
+      "Getting AI-generated summaries and detailed analysis of complex pull request changes.",
+      "Querying the codebase or specific files by mentioning the bot in an issue or PR comment.",
+      "Automating initial code review by identifying potential bugs, security flaws, or style violations."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "GitHub Webhooks"
+    ]
   }
 }

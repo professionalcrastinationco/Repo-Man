@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 251 | **Last Updated:** 2026-01-28
+**Total Repos:** 253 | **Last Updated:** 2026-01-29
 
 ---
 
@@ -19,7 +19,7 @@
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
    * [sim](#simstudioaisim) (Designing and deploying)
-   * *...and 87 more*
+   * *...and 89 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -607,6 +607,19 @@ This repository is a marketplace providing 16 Python plugins designed to extend 
 
 ---
 
+### [kaanozhan/Frame](https://github.com/kaanozhan/Frame)
+
+⭐ 110 | 🔤 JavaScript, IDE/Desktop App Framework | 📅 2026-01-29
+
+Frame is a specialized, lightweight IDE designed to manage coding projects specifically handled by Anthropic's Claude Code. It standardizes project structure (using files like CLAUDE.md) and automatically preserves context and decision tracking across sessions. Use it to provide a dedicated, structured environment for complex, AI-assisted coding workflows.
+
+**Use Cases:**
+- Managing and structuring complex coding projects handled by the Claude Code LLM
+- Standardizing documentation (CLAUDE.md, STRUCTURE.json) for improved context sharing with the AI
+- Tracking decisions, tasks, and project memory within an integrated desktop environment
+
+---
+
 ### [zippoxer/subtask](https://github.com/zippoxer/subtask)
 
 ⭐ 109 | 🔤 Go, Claude, Codex | 📅 2026-01-21
@@ -1085,6 +1098,19 @@ Docfork MCP delivers current, structured documentation specifically designed for
 - Implementing the Model Context Protocol (MCP) for documentation distribution
 - Maintaining an up-to-date knowledge base consumed by internal AI agents
 - Standardizing documentation retrieval for AI development workflows
+
+---
+
+### [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub)
+
+⭐ 338 | 🔤 TypeScript, GitHub Webhooks | 📅 2026-01-29
+
+Claude Hub is a webhook service integrating the Claude LLM directly into GitHub repositories via pull requests and issues. It acts as an AI-powered assistant that can be summoned via @mentions to provide context-aware code analysis, answer technical questions, and suggest improvements. This tool streamlines code review processes and enhances developer understanding of the codebase.
+
+**Use Cases:**
+- Getting AI-generated summaries and detailed analysis of complex pull request changes.
+- Querying the codebase or specific files by mentioning the bot in an issue or PR comment.
+- Automating initial code review by identifying potential bugs, security flaws, or style violations.
 
 ---
 
