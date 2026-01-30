@@ -4905,5 +4905,43 @@
       "TypeScript",
       "GitHub Webhooks"
     ]
+  },
+  "its-maestro-baby/maestro": {
+    "name": "its-maestro-baby/maestro",
+    "url": "https://github.com/its-maestro-baby/maestro",
+    "stars": 396,
+    "language": "Swift",
+    "starred_date": "2026-01-30",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Maestro is a native macOS application designed to orchestrate and run multiple AI coding assistants (like Claude Code CLI) in parallel. It enables users to run up to 12 simultaneous sessions, each isolated within its own git worktree. This tool is crucial for efficiently comparing different AI strategies or prompt variations against a single codebase.",
+    "use_cases": [
+      "Running 1-12 isolated AI coding sessions concurrently to compare different approaches or models.",
+      "Managing multiple isolated git worktrees for development, ensuring agents don't interfere with each other's changes.",
+      "Orchestrating complex software development tasks by dividing work across specialized AI agents."
+    ],
+    "tech_stack": [
+      "Swift",
+      "macOS"
+    ]
+  },
+  "openclaw/openclaw": {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "stars": 110367,
+    "language": "TypeScript",
+    "starred_date": "2026-01-30",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "OpenClaw is a personal, cross-platform AI assistant focused on data ownership and privacy, adhering to the principle that users should control their own data. It provides a generalized interface for interacting with Large Language Models (LLMs) across any OS or device. Use it to deploy a private AI assistant environment that ensures your conversational history remains local and secure.",
+    "use_cases": [
+      "Running a private, self-hosted AI chat interface for daily tasks and queries.",
+      "Integrating AI automation workflows across multiple different operating systems and platforms.",
+      "Maintaining personal data sovereignty while utilizing generative AI services."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
   }
 }

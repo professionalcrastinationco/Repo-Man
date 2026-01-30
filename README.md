@@ -2,13 +2,14 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 253 | **Last Updated:** 2026-01-29
+**Total Repos:** 255 | **Last Updated:** 2026-01-30
 
 ---
 
 ## 📑 Table of Contents
 
 * **AI Agents & Assistants**
+   * [openclaw](#openclawopenclaw) (Running a private,)
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
    * [moltbot](#moltbotmoltbot) (Deploying a privacy-focused)
    * [awesome-mcp-servers](#punkpeyeawesome-mcp-servers) (Discovering a wide)
@@ -18,8 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * [sim](#simstudioaisim) (Designing and deploying)
-   * *...and 89 more*
+   * *...and 91 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -728,6 +728,19 @@ Claudeman is a TypeScript application that provides a modern WebUI for managing,
 
 
 ## LLM Applications
+
+### [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
+⭐ 110,367 | 🔤 TypeScript, Node.js | 📅 2026-01-30
+
+OpenClaw is a personal, cross-platform AI assistant focused on data ownership and privacy, adhering to the principle that users should control their own data. It provides a generalized interface for interacting with Large Language Models (LLMs) across any OS or device. Use it to deploy a private AI assistant environment that ensures your conversational history remains local and secure.
+
+**Use Cases:**
+- Running a private, self-hosted AI chat interface for daily tasks and queries.
+- Integrating AI automation workflows across multiple different operating systems and platforms.
+- Maintaining personal data sovereignty while utilizing generative AI services.
+
+---
 
 ### [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
@@ -1439,6 +1452,19 @@ Gas Town is a multi-agent orchestration system designed for managing and coordin
 - Orchestrating complex software development or research projects requiring coordination between 20-30 separate AI agents.
 - Ensuring long-running agent workflows maintain context and state persistence, even after agent restarts or system failures.
 - Managing reliable communication and task handoffs between different specialized agents using built-in mailboxes and identity tracking.
+
+---
+
+### [its-maestro-baby/maestro](https://github.com/its-maestro-baby/maestro)
+
+⭐ 396 | 🔤 Swift, macOS | 📅 2026-01-30
+
+Maestro is a native macOS application designed to orchestrate and run multiple AI coding assistants (like Claude Code CLI) in parallel. It enables users to run up to 12 simultaneous sessions, each isolated within its own git worktree. This tool is crucial for efficiently comparing different AI strategies or prompt variations against a single codebase.
+
+**Use Cases:**
+- Running 1-12 isolated AI coding sessions concurrently to compare different approaches or models.
+- Managing multiple isolated git worktrees for development, ensuring agents don't interfere with each other's changes.
+- Orchestrating complex software development tasks by dividing work across specialized AI agents.
 
 ---
 
