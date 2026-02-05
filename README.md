@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 255 | **Last Updated:** 2026-01-30
+**Total Repos:** 256 | **Last Updated:** 2026-02-05
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 91 more*
+   * *...and 92 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -696,6 +696,19 @@ CAT is an AI coding partner designed to bring reliability and consistency to AI-
 - Serve as a reliable, style-aware AI coding partner for software development.
 - Automate the generation and refinement of code based on project specifications and developer style preferences.
 - Manage spec-driven development workflows, ensuring consistency in AI output and keeping the user in control of critical changes.
+
+---
+
+### [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates)
+
+⭐ 6 | 🔤 Markdown, Configuration | 📅 2026-02-05
+
+This starter kit provides best practices and templates for structuring CLAUDE.md files, optimizing context delivery to the Claude Code AI assistant. It establishes a 3-level hierarchy (Global, Project, Local) to manage personal preferences, team conventions, and sensitive local overrides effectively. Use this to ensure consistent and high-quality output from the Claude model across development projects.
+
+**Use Cases:**
+- Setting global coding standards and preferences (e.g., always run linting) for all projects.
+- Committing project-specific context, like stack, structure, and build commands, for team benefit.
+- Applying local overrides for personal terminal setup or specific editor configurations without committing them to Git.
 
 ---
 

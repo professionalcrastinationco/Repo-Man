@@ -4943,5 +4943,24 @@
       "TypeScript",
       "Node.js"
     ]
+  },
+  "abhishekray07/claude-md-templates": {
+    "name": "abhishekray07/claude-md-templates",
+    "url": "https://github.com/abhishekray07/claude-md-templates",
+    "stars": 6,
+    "language": "Various",
+    "starred_date": "2026-02-05",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This starter kit provides best practices and templates for structuring CLAUDE.md files, optimizing context delivery to the Claude Code AI assistant. It establishes a 3-level hierarchy (Global, Project, Local) to manage personal preferences, team conventions, and sensitive local overrides effectively. Use this to ensure consistent and high-quality output from the Claude model across development projects.",
+    "use_cases": [
+      "Setting global coding standards and preferences (e.g., always run linting) for all projects.",
+      "Committing project-specific context, like stack, structure, and build commands, for team benefit.",
+      "Applying local overrides for personal terminal setup or specific editor configurations without committing them to Git."
+    ],
+    "tech_stack": [
+      "Markdown",
+      "Configuration"
+    ]
   }
 }
