@@ -4962,5 +4962,44 @@
       "Markdown",
       "Configuration"
     ]
+  },
+  "Surajkumar5050/zyron-assistant": {
+    "name": "Surajkumar5050/zyron-assistant",
+    "url": "https://github.com/Surajkumar5050/zyron-assistant",
+    "stars": 33,
+    "language": "Python",
+    "starred_date": "2026-02-06",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "ZYRON Assistant is a 100% local and privacy-focused AI desktop assistant for Windows, powered by Ollama for processing commands. It allows users to control their PC through voice commands or remotely via Telegram integration. Use this tool when you require automation and remote control over your Windows environment while prioritizing local data privacy and security.",
+    "use_cases": [
+      "Controlling desktop functions (e.g., launching applications or system tasks) using local voice commands.",
+      "Executing PC automation tasks remotely via messages sent through Telegram.",
+      "Running LLM-based tasks and queries entirely on a local machine to ensure maximum data privacy."
+    ],
+    "tech_stack": [
+      "Python",
+      "Ollama"
+    ]
+  },
+  "hassio-addons/app-appdaemon": {
+    "name": "hassio-addons/app-appdaemon",
+    "url": "https://github.com/hassio-addons/app-appdaemon",
+    "stars": 204,
+    "language": "Jinja",
+    "starred_date": "2026-02-06",
+    "main_category": "Home Automation",
+    "subcategory": "HA Resources",
+    "summary": "AppDaemon is a Home Assistant Community Addon that provides a dedicated, loosely coupled environment for writing complex automation logic using Python scripts. It offers greater flexibility and speed compared to standard YAML automations, specializing in event-driven programming. This addon also includes HADashboard, enabling users to create highly customizable web interfaces for monitoring and controlling their smart home.",
+    "use_cases": [
+      "Developing advanced, stateful automation logic using Python instead of relying solely on HA's native YAML or GUI tools.",
+      "Creating completely custom, high-density HADashboards optimized for wall-mounted tablets or specific control panels.",
+      "Implementing complex integrations or custom data processing steps before interacting with Home Assistant entities."
+    ],
+    "tech_stack": [
+      "Python",
+      "Jinja",
+      "Home Assistant"
+    ]
   }
 }

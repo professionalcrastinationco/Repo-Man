@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 256 | **Last Updated:** 2026-02-05
+**Total Repos:** 258 | **Last Updated:** 2026-02-06
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 92 more*
+   * *...and 93 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -86,12 +86,12 @@
    * [versatile_thermostat](#jmcollin78versatile-thermostat) (Simplifying complex Home)
    * [cafe-hass](#fezvrastacafe-hass) (Visually design complex)
    * [ha-measureit](#danieldotnlha-measureit) (Measure the daily)
+   * [app-appdaemon](#hassio-addonsapp-appdaemon) (Developing advanced, stateful)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
    * [humidity-intelligence](#senyo888humidity-intelligence) (Proactively monitor and)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
    * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
-   * [Humidity-Intelligence](#senyo888humidity-intelligence) (Proactively monitor condensation)
-   * *...and 8 more*
+   * *...and 9 more*
 
 * **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
@@ -1176,6 +1176,19 @@ SkillCreator is the ultimate meta-skill for generating best-in-class Claude Code
 - Generating new, fully verified Claude Code skills based on a simple prompt (e.g., automated code review).
 - Establishing a rigorous, quality-gated workflow for developing AI skills using the 4-phase synthesis process.
 - Rapidly prototyping and deploying complex, multi-agent AI capabilities for the Anthropic Claude platform.
+
+---
+
+### [Surajkumar5050/zyron-assistant](https://github.com/Surajkumar5050/zyron-assistant)
+
+⭐ 33 | 🔤 Python, Ollama | 📅 2026-02-06
+
+ZYRON Assistant is a 100% local and privacy-focused AI desktop assistant for Windows, powered by Ollama for processing commands. It allows users to control their PC through voice commands or remotely via Telegram integration. Use this tool when you require automation and remote control over your Windows environment while prioritizing local data privacy and security.
+
+**Use Cases:**
+- Controlling desktop functions (e.g., launching applications or system tasks) using local voice commands.
+- Executing PC automation tasks remotely via messages sent through Telegram.
+- Running LLM-based tasks and queries entirely on a local machine to ensure maximum data privacy.
 
 ---
 
@@ -3079,6 +3092,19 @@ This is a comprehensive, curated 'awesome list' dedicated entirely to Home Assis
 - Discovering community-developed add-ons, custom integrations, and repositories for Home Assistant.
 - Finding inspiration and example YAML configurations for specific automation scenarios.
 - Identifying compatible hardware, DIY projects, and best practices related to IoT and smart home devices.
+
+---
+
+### [hassio-addons/app-appdaemon](https://github.com/hassio-addons/app-appdaemon)
+
+⭐ 204 | 🔤 Python, Jinja, Home Assistant | 📅 2026-02-06
+
+AppDaemon is a Home Assistant Community Addon that provides a dedicated, loosely coupled environment for writing complex automation logic using Python scripts. It offers greater flexibility and speed compared to standard YAML automations, specializing in event-driven programming. This addon also includes HADashboard, enabling users to create highly customizable web interfaces for monitoring and controlling their smart home.
+
+**Use Cases:**
+- Developing advanced, stateful automation logic using Python instead of relying solely on HA's native YAML or GUI tools.
+- Creating completely custom, high-density HADashboards optimized for wall-mounted tablets or specific control panels.
+- Implementing complex integrations or custom data processing steps before interacting with Home Assistant entities.
 
 ---
 
