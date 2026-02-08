@@ -5001,5 +5001,24 @@
       "Jinja",
       "Home Assistant"
     ]
+  },
+  "DevAgentForge/Open-Claude-Cowork": {
+    "name": "DevAgentForge/Open-Claude-Cowork",
+    "url": "https://github.com/DevAgentForge/Open-Claude-Cowork",
+    "stars": 2801,
+    "language": "TypeScript",
+    "starred_date": "2026-02-08",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Open Claude Cowork is an open-source desktop AI assistant (macOS/Linux) designed to handle programming, file management, and general productivity tasks. It leverages sophisticated LLMs like MiniMax-M2.1 to execute complex, multi-step instructions described in natural language. Use it as a powerful co-worker for navigating digital environments and streamlining workflows.",
+    "use_cases": [
+      "Receiving instant programming assistance, code generation, and debugging help from the desktop agent.",
+      "Performing file system operations (like organizing, moving, or modifying files) using natural language commands.",
+      "Executing long, multi-step descriptive tasks across the operating system (general-purpose digital navigation)."
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "LLM APIs (MiniMax)"
+    ]
   }
 }

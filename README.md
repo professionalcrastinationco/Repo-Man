@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 258 | **Last Updated:** 2026-02-06
+**Total Repos:** 259 | **Last Updated:** 2026-02-08
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 93 more*
+   * *...and 94 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -979,6 +979,19 @@ This repository provides open-source TypeScript scaffolding and modular componen
 - Building a personal, integrated AI operating system (PAI)
 - Developing modular AI tools and agents for productivity augmentation
 - Creating standardized architecture for combining multiple AI workflows (Packs and Bundles)
+
+---
+
+### [DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork)
+
+⭐ 2,801 | 🔤 TypeScript, LLM APIs (MiniMax) | 📅 2026-02-08
+
+Open Claude Cowork is an open-source desktop AI assistant (macOS/Linux) designed to handle programming, file management, and general productivity tasks. It leverages sophisticated LLMs like MiniMax-M2.1 to execute complex, multi-step instructions described in natural language. Use it as a powerful co-worker for navigating digital environments and streamlining workflows.
+
+**Use Cases:**
+- Receiving instant programming assistance, code generation, and debugging help from the desktop agent.
+- Performing file system operations (like organizing, moving, or modifying files) using natural language commands.
+- Executing long, multi-step descriptive tasks across the operating system (general-purpose digital navigation).
 
 ---
 
