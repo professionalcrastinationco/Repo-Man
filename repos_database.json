@@ -5020,5 +5020,26 @@
       "TypeScript",
       "LLM APIs (MiniMax)"
     ]
+  },
+  "gsd-build/get-shit-done": {
+    "name": "gsd-build/get-shit-done",
+    "url": "https://github.com/gsd-build/get-shit-done",
+    "stars": 12801,
+    "language": "JavaScript",
+    "starred_date": "2026-02-10",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Memory & Context",
+    "summary": "A specialized system for context engineering and meta-prompting designed to solve context rot in AI coding assistants like Claude Code. It implements spec-driven development workflows to maintain high-quality code generation as project history grows.",
+    "use_cases": [
+      "Preventing performance degradation in Claude Code during long development sessions",
+      "Implementing spec-driven development for AI-assisted coding",
+      "Managing complex context for LLM-based CLI tools"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Claude Code",
+      "Gemini CLI",
+      "OpenCode"
+    ]
   }
 }
