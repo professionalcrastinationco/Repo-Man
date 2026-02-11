@@ -5041,5 +5041,25 @@
       "Gemini CLI",
       "OpenCode"
     ]
+  },
+  "Piebald-AI/tweakcc": {
+    "name": "Piebald-AI/tweakcc",
+    "url": "https://github.com/Piebald-AI/tweakcc",
+    "stars": 1049,
+    "language": "TypeScript",
+    "starred_date": "2026-02-11",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "A customization utility for the Claude Code CLI that allows users to modify system prompts, UI themes, and toolsets. It provides deep personalization options for the terminal-based AI assistant, including support for AGENTS.md and unlocking hidden features.",
+    "use_cases": [
+      "Personalizing the UI and system prompts of the Claude Code CLI",
+      "Creating custom toolsets and input pattern highlighters for AI workflows",
+      "Managing complex agent configurations through AGENTS.md support"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Bun",
+      "Claude Code"
+    ]
   }
 }
