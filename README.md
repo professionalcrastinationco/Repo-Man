@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 261 | **Last Updated:** 2026-02-11
+**Total Repos:** 262 | **Last Updated:** 2026-02-13
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 96 more*
+   * *...and 97 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -246,6 +246,19 @@ Use it when you need to define persistent AI workflows, such as automated PR gen
 - Developing continuous autonomy agents following the iterative 'Ralph Wiggum technique'.
 - Building full-featured CLI agents integrating tools like Vercel Sandbox and browser automation (Playwright).
 - Automating developer workflows, such as handling GitHub Pull Request integration via a looping AI agent.
+
+---
+
+### [avifenesh/agentsys](https://github.com/avifenesh/agentsys)
+
+⭐ 376 | 🔤 JavaScript, Node.js, npm | 📅 2026-02-13
+
+AgentSys is a modular runtime and orchestration system designed to enhance AI coding assistants like Claude Code and Codex with additional plugins and skills. It provides a suite of pre-built agents and automated workflows to handle tasks beyond code generation, streamlining the entire development lifecycle.
+
+**Use Cases:**
+- Enhancing AI coding assistants with custom slash commands and plugins
+- Automating repetitive development workflows and code reviews
+- Orchestrating multi-agent systems for complex software engineering tasks
 
 ---
 

@@ -5061,5 +5061,25 @@
       "Bun",
       "Claude Code"
     ]
+  },
+  "avifenesh/agentsys": {
+    "name": "avifenesh/agentsys",
+    "url": "https://github.com/avifenesh/agentsys",
+    "stars": 376,
+    "language": "JavaScript",
+    "starred_date": "2026-02-13",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "AgentSys is a modular runtime and orchestration system designed to enhance AI coding assistants like Claude Code and Codex with additional plugins and skills. It provides a suite of pre-built agents and automated workflows to handle tasks beyond code generation, streamlining the entire development lifecycle.",
+    "use_cases": [
+      "Enhancing AI coding assistants with custom slash commands and plugins",
+      "Automating repetitive development workflows and code reviews",
+      "Orchestrating multi-agent systems for complex software engineering tasks"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js",
+      "npm"
+    ]
   }
 }
