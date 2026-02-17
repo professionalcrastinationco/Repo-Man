@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 262 | **Last Updated:** 2026-02-13
+**Total Repos:** 264 | **Last Updated:** 2026-02-17
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 97 more*
+   * *...and 98 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -78,7 +78,7 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * *...and 27 more*
+   * *...and 28 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -709,6 +709,19 @@ Use this system to create structured, reliable, and expert-level multi-agent pip
 - Orchestrating multi-step software development workflows using specialized AI agents.
 - Building structured and reliable task pipelines within the Claude Code environment.
 - Enforcing domain expertise and delegation rules across a team of LLM agents.
+
+---
+
+### [itsmostafa/gorlm](https://github.com/itsmostafa/gorlm)
+
+⭐ 11 | 🔤 Go, Claude Code, Git | 📅 2026-02-17
+
+A CLI tool that implements the Ralph Wiggum Technique to create an agentic loop using Claude Code. It enables AI agents to work autonomously on development tasks by running iterative cycles and performing automatic git pushes.
+
+**Use Cases:**
+- Automating long-running software development tasks with Claude
+- Running autonomous AI agent loops for continuous code generation
+- Scaling developer productivity by letting AI agents build features iteratively
 
 ---
 
@@ -2815,6 +2828,19 @@ Toasty is a tiny, dependency-free Windows command-line utility for triggering na
 - Triggering a custom Windows toast notification from a batch script or terminal command line.
 - Integrating desktop alerts into local build processes or automation scripts to signify completion or errors.
 - Installing hooks for AI CLI tools (e.g., Claude or Gemini) to automatically receive a desktop notification upon task completion.
+
+---
+
+### [halilc4/tabbyspaces](https://github.com/halilc4/tabbyspaces)
+
+⭐ 26 | 🔤 TypeScript, Tabby Plugin API | 📅 2026-02-17
+
+TabbySpaces is a visual workspace editor for the Tabby terminal that allows users to design and manage complex nested split layouts without editing configuration files. It enables users to configure specific profiles, working directories, and startup commands for individual panes and launch them instantly.
+
+**Use Cases:**
+- Visually designing and saving nested terminal layouts
+- Configuring multi-pane environments with specific shell profiles and startup commands
+- Automating the launch of multiple terminal workspaces on application startup
 
 ---
 

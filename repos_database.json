@@ -5081,5 +5081,44 @@
       "Node.js",
       "npm"
     ]
+  },
+  "halilc4/tabbyspaces": {
+    "name": "halilc4/tabbyspaces",
+    "url": "https://github.com/halilc4/tabbyspaces",
+    "stars": 26,
+    "language": "TypeScript",
+    "starred_date": "2026-02-17",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "TabbySpaces is a visual workspace editor for the Tabby terminal that allows users to design and manage complex nested split layouts without editing configuration files. It enables users to configure specific profiles, working directories, and startup commands for individual panes and launch them instantly.",
+    "use_cases": [
+      "Visually designing and saving nested terminal layouts",
+      "Configuring multi-pane environments with specific shell profiles and startup commands",
+      "Automating the launch of multiple terminal workspaces on application startup"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Tabby Plugin API"
+    ]
+  },
+  "itsmostafa/gorlm": {
+    "name": "itsmostafa/gorlm",
+    "url": "https://github.com/itsmostafa/gorlm",
+    "stars": 11,
+    "language": "Go",
+    "starred_date": "2026-02-17",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "A CLI tool that implements the Ralph Wiggum Technique to create an agentic loop using Claude Code. It enables AI agents to work autonomously on development tasks by running iterative cycles and performing automatic git pushes.",
+    "use_cases": [
+      "Automating long-running software development tasks with Claude",
+      "Running autonomous AI agent loops for continuous code generation",
+      "Scaling developer productivity by letting AI agents build features iteratively"
+    ],
+    "tech_stack": [
+      "Go",
+      "Claude Code",
+      "Git"
+    ]
   }
 }
