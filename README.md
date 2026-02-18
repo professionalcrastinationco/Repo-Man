@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 264 | **Last Updated:** 2026-02-17
+**Total Repos:** 272 | **Last Updated:** 2026-02-18
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 98 more*
+   * *...and 100 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 21 more*
+   * *...and 23 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -63,6 +63,7 @@
    * [tabler-icons](#tablertabler-icons) (Integrating consistent visual)
    * [icons](#twbsicons) (Integrating scalable, accessibility-focused)
    * [SubtlePatterns](#atlemosubtlepatterns) (Applying subtle, repeating)
+   * [vscode-dark-islands](#bwya77vscode-dark-islands) (Modernizing the Visual)
    * [claude-design-skill](#dammyjay93claude-design-skill) (Generating high-fidelity SaaS)
    * [adabraka-ui](#auganiadabraka-ui) (Building new high-performance)
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
@@ -78,7 +79,7 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * *...and 28 more*
+   * *...and 30 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -117,7 +118,7 @@
    * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
    * [mesop](#mesop-devmesop) (Rapidly build internal)
-   * *...and 12 more*
+   * *...and 13 more*
 
 
 
@@ -577,6 +578,19 @@ A self-learning system for Claude Code that captures user corrections and prefer
 - Providing Claude with persistent context and behavioral memory across multiple coding sessions.
 - Capturing and storing specific corrections or preferred coding styles to prevent repeated AI errors.
 - Standardizing the skills, constraints, and operational persona of an LLM agent (Claude) for consistency.
+
+---
+
+### [hallucinogen/agent-viewer](https://github.com/hallucinogen/agent-viewer)
+
+⭐ 249 | 🔤 Node.js, tmux, HTML | 📅 2026-02-18
+
+A web-based Kanban board for managing multiple Claude Code agents running in tmux sessions. It provides a unified interface to spawn, monitor, and interact with agents from a browser or mobile device.
+
+**Use Cases:**
+- Managing multiple concurrent Claude Code sessions
+- Monitoring long-running AI agent tasks through a web UI
+- Remote agent management via mobile using Tailscale
 
 ---
 
@@ -1179,6 +1193,19 @@ Docfork MCP delivers current, structured documentation specifically designed for
 
 ---
 
+### [avihaymenahem/velo](https://github.com/avihaymenahem/velo)
+
+⭐ 345 | 🔤 TypeScript, Tauri, React | 📅 2026-02-18
+
+Velo is an open-source, keyboard-first desktop email client designed for speed and privacy. Built with Tauri and Rust, it features a local-first architecture and integrated AI capabilities to streamline email management and productivity.
+
+**Use Cases:**
+- Efficiently managing multiple email accounts via a keyboard-centric interface
+- Maintaining privacy through local-first email storage and processing
+- Enhancing email composition and organization with AI-powered tools
+
+---
+
 ### [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub)
 
 ⭐ 338 | 🔤 TypeScript, GitHub Webhooks | 📅 2026-01-29
@@ -1776,6 +1803,32 @@ This repository provides the official implementation and components for the Qwen
 - Implementing retrieval-augmented generation (RAG) pipelines requiring multimodal context
 - Improving the relevance of search results using the specialized Qwen3-VL-Reranker component
 - Generating high-dimensional vector embeddings for indexing diverse data types
+
+---
+
+### [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+
+⭐ 572 | 🔤 Rust | 📅 2026-02-18
+
+llmfit is a terminal-based utility that scans hardware components to determine which LLM models are compatible with a system's RAM, CPU, and GPU. It provides an interactive TUI to score models based on quality, speed, and fit, helping users optimize their local AI environment.
+
+**Use Cases:**
+- Benchmarking local hardware for LLM compatibility and performance
+- Selecting the optimal quantization level for specific memory constraints
+- Analyzing multi-GPU and MoE architecture support on a local workstation
+
+---
+
+### [Mathews-Tom/no-magic](https://github.com/Mathews-Tom/no-magic)
+
+⭐ 444 | 🔤 Python | 📅 2026-02-18
+
+A collection of over 30 machine learning algorithms implemented from scratch in Python with zero external dependencies. It aims to demystify AI by providing clear, readable implementations of model logic to help developers understand the mathematics behind the 'magic' of high-level libraries.
+
+**Use Cases:**
+- Gaining a deep understanding of machine learning algorithm implementations
+- Developing AI models in restricted environments without third-party dependencies
+- Providing an educational reference for computer science students and researchers
 
 ---
 
@@ -2409,6 +2462,19 @@ This repository is a comprehensive collection of subtle background patterns, der
 
 ---
 
+### [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
+
+⭐ 3,534 | 🔤 Visual Studio Code Theme API, JSON, PowerShell | 📅 2026-02-18
+
+A refined Visual Studio Code theme inspired by JetBrains' Islands Dark, featuring a deep dark palette with floating glass-like panels. It provides a modern, high-contrast UI with smooth animations and rounded corners for a premium IDE experience.
+
+**Use Cases:**
+- Modernizing the Visual Studio Code interface
+- Replicating the JetBrains Islands Dark aesthetic within VSCode
+- Improving editor focus with a deep dark background and glass-effect UI components
+
+---
+
 ### [Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill)
 
 ⭐ 404 | 🔤 Shell, Claude Code (AI Model) | 📅 2026-01-06
@@ -2739,6 +2805,19 @@ This is a high-performance Rust library and accompanying HTTP backend service de
 
 ---
 
+### [Veirt/weathr](https://github.com/Veirt/weathr)
+
+⭐ 1,290 | 🔤 Rust, Open-Meteo API | 📅 2026-02-18
+
+A terminal-based weather application written in Rust that provides real-time meteorological data accompanied by ASCII animations. It features dynamic weather effects like rain, snow, and thunderstorms along with automatic location detection.
+
+**Use Cases:**
+- Checking real-time weather conditions directly from the command line
+- Adding visual weather animations to terminal-based workflows
+- Monitoring local forecasts using auto-location detection without leaving the terminal
+
+---
+
 ### [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)
 
 ⭐ 993 | 🔤 Python, SOCKS5, SMTP/TLS | 📅 2026-01-14
@@ -2749,6 +2828,19 @@ A high-speed covert SOCKS5 proxy tunnel designed to bypass network censorship an
 - Bypassing national censorship and restrictive network firewalls
 - Evading Deep Packet Inspection (DPI) systems by masquerading traffic as legitimate email
 - Creating an obfuscated SOCKS5 proxy link for general applications (browsers, chat clients)
+
+---
+
+### [vercel-labs/portless](https://github.com/vercel-labs/portless)
+
+⭐ 975 | 🔤 TypeScript, Node.js | 📅 2026-02-18
+
+Portless is a CLI utility that replaces traditional localhost port numbers with human-readable .localhost URLs. It manages a background proxy to route named subdomains to your local applications, eliminating port conflicts and the need to remember specific port numbers.
+
+**Use Cases:**
+- Replacing hard-to-remember port numbers with descriptive named subdomains
+- Preventing port conflicts when running multiple development projects simultaneously
+- Improving developer experience for microservices and multi-app local environments
 
 ---
 
@@ -3512,6 +3604,19 @@ This JavaScript library automatically generates an HTML form from a JSON Schema 
 - Building dynamic configuration editors for web applications or microservices.
 - Creating administrative dashboards for managing structured data defined by JSON Schemas.
 - Generating complex data input forms where strict validation against a schema is required.
+
+---
+
+### [knadh/oat](https://github.com/knadh/oat)
+
+⭐ 3,211 | 🔤 CSS, JavaScript, WebComponents | 📅 2026-02-18
+
+Oat is an ultra-lightweight UI library that styles semantic HTML tags and attributes contextually with zero dependencies. It provides essential web components and CSS styling in a tiny ~8KB package to reduce markup class pollution and framework bloat.
+
+**Use Cases:**
+- Building lightweight web applications without heavy CSS frameworks
+- Prototyping projects using semantic HTML and native WebComponents
+- Creating fast-loading dashboards and tools with minimal JavaScript overhead
 
 ---
 

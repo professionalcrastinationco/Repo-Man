@@ -5120,5 +5120,162 @@
       "Claude Code",
       "Git"
     ]
+  },
+  "hallucinogen/agent-viewer": {
+    "name": "hallucinogen/agent-viewer",
+    "url": "https://github.com/hallucinogen/agent-viewer",
+    "stars": 249,
+    "language": "HTML",
+    "starred_date": "2026-02-18",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "A web-based Kanban board for managing multiple Claude Code agents running in tmux sessions. It provides a unified interface to spawn, monitor, and interact with agents from a browser or mobile device.",
+    "use_cases": [
+      "Managing multiple concurrent Claude Code sessions",
+      "Monitoring long-running AI agent tasks through a web UI",
+      "Remote agent management via mobile using Tailscale"
+    ],
+    "tech_stack": [
+      "Node.js",
+      "tmux",
+      "HTML",
+      "Claude CLI"
+    ]
+  },
+  "Veirt/weathr": {
+    "name": "Veirt/weathr",
+    "url": "https://github.com/Veirt/weathr",
+    "stars": 1290,
+    "language": "Rust",
+    "starred_date": "2026-02-18",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "A terminal-based weather application written in Rust that provides real-time meteorological data accompanied by ASCII animations. It features dynamic weather effects like rain, snow, and thunderstorms along with automatic location detection.",
+    "use_cases": [
+      "Checking real-time weather conditions directly from the command line",
+      "Adding visual weather animations to terminal-based workflows",
+      "Monitoring local forecasts using auto-location detection without leaving the terminal"
+    ],
+    "tech_stack": [
+      "Rust",
+      "Open-Meteo API"
+    ]
+  },
+  "vercel-labs/portless": {
+    "name": "vercel-labs/portless",
+    "url": "https://github.com/vercel-labs/portless",
+    "stars": 975,
+    "language": "TypeScript",
+    "starred_date": "2026-02-18",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "Portless is a CLI utility that replaces traditional localhost port numbers with human-readable .localhost URLs. It manages a background proxy to route named subdomains to your local applications, eliminating port conflicts and the need to remember specific port numbers.",
+    "use_cases": [
+      "Replacing hard-to-remember port numbers with descriptive named subdomains",
+      "Preventing port conflicts when running multiple development projects simultaneously",
+      "Improving developer experience for microservices and multi-app local environments"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "knadh/oat": {
+    "name": "knadh/oat",
+    "url": "https://github.com/knadh/oat",
+    "stars": 3211,
+    "language": "CSS",
+    "starred_date": "2026-02-18",
+    "main_category": "Web Development",
+    "subcategory": "Component Libraries",
+    "summary": "Oat is an ultra-lightweight UI library that styles semantic HTML tags and attributes contextually with zero dependencies. It provides essential web components and CSS styling in a tiny ~8KB package to reduce markup class pollution and framework bloat.",
+    "use_cases": [
+      "Building lightweight web applications without heavy CSS frameworks",
+      "Prototyping projects using semantic HTML and native WebComponents",
+      "Creating fast-loading dashboards and tools with minimal JavaScript overhead"
+    ],
+    "tech_stack": [
+      "CSS",
+      "JavaScript",
+      "WebComponents",
+      "HTML"
+    ]
+  },
+  "Mathews-Tom/no-magic": {
+    "name": "Mathews-Tom/no-magic",
+    "url": "https://github.com/Mathews-Tom/no-magic",
+    "stars": 444,
+    "language": "Python",
+    "starred_date": "2026-02-18",
+    "main_category": "AI Infrastructure",
+    "subcategory": "LLM Resources",
+    "summary": "A collection of over 30 machine learning algorithms implemented from scratch in Python with zero external dependencies. It aims to demystify AI by providing clear, readable implementations of model logic to help developers understand the mathematics behind the 'magic' of high-level libraries.",
+    "use_cases": [
+      "Gaining a deep understanding of machine learning algorithm implementations",
+      "Developing AI models in restricted environments without third-party dependencies",
+      "Providing an educational reference for computer science students and researchers"
+    ],
+    "tech_stack": [
+      "Python"
+    ]
+  },
+  "AlexsJones/llmfit": {
+    "name": "AlexsJones/llmfit",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "stars": 572,
+    "language": "Rust",
+    "starred_date": "2026-02-18",
+    "main_category": "AI Infrastructure",
+    "subcategory": "LLM Resources",
+    "summary": "llmfit is a terminal-based utility that scans hardware components to determine which LLM models are compatible with a system's RAM, CPU, and GPU. It provides an interactive TUI to score models based on quality, speed, and fit, helping users optimize their local AI environment.",
+    "use_cases": [
+      "Benchmarking local hardware for LLM compatibility and performance",
+      "Selecting the optimal quantization level for specific memory constraints",
+      "Analyzing multi-GPU and MoE architecture support on a local workstation"
+    ],
+    "tech_stack": [
+      "Rust"
+    ]
+  },
+  "bwya77/vscode-dark-islands": {
+    "name": "bwya77/vscode-dark-islands",
+    "url": "https://github.com/bwya77/vscode-dark-islands",
+    "stars": 3534,
+    "language": "PowerShell",
+    "starred_date": "2026-02-18",
+    "main_category": "Design & Assets",
+    "subcategory": "Design Resources",
+    "summary": "A refined Visual Studio Code theme inspired by JetBrains' Islands Dark, featuring a deep dark palette with floating glass-like panels. It provides a modern, high-contrast UI with smooth animations and rounded corners for a premium IDE experience.",
+    "use_cases": [
+      "Modernizing the Visual Studio Code interface",
+      "Replicating the JetBrains Islands Dark aesthetic within VSCode",
+      "Improving editor focus with a deep dark background and glass-effect UI components"
+    ],
+    "tech_stack": [
+      "Visual Studio Code Theme API",
+      "JSON",
+      "PowerShell"
+    ]
+  },
+  "avihaymenahem/velo": {
+    "name": "avihaymenahem/velo",
+    "url": "https://github.com/avihaymenahem/velo",
+    "stars": 345,
+    "language": "TypeScript",
+    "starred_date": "2026-02-18",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "Velo is an open-source, keyboard-first desktop email client designed for speed and privacy. Built with Tauri and Rust, it features a local-first architecture and integrated AI capabilities to streamline email management and productivity.",
+    "use_cases": [
+      "Efficiently managing multiple email accounts via a keyboard-centric interface",
+      "Maintaining privacy through local-first email storage and processing",
+      "Enhancing email composition and organization with AI-powered tools"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Tauri",
+      "React",
+      "Rust"
+    ]
   }
 }
