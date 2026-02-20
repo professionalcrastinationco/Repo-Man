@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 272 | **Last Updated:** 2026-02-18
+**Total Repos:** 273 | **Last Updated:** 2026-02-20
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 100 more*
+   * *...and 101 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -736,6 +736,19 @@ A CLI tool that implements the Ralph Wiggum Technique to create an agentic loop 
 - Automating long-running software development tasks with Claude
 - Running autonomous AI agent loops for continuous code generation
 - Scaling developer productivity by letting AI agents build features iteratively
+
+---
+
+### [davydany/ClawIDE](https://github.com/davydany/ClawIDE)
+
+⭐ 11 | 🔤 Go, xterm.js, CodeMirror 6 | 📅 2026-02-20
+
+ClawIDE is a web-based IDE specifically built to manage multiple Claude Code sessions with features like terminal multiplexing and file editing. It allows developers to handle parallel AI-driven workflows across different git worktrees and Docker environments from a single self-hosted interface.
+
+**Use Cases:**
+- Running multiple Claude Code terminal sessions in a single web interface
+- Managing git worktrees to perform AI-assisted coding on different branches simultaneously
+- Interacting with project files and Docker containers while using Claude
 
 ---
 

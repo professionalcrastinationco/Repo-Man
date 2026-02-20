@@ -5277,5 +5277,27 @@
       "React",
       "Rust"
     ]
+  },
+  "davydany/ClawIDE": {
+    "name": "davydany/ClawIDE",
+    "url": "https://github.com/davydany/ClawIDE",
+    "stars": 11,
+    "language": "Go",
+    "starred_date": "2026-02-20",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "ClawIDE is a web-based IDE specifically built to manage multiple Claude Code sessions with features like terminal multiplexing and file editing. It allows developers to handle parallel AI-driven workflows across different git worktrees and Docker environments from a single self-hosted interface.",
+    "use_cases": [
+      "Running multiple Claude Code terminal sessions in a single web interface",
+      "Managing git worktrees to perform AI-assisted coding on different branches simultaneously",
+      "Interacting with project files and Docker containers while using Claude"
+    ],
+    "tech_stack": [
+      "Go",
+      "xterm.js",
+      "CodeMirror 6",
+      "Docker",
+      "WebSockets"
+    ]
   }
 }
