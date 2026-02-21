@@ -5299,5 +5299,25 @@
       "Docker",
       "WebSockets"
     ]
+  },
+  "agent-sh/agentsys": {
+    "name": "agent-sh/agentsys",
+    "url": "https://github.com/agent-sh/agentsys",
+    "stars": 461,
+    "language": "JavaScript",
+    "starred_date": "2026-02-21",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "AgentSys is a modular runtime and orchestration system designed to enhance AI-driven coding by providing a suite of agents, skills, and plugins. It serves as a specialized execution layer for tools like Claude Code and Codex, automating developer workflows through a standardized plugin architecture.",
+    "use_cases": [
+      "Orchestrating multiple AI agents for complex software development tasks",
+      "Extending AI capabilities with modular skills and plugins for CLI-based coding",
+      "Automating repetitive developer workflows using predefined agent roles"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Node.js",
+      "LLM Integration (Anthropic/OpenAI)"
+    ]
   }
 }
