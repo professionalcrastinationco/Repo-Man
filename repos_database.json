@@ -5319,5 +5319,25 @@
       "Node.js",
       "LLM Integration (Anthropic/OpenAI)"
     ]
+  },
+  "Ark0N/Codeman": {
+    "name": "Ark0N/Codeman",
+    "url": "https://github.com/Ark0N/Codeman",
+    "stars": 124,
+    "language": "TypeScript",
+    "starred_date": "2026-02-27",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Codeman is a modern WebUI and control plane designed to manage AI coding agents like Claude Code and Opencode within Tmux sessions. It provides a mobile-first dashboard for multi-session monitoring, zero-lag input overlays, and session persistence.",
+    "use_cases": [
+      "Managing multiple AI coding agent sessions in a unified web interface",
+      "Using Claude Code on mobile devices via a responsive web dashboard",
+      "Monitoring and controlling remote AI agent instances with low latency"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Tmux"
+    ]
   }
 }

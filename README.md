@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 274 | **Last Updated:** 2026-02-21
+**Total Repos:** 275 | **Last Updated:** 2026-02-27
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 102 more*
+   * *...and 103 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -657,6 +657,19 @@ This repository is a marketplace providing 16 Python plugins designed to extend 
 - Enforcing Test-Driven Development (TDD) compliance during AI-assisted coding tasks.
 - Integrating advanced git operations and issue management into the Claude AI environment.
 - Monitoring the performance and stability of installed Claude code plugins.
+
+---
+
+### [Ark0N/Codeman](https://github.com/Ark0N/Codeman)
+
+⭐ 124 | 🔤 TypeScript, Node.js, Tmux | 📅 2026-02-27
+
+Codeman is a modern WebUI and control plane designed to manage AI coding agents like Claude Code and Opencode within Tmux sessions. It provides a mobile-first dashboard for multi-session monitoring, zero-lag input overlays, and session persistence.
+
+**Use Cases:**
+- Managing multiple AI coding agent sessions in a unified web interface
+- Using Claude Code on mobile devices via a responsive web dashboard
+- Monitoring and controlling remote AI agent instances with low latency
 
 ---
 
