@@ -5339,5 +5339,26 @@
       "Node.js",
       "Tmux"
     ]
+  },
+  "ruvnet/ruflo": {
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "stars": 16029,
+    "language": "TypeScript",
+    "starred_date": "2026-02-28",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Ruflo is an enterprise-grade orchestration platform for building and deploying multi-agent swarms using Anthropic's Claude. It provides tools for coordinating autonomous workflows, integrating RAG, and implementing distributed swarm intelligence for complex AI applications.",
+    "use_cases": [
+      "Deploying autonomous multi-agent swarms for complex task completion",
+      "Orchestrating enterprise-level agentic workflows with Claude Code integration",
+      "Building intelligent conversational AI systems with RAG and MCP server support"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Anthropic Claude",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }

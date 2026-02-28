@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 275 | **Last Updated:** 2026-02-27
+**Total Repos:** 276 | **Last Updated:** 2026-02-28
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 103 more*
+   * *...and 104 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1598,6 +1598,19 @@ Claude Cognitive provides essential working memory and persistent context manage
 
 
 ## Multi-Agent Systems
+
+### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
+⭐ 16,029 | 🔤 TypeScript, Node.js, Anthropic Claude | 📅 2026-02-28
+
+Ruflo is an enterprise-grade orchestration platform for building and deploying multi-agent swarms using Anthropic's Claude. It provides tools for coordinating autonomous workflows, integrating RAG, and implementing distributed swarm intelligence for complex AI applications.
+
+**Use Cases:**
+- Deploying autonomous multi-agent swarms for complex task completion
+- Orchestrating enterprise-level agentic workflows with Claude Code integration
+- Building intelligent conversational AI systems with RAG and MCP server support
+
+---
 
 ### [steveyegge/gastown](https://github.com/steveyegge/gastown)
 
