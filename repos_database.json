@@ -5360,5 +5360,25 @@
       "Anthropic Claude",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "AndyMik90/Aperant": {
+    "name": "AndyMik90/Aperant",
+    "url": "https://github.com/AndyMik90/Aperant",
+    "stars": 13093,
+    "language": "TypeScript",
+    "starred_date": "2026-03-08",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Aperant is an autonomous multi-agent coding framework designed to plan, build, and validate software projects through persistent multi-session interactions. It automates the entire development lifecycle by coordinating specialized AI agents to handle complex engineering tasks end-to-end.",
+    "use_cases": [
+      "Building full-stack software applications autonomously",
+      "Managing complex multi-session coding tasks with persistent context",
+      "Automated planning and validation of software architecture and features"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Claude API"
+    ]
   }
 }

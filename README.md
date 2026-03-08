@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 276 | **Last Updated:** 2026-02-28
+**Total Repos:** 277 | **Last Updated:** 2026-03-08
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 104 more*
+   * *...and 105 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1609,6 +1609,19 @@ Ruflo is an enterprise-grade orchestration platform for building and deploying m
 - Deploying autonomous multi-agent swarms for complex task completion
 - Orchestrating enterprise-level agentic workflows with Claude Code integration
 - Building intelligent conversational AI systems with RAG and MCP server support
+
+---
+
+### [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant)
+
+⭐ 13,093 | 🔤 TypeScript, Node.js, Claude API | 📅 2026-03-08
+
+Aperant is an autonomous multi-agent coding framework designed to plan, build, and validate software projects through persistent multi-session interactions. It automates the entire development lifecycle by coordinating specialized AI agents to handle complex engineering tasks end-to-end.
+
+**Use Cases:**
+- Building full-stack software applications autonomously
+- Managing complex multi-session coding tasks with persistent context
+- Automated planning and validation of software architecture and features
 
 ---
 
