@@ -5380,5 +5380,25 @@
       "Node.js",
       "Claude API"
     ]
+  },
+  "menahishayan/HomeAssistant-Cupertino-Icons": {
+    "name": "menahishayan/HomeAssistant-Cupertino-Icons",
+    "url": "https://github.com/menahishayan/HomeAssistant-Cupertino-Icons",
+    "stars": 202,
+    "language": "JavaScript",
+    "starred_date": "2026-03-10",
+    "main_category": "Home Automation",
+    "subcategory": "HA Resources",
+    "summary": "This repository provides a collection of over 6,000 Apple SF Symbols adapted for use as icons in Home Assistant. It allows users to bring a consistent Cupertino design aesthetic to their smart home dashboards via HACS.",
+    "use_cases": [
+      "Replacing default Material Design Icons with Apple SF Symbols in Home Assistant",
+      "Creating a unified iOS-style user interface for smart home control",
+      "Accessing a vast library of specialized symbols for diverse smart home entities"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Home Assistant",
+      "HACS"
+    ]
   }
 }

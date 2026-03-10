@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 277 | **Last Updated:** 2026-03-08
+**Total Repos:** 278 | **Last Updated:** 2026-03-10
 
 ---
 
@@ -88,11 +88,11 @@
    * [cafe-hass](#fezvrastacafe-hass) (Visually design complex)
    * [ha-measureit](#danieldotnlha-measureit) (Measure the daily)
    * [app-appdaemon](#hassio-addonsapp-appdaemon) (Developing advanced, stateful)
+   * [HomeAssistant-Cupertino-Icons](#menahishayanhomeassistant-cupertino-icons) (Replacing default Material)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
    * [humidity-intelligence](#senyo888humidity-intelligence) (Proactively monitor and)
    * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
-   * [ha-chore-helper](#volantisdevha-chore-helper) (Defining and tracking)
-   * *...and 9 more*
+   * *...and 10 more*
 
 * **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
@@ -3340,6 +3340,19 @@ AppDaemon is a Home Assistant Community Addon that provides a dedicated, loosely
 - Developing advanced, stateful automation logic using Python instead of relying solely on HA's native YAML or GUI tools.
 - Creating completely custom, high-density HADashboards optimized for wall-mounted tablets or specific control panels.
 - Implementing complex integrations or custom data processing steps before interacting with Home Assistant entities.
+
+---
+
+### [menahishayan/HomeAssistant-Cupertino-Icons](https://github.com/menahishayan/HomeAssistant-Cupertino-Icons)
+
+⭐ 202 | 🔤 JavaScript, Home Assistant, HACS | 📅 2026-03-10
+
+This repository provides a collection of over 6,000 Apple SF Symbols adapted for use as icons in Home Assistant. It allows users to bring a consistent Cupertino design aesthetic to their smart home dashboards via HACS.
+
+**Use Cases:**
+- Replacing default Material Design Icons with Apple SF Symbols in Home Assistant
+- Creating a unified iOS-style user interface for smart home control
+- Accessing a vast library of specialized symbols for diverse smart home entities
 
 ---
 
