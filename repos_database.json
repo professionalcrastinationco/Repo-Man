@@ -5400,5 +5400,25 @@
       "Home Assistant",
       "HACS"
     ]
+  },
+  "eliasbiondo/reddit-mcp-server": {
+    "name": "eliasbiondo/reddit-mcp-server",
+    "url": "https://github.com/eliasbiondo/reddit-mcp-server",
+    "stars": 55,
+    "language": "Python",
+    "starred_date": "2026-03-12",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "A zero-configuration Model Context Protocol (MCP) server that provides AI assistants with read access to Reddit data without requiring API keys or authentication. It enables LLMs to search posts, browse subreddits, and retrieve structured user activity data seamlessly.",
+    "use_cases": [
+      "Enhancing AI assistant responses with real-time Reddit discussions and community sentiment",
+      "Automated market research and trend analysis across specific subreddits",
+      "Retrieving public Reddit user activity and post history for contextual analysis"
+    ],
+    "tech_stack": [
+      "Python",
+      "Model Context Protocol (MCP)",
+      "redd"
+    ]
   }
 }

@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 278 | **Last Updated:** 2026-03-10
+**Total Repos:** 279 | **Last Updated:** 2026-03-12
 
 ---
 
@@ -19,7 +19,7 @@
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
    * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 105 more*
+   * *...and 106 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1456,6 +1456,19 @@ This project offers a free SEO research tool leveraging Ahrefs data, designed to
 - Integrating keyword research and competitive analysis directly into an AI-powered IDE environment.
 - Automating the collection of Ahrefs data for content planning and SEO reporting.
 - Using the data to refine and ground generative AI outputs for SEO optimization.
+
+---
+
+### [eliasbiondo/reddit-mcp-server](https://github.com/eliasbiondo/reddit-mcp-server)
+
+⭐ 55 | 🔤 Python, Model Context Protocol (MCP), redd | 📅 2026-03-12
+
+A zero-configuration Model Context Protocol (MCP) server that provides AI assistants with read access to Reddit data without requiring API keys or authentication. It enables LLMs to search posts, browse subreddits, and retrieve structured user activity data seamlessly.
+
+**Use Cases:**
+- Enhancing AI assistant responses with real-time Reddit discussions and community sentiment
+- Automated market research and trend analysis across specific subreddits
+- Retrieving public Reddit user activity and post history for contextual analysis
 
 ---
 
