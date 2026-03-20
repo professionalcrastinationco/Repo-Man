@@ -5420,5 +5420,23 @@
       "Model Context Protocol (MCP)",
       "redd"
     ]
+  },
+  "no-magic-ai/no-magic": {
+    "name": "no-magic-ai/no-magic",
+    "url": "https://github.com/no-magic-ai/no-magic",
+    "stars": 1044,
+    "language": "Python",
+    "starred_date": "2026-03-20",
+    "main_category": "AI Infrastructure",
+    "subcategory": "LLM Resources",
+    "summary": "A zero-dependency Python library containing 47 machine learning algorithms implemented from scratch for educational transparency. It aims to demystify AI by providing clear, readable code that explains how models work without relying on high-level abstractions.",
+    "use_cases": [
+      "Learning the fundamental mathematical implementations of AI algorithms",
+      "Developing lightweight ML applications for resource-constrained environments",
+      "Debugging and auditing model behavior using transparent source code"
+    ],
+    "tech_stack": [
+      "Python"
+    ]
   }
 }

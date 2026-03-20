@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 279 | **Last Updated:** 2026-03-12
+**Total Repos:** 280 | **Last Updated:** 2026-03-20
 
 ---
 
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 23 more*
+   * *...and 24 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -1867,6 +1867,19 @@ This repository is a comprehensive collection of practical examples, tutorials, 
 - Learning implementation strategies for Retrieval-Augmented Generation (RAG) pipelines.
 - Finding code recipes and examples for building custom AI agents and multi-step workflows.
 - Developing production-ready LLM applications, including sophisticated chatbots and assistants.
+
+---
+
+### [no-magic-ai/no-magic](https://github.com/no-magic-ai/no-magic)
+
+⭐ 1,044 | 🔤 Python | 📅 2026-03-20
+
+A zero-dependency Python library containing 47 machine learning algorithms implemented from scratch for educational transparency. It aims to demystify AI by providing clear, readable code that explains how models work without relying on high-level abstractions.
+
+**Use Cases:**
+- Learning the fundamental mathematical implementations of AI algorithms
+- Developing lightweight ML applications for resource-constrained environments
+- Debugging and auditing model behavior using transparent source code
 
 ---
 
