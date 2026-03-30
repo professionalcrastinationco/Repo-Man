@@ -5438,5 +5438,24 @@
     "tech_stack": [
       "Python"
     ]
+  },
+  "builtbybel/Winslopr": {
+    "name": "builtbybel/Winslopr",
+    "url": "https://github.com/builtbybel/Winslopr",
+    "stars": 2512,
+    "language": "C#",
+    "starred_date": "2026-03-30",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "A Windows 11 optimization tool designed to remove 'slop' such as telemetry, pre-installed bloatware, and unwanted system assistants. It helps users reclaim system resources and privacy by providing community-sourced fixes for common OS annoyances.",
+    "use_cases": [
+      "Debloating fresh Windows 11 installations",
+      "Disabling system-wide telemetry and data collection",
+      "Improving system performance by removing background resource-wasters"
+    ],
+    "tech_stack": [
+      "C#",
+      ".NET"
+    ]
   }
 }

@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 280 | **Last Updated:** 2026-03-20
+**Total Repos:** 281 | **Last Updated:** 2026-03-30
 
 ---
 
@@ -79,7 +79,7 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * *...and 30 more*
+   * *...and 31 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -2893,6 +2893,19 @@ This is a high-performance Rust library and accompanying HTTP backend service de
 - Integrating real-time email verification during user registration and form submissions.
 - Cleaning and validating large mailing lists and existing customer databases.
 - Building APIs or microservices that require robust, silent email deliverability checks.
+
+---
+
+### [builtbybel/Winslopr](https://github.com/builtbybel/Winslopr)
+
+⭐ 2,512 | 🔤 C#, .NET | 📅 2026-03-30
+
+A Windows 11 optimization tool designed to remove 'slop' such as telemetry, pre-installed bloatware, and unwanted system assistants. It helps users reclaim system resources and privacy by providing community-sourced fixes for common OS annoyances.
+
+**Use Cases:**
+- Debloating fresh Windows 11 installations
+- Disabling system-wide telemetry and data collection
+- Improving system performance by removing background resource-wasters
 
 ---
 
