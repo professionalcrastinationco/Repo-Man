@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 281 | **Last Updated:** 2026-03-30
+**Total Repos:** 285 | **Last Updated:** 2026-04-01
 
 ---
 
@@ -11,6 +11,7 @@
 * **AI Agents & Assistants**
    * [openclaw](#openclawopenclaw) (Running a private,)
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
+   * [claw-code](#instructkrclaw-code) (Building AI agents)
    * [moltbot](#moltbotmoltbot) (Deploying a privacy-focused)
    * [awesome-mcp-servers](#punkpeyeawesome-mcp-servers) (Discovering a wide)
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
@@ -18,8 +19,7 @@
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
    * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
-   * [goose](#blockgoose) (Automating complex, multi-step)
-   * *...and 106 more*
+   * *...and 110 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -291,6 +291,19 @@ TerminaI is a governed, AI-powered system operator that allows users to describe
 
 
 ## Claude Ecosystem
+
+### [instructkr/claw-code](https://github.com/instructkr/claw-code)
+
+⭐ 93,679 | 🔤 Rust, oh-my-codex | 📅 2026-04-01
+
+A high-performance Rust-based project designed to provide enhanced harness tools for Claude and other AI models. It focuses on creating efficient interfaces for AI agents to perform complex, real-world tasks effectively.
+
+**Use Cases:**
+- Building AI agents for complex task execution
+- Developing high-speed LLM interaction tools
+- Optimizing Claude-based workflows using Rust
+
+---
 
 ### [anthropics/skills](https://github.com/anthropics/skills)
 
@@ -578,6 +591,19 @@ This repository is a curated index of official and community-built Claude Skills
 - Discovering and exploring available modular tools (Skills) for the Claude AI platform.
 - Extending Claude's functionality for specialized tasks like data analysis or web scraping.
 - Finding community contributions to the Claude ecosystem to maximize AI productivity.
+
+---
+
+### [leaked-claude-code/leaked-claude-code](https://github.com/leaked-claude-code/leaked-claude-code)
+
+⭐ 299 | 🔤 TypeScript, Node.js | 📅 2026-04-01
+
+This repository provides a rebuilt and functional version of the leaked Claude Code CLI source code, an agentic coding assistant from Anthropic. It allows developers to interact with Claude models directly from their terminal to automate coding tasks, debugging, and codebase exploration.
+
+**Use Cases:**
+- Running a local version of the Claude Code agentic CLI
+- Automating complex software development and refactoring tasks
+- Analyzing the internal architecture and build system of Anthropic's developer tools
 
 ---
 
@@ -1540,6 +1566,19 @@ Context7 is an MCP (Model Context Provider) server designed to deliver up-to-dat
 
 ---
 
+### [gastownhall/beads](https://github.com/gastownhall/beads)
+
+⭐ 20,074 | 🔤 Go, Dolt, MCP (Model Context Protocol) | 📅 2026-04-01
+
+Beads is a distributed graph issue tracker that provides coding agents with persistent, structured memory using Dolt. It replaces unstructured markdown plans with a queryable database, allowing agents to manage complex task dependencies and maintain long-term state across sessions.
+
+**Use Cases:**
+- Providing persistent task memory for AI coding assistants like Claude Code
+- Managing complex project sub-tasks and dependencies for autonomous agents
+- Synchronizing issue tracking and state across distributed agent environments
+
+---
+
 ### [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 ⭐ 12,801 | 🔤 JavaScript, Claude Code, Gemini CLI | 📅 2026-02-10
@@ -1622,6 +1661,19 @@ Ruflo is an enterprise-grade orchestration platform for building and deploying m
 - Deploying autonomous multi-agent swarms for complex task completion
 - Orchestrating enterprise-level agentic workflows with Claude Code integration
 - Building intelligent conversational AI systems with RAG and MCP server support
+
+---
+
+### [gastownhall/gastown](https://github.com/gastownhall/gastown)
+
+⭐ 13,346 | 🔤 Go, Git | 📅 2026-04-01
+
+Gas Town is a multi-agent orchestration system that manages workspaces and persists state for AI coding agents like Claude Code and GitHub Copilot. It uses git-backed hooks and mailboxes to solve context loss and coordination challenges during complex software development tasks.
+
+**Use Cases:**
+- Orchestrating multiple AI coding agents on complex tasks
+- Persisting development context across agent restarts
+- Managing communication and identities for AI agents via git-backed hooks
 
 ---
 

@@ -5457,5 +5457,82 @@
       "C#",
       ".NET"
     ]
+  },
+  "leaked-claude-code/leaked-claude-code": {
+    "name": "leaked-claude-code/leaked-claude-code",
+    "url": "https://github.com/leaked-claude-code/leaked-claude-code",
+    "stars": 299,
+    "language": "TypeScript",
+    "starred_date": "2026-04-01",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "This repository provides a rebuilt and functional version of the leaked Claude Code CLI source code, an agentic coding assistant from Anthropic. It allows developers to interact with Claude models directly from their terminal to automate coding tasks, debugging, and codebase exploration.",
+    "use_cases": [
+      "Running a local version of the Claude Code agentic CLI",
+      "Automating complex software development and refactoring tasks",
+      "Analyzing the internal architecture and build system of Anthropic's developer tools"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  "instructkr/claw-code": {
+    "name": "instructkr/claw-code",
+    "url": "https://github.com/instructkr/claw-code",
+    "stars": 93679,
+    "language": "Rust",
+    "starred_date": "2026-04-01",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "A high-performance Rust-based project designed to provide enhanced harness tools for Claude and other AI models. It focuses on creating efficient interfaces for AI agents to perform complex, real-world tasks effectively.",
+    "use_cases": [
+      "Building AI agents for complex task execution",
+      "Developing high-speed LLM interaction tools",
+      "Optimizing Claude-based workflows using Rust"
+    ],
+    "tech_stack": [
+      "Rust",
+      "oh-my-codex"
+    ]
+  },
+  "gastownhall/gastown": {
+    "name": "gastownhall/gastown",
+    "url": "https://github.com/gastownhall/gastown",
+    "stars": 13346,
+    "language": "Go",
+    "starred_date": "2026-04-01",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Gas Town is a multi-agent orchestration system that manages workspaces and persists state for AI coding agents like Claude Code and GitHub Copilot. It uses git-backed hooks and mailboxes to solve context loss and coordination challenges during complex software development tasks.",
+    "use_cases": [
+      "Orchestrating multiple AI coding agents on complex tasks",
+      "Persisting development context across agent restarts",
+      "Managing communication and identities for AI agents via git-backed hooks"
+    ],
+    "tech_stack": [
+      "Go",
+      "Git"
+    ]
+  },
+  "gastownhall/beads": {
+    "name": "gastownhall/beads",
+    "url": "https://github.com/gastownhall/beads",
+    "stars": 20074,
+    "language": "Go",
+    "starred_date": "2026-04-01",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Memory & Context",
+    "summary": "Beads is a distributed graph issue tracker that provides coding agents with persistent, structured memory using Dolt. It replaces unstructured markdown plans with a queryable database, allowing agents to manage complex task dependencies and maintain long-term state across sessions.",
+    "use_cases": [
+      "Providing persistent task memory for AI coding assistants like Claude Code",
+      "Managing complex project sub-tasks and dependencies for autonomous agents",
+      "Synchronizing issue tracking and state across distributed agent environments"
+    ],
+    "tech_stack": [
+      "Go",
+      "Dolt",
+      "MCP (Model Context Protocol)"
+    ]
   }
 }
