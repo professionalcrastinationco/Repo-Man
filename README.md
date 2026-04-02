@@ -2,13 +2,14 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 285 | **Last Updated:** 2026-04-01
+**Total Repos:** 286 | **Last Updated:** 2026-04-02
 
 ---
 
 ## 📑 Table of Contents
 
 * **AI Agents & Assistants**
+   * [claw-code](#ultraworkersclaw-code) (Streamlining AI-assisted coding)
    * [openclaw](#openclawopenclaw) (Running a private,)
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
    * [claw-code](#instructkrclaw-code) (Building AI agents)
@@ -18,8 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
-   * [Fabric](#danielmiesslerfabric) (Augmenting developer workflows)
-   * *...and 110 more*
+   * *...and 111 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -291,6 +291,19 @@ TerminaI is a governed, AI-powered system operator that allows users to describe
 
 
 ## Claude Ecosystem
+
+### [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+
+⭐ 137,161 | 🔤 Rust, oh-my-codex | 📅 2026-04-02
+
+A collection of high-performance harness tools built in Rust designed to improve the practical application of AI-generated code. It provides a robust framework for integrating AI capabilities into developer workflows with a focus on speed and reliability.
+
+**Use Cases:**
+- Streamlining AI-assisted coding tasks
+- Creating high-performance execution environments for AI models
+- Improving the reliability of automated developer tools
+
+---
 
 ### [instructkr/claw-code](https://github.com/instructkr/claw-code)
 

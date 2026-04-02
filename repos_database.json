@@ -5534,5 +5534,24 @@
       "Dolt",
       "MCP (Model Context Protocol)"
     ]
+  },
+  "ultraworkers/claw-code": {
+    "name": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "stars": 137161,
+    "language": "Rust",
+    "starred_date": "2026-04-02",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "A collection of high-performance harness tools built in Rust designed to improve the practical application of AI-generated code. It provides a robust framework for integrating AI capabilities into developer workflows with a focus on speed and reliability.",
+    "use_cases": [
+      "Streamlining AI-assisted coding tasks",
+      "Creating high-performance execution environments for AI models",
+      "Improving the reliability of automated developer tools"
+    ],
+    "tech_stack": [
+      "Rust",
+      "oh-my-codex"
+    ]
   }
 }
