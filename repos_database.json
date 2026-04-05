@@ -5553,5 +5553,26 @@
       "Rust",
       "oh-my-codex"
     ]
+  },
+  "itsmostafa/qi": {
+    "name": "itsmostafa/qi",
+    "url": "https://github.com/itsmostafa/qi",
+    "stars": 12,
+    "language": "Go",
+    "starred_date": "2026-04-05",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "A local-first search engine CLI that combines BM25 full-text search and vector embeddings for efficient document retrieval and RAG. It allows humans and AI agents to query local knowledge bases using local or cloud-based LLMs.",
+    "use_cases": [
+      "Providing context to AI agents through a CLI interface",
+      "Performing fast local document search and RAG",
+      "Integrating personal knowledge bases with local LLMs"
+    ],
+    "tech_stack": [
+      "Go",
+      "SQLite",
+      "Ollama",
+      "OpenAI"
+    ]
   }
 }

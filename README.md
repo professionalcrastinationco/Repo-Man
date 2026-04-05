@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 286 | **Last Updated:** 2026-04-02
+**Total Repos:** 287 | **Last Updated:** 2026-04-05
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
-   * *...and 111 more*
+   * *...and 112 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1359,6 +1359,19 @@ The MCP Config Manager is a Python utility designed to manage server configurati
 - Rapidly switch between enabled MCP servers for different AI models (e.g., Claude vs. Gemini).
 - Apply predefined configuration presets to optimize AI server performance or context handling.
 - Synchronize Model Context Protocol settings across multiple development machines or environments using the CLI or GUI.
+
+---
+
+### [itsmostafa/qi](https://github.com/itsmostafa/qi)
+
+⭐ 12 | 🔤 Go, SQLite, Ollama | 📅 2026-04-05
+
+A local-first search engine CLI that combines BM25 full-text search and vector embeddings for efficient document retrieval and RAG. It allows humans and AI agents to query local knowledge bases using local or cloud-based LLMs.
+
+**Use Cases:**
+- Providing context to AI agents through a CLI interface
+- Performing fast local document search and RAG
+- Integrating personal knowledge bases with local LLMs
 
 ---
 
