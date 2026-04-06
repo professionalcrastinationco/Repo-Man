@@ -5574,5 +5574,45 @@
       "Ollama",
       "OpenAI"
     ]
+  },
+  "safishamsi/graphify": {
+    "name": "safishamsi/graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "stars": 353,
+    "language": "Python",
+    "starred_date": "2026-04-06",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Graphify is a multimodal tool designed as a Claude Code skill that transforms code, documents, and images into interactive knowledge graphs with community detection. It helps developers quickly understand architectural structures and conceptual links across disparate file types using Claude's vision and reasoning capabilities.",
+    "use_cases": [
+      "Visualizing codebase structure and dependencies to speed up onboarding",
+      "Connecting insights across mixed media like research papers and whiteboard diagrams",
+      "Performing community detection on project files to identify critical 'god nodes'"
+    ],
+    "tech_stack": [
+      "Python",
+      "Claude API",
+      "GraphRAG",
+      "Claude Vision"
+    ]
+  },
+  "Khalidabdi1/design-ai": {
+    "name": "Khalidabdi1/design-ai",
+    "url": "https://github.com/Khalidabdi1/design-ai",
+    "stars": 43,
+    "language": "Various",
+    "starred_date": "2026-04-06",
+    "main_category": "Design & Assets",
+    "subcategory": "Design Resources",
+    "summary": "A curated collection of DESIGN.md files that document the design systems of popular websites in a machine-readable plain-text format. These templates allow AI coding agents to generate consistent UI components that match specific design languages without requiring Figma exports or complex JSON.",
+    "use_cases": [
+      "Providing design context to AI coding agents",
+      "Rapidly prototyping UIs inspired by popular websites",
+      "Creating lightweight design documentation for LLM-based development workflows"
+    ],
+    "tech_stack": [
+      "Markdown",
+      "AI Agents"
+    ]
   }
 }

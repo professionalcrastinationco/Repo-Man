@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 287 | **Last Updated:** 2026-04-05
+**Total Repos:** 289 | **Last Updated:** 2026-04-06
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [context7](#upstashcontext7) (Improving the factual)
-   * *...and 112 more*
+   * *...and 113 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -67,6 +67,7 @@
    * [claude-design-skill](#dammyjay93claude-design-skill) (Generating high-fidelity SaaS)
    * [adabraka-ui](#auganiadabraka-ui) (Building new high-performance)
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
+   * [design-ai](#khalidabdi1design-ai) (Providing design context)
 
 * **Developer Tools**
    * [public-apis](#public-apispublic-apis) (Discovering external services)
@@ -578,6 +579,19 @@ This project is a 'Claude Code skill' designed to automate the process of findin
 - Auditing and reviewing personal credit card statements for recurring monthly charges
 - Automating the physical cancellation steps for identified unwanted subscriptions
 - Leveraging LLMs (Claude) for guided financial management tasks based on transaction data
+
+---
+
+### [safishamsi/graphify](https://github.com/safishamsi/graphify)
+
+⭐ 353 | 🔤 Python, Claude API, GraphRAG | 📅 2026-04-06
+
+Graphify is a multimodal tool designed as a Claude Code skill that transforms code, documents, and images into interactive knowledge graphs with community detection. It helps developers quickly understand architectural structures and conceptual links across disparate file types using Claude's vision and reasoning capabilities.
+
+**Use Cases:**
+- Visualizing codebase structure and dependencies to speed up onboarding
+- Connecting insights across mixed media like research papers and whiteboard diagrams
+- Performing community detection on project files to identify critical 'god nodes'
 
 ---
 
@@ -2681,6 +2695,19 @@ wireframe-ui is a component library allowing developers to quickly build low-fid
 - Rapidly prototype application screens and user flows during the development process
 - Build low-fidelity mockups without requiring external design software
 - Create quick development sketches or proof-of-concepts for internal review
+
+---
+
+### [Khalidabdi1/design-ai](https://github.com/Khalidabdi1/design-ai)
+
+⭐ 43 | 🔤 Markdown, AI Agents | 📅 2026-04-06
+
+A curated collection of DESIGN.md files that document the design systems of popular websites in a machine-readable plain-text format. These templates allow AI coding agents to generate consistent UI components that match specific design languages without requiring Figma exports or complex JSON.
+
+**Use Cases:**
+- Providing design context to AI coding agents
+- Rapidly prototyping UIs inspired by popular websites
+- Creating lightweight design documentation for LLM-based development workflows
 
 ---
 
