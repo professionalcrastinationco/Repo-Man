@@ -5614,5 +5614,44 @@
       "Markdown",
       "AI Agents"
     ]
+  },
+  "fronalabs/frona": {
+    "name": "fronalabs/frona",
+    "url": "https://github.com/fronalabs/frona",
+    "stars": 45,
+    "language": "Rust",
+    "starred_date": "2026-04-07",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "Frona is a self-hosted, personal AI assistant platform written in Rust for creating and orchestrating autonomous agents in secure, sandboxed environments. These agents can browse the web, execute code, and delegate tasks to each other to complete complex, multi-step objectives while keeping data private.",
+    "use_cases": [
+      "Automating complex web research and application development tasks",
+      "Orchestrating multiple specialized AI agents to collaborate on workflows",
+      "Running autonomous agents in secure, sandboxed environments with controlled file access"
+    ],
+    "tech_stack": [
+      "Rust",
+      "Docker",
+      "LLMs"
+    ]
+  },
+  "aaif-goose/goose": {
+    "name": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "stars": 38567,
+    "language": "Rust",
+    "starred_date": "2026-04-07",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "Goose is an open-source AI agent platform providing a desktop app, CLI, and API to automate coding, testing, and complex workflows. It is highly extensible through the Model Context Protocol (MCP) and works with any LLM to bridge the gap between AI suggestions and local execution.",
+    "use_cases": [
+      "Automating code editing and testing tasks",
+      "Building custom AI-driven workflows through CLI or API",
+      "Extending agent capabilities using MCP servers for tool integration"
+    ],
+    "tech_stack": [
+      "Rust",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }

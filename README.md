@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 289 | **Last Updated:** 2026-04-06
+**Total Repos:** 291 | **Last Updated:** 2026-04-07
 
 ---
 
@@ -18,8 +18,8 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * [context7](#upstashcontext7) (Improving the factual)
-   * *...and 113 more*
+   * [goose](#aaif-goosegoose) (Automating code editing)
+   * *...and 115 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -141,6 +141,19 @@ OpenManus is a highly popular, Python-based open-source project designed as an a
 - Developing and iterating on custom large language models (LLMs) and intelligent agents
 - Conducting academic research and reproducibility studies on foundational AI architectures
 - Deploying scalable, open-source AI applications using high-performance models
+
+---
+
+### [aaif-goose/goose](https://github.com/aaif-goose/goose)
+
+⭐ 38,567 | 🔤 Rust, Model Context Protocol (MCP) | 📅 2026-04-07
+
+Goose is an open-source AI agent platform providing a desktop app, CLI, and API to automate coding, testing, and complex workflows. It is highly extensible through the Model Context Protocol (MCP) and works with any LLM to bridge the gap between AI suggestions and local execution.
+
+**Use Cases:**
+- Automating code editing and testing tasks
+- Building custom AI-driven workflows through CLI or API
+- Extending agent capabilities using MCP servers for tool integration
 
 ---
 
@@ -1766,6 +1779,19 @@ Weft is a self-hosted task management system where tasks are executed by AI agen
 - Automating email management by drafting responses or summaries based on incoming messages in Gmail.
 - Handling small development tasks, such as creating pull requests, updating GitHub issues, or writing utility code snippets.
 - Synchronizing and updating business data by modifying Google Docs or Sheets based on task outcomes.
+
+---
+
+### [fronalabs/frona](https://github.com/fronalabs/frona)
+
+⭐ 45 | 🔤 Rust, Docker, LLMs | 📅 2026-04-07
+
+Frona is a self-hosted, personal AI assistant platform written in Rust for creating and orchestrating autonomous agents in secure, sandboxed environments. These agents can browse the web, execute code, and delegate tasks to each other to complete complex, multi-step objectives while keeping data private.
+
+**Use Cases:**
+- Automating complex web research and application development tasks
+- Orchestrating multiple specialized AI agents to collaborate on workflows
+- Running autonomous agents in secure, sandboxed environments with controlled file access
 
 ---
 
