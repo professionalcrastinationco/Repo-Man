@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 291 | **Last Updated:** 2026-04-07
+**Total Repos:** 292 | **Last Updated:** 2026-04-16
 
 ---
 
@@ -91,9 +91,9 @@
    * [app-appdaemon](#hassio-addonsapp-appdaemon) (Developing advanced, stateful)
    * [HomeAssistant-Cupertino-Icons](#menahishayanhomeassistant-cupertino-icons) (Replacing default Material)
    * [addon-appdaemon](#hassio-addonsaddon-appdaemon) (Writing complex automation)
+   * [app-glances](#hassio-addonsapp-glances) (Monitoring system resource)
    * [humidity-intelligence](#senyo888humidity-intelligence) (Proactively monitor and)
-   * [addon-glances](#hassio-addonsaddon-glances) (Real-time monitoring of)
-   * *...and 10 more*
+   * *...and 11 more*
 
 * **Self-Hosted Apps**
    * [awesome-selfhosted](#awesome-selfhostedawesome-selfhosted) (Discovering self-hostable Free)
@@ -3567,6 +3567,19 @@ WallPanel is an Android application designed to turn any Android device into a d
 - Running a smart home dashboard in Kiosk Mode, preventing users from exiting the application.
 - Displaying security camera feeds or sensor data on a fixed device.
 - Repurposing older Android devices as specialized home automation control panels.
+
+---
+
+### [hassio-addons/app-glances](https://github.com/hassio-addons/app-glances)
+
+⭐ 183 | 🔤 Python, Shell, Home Assistant | 📅 2026-04-16
+
+A Home Assistant community add-on that integrates Glances, a cross-platform system monitoring tool, into your smart home dashboard. It allows users to monitor real-time hardware statistics like CPU, memory, and disk usage of their Home Assistant host machine.
+
+**Use Cases:**
+- Monitoring system resource usage on a Home Assistant Blue, Yellow, or Raspberry Pi host
+- Identifying performance bottlenecks in a smart home server environment
+- Visualizing hardware health metrics directly within the Home Assistant user interface
 
 ---
 

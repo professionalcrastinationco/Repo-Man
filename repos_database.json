@@ -5653,5 +5653,26 @@
       "Rust",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "hassio-addons/app-glances": {
+    "name": "hassio-addons/app-glances",
+    "url": "https://github.com/hassio-addons/app-glances",
+    "stars": 183,
+    "language": "Shell",
+    "starred_date": "2026-04-16",
+    "main_category": "Home Automation",
+    "subcategory": "Smart Home Apps",
+    "summary": "A Home Assistant community add-on that integrates Glances, a cross-platform system monitoring tool, into your smart home dashboard. It allows users to monitor real-time hardware statistics like CPU, memory, and disk usage of their Home Assistant host machine.",
+    "use_cases": [
+      "Monitoring system resource usage on a Home Assistant Blue, Yellow, or Raspberry Pi host",
+      "Identifying performance bottlenecks in a smart home server environment",
+      "Visualizing hardware health metrics directly within the Home Assistant user interface"
+    ],
+    "tech_stack": [
+      "Python",
+      "Shell",
+      "Home Assistant",
+      "Glances"
+    ]
   }
 }
