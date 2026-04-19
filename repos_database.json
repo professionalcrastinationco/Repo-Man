@@ -5674,5 +5674,66 @@
       "Home Assistant",
       "Glances"
     ]
+  },
+  "anandprtp/Antra": {
+    "name": "anandprtp/Antra",
+    "url": "https://github.com/anandprtp/Antra",
+    "stars": 484,
+    "language": "Python",
+    "starred_date": "2026-04-19",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Media Tools",
+    "summary": "Antra is a desktop application that builds high-fidelity music libraries by resolving links from Spotify, Apple Music, and Amazon Music into lossless local audio files. It streamlines the archival process by automating metadata tagging, file transcoding, and directory organization.",
+    "use_cases": [
+      "Building a local lossless audio library from streaming service links",
+      "Automating metadata tagging and file organization for digital music",
+      "Converting streaming playlists into high-quality offline music collections"
+    ],
+    "tech_stack": [
+      "Python"
+    ]
+  },
+  "glincker/thesvg": {
+    "name": "glincker/thesvg",
+    "url": "https://github.com/glincker/thesvg",
+    "stars": 1492,
+    "language": "TypeScript",
+    "starred_date": "2026-04-19",
+    "main_category": "Design & Assets",
+    "subcategory": "Icon Libraries",
+    "summary": "A collection of over 5,600 brand and cloud service SVG icons designed for modern web development. It offers tree-shakeable, type-safe components compatible with popular frameworks like React, Vue, and Svelte.",
+    "use_cases": [
+      "Incorporating brand logos into web applications and landing pages",
+      "Visualizing cloud architecture using AWS, Azure, and GCP icons",
+      "Building design systems with consistent, high-quality SVG assets"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "SVG",
+      "React",
+      "Vue",
+      "Svelte"
+    ]
+  },
+  "Maelwalser/phantom": {
+    "name": "Maelwalser/phantom",
+    "url": "https://github.com/Maelwalser/phantom",
+    "stars": 4,
+    "language": "Rust",
+    "starred_date": "2026-04-19",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "A version control layer built on Git that enables multiple AI agents to edit the same repository concurrently. It uses semantic AST-level merging via Tree-sitter instead of traditional line-based merging to handle complex parallel changes without conflicts. Use it when building or managing AI-driven development workflows that require high-concurrency code modifications.",
+    "use_cases": [
+      "Enabling parallel development for multiple AI coding agents",
+      "Performing AST-level semantic merges to resolve code conflicts",
+      "Managing AI-driven code edits with event-sourcing and virtual file systems"
+    ],
+    "tech_stack": [
+      "Rust",
+      "Tree-sitter",
+      "Git",
+      "FUSE"
+    ]
   }
 }

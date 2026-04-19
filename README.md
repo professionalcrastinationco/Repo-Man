@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 292 | **Last Updated:** 2026-04-16
+**Total Repos:** 295 | **Last Updated:** 2026-04-19
 
 ---
 
@@ -64,10 +64,11 @@
    * [icons](#twbsicons) (Integrating scalable, accessibility-focused)
    * [SubtlePatterns](#atlemosubtlepatterns) (Applying subtle, repeating)
    * [vscode-dark-islands](#bwya77vscode-dark-islands) (Modernizing the Visual)
+   * [thesvg](#glinckerthesvg) (Incorporating brand logos)
    * [claude-design-skill](#dammyjay93claude-design-skill) (Generating high-fidelity SaaS)
    * [adabraka-ui](#auganiadabraka-ui) (Building new high-performance)
    * [wireframe-ui](#aguiarscwireframe-ui) (Rapidly prototype application)
-   * [design-ai](#khalidabdi1design-ai) (Providing design context)
+   * *...and 1 more*
 
 * **Developer Tools**
    * [public-apis](#public-apispublic-apis) (Discovering external services)
@@ -80,7 +81,7 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * *...and 31 more*
+   * *...and 32 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -106,7 +107,7 @@
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
    * [baserow](#baserowbaserow) (Building custom relational)
    * [OpenMemory](#caviraossopenmemory) (Providing stateful, long-term)
-   * *...and 2 more*
+   * *...and 3 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -2779,6 +2780,19 @@ Bootstrap Icons is the official open source SVG icon library providing over 2,00
 
 ---
 
+### [glincker/thesvg](https://github.com/glincker/thesvg)
+
+⭐ 1,492 | 🔤 TypeScript, SVG, React | 📅 2026-04-19
+
+A collection of over 5,600 brand and cloud service SVG icons designed for modern web development. It offers tree-shakeable, type-safe components compatible with popular frameworks like React, Vue, and Svelte.
+
+**Use Cases:**
+- Incorporating brand logos into web applications and landing pages
+- Visualizing cloud architecture using AWS, Azure, and GCP icons
+- Building design systems with consistent, high-quality SVG assets
+
+---
+
 
 # Developer Tools
 
@@ -3168,6 +3182,19 @@ TabbySpaces is a visual workspace editor for the Tabby terminal that allows user
 - Visually designing and saving nested terminal layouts
 - Configuring multi-pane environments with specific shell profiles and startup commands
 - Automating the launch of multiple terminal workspaces on application startup
+
+---
+
+### [Maelwalser/phantom](https://github.com/Maelwalser/phantom)
+
+⭐ 4 | 🔤 Rust, Tree-sitter, Git | 📅 2026-04-19
+
+A version control layer built on Git that enables multiple AI agents to edit the same repository concurrently. It uses semantic AST-level merging via Tree-sitter instead of traditional line-based merging to handle complex parallel changes without conflicts. Use it when building or managing AI-driven development workflows that require high-concurrency code modifications.
+
+**Use Cases:**
+- Enabling parallel development for multiple AI coding agents
+- Performing AST-level semantic merges to resolve code conflicts
+- Managing AI-driven code edits with event-sourcing and virtual file systems
 
 ---
 
@@ -3764,6 +3791,19 @@ FFmpReg is a high-performance, Rust-native multimedia toolkit that safely decode
 - Replacing legacy FFmpeg dependencies in deployment environments with a Rust-native binary.
 - Integrating safe, high-performance media processing (encoding, format conversion) directly into server-side Rust applications.
 - Performing batch transformations and conversions on video and audio files using a dedicated CLI utility.
+
+---
+
+### [anandprtp/Antra](https://github.com/anandprtp/Antra)
+
+⭐ 484 | 🔤 Python | 📅 2026-04-19
+
+Antra is a desktop application that builds high-fidelity music libraries by resolving links from Spotify, Apple Music, and Amazon Music into lossless local audio files. It streamlines the archival process by automating metadata tagging, file transcoding, and directory organization.
+
+**Use Cases:**
+- Building a local lossless audio library from streaming service links
+- Automating metadata tagging and file organization for digital music
+- Converting streaming playlists into high-quality offline music collections
 
 ---
 
