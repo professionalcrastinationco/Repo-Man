@@ -5735,5 +5735,24 @@
       "Git",
       "FUSE"
     ]
+  },
+  "pacifio/ui": {
+    "name": "pacifio/ui",
+    "url": "https://github.com/pacifio/ui",
+    "stars": 66,
+    "language": "TypeScript",
+    "starred_date": "2026-04-21",
+    "main_category": "Web Development",
+    "subcategory": "Component Libraries",
+    "summary": "A framework-agnostic design language and component library optimized for building dense, AMOLED-black interfaces for AI agents and dashboards. It provides a standardized CSS reference that allows both humans and autonomous agents to construct consistent, multi-surface UIs.",
+    "use_cases": [
+      "Creating high-density dashboards for AI workflow management",
+      "Building dark-mode chat interfaces for LLM applications",
+      "Developing framework-agnostic web applications with a specialized AMOLED aesthetic"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "CSS"
+    ]
   }
 }

@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 295 | **Last Updated:** 2026-04-19
+**Total Repos:** 296 | **Last Updated:** 2026-04-21
 
 ---
 
@@ -120,7 +120,7 @@
    * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
    * [mesop](#mesop-devmesop) (Rapidly build internal)
-   * *...and 13 more*
+   * *...and 14 more*
 
 
 
@@ -3983,6 +3983,19 @@ Smart Ticker is a high-performance UI component for React and Vue applications s
 - Implementing financial tickers or price change displays with smooth, character-level animation.
 - Creating dynamic counter displays (odometers) for statistics, scores, or follower counts.
 - Developing animated components like flip-clocks or digital displays that support complex international characters and emojis.
+
+---
+
+### [pacifio/ui](https://github.com/pacifio/ui)
+
+⭐ 66 | 🔤 TypeScript, CSS | 📅 2026-04-21
+
+A framework-agnostic design language and component library optimized for building dense, AMOLED-black interfaces for AI agents and dashboards. It provides a standardized CSS reference that allows both humans and autonomous agents to construct consistent, multi-surface UIs.
+
+**Use Cases:**
+- Creating high-density dashboards for AI workflow management
+- Building dark-mode chat interfaces for LLM applications
+- Developing framework-agnostic web applications with a specialized AMOLED aesthetic
 
 ---
 
