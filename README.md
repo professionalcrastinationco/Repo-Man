@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 296 | **Last Updated:** 2026-04-21
+**Total Repos:** 297 | **Last Updated:** 2026-04-24
 
 ---
 
@@ -81,7 +81,7 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * *...and 32 more*
+   * *...and 33 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -3195,6 +3195,19 @@ A version control layer built on Git that enables multiple AI agents to edit the
 - Enabling parallel development for multiple AI coding agents
 - Performing AST-level semantic merges to resolve code conflicts
 - Managing AI-driven code edits with event-sourcing and virtual file systems
+
+---
+
+### [chfischerx/PuTTrY](https://github.com/chfischerx/PuTTrY)
+
+⭐ 3 | 🔤 TypeScript, Node.js | 📅 2026-04-24
+
+PuTTrY is a secure, web-based terminal emulator that provides persistent shell sessions across multiple devices. It allows users to maintain active server processes and seamlessly switch between desktop, laptop, and mobile browsers without disconnecting or restarting work.
+
+**Use Cases:**
+- Accessing remote server terminals through a web browser on any device
+- Maintaining persistent long-running terminal sessions across network changes
+- Providing terminal access on devices where native SSH clients are unavailable
 
 ---
 

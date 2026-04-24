@@ -5754,5 +5754,24 @@
       "TypeScript",
       "CSS"
     ]
+  },
+  "chfischerx/PuTTrY": {
+    "name": "chfischerx/PuTTrY",
+    "url": "https://github.com/chfischerx/PuTTrY",
+    "stars": 3,
+    "language": "TypeScript",
+    "starred_date": "2026-04-24",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "PuTTrY is a secure, web-based terminal emulator that provides persistent shell sessions across multiple devices. It allows users to maintain active server processes and seamlessly switch between desktop, laptop, and mobile browsers without disconnecting or restarting work.",
+    "use_cases": [
+      "Accessing remote server terminals through a web browser on any device",
+      "Maintaining persistent long-running terminal sessions across network changes",
+      "Providing terminal access on devices where native SSH clients are unavailable"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js"
+    ]
   }
 }
