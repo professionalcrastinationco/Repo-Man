@@ -5773,5 +5773,46 @@
       "TypeScript",
       "Node.js"
     ]
+  },
+  "vscarpenter/claude-code-build-system": {
+    "name": "vscarpenter/claude-code-build-system",
+    "url": "https://github.com/vscarpenter/claude-code-build-system",
+    "stars": 10,
+    "language": "Shell",
+    "starred_date": "2026-04-27",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "A reference configuration and toolkit designed to transform Claude Code from a conversational assistant into an automated build system. It provides custom slash commands, specialized subagents, and project-level hooks to streamline professional developer workflows like TDD and migrations.",
+    "use_cases": [
+      "Standardizing Claude Code permissions and team settings across a development project",
+      "Automating test-driven development and spec generation using custom slash commands",
+      "Deploying specialized AI subagents for specific tasks like accessibility audits or database migrations"
+    ],
+    "tech_stack": [
+      "Claude Code",
+      "Shell",
+      "JSON"
+    ]
+  },
+  "fynnfluegge/agtx": {
+    "name": "fynnfluegge/agtx",
+    "url": "https://github.com/fynnfluegge/agtx",
+    "stars": 951,
+    "language": "Rust",
+    "starred_date": "2026-04-27",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "A terminal-based Kanban board and orchestrator that manages multiple AI coding agents to handle complex software tasks from planning to implementation. It allows different models like Claude and Gemini to collaborate autonomously on the same codebase with automatic context management.",
+    "use_cases": [
+      "Orchestrating specialized AI agents for collaborative coding tasks",
+      "Managing software development workflows via a CLI Kanban board",
+      "Automating the transition from brainstorming ideas to code implementation and review"
+    ],
+    "tech_stack": [
+      "Rust",
+      "Claude",
+      "Gemini",
+      "Codex"
+    ]
   }
 }

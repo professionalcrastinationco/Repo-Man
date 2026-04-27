@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 297 | **Last Updated:** 2026-04-24
+**Total Repos:** 299 | **Last Updated:** 2026-04-27
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 115 more*
+   * *...and 117 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -855,6 +855,19 @@ CAT is an AI coding partner designed to bring reliability and consistency to AI-
 - Serve as a reliable, style-aware AI coding partner for software development.
 - Automate the generation and refinement of code based on project specifications and developer style preferences.
 - Manage spec-driven development workflows, ensuring consistency in AI output and keeping the user in control of critical changes.
+
+---
+
+### [vscarpenter/claude-code-build-system](https://github.com/vscarpenter/claude-code-build-system)
+
+⭐ 10 | 🔤 Claude Code, Shell, JSON | 📅 2026-04-27
+
+A reference configuration and toolkit designed to transform Claude Code from a conversational assistant into an automated build system. It provides custom slash commands, specialized subagents, and project-level hooks to streamline professional developer workflows like TDD and migrations.
+
+**Use Cases:**
+- Standardizing Claude Code permissions and team settings across a development project
+- Automating test-driven development and spec generation using custom slash commands
+- Deploying specialized AI subagents for specific tasks like accessibility audits or database migrations
 
 ---
 
@@ -1754,6 +1767,19 @@ Gas Town is a multi-agent orchestration system designed for managing and coordin
 - Orchestrating complex software development or research projects requiring coordination between 20-30 separate AI agents.
 - Ensuring long-running agent workflows maintain context and state persistence, even after agent restarts or system failures.
 - Managing reliable communication and task handoffs between different specialized agents using built-in mailboxes and identity tracking.
+
+---
+
+### [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
+
+⭐ 951 | 🔤 Rust, Claude, Gemini | 📅 2026-04-27
+
+A terminal-based Kanban board and orchestrator that manages multiple AI coding agents to handle complex software tasks from planning to implementation. It allows different models like Claude and Gemini to collaborate autonomously on the same codebase with automatic context management.
+
+**Use Cases:**
+- Orchestrating specialized AI agents for collaborative coding tasks
+- Managing software development workflows via a CLI Kanban board
+- Automating the transition from brainstorming ideas to code implementation and review
 
 ---
 
