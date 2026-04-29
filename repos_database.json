@@ -5814,5 +5814,47 @@
       "Gemini",
       "Codex"
     ]
+  },
+  "AeternaLabsHQ/pullmd": {
+    "name": "AeternaLabsHQ/pullmd",
+    "url": "https://github.com/AeternaLabsHQ/pullmd",
+    "stars": 74,
+    "language": "JavaScript",
+    "starred_date": "2026-04-29",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "A self-hosted service that converts web URLs into clean, readable Markdown optimized for both human reading and AI agent consumption. It handles static HTML, Reddit threads, and JavaScript-heavy pages using Playwright to ensure high-quality content extraction for LLM context.",
+    "use_cases": [
+      "Providing clean web content to AI agents via MCP or Claude Code skills",
+      "Converting Reddit discussions into Markdown for research and archiving",
+      "Self-hosting a private API for web-to-markdown conversion to avoid navigation and ads"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Playwright",
+      "Mozilla Readability",
+      "Trafilatura"
+    ]
+  },
+  "sandhani01/Hand-writing-generator": {
+    "name": "sandhani01/Hand-writing-generator",
+    "url": "https://github.com/sandhani01/Hand-writing-generator",
+    "stars": 34,
+    "language": "Python",
+    "starred_date": "2026-04-29",
+    "main_category": "Automation",
+    "subcategory": "Creative Scripts",
+    "summary": "This tool generates realistic handwritten pages by extracting individual character glyphs from user-uploaded handwriting samples. It features a React frontend for document composition and a Python backend for image processing and text rendering.",
+    "use_cases": [
+      "Transforming digital text into personalized handwritten notes",
+      "Creating custom handwriting datasets from scanned alphabet grids",
+      "Exporting typed content as realistic handwritten PNG images"
+    ],
+    "tech_stack": [
+      "Python",
+      "React",
+      "TypeScript",
+      "FastAPI"
+    ]
   }
 }

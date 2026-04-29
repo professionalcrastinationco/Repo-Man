@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 299 | **Last Updated:** 2026-04-27
+**Total Repos:** 301 | **Last Updated:** 2026-04-29
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 117 more*
+   * *...and 118 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -45,7 +45,7 @@
    * [playwright-skill](#lackeyjbplaywright-skill) (Autonomous writing and)
    * [illustrator-scripts](#creoldillustrator-scripts) (Automating complex or)
    * [xyops](#pixlcorexyops) (Orchestrating complex operational)
-   * *...and 8 more*
+   * *...and 9 more*
 
 * **Data & Analytics**
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
@@ -1552,6 +1552,19 @@ This project offers a free SEO research tool leveraging Ahrefs data, designed to
 
 ---
 
+### [AeternaLabsHQ/pullmd](https://github.com/AeternaLabsHQ/pullmd)
+
+⭐ 74 | 🔤 JavaScript, Playwright, Mozilla Readability | 📅 2026-04-29
+
+A self-hosted service that converts web URLs into clean, readable Markdown optimized for both human reading and AI agent consumption. It handles static HTML, Reddit threads, and JavaScript-heavy pages using Playwright to ensure high-quality content extraction for LLM context.
+
+**Use Cases:**
+- Providing clean web content to AI agents via MCP or Claude Code skills
+- Converting Reddit discussions into Markdown for research and archiving
+- Self-hosting a private API for web-to-markdown conversion to avoid navigation and ads
+
+---
+
 ### [eliasbiondo/reddit-mcp-server](https://github.com/eliasbiondo/reddit-mcp-server)
 
 ⭐ 55 | 🔤 Python, Model Context Protocol (MCP), redd | 📅 2026-03-12
@@ -2402,6 +2415,19 @@ This Python package converts standard digital images (JPG and PNG) into stylized
 - Generating terminal-friendly ASCII art logos or profile images.
 - Integrating image previews directly into command-line interface applications.
 - Creating stylized, low-fidelity versions of photos for creative coding projects.
+
+---
+
+### [sandhani01/Hand-writing-generator](https://github.com/sandhani01/Hand-writing-generator)
+
+⭐ 34 | 🔤 Python, React, TypeScript | 📅 2026-04-29
+
+This tool generates realistic handwritten pages by extracting individual character glyphs from user-uploaded handwriting samples. It features a React frontend for document composition and a Python backend for image processing and text rendering.
+
+**Use Cases:**
+- Transforming digital text into personalized handwritten notes
+- Creating custom handwriting datasets from scanned alphabet grids
+- Exporting typed content as realistic handwritten PNG images
 
 ---
 
