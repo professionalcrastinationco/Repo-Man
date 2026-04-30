@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 301 | **Last Updated:** 2026-04-29
+**Total Repos:** 302 | **Last Updated:** 2026-04-30
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 118 more*
+   * *...and 119 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1535,6 +1535,19 @@ Docfork MCP is an implementation of the Model Context Protocol (MCP) server, des
 - Serving structured documentation and context to specialized AI coding assistants (e.g., those integrating the MCP protocol)
 - Implementing the Model Context Protocol for custom developer tools or internal AI agent backends
 - Providing easily consumable, machine-readable documentation for open-source projects and developer communities
+
+---
+
+### [egebese/dataseo-mcp](https://github.com/egebese/dataseo-mcp)
+
+⭐ 175 | 🔤 Python, Model Context Protocol (MCP), Ahrefs API | 📅 2026-04-30
+
+DataSEO MCP is a Model Context Protocol server that integrates Ahrefs SEO data into AI assistants, enabling automated search engine optimization research. It provides tools for keyword generation, backlink analysis, and traffic estimation directly within AI-powered IDEs and workflows.
+
+**Use Cases:**
+- Generating keyword and question ideas for SEO content strategy within an AI assistant
+- Analyzing backlink profiles and referring domains for competitive research
+- Estimating organic search traffic and ranking performance for specific websites
 
 ---
 

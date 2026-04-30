@@ -5856,5 +5856,26 @@
       "TypeScript",
       "FastAPI"
     ]
+  },
+  "egebese/dataseo-mcp": {
+    "name": "egebese/dataseo-mcp",
+    "url": "https://github.com/egebese/dataseo-mcp",
+    "stars": 175,
+    "language": "Python",
+    "starred_date": "2026-04-30",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "DataSEO MCP is a Model Context Protocol server that integrates Ahrefs SEO data into AI assistants, enabling automated search engine optimization research. It provides tools for keyword generation, backlink analysis, and traffic estimation directly within AI-powered IDEs and workflows.",
+    "use_cases": [
+      "Generating keyword and question ideas for SEO content strategy within an AI assistant",
+      "Analyzing backlink profiles and referring domains for competitive research",
+      "Estimating organic search traffic and ranking performance for specific websites"
+    ],
+    "tech_stack": [
+      "Python",
+      "Model Context Protocol (MCP)",
+      "Ahrefs API",
+      "OpenRouter"
+    ]
   }
 }
