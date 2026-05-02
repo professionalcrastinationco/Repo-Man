@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 302 | **Last Updated:** 2026-04-30
+**Total Repos:** 305 | **Last Updated:** 2026-05-02
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 119 more*
+   * *...and 120 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 24 more*
+   * *...and 25 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -107,7 +107,7 @@
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
    * [baserow](#baserowbaserow) (Building custom relational)
    * [OpenMemory](#caviraossopenmemory) (Providing stateful, long-term)
-   * *...and 3 more*
+   * *...and 4 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -1578,6 +1578,19 @@ A self-hosted service that converts web URLs into clean, readable Markdown optim
 
 ---
 
+### [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp)
+
+⭐ 72 | 🔤 TypeScript, Playwright, Model Context Protocol (MCP) | 📅 2026-05-02
+
+An MCP server that enables AI assistants to perform Google searches and extract webpage content without requiring an API key. It utilizes Playwright to bypass bot detection and provides a unified toolset for searching and fetching web data directly within the Claude ecosystem.
+
+**Use Cases:**
+- Providing real-time web search capabilities to Claude Desktop and other MCP-compatible clients
+- Extracting clean text content from URLs for LLM context without separate scraping tools
+- Performing parallel web searches to gather diverse information quickly for research tasks
+
+---
+
 ### [eliasbiondo/reddit-mcp-server](https://github.com/eliasbiondo/reddit-mcp-server)
 
 ⭐ 55 | 🔤 Python, Model Context Protocol (MCP), redd | 📅 2026-03-12
@@ -2135,6 +2148,19 @@ Exo is a framework designed to help users deploy and manage a robust, distribute
 - Running large language models (LLMs) or complex generative AI locally by aggregating compute power from multiple personal devices.
 - Creating a personal, decentralized cloud infrastructure for running custom machine learning workloads.
 - Experimental training and fine-tuning of small to medium-sized AI models using shared hardware resources.
+
+---
+
+### [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
+
+⭐ 1,473 | 🔤 C++, CUDA, Metal | 📅 2026-05-02
+
+Lucebox-hub provides hand-tuned LLM inference kernels optimized for specific consumer hardware like Apple Silicon M-series and high-end NVIDIA GPUs. It focuses on maximizing performance through custom megakernels and hardware-specific optimizations for local AI deployments.
+
+**Use Cases:**
+- Optimizing LLM inference performance on Apple Silicon M5 hardware
+- Running high-throughput local AI models on consumer NVIDIA GPUs like the RTX 3090
+- Implementing low-latency inference using specialized C++ kernels for specific CPU/GPU architectures
 
 ---
 
@@ -3882,6 +3908,19 @@ Antra is a desktop application that builds high-fidelity music libraries by reso
 - Building a local lossless audio library from streaming service links
 - Automating metadata tagging and file organization for digital music
 - Converting streaming playlists into high-quality offline music collections
+
+---
+
+### [Shripad735/streamfetch](https://github.com/Shripad735/streamfetch)
+
+⭐ 33 | 🔤 Electron, React, yt-dlp | 📅 2026-05-02
+
+StreamFetch is a cross-platform desktop application providing a modern GUI for yt-dlp to download videos and audio from various platforms. It includes features like metadata preview, clip range selection, and a robust download queue with log viewing.
+
+**Use Cases:**
+- Downloading high-quality video and audio from YouTube and other supported sites
+- Selecting and downloading specific segments of a video using the clip range tool
+- Managing and tracking a queue of multiple media downloads with real-time logs
 
 ---
 

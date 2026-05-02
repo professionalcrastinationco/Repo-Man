@@ -5877,5 +5877,68 @@
       "Ahrefs API",
       "OpenRouter"
     ]
+  },
+  "Luce-Org/lucebox-hub": {
+    "name": "Luce-Org/lucebox-hub",
+    "url": "https://github.com/Luce-Org/lucebox-hub",
+    "stars": 1473,
+    "language": "C++",
+    "starred_date": "2026-05-02",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Model Serving",
+    "summary": "Lucebox-hub provides hand-tuned LLM inference kernels optimized for specific consumer hardware like Apple Silicon M-series and high-end NVIDIA GPUs. It focuses on maximizing performance through custom megakernels and hardware-specific optimizations for local AI deployments.",
+    "use_cases": [
+      "Optimizing LLM inference performance on Apple Silicon M5 hardware",
+      "Running high-throughput local AI models on consumer NVIDIA GPUs like the RTX 3090",
+      "Implementing low-latency inference using specialized C++ kernels for specific CPU/GPU architectures"
+    ],
+    "tech_stack": [
+      "C++",
+      "CUDA",
+      "Metal",
+      "llama.cpp"
+    ]
+  },
+  "Shripad735/streamfetch": {
+    "name": "Shripad735/streamfetch",
+    "url": "https://github.com/Shripad735/streamfetch",
+    "stars": 33,
+    "language": "JavaScript",
+    "starred_date": "2026-05-02",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Media Tools",
+    "summary": "StreamFetch is a cross-platform desktop application providing a modern GUI for yt-dlp to download videos and audio from various platforms. It includes features like metadata preview, clip range selection, and a robust download queue with log viewing.",
+    "use_cases": [
+      "Downloading high-quality video and audio from YouTube and other supported sites",
+      "Selecting and downloading specific segments of a video using the clip range tool",
+      "Managing and tracking a queue of multiple media downloads with real-time logs"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "yt-dlp",
+      "JavaScript",
+      "FFmpeg"
+    ]
+  },
+  "HarimxChoi/google-surf-mcp": {
+    "name": "HarimxChoi/google-surf-mcp",
+    "url": "https://github.com/HarimxChoi/google-surf-mcp",
+    "stars": 72,
+    "language": "TypeScript",
+    "starred_date": "2026-05-02",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "An MCP server that enables AI assistants to perform Google searches and extract webpage content without requiring an API key. It utilizes Playwright to bypass bot detection and provides a unified toolset for searching and fetching web data directly within the Claude ecosystem.",
+    "use_cases": [
+      "Providing real-time web search capabilities to Claude Desktop and other MCP-compatible clients",
+      "Extracting clean text content from URLs for LLM context without separate scraping tools",
+      "Performing parallel web searches to gather diverse information quickly for research tasks"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Playwright",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }
