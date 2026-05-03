@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 305 | **Last Updated:** 2026-05-02
+**Total Repos:** 306 | **Last Updated:** 2026-05-03
 
 ---
 
@@ -107,7 +107,7 @@
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
    * [baserow](#baserowbaserow) (Building custom relational)
    * [OpenMemory](#caviraossopenmemory) (Providing stateful, long-term)
-   * *...and 4 more*
+   * *...and 5 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -3921,6 +3921,19 @@ StreamFetch is a cross-platform desktop application providing a modern GUI for y
 - Downloading high-quality video and audio from YouTube and other supported sites
 - Selecting and downloading specific segments of a video using the clip range tool
 - Managing and tracking a queue of multiple media downloads with real-time logs
+
+---
+
+### [dgadacha/wax](https://github.com/dgadacha/wax)
+
+⭐ 12 | 🔤 JavaScript, Electron, Vue | 📅 2026-05-03
+
+A modern desktop music player built on Electron and yt-dlp that allows users to stream and download audio directly from YouTube. It provides a clean interface for managing a personal music library with support for offline playback across macOS, Windows, and Linux.
+
+**Use Cases:**
+- Streaming music from YouTube via a dedicated desktop client
+- Downloading audio content for offline listening
+- Managing a personal music collection without local file hosting
 
 ---
 

@@ -5940,5 +5940,26 @@
       "Playwright",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "dgadacha/wax": {
+    "name": "dgadacha/wax",
+    "url": "https://github.com/dgadacha/wax",
+    "stars": 12,
+    "language": "JavaScript",
+    "starred_date": "2026-05-03",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Media Tools",
+    "summary": "A modern desktop music player built on Electron and yt-dlp that allows users to stream and download audio directly from YouTube. It provides a clean interface for managing a personal music library with support for offline playback across macOS, Windows, and Linux.",
+    "use_cases": [
+      "Streaming music from YouTube via a dedicated desktop client",
+      "Downloading audio content for offline listening",
+      "Managing a personal music collection without local file hosting"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Electron",
+      "Vue",
+      "yt-dlp"
+    ]
   }
 }
