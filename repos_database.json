@@ -5961,5 +5961,24 @@
       "Vue",
       "yt-dlp"
     ]
+  },
+  "ninjahawk/hollow-agentOS": {
+    "name": "ninjahawk/hollow-agentOS",
+    "url": "https://github.com/ninjahawk/hollow-agentOS",
+    "stars": 193,
+    "language": "Python",
+    "starred_date": "2026-05-04",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "Hollow is an open-source, self-modifying agentic operating system designed to run on consumer-grade hardware. It provides a platform for building autonomous agents that can adapt their behavior and utilize a wide array of Model Context Protocol (MCP) tools.",
+    "use_cases": [
+      "Developing self-modifying autonomous agents for local hardware",
+      "Integrating diverse LLM tools using the Model Context Protocol",
+      "Building agentic systems with real-time monitoring capabilities"
+    ],
+    "tech_stack": [
+      "Python",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }

@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 306 | **Last Updated:** 2026-05-03
+**Total Repos:** 307 | **Last Updated:** 2026-05-04
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 120 more*
+   * *...and 121 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -288,6 +288,19 @@ AgentSys is a modular runtime and orchestration system designed to enhance AI co
 - Enhancing AI coding assistants with custom slash commands and plugins
 - Automating repetitive development workflows and code reviews
 - Orchestrating multi-agent systems for complex software engineering tasks
+
+---
+
+### [ninjahawk/hollow-agentOS](https://github.com/ninjahawk/hollow-agentOS)
+
+⭐ 193 | 🔤 Python, Model Context Protocol (MCP) | 📅 2026-05-04
+
+Hollow is an open-source, self-modifying agentic operating system designed to run on consumer-grade hardware. It provides a platform for building autonomous agents that can adapt their behavior and utilize a wide array of Model Context Protocol (MCP) tools.
+
+**Use Cases:**
+- Developing self-modifying autonomous agents for local hardware
+- Integrating diverse LLM tools using the Model Context Protocol
+- Building agentic systems with real-time monitoring capabilities
 
 ---
 
