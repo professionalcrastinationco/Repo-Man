@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 307 | **Last Updated:** 2026-05-04
+**Total Repos:** 308 | **Last Updated:** 2026-05-19
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 121 more*
+   * *...and 122 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1871,6 +1871,19 @@ Frona is a self-hosted, personal AI assistant platform written in Rust for creat
 - Automating complex web research and application development tasks
 - Orchestrating multiple specialized AI agents to collaborate on workflows
 - Running autonomous agents in secure, sandboxed environments with controlled file access
+
+---
+
+### [ralphbarendse/swarmwright](https://github.com/ralphbarendse/swarmwright)
+
+⭐ 11 | 🔤 Python, Docker | 📅 2026-05-19
+
+SwarmWright is a self-hosted multi-agent orchestration platform that enforces strict communication topologies and auditability for AI agent teams. It features human-in-the-loop capabilities via an integrated inbox and ensures agents follow defined interaction paths rather than calling each other freely.
+
+**Use Cases:**
+- Orchestrating complex multi-agent workflows with strict interaction controls
+- Implementing human-in-the-loop approval steps for automated AI actions
+- Deploying auditable and structured AI agent swarms in a self-hosted Docker environment
 
 ---
 

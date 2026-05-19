@@ -5980,5 +5980,24 @@
       "Python",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "ralphbarendse/swarmwright": {
+    "name": "ralphbarendse/swarmwright",
+    "url": "https://github.com/ralphbarendse/swarmwright",
+    "stars": 11,
+    "language": "Python",
+    "starred_date": "2026-05-19",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Multi-Agent Systems",
+    "summary": "SwarmWright is a self-hosted multi-agent orchestration platform that enforces strict communication topologies and auditability for AI agent teams. It features human-in-the-loop capabilities via an integrated inbox and ensures agents follow defined interaction paths rather than calling each other freely.",
+    "use_cases": [
+      "Orchestrating complex multi-agent workflows with strict interaction controls",
+      "Implementing human-in-the-loop approval steps for automated AI actions",
+      "Deploying auditable and structured AI agent swarms in a self-hosted Docker environment"
+    ],
+    "tech_stack": [
+      "Python",
+      "Docker"
+    ]
   }
 }
