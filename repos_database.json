@@ -5999,5 +5999,26 @@
       "Python",
       "Docker"
     ]
+  },
+  "Yifannnnnnnnw/ai-dispatch": {
+    "name": "Yifannnnnnnnw/ai-dispatch",
+    "url": "https://github.com/Yifannnnnnnnw/ai-dispatch",
+    "stars": 10,
+    "language": "Python",
+    "starred_date": "2026-06-01",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "LLM Applications",
+    "summary": "An automated AI intelligence briefing tool that aggregates news, papers, and blogs about robotics, agents, and LLMs, analyzes them using an LLM like Claude Opus, and emails a structured daily newsletter. It runs serverless entirely on GitHub Actions, making it free and easy to self-host.",
+    "use_cases": [
+      "Generating a personalized, daily AI news digest curated and summarized by LLMs",
+      "Running a serverless newsletter aggregation service using GitHub Actions",
+      "Monitoring trending topics, new academic papers, and deep-dive blogs in the AI space"
+    ],
+    "tech_stack": [
+      "Python",
+      "GitHub Actions",
+      "Claude API",
+      "RSS"
+    ]
   }
 }

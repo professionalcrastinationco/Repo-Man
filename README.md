@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 308 | **Last Updated:** 2026-05-19
+**Total Repos:** 309 | **Last Updated:** 2026-06-01
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 122 more*
+   * *...and 123 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1426,6 +1426,19 @@ A local-first search engine CLI that combines BM25 full-text search and vector e
 - Providing context to AI agents through a CLI interface
 - Performing fast local document search and RAG
 - Integrating personal knowledge bases with local LLMs
+
+---
+
+### [Yifannnnnnnnw/ai-dispatch](https://github.com/Yifannnnnnnnw/ai-dispatch)
+
+⭐ 10 | 🔤 Python, GitHub Actions, Claude API | 📅 2026-06-01
+
+An automated AI intelligence briefing tool that aggregates news, papers, and blogs about robotics, agents, and LLMs, analyzes them using an LLM like Claude Opus, and emails a structured daily newsletter. It runs serverless entirely on GitHub Actions, making it free and easy to self-host.
+
+**Use Cases:**
+- Generating a personalized, daily AI news digest curated and summarized by LLMs
+- Running a serverless newsletter aggregation service using GitHub Actions
+- Monitoring trending topics, new academic papers, and deep-dive blogs in the AI space
 
 ---
 
