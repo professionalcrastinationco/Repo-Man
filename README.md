@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 309 | **Last Updated:** 2026-06-01
+**Total Repos:** 310 | **Last Updated:** 2026-06-07
 
 ---
 
@@ -81,7 +81,7 @@
    * [BMAD-METHOD](#bmad-code-orgbmad-method) (Implementing a structured)
    * [toon](#toon-formattoon) (Optimizing structured data)
    * [agents.md](#agentsmdagentsmd) (Standardizing project context)
-   * *...and 33 more*
+   * *...and 34 more*
 
 * **Home Automation**
    * [awesome-home-assistant](#frenckawesome-home-assistant) (Discovering community-developed add-ons,)
@@ -3168,6 +3168,19 @@ This is a high-performance Rust library and accompanying HTTP backend service de
 - Integrating real-time email verification during user registration and form submissions.
 - Cleaning and validating large mailing lists and existing customer databases.
 - Building APIs or microservices that require robust, silent email deliverability checks.
+
+---
+
+### [builtbybel/FluentTweaker](https://github.com/builtbybel/FluentTweaker)
+
+⭐ 3,081 | 🔤 C#, .NET, WinUI | 📅 2026-06-07
+
+FluentTweaker is a modern, transparent Windows tweaking utility designed for power users to safely customize system behavior, privacy settings, and UI elements. It provides an inspectable and reversible alternative to obscure registry edits and group policies.
+
+**Use Cases:**
+- Customizing Windows UI, taskbar, and File Explorer behaviors
+- Disabling unwanted telemetry, AI features, and background services for better privacy
+- Applying and reverting system performance tweaks with full transparency
 
 ---
 

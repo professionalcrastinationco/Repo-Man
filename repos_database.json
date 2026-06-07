@@ -6020,5 +6020,25 @@
       "Claude API",
       "RSS"
     ]
+  },
+  "builtbybel/FluentTweaker": {
+    "name": "builtbybel/FluentTweaker",
+    "url": "https://github.com/builtbybel/FluentTweaker",
+    "stars": 3081,
+    "language": "C#",
+    "starred_date": "2026-06-07",
+    "main_category": "Developer Tools",
+    "subcategory": "CLI Utilities",
+    "summary": "FluentTweaker is a modern, transparent Windows tweaking utility designed for power users to safely customize system behavior, privacy settings, and UI elements. It provides an inspectable and reversible alternative to obscure registry edits and group policies.",
+    "use_cases": [
+      "Customizing Windows UI, taskbar, and File Explorer behaviors",
+      "Disabling unwanted telemetry, AI features, and background services for better privacy",
+      "Applying and reverting system performance tweaks with full transparency"
+    ],
+    "tech_stack": [
+      "C#",
+      ".NET",
+      "WinUI"
+    ]
   }
 }
