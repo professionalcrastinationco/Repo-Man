@@ -6040,5 +6040,23 @@
       ".NET",
       "WinUI"
     ]
+  },
+  "danielmiessler/LifeOS": {
+    "name": "danielmiessler/LifeOS",
+    "url": "https://github.com/danielmiessler/LifeOS",
+    "stars": 16043,
+    "language": "TypeScript",
+    "starred_date": "2026-06-21",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Agent Frameworks",
+    "summary": "LifeOS is an agentic AI infrastructure designed to act as a personal artificial intelligence operating system that augments human capabilities and productivity. It provides a framework for integrating various AI models and tools to manage tasks, knowledge, and daily workflows seamlessly.",
+    "use_cases": [
+      "Building a personalized AI assistant to augment daily productivity",
+      "Creating agentic workflows that integrate LLMs with personal data",
+      "Managing tasks, memory, and personal knowledge via an AI-driven interface"
+    ],
+    "tech_stack": [
+      "TypeScript"
+    ]
   }
 }

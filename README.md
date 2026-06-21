@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 310 | **Last Updated:** 2026-06-07
+**Total Repos:** 311 | **Last Updated:** 2026-06-21
 
 ---
 
@@ -19,7 +19,7 @@
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
    * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 123 more*
+   * *...and 124 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -155,6 +155,19 @@ Goose is an open-source AI agent platform providing a desktop app, CLI, and API 
 - Automating code editing and testing tasks
 - Building custom AI-driven workflows through CLI or API
 - Extending agent capabilities using MCP servers for tool integration
+
+---
+
+### [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)
+
+⭐ 16,043 | 🔤 TypeScript | 📅 2026-06-21
+
+LifeOS is an agentic AI infrastructure designed to act as a personal artificial intelligence operating system that augments human capabilities and productivity. It provides a framework for integrating various AI models and tools to manage tasks, knowledge, and daily workflows seamlessly.
+
+**Use Cases:**
+- Building a personalized AI assistant to augment daily productivity
+- Creating agentic workflows that integrate LLMs with personal data
+- Managing tasks, memory, and personal knowledge via an AI-driven interface
 
 ---
 
