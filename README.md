@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 311 | **Last Updated:** 2026-06-21
+**Total Repos:** 313 | **Last Updated:** 2026-07-04
 
 ---
 
@@ -14,12 +14,12 @@
    * [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools) (Studying the proprietary)
    * [claw-code](#instructkrclaw-code) (Building AI agents)
    * [moltbot](#moltbotmoltbot) (Deploying a privacy-focused)
+   * [graphify](#graphify-labsgraphify) (Converting complex code)
    * [awesome-mcp-servers](#punkpeyeawesome-mcp-servers) (Discovering a wide)
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * [goose](#aaif-goosegoose) (Automating code editing)
-   * *...and 124 more*
+   * *...and 125 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -105,9 +105,9 @@
    * [bytebot](#bytebot-aibytebot) (Automating complex, multi-step)
    * [WhisperLiveKit](#quentinfuxawhisperlivekit) (Real-time live captioning)
    * [Heimdall](#linuxserverheimdall) (Creating a unified)
+   * [deej](#omrihareldeej) (Controlling application-specific volume)
    * [baserow](#baserowbaserow) (Building custom relational)
-   * [OpenMemory](#caviraossopenmemory) (Providing stateful, long-term)
-   * *...and 5 more*
+   * *...and 6 more*
 
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
@@ -1684,6 +1684,19 @@ This project is a high-performance Playwright-based server providing an HTTP API
 
 
 ## Memory & Context
+
+### [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+
+⭐ 77,343 | 🔤 Python, Tree-sitter, GraphRAG | 📅 2026-07-04
+
+An AI utility that transforms codebases, database schemas, and documentation into a unified, queryable knowledge graph. It integrates with coding assistants like Claude Code, Cursor, and Gemini to provide deep architectural context using GraphRAG.
+
+**Use Cases:**
+- Converting complex code repositories and database schemas into a unified, queryable knowledge graph
+- Enhancing AI coding assistants with structural and contextual memory of complete application architectures
+- Performing graph-based Retrieval-Augmented Generation (GraphRAG) over multi-language projects and documentation
+
+---
 
 ### [mem0ai/mem0](https://github.com/mem0ai/mem0)
 
@@ -3947,6 +3960,19 @@ MeTube is a self-hosted web UI providing a simple graphical interface for the po
 - Self-hosting a centralized media download service accessible via a web browser on a private network
 - Archiving specific YouTube videos, playlists, or entire channels for offline viewing and preservation
 - Converting and extracting audio tracks (MP3, etc.) from online video sources
+
+---
+
+### [omriharel/deej](https://github.com/omriharel/deej)
+
+⭐ 5,472 | 🔤 Go, Arduino (C/C++) | 📅 2026-07-04
+
+deej is an open-source hardware volume mixer that connects physical sliders to a PC via Arduino and a Go-based desktop client. It allows users to seamlessly control individual application volumes in real time using tactile hardware controls.
+
+**Use Cases:**
+- Controlling application-specific volume levels (like Discord, Spotify, and games) with physical sliders
+- Building a custom, budget-friendly DIY USB hardware audio mixer
+- Managing PC audio levels on Windows and Linux without minimizing full-screen applications
 
 ---
 

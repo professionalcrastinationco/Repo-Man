@@ -6058,5 +6058,46 @@
     "tech_stack": [
       "TypeScript"
     ]
+  },
+  "omriharel/deej": {
+    "name": "omriharel/deej",
+    "url": "https://github.com/omriharel/deej",
+    "stars": 5472,
+    "language": "Go",
+    "starred_date": "2026-07-04",
+    "main_category": "Self-Hosted Apps",
+    "subcategory": "Media Tools",
+    "summary": "deej is an open-source hardware volume mixer that connects physical sliders to a PC via Arduino and a Go-based desktop client. It allows users to seamlessly control individual application volumes in real time using tactile hardware controls.",
+    "use_cases": [
+      "Controlling application-specific volume levels (like Discord, Spotify, and games) with physical sliders",
+      "Building a custom, budget-friendly DIY USB hardware audio mixer",
+      "Managing PC audio levels on Windows and Linux without minimizing full-screen applications"
+    ],
+    "tech_stack": [
+      "Go",
+      "Arduino (C/C++)"
+    ]
+  },
+  "Graphify-Labs/graphify": {
+    "name": "Graphify-Labs/graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "stars": 77343,
+    "language": "Python",
+    "starred_date": "2026-07-04",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Memory & Context",
+    "summary": "An AI utility that transforms codebases, database schemas, and documentation into a unified, queryable knowledge graph. It integrates with coding assistants like Claude Code, Cursor, and Gemini to provide deep architectural context using GraphRAG.",
+    "use_cases": [
+      "Converting complex code repositories and database schemas into a unified, queryable knowledge graph",
+      "Enhancing AI coding assistants with structural and contextual memory of complete application architectures",
+      "Performing graph-based Retrieval-Augmented Generation (GraphRAG) over multi-language projects and documentation"
+    ],
+    "tech_stack": [
+      "Python",
+      "Tree-sitter",
+      "GraphRAG",
+      "Claude API",
+      "Gemini API"
+    ]
   }
 }
