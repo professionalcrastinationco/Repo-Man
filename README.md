@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 313 | **Last Updated:** 2026-07-04
+**Total Repos:** 314 | **Last Updated:** 2026-07-10
 
 ---
 
@@ -32,7 +32,7 @@
    * [Awesome-LLM](#hannibal046awesome-llm) (Discovering trending research)
    * [500-AI-Agents-Projects](#ashishpatel26500-ai-agents-projects) (Find inspiration for)
    * [VibeVoice](#microsoftvibevoice) (High-fidelity Text-to-Speech (TTS))
-   * *...and 25 more*
+   * *...and 26 more*
 
 * **Automation**
    * [n8n-workflows](#zie619n8n-workflows) (Quickly deploying pre-tested)
@@ -2213,6 +2213,19 @@ Exo is a framework designed to help users deploy and manage a robust, distribute
 - Running large language models (LLMs) or complex generative AI locally by aggregating compute power from multiple personal devices.
 - Creating a personal, decentralized cloud infrastructure for running custom machine learning workloads.
 - Experimental training and fine-tuning of small to medium-sized AI models using shared hardware resources.
+
+---
+
+### [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox)
+
+⭐ 2,647 | 🔤 C++, CUDA, ROCm | 📅 2026-07-10
+
+Lucebox is a high-performance LLM speculative inference server optimized for consumer-grade hardware. It leverages custom CUDA/ROCm kernels and advanced speculative decoding techniques to deliver exceptionally fast token generation speeds locally.
+
+**Use Cases:**
+- Deploying ultra-fast, low-latency LLM inference servers on consumer GPUs like the RTX 3090
+- Implementing speculative decoding to accelerate local language model generation
+- Serving open-source models (such as Qwen) locally with enterprise-grade speed and efficiency
 
 ---
 

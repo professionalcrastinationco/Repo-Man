@@ -6099,5 +6099,26 @@
       "Claude API",
       "Gemini API"
     ]
+  },
+  "Luce-Org/lucebox": {
+    "name": "Luce-Org/lucebox",
+    "url": "https://github.com/Luce-Org/lucebox",
+    "stars": 2647,
+    "language": "C++",
+    "starred_date": "2026-07-10",
+    "main_category": "AI Infrastructure",
+    "subcategory": "Model Serving",
+    "summary": "Lucebox is a high-performance LLM speculative inference server optimized for consumer-grade hardware. It leverages custom CUDA/ROCm kernels and advanced speculative decoding techniques to deliver exceptionally fast token generation speeds locally.",
+    "use_cases": [
+      "Deploying ultra-fast, low-latency LLM inference servers on consumer GPUs like the RTX 3090",
+      "Implementing speculative decoding to accelerate local language model generation",
+      "Serving open-source models (such as Qwen) locally with enterprise-grade speed and efficiency"
+    ],
+    "tech_stack": [
+      "C++",
+      "CUDA",
+      "ROCm",
+      "llama.cpp"
+    ]
   }
 }
