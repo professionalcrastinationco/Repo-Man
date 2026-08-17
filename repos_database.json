@@ -6120,5 +6120,26 @@
       "ROCm",
       "llama.cpp"
     ]
+  },
+  "anymorph-ai/Claudable": {
+    "name": "anymorph-ai/Claudable",
+    "url": "https://github.com/anymorph-ai/Claudable",
+    "stars": 4045,
+    "language": "TypeScript",
+    "starred_date": "2026-08-17",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "Claudable is an open-source web builder that integrates with local CLI coding agents like Claude Code, Codex, and Cursor Agent to generate and deploy web applications. It provides a visual, prompt-driven workspace that acts as a self-hosted alternative to proprietary platforms like Lovable and v0.",
+    "use_cases": [
+      "Building and iterating on full-stack web applications using local AI coding agents",
+      "Running a self-hosted, private alternative to SaaS AI app builders like Lovable or v0",
+      "Connecting multiple local CLI agents like Claude Code and Gemini CLI to visual development workflows"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Claude Code CLI"
+    ]
   }
 }

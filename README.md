@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 314 | **Last Updated:** 2026-07-10
+**Total Repos:** 315 | **Last Updated:** 2026-08-17
 
 ---
 
@@ -19,7 +19,7 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * *...and 125 more*
+   * *...and 126 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -476,6 +476,19 @@ This repository provides a detailed configuration showcase for setting up robust
 - Defining standard coding conventions and testing patterns for an LLM agent to follow and enforce across the team
 - Integrating LLM agent operations (via commands and agents) into existing GitHub Actions CI/CD workflows
 - Creating specialized AI assistants ('agents') tailored for recurring development tasks, such as maintaining component libraries
+
+---
+
+### [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable)
+
+⭐ 4,045 | 🔤 TypeScript, React, Node.js | 📅 2026-08-17
+
+Claudable is an open-source web builder that integrates with local CLI coding agents like Claude Code, Codex, and Cursor Agent to generate and deploy web applications. It provides a visual, prompt-driven workspace that acts as a self-hosted alternative to proprietary platforms like Lovable and v0.
+
+**Use Cases:**
+- Building and iterating on full-stack web applications using local AI coding agents
+- Running a self-hosted, private alternative to SaaS AI app builders like Lovable or v0
+- Connecting multiple local CLI agents like Claude Code and Gemini CLI to visual development workflows
 
 ---
 
