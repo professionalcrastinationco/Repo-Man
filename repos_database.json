@@ -6141,5 +6141,27 @@
       "Node.js",
       "Claude Code CLI"
     ]
+  },
+  "CaviraOSS/LongMemory": {
+    "name": "CaviraOSS/LongMemory",
+    "url": "https://github.com/CaviraOSS/LongMemory",
+    "stars": 4478,
+    "language": "TypeScript",
+    "starred_date": "2026-08-31",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Memory & Context",
+    "summary": "LongMemory is a local-first, self-hosted persistent memory engine designed for AI agents and LLM applications. It goes beyond standard vector databases by offering durable, temporal, and governed long-term memory. Use it to give persistent context and recall to coding assistants, desktop agents, and custom LLM workflows.",
+    "use_cases": [
+      "Providing continuous long-term memory for desktop AI clients like Claude Desktop and GitHub Copilot",
+      "Managing temporal and governed memory retrieval for autonomous AI agents",
+      "Running a private, local-first memory store for LLM applications using Ollama or OpenAI"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Vector Database",
+      "Embeddings",
+      "REST API"
+    ]
   }
 }

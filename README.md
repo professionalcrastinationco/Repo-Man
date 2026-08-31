@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 315 | **Last Updated:** 2026-08-17
+**Total Repos:** 316 | **Last Updated:** 2026-08-31
 
 ---
 
@@ -19,7 +19,7 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * *...and 126 more*
+   * *...and 127 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1773,6 +1773,19 @@ Memori is a SQL-native memory layer designed to provide robust long-short-term m
 - Building sophisticated AI agents that require persistent, long-term memory for recalling past interactions or knowledge.
 - Implementing scalable Retrieval Augmented Generation (RAG) pipelines by providing a structured, native memory layer.
 - Managing state and context across complex multi-agent system interactions and conversations.
+
+---
+
+### [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory)
+
+⭐ 4,478 | 🔤 TypeScript, Node.js, Vector Database | 📅 2026-08-31
+
+LongMemory is a local-first, self-hosted persistent memory engine designed for AI agents and LLM applications. It goes beyond standard vector databases by offering durable, temporal, and governed long-term memory. Use it to give persistent context and recall to coding assistants, desktop agents, and custom LLM workflows.
+
+**Use Cases:**
+- Providing continuous long-term memory for desktop AI clients like Claude Desktop and GitHub Copilot
+- Managing temporal and governed memory retrieval for autonomous AI agents
+- Running a private, local-first memory store for LLM applications using Ollama or OpenAI
 
 ---
 
