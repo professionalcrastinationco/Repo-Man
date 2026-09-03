@@ -6163,5 +6163,25 @@
       "Embeddings",
       "REST API"
     ]
+  },
+  "catsforbots/cat": {
+    "name": "catsforbots/cat",
+    "url": "https://github.com/catsforbots/cat",
+    "stars": 101,
+    "language": "Shell",
+    "starred_date": "2026-09-03",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "CAT is an agentic workflow framework designed to improve the reliability and compliance of coding agents like Claude Code. It enforces team rules, project conventions, and context engineering across multi-step software development tasks. Use it when you need AI coding assistants to reliably adhere to project specifications and refactoring guidelines without drifting.",
+    "use_cases": [
+      "Enforcing consistent project conventions and guidelines across automated agent coding sessions",
+      "Integrating spec-driven development and context-engineering workflows into Claude Code",
+      "Capturing review feedback into persistent agent rules to prevent recurring AI coding mistakes"
+    ],
+    "tech_stack": [
+      "Shell",
+      "Claude Code",
+      "Markdown"
+    ]
   }
 }

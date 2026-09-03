@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 316 | **Last Updated:** 2026-08-31
+**Total Repos:** 317 | **Last Updated:** 2026-09-03
 
 ---
 
@@ -19,7 +19,7 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * *...and 127 more*
+   * *...and 128 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -828,6 +828,19 @@ claude2stream exposes local Claude conversation history as a real-time Durable S
 - Monitor and live-tail ongoing Claude conversations in a dedicated streaming web interface.
 - Stream conversation history for integration with external data analysis or logging platforms.
 - Audit past interactions with Claude by accessing the history via the Durable Stream protocol.
+
+---
+
+### [catsforbots/cat](https://github.com/catsforbots/cat)
+
+⭐ 101 | 🔤 Shell, Claude Code, Markdown | 📅 2026-09-03
+
+CAT is an agentic workflow framework designed to improve the reliability and compliance of coding agents like Claude Code. It enforces team rules, project conventions, and context engineering across multi-step software development tasks. Use it when you need AI coding assistants to reliably adhere to project specifications and refactoring guidelines without drifting.
+
+**Use Cases:**
+- Enforcing consistent project conventions and guidelines across automated agent coding sessions
+- Integrating spec-driven development and context-engineering workflows into Claude Code
+- Capturing review feedback into persistent agent rules to prevent recurring AI coding mistakes
 
 ---
 
