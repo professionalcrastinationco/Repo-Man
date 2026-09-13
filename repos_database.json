@@ -6183,5 +6183,46 @@
       "Claude Code",
       "Markdown"
     ]
+  },
+  "holdmyspot-com/cat": {
+    "name": "holdmyspot-com/cat",
+    "url": "https://github.com/holdmyspot-com/cat",
+    "stars": 101,
+    "language": "Shell",
+    "starred_date": "2026-09-13",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "Claude Ecosystem",
+    "summary": "CAT is an agentic workflow and context-engineering framework designed to enforce high compliance and consistency in AI coding assistants like Claude Code. It allows teams to capture project rules, conventions, and review lessons so coding agents consistently follow them across sessions. Use it to eliminate inconsistent AI refactors, reduce rule drift, and produce cleaner, review-ready code.",
+    "use_cases": [
+      "Enforcing strict project conventions and architectural rules across AI agent coding sessions",
+      "Preserving institutional knowledge and review feedback for future coding agent prompts",
+      "Ensuring consistent, full-scope refactoring across large codebases without skipping files"
+    ],
+    "tech_stack": [
+      "Shell",
+      "Claude Code",
+      "Context Engineering",
+      "Markdown"
+    ]
+  },
+  "foundation/yeti": {
+    "name": "foundation/yeti",
+    "url": "https://github.com/foundation/yeti",
+    "stars": 29789,
+    "language": "JavaScript",
+    "starred_date": "2026-09-13",
+    "main_category": "Web Development",
+    "subcategory": "Frontend Frameworks",
+    "summary": "Yeti is a CSS-first, native, zero-build layout and styling framework designed as the modern successor to Foundation for Sites. It provides web designers with a cohesive visual system, responsive structure, and styling primitives without requiring complex build pipelines. Use it to build clean, responsive, and accessible websites quickly with native modern web standards.",
+    "use_cases": [
+      "Designing responsive websites and landing pages without build tools",
+      "Building modern web layouts using native CSS features and tokens",
+      "Migrating legacy Foundation for Sites projects to a modern framework"
+    ],
+    "tech_stack": [
+      "CSS",
+      "JavaScript",
+      "HTML"
+    ]
   }
 }

@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 317 | **Last Updated:** 2026-09-03
+**Total Repos:** 319 | **Last Updated:** 2026-09-13
 
 ---
 
@@ -19,7 +19,7 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * *...and 128 more*
+   * *...and 129 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -112,6 +112,7 @@
 * **Web Development**
    * [FreeDomain](#digitalplatdevfreedomain) (Launching a personal)
    * [animate.css](#animate-cssanimatecss) (Adding entrance and)
+   * [yeti](#foundationyeti) (Designing responsive websites)
    * [foundation-sites](#foundationfoundation-sites) (Building responsive, mobile-first)
    * [reflex](#reflex-devreflex) (Building interactive data)
    * [flet](#flet-devflet) (Developing internal business)
@@ -119,8 +120,7 @@
    * [nicegui](#zauberzeugnicegui) (Building interactive dashboards)
    * [gumroad](#antiworkgumroad) (Deploying a custom)
    * [fasthtml](#answerdotaifasthtml) (Building interactive, data-driven)
-   * [mesop](#mesop-devmesop) (Rapidly build internal)
-   * *...and 14 more*
+   * *...and 15 more*
 
 
 
@@ -841,6 +841,19 @@ CAT is an agentic workflow framework designed to improve the reliability and com
 - Enforcing consistent project conventions and guidelines across automated agent coding sessions
 - Integrating spec-driven development and context-engineering workflows into Claude Code
 - Capturing review feedback into persistent agent rules to prevent recurring AI coding mistakes
+
+---
+
+### [holdmyspot-com/cat](https://github.com/holdmyspot-com/cat)
+
+⭐ 101 | 🔤 Shell, Claude Code, Context Engineering | 📅 2026-09-13
+
+CAT is an agentic workflow and context-engineering framework designed to enforce high compliance and consistency in AI coding assistants like Claude Code. It allows teams to capture project rules, conventions, and review lessons so coding agents consistently follow them across sessions. Use it to eliminate inconsistent AI refactors, reduce rule drift, and produce cleaner, review-ready code.
+
+**Use Cases:**
+- Enforcing strict project conventions and architectural rules across AI agent coding sessions
+- Preserving institutional knowledge and review feedback for future coding agent prompts
+- Ensuring consistent, full-scope refactoring across large codebases without skipping files
 
 ---
 
@@ -4274,6 +4287,19 @@ A framework-agnostic design language and component library optimized for buildin
 
 
 ## Frontend Frameworks
+
+### [foundation/yeti](https://github.com/foundation/yeti)
+
+⭐ 29,789 | 🔤 CSS, JavaScript, HTML | 📅 2026-09-13
+
+Yeti is a CSS-first, native, zero-build layout and styling framework designed as the modern successor to Foundation for Sites. It provides web designers with a cohesive visual system, responsive structure, and styling primitives without requiring complex build pipelines. Use it to build clean, responsive, and accessible websites quickly with native modern web standards.
+
+**Use Cases:**
+- Designing responsive websites and landing pages without build tools
+- Building modern web layouts using native CSS features and tokens
+- Migrating legacy Foundation for Sites projects to a modern framework
+
+---
 
 ### [elliotgao2/toapi](https://github.com/elliotgao2/toapi)
 
