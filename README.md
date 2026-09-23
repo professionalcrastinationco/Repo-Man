@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 319 | **Last Updated:** 2026-09-13
+**Total Repos:** 320 | **Last Updated:** 2026-09-23
 
 ---
 
@@ -19,7 +19,7 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * *...and 129 more*
+   * *...and 130 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1692,6 +1692,19 @@ This is an enhanced runtime for Model Context Protocol (MCP) servers, focused on
 - Implementing secure, sandboxed code execution for LLM agents via multi-transport protocols.
 - Reducing API costs and latency for frequent code execution tasks using the 99.6% token reduction method.
 - Optimizing the performance and context management for AI agents built on the Claude Code platform.
+
+---
+
+### [LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons)
+
+⭐ 25 | 🔤 TypeScript, Node.js, Model Context Protocol (MCP) | 📅 2026-09-23
+
+Aria-Icons is a Model Context Protocol (MCP) server providing AI assistants with search and retrieval access to over 380,000 SVG icons. It allows LLMs to query, preview, and embed vector icons directly during coding and design workflows. Use it when developing UI components with AI tools that need direct access to a comprehensive icon library.
+
+**Use Cases:**
+- Searching and fetching SVG icons inside MCP-compatible AI assistants like Claude Desktop or Cursor
+- Automating UI design and frontend development workflows requiring vector icons
+- Integrating comprehensive icon retrieval into custom AI agent workflows
 
 ---
 

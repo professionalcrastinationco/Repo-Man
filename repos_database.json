@@ -6224,5 +6224,25 @@
       "JavaScript",
       "HTML"
     ]
+  },
+  "LeulAria/Aria-Icons": {
+    "name": "LeulAria/Aria-Icons",
+    "url": "https://github.com/LeulAria/Aria-Icons",
+    "stars": 25,
+    "language": "TypeScript",
+    "starred_date": "2026-09-23",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "Aria-Icons is a Model Context Protocol (MCP) server providing AI assistants with search and retrieval access to over 380,000 SVG icons. It allows LLMs to query, preview, and embed vector icons directly during coding and design workflows. Use it when developing UI components with AI tools that need direct access to a comprehensive icon library.",
+    "use_cases": [
+      "Searching and fetching SVG icons inside MCP-compatible AI assistants like Claude Desktop or Cursor",
+      "Automating UI design and frontend development workflows requiring vector icons",
+      "Integrating comprehensive icon retrieval into custom AI agent workflows"
+    ],
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Model Context Protocol (MCP)"
+    ]
   }
 }
