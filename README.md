@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 320 | **Last Updated:** 2026-09-23
+**Total Repos:** 321 | **Last Updated:** 2026-10-01
 
 ---
 
@@ -48,6 +48,7 @@
    * *...and 9 more*
 
 * **Data & Analytics**
+   * [OpenBB](#openbq-orgopenbb) (Integrating standardized financial)
    * [OpenBB](#openbb-financeopenbb) (Performing quantitative research)
    * [streamlit](#streamlitstreamlit) (Building interactive data)
    * [marimo](#marimo-teammarimo) (Running reproducible data)
@@ -2856,6 +2857,19 @@ textract is a robust Python library designed to simplify the process of extracti
 
 
 ## Finance & Quant
+
+### [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB)
+
+⭐ 73,720 | 🔤 Python, FastAPI, Pydantic | 📅 2026-10-01
+
+OpenBB is an open-source financial data platform and API ecosystem designed for analysts, quantitative researchers, and AI agents. It integrates multiple financial and economic data providers into a standardized interface for accessing equity, crypto, derivatives, and macro data. Use it to build quantitative models, power financial AI agents, or perform custom market research.
+
+**Use Cases:**
+- Integrating standardized financial and macroeconomic data across multiple vendors into Python workflows
+- Powering financial analysis AI agents and LLM applications with real-time market data APIs
+- Conducting quantitative research, options analysis, and portfolio backtesting
+
+---
 
 ### [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 

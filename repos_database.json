@@ -6244,5 +6244,27 @@
       "Node.js",
       "Model Context Protocol (MCP)"
     ]
+  },
+  "openbq-org/OpenBB": {
+    "name": "openbq-org/OpenBB",
+    "url": "https://github.com/openbq-org/OpenBB",
+    "stars": 73720,
+    "language": "Python",
+    "starred_date": "2026-10-01",
+    "main_category": "Data & Analytics",
+    "subcategory": "Finance & Quant",
+    "summary": "OpenBB is an open-source financial data platform and API ecosystem designed for analysts, quantitative researchers, and AI agents. It integrates multiple financial and economic data providers into a standardized interface for accessing equity, crypto, derivatives, and macro data. Use it to build quantitative models, power financial AI agents, or perform custom market research.",
+    "use_cases": [
+      "Integrating standardized financial and macroeconomic data across multiple vendors into Python workflows",
+      "Powering financial analysis AI agents and LLM applications with real-time market data APIs",
+      "Conducting quantitative research, options analysis, and portfolio backtesting"
+    ],
+    "tech_stack": [
+      "Python",
+      "FastAPI",
+      "Pydantic",
+      "Pandas",
+      "NumPy"
+    ]
   }
 }
