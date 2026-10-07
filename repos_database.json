@@ -6266,5 +6266,26 @@
       "Pandas",
       "NumPy"
     ]
+  },
+  "porterminal/porterminal": {
+    "name": "porterminal/porterminal",
+    "url": "https://github.com/porterminal/porterminal",
+    "stars": 298,
+    "language": "Python",
+    "starred_date": "2026-10-07",
+    "main_category": "AI Agents & Assistants",
+    "subcategory": "MCP Servers",
+    "summary": "Porterminal (ptn) is a quick web and Model Context Protocol (MCP) terminal tool that tunnels terminal access between your computer, phone, and AI agents. It enables AI agents to execute shell commands remotely while providing a live, human-in-the-loop web view to monitor and interact with the session.",
+    "use_cases": [
+      "Granting AI agents terminal execution capabilities via Model Context Protocol (MCP)",
+      "Controlling and inspecting computer terminal sessions remotely from a phone browser",
+      "Providing live human oversight and intervention while autonomous agents perform CLI tasks"
+    ],
+    "tech_stack": [
+      "Python",
+      "Model Context Protocol (MCP)",
+      "WebSockets",
+      "CLI"
+    ]
   }
 }

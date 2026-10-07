@@ -2,7 +2,7 @@
 
 > Automatically categorized and summarized repos I've starred. Updated daily.
 
-**Total Repos:** 321 | **Last Updated:** 2026-10-01
+**Total Repos:** 322 | **Last Updated:** 2026-10-07
 
 ---
 
@@ -19,7 +19,7 @@
    * [clawdbot](#clawdbotclawdbot) (Deploying a unified)
    * [OpenManus](#foundationagentsopenmanus) (Developing and iterating)
    * [mem0](#mem0aimem0) (Implementing long-term, persistent)
-   * *...and 130 more*
+   * *...and 131 more*
 
 * **AI Infrastructure**
    * [ollama](#ollamaollama) (Running various LLMs)
@@ -1614,6 +1614,19 @@ Docfork MCP is an implementation of the Model Context Protocol (MCP) server, des
 - Serving structured documentation and context to specialized AI coding assistants (e.g., those integrating the MCP protocol)
 - Implementing the Model Context Protocol for custom developer tools or internal AI agent backends
 - Providing easily consumable, machine-readable documentation for open-source projects and developer communities
+
+---
+
+### [porterminal/porterminal](https://github.com/porterminal/porterminal)
+
+⭐ 298 | 🔤 Python, Model Context Protocol (MCP), WebSockets | 📅 2026-10-07
+
+Porterminal (ptn) is a quick web and Model Context Protocol (MCP) terminal tool that tunnels terminal access between your computer, phone, and AI agents. It enables AI agents to execute shell commands remotely while providing a live, human-in-the-loop web view to monitor and interact with the session.
+
+**Use Cases:**
+- Granting AI agents terminal execution capabilities via Model Context Protocol (MCP)
+- Controlling and inspecting computer terminal sessions remotely from a phone browser
+- Providing live human oversight and intervention while autonomous agents perform CLI tasks
 
 ---
 
